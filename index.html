@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Everyone · Daily Brief</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@400;500&family=Epilogue:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:#F5F3EE;--card:#FFF;--ink:#1a1a18;--muted:#6b6b65;--hint:#9b9b94;
+    --border:rgba(26,26,24,0.10);--border-mid:rgba(26,26,24,0.18);
+    --accent:#2B5BE0;--accent-bg:#EEF2FD;--accent-text:#1a3a99;
+    --red:#C0392B;--red-bg:#FDEEEC;--red-text:#8b1f15;
+    --green:#27694A;--green-bg:#E8F5EE;--green-text:#1a4a32;
+    --amber:#8A5A00;--amber-bg:#FEF5E4;--amber-text:#6b4400;
+    --pink-bg:#FCEEF5;--pink-text:#7a2150;
+    --purple-bg:#EEEDFE;--purple-text:#3C3489;
+    --teal-bg:#E1F5EE;--teal-text:#085041;
+    --r:14px;--rsm:8px;--rpill:20px;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{background:var(--bg);font-family:'Epilogue',sans-serif;color:var(--ink);min-height:100vh;padding:2rem 1rem 4rem;}
+
+  .page-header{max-width:680px;margin:0 auto 1.5rem;display:flex;align-items:center;gap:12px;}
+  .logo-avatar{width:40px;height:40px;border-radius:50%;background:var(--accent-bg);display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;border:0.5px solid rgba(43,91,224,0.2);}
+  .logo-name{font-family:'Instrument Serif',Georgia,serif;font-size:22px;}
+  .logo-sub{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted);letter-spacing:0.1em;margin-top:1px;}
+
+  .phone-wrap{max-width:680px;margin:0 auto;background:var(--card);border:0.5px solid var(--border);border-radius:var(--r);overflow:hidden;}
+  .gc-bar{display:flex;align-items:center;justify-content:space-between;padding:1rem 1.25rem 0.9rem;border-bottom:0.5px solid var(--border);}
+  .gc-left{display:flex;align-items:center;gap:10px;}
+  .gc-avatar{width:34px;height:34px;border-radius:50%;background:var(--accent-bg);display:flex;align-items:center;justify-content:center;font-size:14px;flex-shrink:0;}
+  .gc-name{font-weight:700;font-size:15px;}
+  .gc-status{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted);letter-spacing:0.06em;}
+  .date-badge{font-family:'DM Mono',monospace;font-size:10px;background:var(--bg);border-radius:var(--rpill);padding:4px 10px;color:var(--muted);border:0.5px solid var(--border);white-space:nowrap;}
+  .content-area{padding:1rem 1.25rem 1.25rem;}
+
+  .loading{text-align:center;padding:3rem 1rem;font-family:'DM Mono',monospace;font-size:12px;color:var(--hint);}
+
+  @keyframes fadeUp{from{opacity:0;transform:translateY(8px);}to{opacity:1;transform:translateY(0);}}
+
+  .bubble{background:var(--bg);border:0.5px solid var(--border);border-radius:2px var(--r) var(--r) var(--r);padding:0.8rem 1rem;margin-bottom:0.5rem;animation:fadeUp 0.4s ease both;}
+  .tag{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.06em;padding:2px 8px;border-radius:var(--rpill);display:inline-block;margin-bottom:6px;}
+  .t-iran{background:#1a1a18;color:#f5e6e0;}
+  .t-fire{background:var(--red-bg);color:var(--red-text);}
+  .t-geo{background:var(--green-bg);color:var(--green-text);}
+  .t-us{background:var(--accent-bg);color:var(--accent-text);}
+  .t-cash{background:var(--amber-bg);color:var(--amber-text);}
+  .t-spicy{background:var(--pink-bg);color:var(--pink-text);}
+  .t-pop{background:var(--purple-bg);color:var(--purple-text);}
+  .t-genz{background:var(--teal-bg);color:var(--teal-text);}
+  .b-hed{font-family:'Instrument Serif',Georgia,serif;font-size:17px;line-height:1.25;margin-bottom:4px;}
+  .b-dek{font-size:13px;color:var(--muted);line-height:1.55;}
+  .b-link{display:inline-flex;align-items:center;gap:4px;margin-top:8px;font-family:'DM Mono',monospace;font-size:11px;color:var(--accent);text-decoration:none;border:0.5px solid rgba(43,91,224,0.25);border-radius:var(--rpill);padding:3px 10px;transition:background 0.15s;}
+  .b-link:hover{background:var(--accent-bg);}
+  .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;}
+  .chip{background:rgba(26,26,24,0.06);border-radius:var(--rpill);padding:3px 10px;font-size:11px;color:var(--muted);font-family:'DM Mono',monospace;}
+  .section-div{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.2em;color:var(--hint);text-align:center;padding:0.5rem 0;border-top:0.5px dashed var(--border-mid);border-bottom:0.5px dashed var(--border-mid);margin:0.5rem 0 0.65rem;animation:fadeUp 0.4s ease both;}
+
+  .market-bubble{background:var(--bg);border:0.5px solid var(--border);border-radius:2px var(--r) var(--r) var(--r);padding:0.8rem 1rem;margin-bottom:0.5rem;animation:fadeUp 0.4s ease both;}
+  .ticker-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;margin:0.6rem 0 0.5rem;}
+  .ticker{background:var(--card);border-radius:var(--rsm);padding:0.55rem 0.65rem;text-align:center;border:0.5px solid var(--border);}
+  .t-nm{font-family:'DM Mono',monospace;font-size:10px;color:var(--hint);margin-bottom:2px;}
+  .t-vl{font-family:'DM Mono',monospace;font-size:15px;font-weight:500;}
+  .t-ch{font-family:'DM Mono',monospace;font-size:11px;padding:2px 6px;border-radius:4px;display:inline-block;margin-top:2px;}
+  .up{color:var(--green);}.down{color:var(--red);}
+  .cup{background:var(--green-bg);color:var(--green-text);}.cdown{background:var(--red-bg);color:var(--red-text);}
+  .comms-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;}
+  .comm{background:var(--card);border-radius:var(--rsm);padding:0.5rem;text-align:center;border:0.5px solid var(--border);}
+  .c-nm{font-family:'DM Mono',monospace;font-size:10px;color:var(--hint);}
+  .c-vl{font-family:'DM Mono',monospace;font-size:13px;font-weight:500;margin:2px 0;}
+  .c-ch{font-family:'DM Mono',monospace;font-size:11px;}
+
+  .gas-bubble{background:var(--bg);border:0.5px solid var(--border);border-radius:2px var(--r) var(--r) var(--r);padding:0.8rem 1rem;display:flex;align-items:center;gap:1rem;margin-bottom:0.5rem;animation:fadeUp 0.4s ease both;}
+  .gas-icon{font-size:26px;flex-shrink:0;}
+  .gas-lbl{font-family:'DM Mono',monospace;font-size:10px;color:var(--hint);letter-spacing:0.1em;margin-bottom:2px;}
+  .gas-num{font-family:'DM Mono',monospace;font-size:26px;font-weight:500;color:var(--red);line-height:1;}
+  .gas-note{font-size:12px;color:var(--muted);margin-top:3px;line-height:1.4;}
+  .gas-stats{display:flex;gap:10px;flex-wrap:wrap;margin-top:5px;font-family:'DM Mono',monospace;font-size:11px;color:var(--hint);}
+  .gas-stats span{color:var(--ink);font-weight:500;}
+
+  .genz-bubble{background:var(--teal-bg);border:0.5px solid rgba(8,80,65,0.2);border-radius:2px var(--r) var(--r) var(--r);padding:0.85rem 1rem;margin-bottom:0.5rem;animation:fadeUp 0.4s ease both;}
+  .genz-word{font-family:'Instrument Serif',Georgia,serif;font-size:22px;color:var(--teal-text);margin-bottom:3px;}
+  .genz-def{font-size:13px;color:var(--teal-text);opacity:0.85;line-height:1.5;margin-bottom:6px;}
+  .genz-usage{font-size:12px;font-style:italic;color:var(--teal-text);opacity:0.7;line-height:1.45;}
+
+  .tldr{background:var(--ink);color:#f0ede6;border-radius:var(--rsm);padding:0.9rem 1.1rem;margin-top:0.75rem;font-size:13px;line-height:1.6;animation:fadeUp 0.4s ease both;}
+  .tldr-lbl{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.12em;color:rgba(240,237,230,0.45);margin-bottom:4px;}
+  .tldr-text{color:rgba(240,237,230,0.88);}
+  .ts-row{font-family:'DM Mono',monospace;font-size:10px;color:var(--hint);text-align:right;margin-top:0.75rem;letter-spacing:0.06em;}
+  .breaking-strip{background:var(--red-bg);border-left:3px solid var(--red);border-radius:0 8px 8px 0;padding:0.65rem 1rem;margin-bottom:0.75rem;font-size:13px;color:var(--red-text);line-height:1.5;animation:fadeUp 0.4s ease both;}
+  .breaking-strip b{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.1em;display:block;margin-bottom:2px;}
+
+  .page-footer{max-width:680px;margin:1.5rem auto 0;font-family:'DM Mono',monospace;font-size:10px;color:var(--hint);text-align:center;letter-spacing:0.08em;}
+
+  @media(max-width:520px){
+    .ticker-grid{grid-template-columns:repeat(2,1fr);}
+    .comms-grid{grid-template-columns:repeat(2,1fr);}
+    .gas-bubble{flex-direction:column;align-items:flex-start;gap:0.6rem;}
+    body{padding:1rem 0.75rem 3rem;}
+    .date-badge{display:none;}
+  }
+</style>
+</head>
+<body>
+
+<header class="page-header">
+  <div class="logo-avatar">👥</div>
+  <div>
+    <div class="logo-name">Everyone</div>
+    <div class="logo-sub">daily brief</div>
+  </div>
+</header>
+
+<div class="phone-wrap">
+  <div class="gc-bar">
+    <div class="gc-left">
+      <div class="gc-avatar">👥</div>
+      <div>
+        <div class="gc-name">Everyone</div>
+        <div class="gc-status" id="gcStatus">loading…</div>
+      </div>
+    </div>
+    <div class="date-badge" id="dateBadge"></div>
+  </div>
+  <div class="content-area" id="contentArea">
+    <div class="loading">loading today's brief…</div>
+  </div>
+</div>
+
+<footer class="page-footer">powered by Claude · Sean's Daily Brief</footer>
+
+<script>
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function linkBtn(url,source){
+  if(!url||url==='null'||url==='') return '';
+  return `<a class="b-link" href="${esc(url)}" target="_blank" rel="noopener">↗ ${esc(source||'read more')}</a>`;
+}
+
+function buildHTML(b){
+  let html='',delay=0;
+  const tagMap={geo:'t-geo',us:'t-us',cash:'t-cash',spicy:'t-spicy',pop:'t-pop',genz:'t-genz',fire:'t-fire'};
+
+  if(b.breaking?.show&&b.breaking?.text){
+    const lnk=b.breaking.url?`<br><a class="b-link" href="${esc(b.breaking.url)}" target="_blank" rel="noopener" style="margin-top:6px;display:inline-flex;">↗ full story</a>`:'';
+    html+=`<div class="breaking-strip" style="animation-delay:0s"><b>BREAKING</b>${esc(b.breaking.text)}${lnk}</div>`;
+    delay+=0.07;
+  }
+
+  (b.stories||[]).forEach((s,i)=>{
+    const isIran=s.tag&&s.tag.toLowerCase().includes('iran');
+    const cls=isIran?'t-iran':(tagMap[s.tagType]||'t-us');
+    const chips=(s.chips||[]).map(c=>`<span class="chip">${esc(c)}</span>`).join('');
+    html+=`<div class="bubble" style="animation-delay:${delay}s">
+      <div class="tag ${cls}">${esc(s.tag)}</div>
+      <div class="b-hed">${esc(s.hed)}</div>
+      <div class="b-dek">${esc(s.dek)}</div>
+      ${chips?`<div class="chips">${chips}</div>`:''}
+      ${linkBtn(s.url,s.source)}
+    </div>`;
+    delay+=0.07;
+    if(i===1){html+=`<div class="section-div" style="animation-delay:${delay}s">— domestic —</div>`;delay+=0.04;}
+    if(i===3){html+=`<div class="section-div" style="animation-delay:${delay}s">— money stuff —</div>`;delay+=0.04;}
+  });
+
+  const m=b.markets||{};
+  const mkT=(n,d)=>{if(!d)return'';const u=d.dir==='up',ar=u?'▲':'▼';return`<div class="ticker"><div class="t-nm">${n}</div><div class="t-vl ${u?'up':'down'}">${esc(d.val)}</div><div class="t-ch ${u?'cup':'cdown'}">${esc(d.chg)} ${ar}</div></div>`;};
+  const mkC=(n,d)=>{if(!d)return'';const u=d.dir==='up',ar=u?'▲':'▼';return`<div class="comm"><div class="c-nm">${n}</div><div class="c-vl ${u?'up':'down'}">${esc(d.val)}</div><div class="c-ch ${u?'up':'down'}">${esc(d.chg)} ${ar}</div></div>`;};
+
+  html+=`<div class="market-bubble" style="animation-delay:${delay}s">
+    <div class="tag t-cash">markets today</div>
+    <div class="b-hed">${esc(m.context||'')}</div>
+    <div class="ticker-grid">${mkT('S&P 500',m.sp500)}${mkT('Dow',m.dow)}${mkT('Nasdaq',m.nasdaq)}</div>
+    <div class="comms-grid">${mkC('WTI Oil',m.wti)}${mkC('Brent',m.brent)}${mkC('Gold',m.gold)}${mkC('Bitcoin',m.btc)}</div>
+    ${linkBtn(m.url,m.source)}
+  </div>`;
+  delay+=0.07;
+
+  const g=b.gas||{};
+  html+=`<div class="gas-bubble" style="animation-delay:${delay}s">
+    <div class="gas-icon">⛽</div>
+    <div style="flex:1;">
+      <div class="gas-lbl">national avg — regular</div>
+      <div class="gas-num">${esc(g.avg)}<span style="font-size:13px;color:var(--muted);font-weight:400;">/gal</span></div>
+      <div class="gas-note">${esc(g.note)}</div>
+      <div class="gas-stats">
+        <div>Premium: <span>${esc(g.premium)}</span></div>
+        <div>WTI: <span>${esc(g.wti)}/bbl</span></div>
+        <div>High: <span>${esc(g.highState)}</span></div>
+        <div>Low: <span>${esc(g.lowState)}</span></div>
+      </div>
+      ${linkBtn(g.url,g.source)}
+    </div>
+  </div>`;
+  delay+=0.07;
+
+  html+=`<div class="section-div" style="animation-delay:${delay}s">— pop culture —</div>`;
+  delay+=0.04;
+  const p=b.popCulture||{};
+  html+=`<div class="bubble" style="animation-delay:${delay}s">
+    <div class="tag t-pop">pop culture</div>
+    <div class="b-hed">${esc(p.hed)}</div>
+    <div class="b-dek">${esc(p.dek)}</div>
+    ${linkBtn(p.url,p.source)}
+  </div>`;
+  delay+=0.07;
+
+  html+=`<div class="section-div" style="animation-delay:${delay}s">— word / meme / tiktok of the day —</div>`;
+  delay+=0.04;
+  const z=b.genZ||{};
+  const typeLabel=z.type==='meme'?'meme of the day':z.type==='tiktok'?'tiktok trend':'word of the day';
+  html+=`<div class="genz-bubble" style="animation-delay:${delay}s">
+    <div class="tag t-genz">${typeLabel}</div>
+    <div class="genz-word">${esc(z.term)}</div>
+    <div class="genz-def">${esc(z.definition)}</div>
+    <div class="genz-usage">"${esc(z.usage)}"</div>
+    ${z.url&&z.url!==''?linkBtn(z.url,z.source||'source'):''}
+  </div>`;
+  delay+=0.07;
+
+  html+=`<div class="tldr" style="animation-delay:${delay}s">
+    <div class="tldr-lbl">tl;dr for the back of the chat</div>
+    <div class="tldr-text">${esc(b.tldr)}</div>
+  </div>`;
+  html+=`<div class="ts-row">Sean's Daily Brief · ${esc(b.date)}</div>`;
+  return html;
+}
+
+// Fetch brief-data.json — updated daily via GitHub
+fetch('./brief-data.json?v='+Date.now())
+  .then(r=>r.json())
+  .then(b=>{
+    document.getElementById('dateBadge').textContent=b.date||'';
+    document.getElementById('gcStatus').textContent='just dropped';
+    document.getElementById('contentArea').innerHTML=buildHTML(b);
+  })
+  .catch(()=>{
+    document.getElementById('gcStatus').textContent='failed to load';
+    document.getElementById('contentArea').innerHTML='<div class="loading">couldn\'t load brief — try refreshing.</div>';
+  });
+</script>
+</body>
+</html>
