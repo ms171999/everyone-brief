@@ -1,0 +1,92 @@
+{
+  "date": "Wednesday, March 25, 2026",
+  "breaking": {
+    "show": true,
+    "text": "U.S. sends Iran a 15-point ceasefire proposal via Pakistan as both sides continue strikes on Day 25.",
+    "url": "https://apnews.com/article/iran-us-ceasefire-plan-pakistan-2026"
+  },
+  "stories": [
+    {
+      "tag": "iran war · day 25",
+      "tagType": "fire",
+      "hed": "U.S. Floats 15-Point Peace Plan; Iran Says 'Fake News,' Keeps Firing",
+      "dek": "Washington passed a ceasefire framework through Pakistani intermediaries covering nukes, sanctions, and Hormuz access. Tehran publicly rejected it and simultaneously hit Kuwait's airport with a drone. Diplomacy is going great.",
+      "url": "https://apnews.com/article/iran-war-ceasefire-plan-us",
+      "source": "AP News",
+      "chips": ["82nd Airborne deploying", "oil down $5 on news"]
+    },
+    {
+      "tag": "international",
+      "tagType": "geo",
+      "hed": "Zelensky: Russia Is Feeding Iran Intel to Prolong Both Wars",
+      "dek": "Ukraine says it has proof Moscow is sharing targeting data with Tehran, which conveniently fills Russia's oil revenue and drains U.S. Patriot interceptors that would otherwise go to Kyiv. Putin playing chess while everyone else argues about the board.",
+      "url": "https://time.com/article/2026/03/24/zelensky-accuses-russia-intelligence-sharing-iran-war/",
+      "source": "Time",
+      "chips": ["Urals crude above $70", "Ukraine peace talks stalled"]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "DHS Still Unfunded After Senate Blocks Vote Again, 47–37",
+      "dek": "Democrats blocked the latest DHS funding bill for the second straight procedural vote. Thune threatened to cancel Easter recess. TSA lines are growing just in time for spring break. Cool timing all around.",
+      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-homeland-security-immigration-doj-live-updates-rcna264361",
+      "source": "NBC News",
+      "chips": ["Shutdown over 1 month", "Spring break travel surge"]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Comey Subpoenaed; Ecuador Strike Hit a Dairy Farm, Not a Drug Compound",
+      "dek": "Trump-appointed Florida prosecutor subpoenaed the former FBI director as part of a sweeping DOJ probe. Also: NYT found a U.S.-backed Ecuador military strike destroyed a cattle farm. The cows could not be reached for comment.",
+      "url": "https://www.justsecurity.org/134848/early-edition-march-25-2026/",
+      "source": "Just Security",
+      "chips": ["DOJ purge continues"]
+    },
+    {
+      "tag": "spicy take",
+      "tagType": "spicy",
+      "hed": "$580M in Oil Futures Traded Minutes Before Trump's Iran Peace Signal",
+      "dek": "Nobel laureate Paul Krugman called it 'treason.' A massive oil futures position was reportedly opened seconds before Trump announced 'productive' Iran talks — tanking crude prices. No charges filed. Definitely fine.",
+      "url": "https://fortune.com/article/price-of-oil-03-25-2026/",
+      "source": "Fortune",
+      "chips": ["Krugman: treason", "Investigation pending"]
+    }
+  ],
+  "markets": {
+    "sp500": { "val": "6,622", "chg": "+0.97%", "dir": "up" },
+    "dow":   { "val": "46,672", "chg": "+1.18%", "dir": "up" },
+    "nasdaq":{ "val": "22,002", "chg": "+1.10%", "dir": "up" },
+    "wti":   { "val": "$87.65", "chg": "-5.0%",  "dir": "down" },
+    "brent": { "val": "$98.31", "chg": "-6.1%",  "dir": "down" },
+    "gold":  { "val": "$4,547", "chg": "+3.3%",  "dir": "up" },
+    "btc":   { "val": "$71,669","chg": "+1.6%",  "dir": "up" },
+    "context": "Everything rallied on Iran peace plan hopes — oil tanked, stocks and gold surged.",
+    "url": "https://247wallst.com/investing/2026/03/25/stock-market-live-march-25-2026-sp-500-spy-roller-coaster-ride-continues/",
+    "source": "247 Wall St"
+  },
+  "gas": {
+    "avg": "$3.96",
+    "note": "Up $1.02 this month alone — 41% YTD — and analysts say it could wipe out most people's tax refunds.",
+    "premium": "$4.94",
+    "wti": "$87.65",
+    "highState": "CA/HI/WA: >$5.00",
+    "lowState": "Oklahoma: $2.79",
+    "url": "https://www.advisorperspectives.com/dshort/updates/2026/03/24/gas-prices-up-more-than-1-in-march",
+    "source": "Advisor Perspectives"
+  },
+  "popCulture": {
+    "hed": "Sinners Opens April 18 — Early Tracking Has Studios Sweating",
+    "dek": "Ryan Coogler's vampire thriller starring Michael B. Jordan is projecting a $60M+ opening weekend. Other studios are quietly regretting their spring release dates.",
+    "url": "https://variety.com",
+    "source": "Variety"
+  },
+  "genZ": {
+    "type": "word",
+    "term": "brain rot",
+    "definition": "Content so aggressively stupid and low-effort it feels like it's decaying your brain. Used affectionately.",
+    "usage": "Three hours of TikTok and I am fully in brain rot mode, I cannot read a sentence right now.",
+    "url": "https://knowyourmeme.com/memes/brain-rot",
+    "source": "Know Your Meme"
+  },
+  "tldr": "Iran ceasefire talks are cautiously promising and markets love it, but Tehran kept shooting anyway. Gas is up 41% YTD and the spicy oil futures trade has Krugman losing his mind."
+}
