@@ -1,55 +1,67 @@
 {
   "date": "Wednesday, March 25, 2026",
+  "headlines": [
+    { "text": "U.S. sends Iran 15-point ceasefire plan via Pakistan", "tag": "🌍" },
+    { "text": "Pentagon deploying up to 3,000 troops to Middle East", "tag": "🪖" },
+    { "text": "Ukraine launches record 389-drone overnight attack on Russia", "tag": "🇺🇦" },
+    { "text": "Philippines declares national energy emergency over Iran war", "tag": "⚡" },
+    { "text": "Lebanon expels Iran's ambassador", "tag": "🇱🇧" },
+    { "text": "DHS shutdown tops 1 month; Senate blocks bill again 47–37", "tag": "🏛️" },
+    { "text": "Meta ordered to pay $375M in New Mexico child safety verdict", "tag": "⚖️" },
+    { "text": "Disney kills $1B OpenAI/Sora deal", "tag": "🎬" },
+    { "text": "Shaq's alleged Sabrina Carpenter DMs go viral; Shaq denies", "tag": "🏀" },
+    { "text": "Democrat flips Florida state house seat in Mar-a-Lago district", "tag": "🗳️" }
+  ],
   "breaking": {
     "show": true,
-    "text": "U.S. sends Iran a 15-point ceasefire proposal via Pakistan as both sides continue strikes on Day 25.",
-    "url": "https://apnews.com/article/iran-us-ceasefire-plan-pakistan-2026"
+    "text": "Vance and Rubio leading Iran ceasefire negotiations; Hegseth reportedly 'disappointed' a deal is even being discussed.",
+    "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26"
   },
   "stories": [
     {
       "tag": "iran war · day 25",
       "tagType": "fire",
-      "hed": "U.S. Floats 15-Point Peace Plan; Iran Says 'Fake News,' Keeps Firing",
-      "dek": "Washington passed a ceasefire framework through Pakistani intermediaries covering nukes, sanctions, and Hormuz access. Tehran publicly rejected it and simultaneously hit Kuwait's airport with a drone. Diplomacy is going great.",
-      "url": "https://apnews.com/article/iran-war-ceasefire-plan-us",
-      "source": "AP News",
-      "chips": ["82nd Airborne deploying", "oil down $5 on news"]
+      "hed": "U.S. Sends Peace Plan, Hegseth Unhappy About It, Iran Keeps Firing",
+      "dek": "Vance and Rubio are now leading ceasefire talks; Trump says Iran is willing to listen to 'sustainable' proposals. Hegseth and the Joint Chiefs were reportedly 'quite disappointed' a deal is even on the table. Israel is mobilizing 400,000 reserves anyway. Totally fine.",
+      "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
+      "source": "CNN",
+      "chips": ["3,000 troops deploying", "Philippines declares emergency", "Lebanon expels Iran envoy"]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Zelensky: Russia Is Feeding Iran Intel to Prolong Both Wars",
-      "dek": "Ukraine says it has proof Moscow is sharing targeting data with Tehran, which conveniently fills Russia's oil revenue and drains U.S. Patriot interceptors that would otherwise go to Kyiv. Putin playing chess while everyone else argues about the board.",
-      "url": "https://time.com/article/2026/03/24/zelensky-accuses-russia-intelligence-sharing-iran-war/",
-      "source": "Time",
-      "chips": ["Urals crude above $70", "Ukraine peace talks stalled"]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "DHS Still Unfunded After Senate Blocks Vote Again, 47–37",
-      "dek": "Democrats blocked the latest DHS funding bill for the second straight procedural vote. Thune threatened to cancel Easter recess. TSA lines are growing just in time for spring break. Cool timing all around.",
-      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-homeland-security-immigration-doj-live-updates-rcna264361",
-      "source": "NBC News",
-      "chips": ["Shutdown over 1 month", "Spring break travel surge"]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Comey Subpoenaed; Ecuador Strike Hit a Dairy Farm, Not a Drug Compound",
-      "dek": "Trump-appointed Florida prosecutor subpoenaed the former FBI director as part of a sweeping DOJ probe. Also: NYT found a U.S.-backed Ecuador military strike destroyed a cattle farm. The cows could not be reached for comment.",
+      "hed": "Ukraine Launches Largest-Ever Drone Attack on Russia — 389 Overnight",
+      "dek": "The biggest reported drone assault on Russian territory since the war began — hitting 13 regions plus Crimea. Meanwhile Russia is sharing intelligence with Iran, filling its war chest with oil windfalls, and prepping a spring offensive. Everything is fine.",
       "url": "https://www.justsecurity.org/134848/early-edition-march-25-2026/",
-      "source": "Just Security",
-      "chips": ["DOJ purge continues"]
+      "source": "Just Security / AP",
+      "chips": ["Largest drone strike of war", "Russia-Iran intel sharing confirmed"]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "DHS Shutdown Hits One Month; TSA Lines Growing Into Spring Break",
+      "dek": "Senate blocked the funding bill again, 47–37. Thune threatened to cancel Easter recess. TSA wait times are ballooning right as spring break travel peaks. A new DHS chief was just sworn in, which is fun, because the department still has no money.",
+      "url": "https://www.democracynow.org/2026/3/25/headlines",
+      "source": "Democracy Now",
+      "chips": ["Easter recess threatened", "Spring break travel chaos"]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Meta Hit with $375M Verdict; Democrat Flips Mar-a-Lago District",
+      "dek": "A New Mexico jury found Meta negligent in protecting minors from predators — $375M. Separately, a Democrat flipped a Florida state house seat that literally includes Trump's Mar-a-Lago home. Two pieces of news that will live rent-free in Zuckerberg's and Trump's heads all week.",
+      "url": "https://deadline.com/",
+      "source": "Deadline / Democracy Now",
+      "chips": ["Meta child safety verdict", "FL Mar-a-Lago district flipped"]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "$580M in Oil Futures Traded Minutes Before Trump's Iran Peace Signal",
-      "dek": "Nobel laureate Paul Krugman called it 'treason.' A massive oil futures position was reportedly opened seconds before Trump announced 'productive' Iran talks — tanking crude prices. No charges filed. Definitely fine.",
-      "url": "https://fortune.com/article/price-of-oil-03-25-2026/",
-      "source": "Fortune",
-      "chips": ["Krugman: treason", "Investigation pending"]
+      "hed": "Disney Killed Its $1B OpenAI Deal and Shaq's DMs Are Everyone's Problem Now",
+      "dek": "Disney quietly pulled out of its $1B Sora/OpenAI deal — the one Bob Iger personally brokered. Meanwhile Shaq went on his own podcast to read aloud alleged DMs to Sabrina Carpenter and deny them simultaneously. One of these stories will matter more to your group chat.",
+      "url": "https://deadline.com/",
+      "source": "Deadline / TMZ",
+      "chips": ["Sora app shutting down", "Shaq denies Carpenter DMs"]
     }
   ],
   "markets": {
@@ -60,13 +72,13 @@
     "brent": { "val": "$98.31", "chg": "-6.1%",  "dir": "down" },
     "gold":  { "val": "$4,547", "chg": "+3.3%",  "dir": "up" },
     "btc":   { "val": "$71,669","chg": "+1.6%",  "dir": "up" },
-    "context": "Everything rallied on Iran peace plan hopes — oil tanked, stocks and gold surged.",
+    "context": "Markets rallied on Iran peace plan optimism — oil fell hard, stocks and gold surged.",
     "url": "https://247wallst.com/investing/2026/03/25/stock-market-live-march-25-2026-sp-500-spy-roller-coaster-ride-continues/",
     "source": "247 Wall St"
   },
   "gas": {
     "avg": "$3.96",
-    "note": "Up $1.02 this month alone — 41% YTD — and analysts say it could wipe out most people's tax refunds.",
+    "note": "Up $1.02 in March alone — 10th straight weekly increase — and economists say it could wipe out most people's tax refunds. Treat yourself to something nice with the remaining $4.",
     "premium": "$4.94",
     "wti": "$87.65",
     "highState": "CA/HI/WA: >$5.00",
@@ -75,18 +87,18 @@
     "source": "Advisor Perspectives"
   },
   "popCulture": {
-    "hed": "Sinners Opens April 18 — Early Tracking Has Studios Sweating",
-    "dek": "Ryan Coogler's vampire thriller starring Michael B. Jordan is projecting a $60M+ opening weekend. Other studios are quietly regretting their spring release dates.",
-    "url": "https://variety.com",
-    "source": "Variety"
+    "hed": "Shaq Read His Alleged Sabrina Carpenter DMs Aloud on His Own Podcast",
+    "dek": "Screenshots of alleged messages from Shaq to Sabrina Carpenter went viral. His response: go on The Big Podcast with Shaq and read them aloud while denying they're real. Bold strategy. Separately, Mormon Wives cast reportedly told ABC execs on a recorded call that they had serious concerns about Taylor Frankie Paul — and ABC exec said he 'didn't want to know too much.'",
+    "url": "https://www.tmz.com/",
+    "source": "TMZ / NBC News"
   },
   "genZ": {
     "type": "word",
-    "term": "brain rot",
-    "definition": "Content so aggressively stupid and low-effort it feels like it's decaying your brain. Used affectionately.",
-    "usage": "Three hours of TikTok and I am fully in brain rot mode, I cannot read a sentence right now.",
-    "url": "https://knowyourmeme.com/memes/brain-rot",
+    "term": "delulu",
+    "definition": "Short for delusional — used affectionately to describe someone (often yourself) who has wildly unrealistic hopes or fantasies, usually about a crush or celebrity.",
+    "usage": "Me thinking Shaq's DMs were somehow going to be smooth: fully delulu behavior.",
+    "url": "https://knowyourmeme.com/memes/delulu",
     "source": "Know Your Meme"
   },
-  "tldr": "Iran ceasefire talks are cautiously promising and markets love it, but Tehran kept shooting anyway. Gas is up 41% YTD and the spicy oil futures trade has Krugman losing his mind."
+  "tldr": "Iran peace talks are happening but nobody — including Hegseth — seems thrilled about it, and both sides kept shooting anyway. Domestically: DHS still broke, Meta owes $375M, and a Democrat just flipped Mar-a-Lago's backyard."
 }
