@@ -94,6 +94,15 @@
 
   .page-footer{max-width:680px;margin:1.5rem auto 0;font-family:'DM Mono',monospace;font-size:10px;color:var(--hint);text-align:center;letter-spacing:0.08em;}
 
+  .headlines-bar{max-width:680px;margin:0 auto 1rem;background:var(--card);border:0.5px solid var(--border);border-radius:var(--r);overflow:hidden;}
+  .headlines-title{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.15em;color:var(--hint);padding:0.6rem 1rem 0.4rem;border-bottom:0.5px solid var(--border);}
+  .headlines-list{padding:0.5rem 0;}
+  .headline-item{display:flex;align-items:baseline;gap:8px;padding:0.3rem 1rem;font-size:12px;line-height:1.4;border-bottom:0.5px solid var(--border);}
+  .headline-item:last-child{border-bottom:none;}
+  .headline-num{font-family:'DM Mono',monospace;font-size:10px;color:var(--hint);min-width:16px;flex-shrink:0;}
+  .headline-tag{font-size:12px;flex-shrink:0;}
+  .headline-text{color:var(--ink);}
+
   @media(max-width:520px){
     .ticker-grid{grid-template-columns:repeat(2,1fr);}
     .comms-grid{grid-template-columns:repeat(2,1fr);}
@@ -112,6 +121,11 @@
     <div class="logo-sub">daily brief</div>
   </div>
 </header>
+
+<div class="headlines-bar" id="headlinesBar" style="display:none;">
+  <div class="headlines-title">top 10 headlines today</div>
+  <div class="headlines-list" id="headlinesList"></div>
+</div>
 
 <div class="phone-wrap">
   <div class="gc-bar">
@@ -233,6 +247,20 @@ fetch('./brief-data.json?v='+Date.now())
   .then(b=>{
     document.getElementById('dateBadge').textContent=b.date||'';
     document.getElementById('gcStatus').textContent='just dropped';
+
+    // Render top 10 headlines
+    if(b.headlines&&b.headlines.length){
+      const list=document.getElementById('headlinesList');
+      list.innerHTML=b.headlines.map((h,i)=>
+        `<div class="headline-item">
+          <span class="headline-num">${i+1}</span>
+          <span class="headline-tag">${h.tag||''}</span>
+          <span class="headline-text">${esc(h.text)}</span>
+        </div>`
+      ).join('');
+      document.getElementById('headlinesBar').style.display='block';
+    }
+
     document.getElementById('contentArea').innerHTML=buildHTML(b);
   })
   .catch(()=>{
