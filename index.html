@@ -94,7 +94,7 @@
 
   .page-footer{max-width:680px;margin:1.5rem auto 0;font-family:'DM Mono',monospace;font-size:10px;color:var(--hint);text-align:center;letter-spacing:0.08em;}
 
-  .headlines-bar{max-width:680px;margin:0 auto 1rem;background:var(--card);border:0.5px solid var(--border);border-radius:var(--r);overflow:hidden;}
+  .headlines-bar-inner{background:var(--card);border:0.5px solid var(--border);border-radius:var(--rsm);margin-bottom:0.75rem;overflow:hidden;animation:fadeUp 0.4s ease both;}
   .headlines-title{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.15em;color:var(--hint);padding:0.6rem 1rem 0.4rem;border-bottom:0.5px solid var(--border);}
   .headlines-list{padding:0.5rem 0;}
   .headline-item{display:flex;align-items:baseline;gap:8px;padding:0.3rem 1rem;font-size:12px;line-height:1.4;border-bottom:0.5px solid var(--border);}
@@ -122,10 +122,6 @@
   </div>
 </header>
 
-<div class="headlines-bar" id="headlinesBar" style="display:none;">
-  <div class="headlines-title">top 10 headlines today</div>
-  <div class="headlines-list" id="headlinesList"></div>
-</div>
 
 <div class="phone-wrap">
   <div class="gc-bar">
@@ -155,6 +151,18 @@ function linkBtn(url,source){
 function buildHTML(b){
   let html='',delay=0;
   const tagMap={geo:'t-geo',us:'t-us',cash:'t-cash',spicy:'t-spicy',pop:'t-pop',genz:'t-genz',fire:'t-fire'};
+
+  // Top 10 headlines inside the frame
+  if(b.headlines&&b.headlines.length){
+    const items=b.headlines.map((h,i)=>
+      `<div class="headline-item"><span class="headline-num">${i+1}</span><span class="headline-tag">${h.tag||''}</span><span class="headline-text">${esc(h.text)}</span></div>`
+    ).join('');
+    html+=`<div class="headlines-bar-inner" style="animation-delay:0s">
+      <div class="headlines-title">top 10 headlines today</div>
+      <div class="headlines-list">${items}</div>
+    </div>`;
+    delay+=0.07;
+  }
 
   if(b.breaking?.show&&b.breaking?.text){
     const lnk=b.breaking.url?`<br><a class="b-link" href="${esc(b.breaking.url)}" target="_blank" rel="noopener" style="margin-top:6px;display:inline-flex;">↗ full story</a>`:'';
@@ -247,20 +255,6 @@ fetch('./brief-data.json?v='+Date.now())
   .then(b=>{
     document.getElementById('dateBadge').textContent=b.date||'';
     document.getElementById('gcStatus').textContent='just dropped';
-
-    // Render top 10 headlines
-    if(b.headlines&&b.headlines.length){
-      const list=document.getElementById('headlinesList');
-      list.innerHTML=b.headlines.map((h,i)=>
-        `<div class="headline-item">
-          <span class="headline-num">${i+1}</span>
-          <span class="headline-tag">${h.tag||''}</span>
-          <span class="headline-text">${esc(h.text)}</span>
-        </div>`
-      ).join('');
-      document.getElementById('headlinesBar').style.display='block';
-    }
-
     document.getElementById('contentArea').innerHTML=buildHTML(b);
   })
   .catch(()=>{
