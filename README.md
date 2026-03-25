@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26252650/README.md)
+[README.md](https://github.com/user-attachments/files/26252731/README.md)
 # Everyone · Daily Brief
 
 A daily news brief for the group chat, powered by Claude.
