@@ -1,104 +1,187 @@
 {
-  "date": "Wednesday, March 26, 2026",
+  "date": "Thursday, March 26, 2026",
   "headlines": [
-    { "text": "U.S. sends Iran 15-point ceasefire plan via Pakistan", "tag": "🌍" },
-    { "text": "Pentagon deploying up to 3,000 troops to Middle East", "tag": "🪖" },
-    { "text": "Ukraine launches record 389-drone overnight attack on Russia", "tag": "🇺🇦" },
-    { "text": "Philippines declares national energy emergency over Iran war", "tag": "⚡" },
-    { "text": "Lebanon expels Iran's ambassador", "tag": "🇱🇧" },
-    { "text": "DHS shutdown tops 1 month; Senate blocks bill again 47–37", "tag": "🏛️" },
-    { "text": "Meta ordered to pay $375M in New Mexico child safety verdict", "tag": "⚖️" },
-    { "text": "Disney kills $1B OpenAI/Sora deal", "tag": "🎬" },
-    { "text": "Shaq's alleged Sabrina Carpenter DMs go viral; Shaq denies", "tag": "🏀" },
-    { "text": "Democrat flips Florida state house seat in Mar-a-Lago district", "tag": "🗳️" }
+    {
+      "text": "Israel kills Iran's IRGC Navy chief who oversaw Strait of Hormuz blockade",
+      "tag": "💥"
+    },
+    {
+      "text": "Trump warns Iran to 'get serious soon' as White House and Tehran give contradictory accounts of peace talks",
+      "tag": "🕊️"
+    },
+    {
+      "text": "DHS shutdown drags on as Senate impasse threatens airport closures nationwide",
+      "tag": "✈️"
+    },
+    {
+      "text": "S&P 500, Dow, Nasdaq all slide as oil surges above $93 on renewed Iran war fears",
+      "tag": "📉"
+    },
+    {
+      "text": "Gas prices hit $3.98 national average — highest since 2022 — and still climbing",
+      "tag": "⛽"
+    },
+    {
+      "text": "BTS drops album 'ARIRANG,' sells nearly 4 million copies in first day, kicks off world tour",
+      "tag": "🎤"
+    },
+    {
+      "text": "Trump holds 11th Cabinet meeting; approval rating sits at 38% amid Iran war and DHS chaos",
+      "tag": "🏛️"
+    },
+    {
+      "text": "CPAC 2026 kicks off in Grapevine, Texas with Iran war fractures and 2026 midterms looming",
+      "tag": "🎪"
+    },
+    {
+      "text": "X (Twitter) suffers global outage as users report feeds not loading, login failures worldwide",
+      "tag": "🐦"
+    },
+    {
+      "text": "North Korea's Kim Jong Un and Belarus's Lukashenko sign friendship treaty in Pyongyang",
+      "tag": "🤝"
+    }
   ],
   "breaking": {
     "show": true,
-    "text": "Vance and Rubio leading Iran ceasefire negotiations; Hegseth reportedly 'disappointed' a deal is even being discussed.",
-    "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26"
+    "text": "BREAKING: Israel kills Iran's IRGC Navy commander Alireza Tangsiri in airstrike; oil spikes, indirect US-Iran talks ongoing via Pakistan",
+    "url": "https://www.cnn.com/2026/03/26/world/live-news/iran-war-us-israel-trump"
   },
   "stories": [
     {
-      "tag": "iran war · day 25",
+      "tag": "iran war - day 27",
       "tagType": "fire",
-      "hed": "U.S. Sends Peace Plan, Hegseth Unhappy About It, Iran Keeps Firing",
-      "dek": "Vance and Rubio are now leading ceasefire talks; Trump says Iran is willing to listen to 'sustainable' proposals. Hegseth and the Joint Chiefs were reportedly 'quite disappointed' a deal is even on the table. Israel is mobilizing 400,000 reserves anyway. Totally fine.",
-      "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
+      "hed": "Israel kills Iran's navy chief; Trump tells Tehran to 'get serious or else'",
+      "dek": "Israel assassinated Alireza Tangsiri, the IRGC admiral who dreamed up the Strait of Hormuz blockade, in an airstrike this morning — which is one way to end a meeting. Meanwhile Trump posted on Truth Social that Iran needs to 'get serious soon, before it is too late,' while the White House says talks are 'productive' and Tehran says talks literally do not exist. Pakistan, bless its heart, confirmed it's the intermediary, which means diplomacy is currently a game of telephone with nukes on the table.",
+      "url": "https://www.cnn.com/2026/03/26/world/live-news/iran-war-us-israel-trump",
       "source": "CNN",
-      "chips": ["3,000 troops deploying", "Philippines declares emergency", "Lebanon expels Iran envoy"]
+      "chips": [
+        "Hormuz blockade",
+        "Kharg Island threat",
+        "15-point peace plan rejected",
+        "Pakistan intermediary",
+        "OECD: +1.2% inflation globally"
+      ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Ukraine Launches Largest-Ever Drone Attack on Russia — 389 Overnight",
-      "dek": "The biggest reported drone assault on Russian territory since the war began — hitting 13 regions plus Crimea. Meanwhile Russia is sharing intelligence with Iran, filling its war chest with oil windfalls, and prepping a spring offensive. Everything is fine.",
-      "url": "https://www.justsecurity.org/134848/early-edition-march-25-2026/",
-      "source": "Just Security / AP",
-      "chips": ["Largest drone strike of war", "Russia-Iran intel sharing confirmed"]
+      "hed": "Kim Jong Un and Lukashenko sign friendship treaty in Pyongyang as the world burns elsewhere",
+      "dek": "North Korea and Belarus formalized a friendship and cooperation treaty today, which is exactly the kind of geopolitical alliance that makes everyone else's threat assessment spreadsheets longer. South Korea, meanwhile, unveiled its first mass-produced KF-21 fighter jet — its answer to the question nobody asked out loud.",
+      "url": "https://www.justsecurity.org/134974/early-edition-march-26-2026/",
+      "source": "Just Security",
+      "chips": [
+        "Kim-Lukashenko pact",
+        "South Korea KF-21 jet",
+        "Trump-Xi summit rescheduled May 14-15"
+      ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "DHS Shutdown Hits One Month; TSA Lines Growing Into Spring Break",
-      "dek": "Senate blocked the funding bill again, 47–37. Thune threatened to cancel Easter recess. TSA wait times are ballooning right as spring break travel peaks. A new DHS chief was just sworn in, which is fun, because the department still has no money.",
-      "url": "https://www.democracynow.org/2026/3/25/headlines",
-      "source": "Democracy Now",
-      "chips": ["Easter recess threatened", "Spring break travel chaos"]
+      "hed": "DHS shutdown grinds on: TSA losing officers, airport wait times hit 4.5 hours, senators still arguing",
+      "dek": "The Department of Homeland Security has now been shut down for over 40 days and TSA has lost more than 480 officers, with some airports seeing 40-50% workforce callout rates. Senate Majority Leader Thune said talks are 'going in circles' while Congress prepares to leave for a two-week Easter recess — a bold move.",
+      "url": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-deal/",
+      "source": "CBS News",
+      "chips": [
+        "TSA officer shortage",
+        "Airport closures threatened",
+        "SAVE America Act",
+        "Easter recess looming"
+      ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Meta Hit with $375M Verdict; Democrat Flips Mar-a-Lago District",
-      "dek": "A New Mexico jury found Meta negligent in protecting minors from predators — $375M. Separately, a Democrat flipped a Florida state house seat that literally includes Trump's Mar-a-Lago home. Two pieces of news that will live rent-free in Zuckerberg's and Trump's heads all week.",
-      "url": "https://deadline.com/",
-      "source": "Deadline / Democracy Now",
-      "chips": ["Meta child safety verdict", "FL Mar-a-Lago district flipped"]
+      "hed": "Trump's approval at 38% as polls show 59% of Americans say Iran war was a mistake",
+      "dek": "New polls from Quinnipiac, AP-NORC, and Pew all agree: the Iran war is broadly unpopular, with 54% of registered voters opposing military action and Trump's foreign policy approval hitting a low of 34%. His overall approval sits at 38%, which is deeply underwater but apparently stable, like a submarine nobody asked to be on.",
+      "url": "https://www.cnn.com/2026/03/26/politics/live-news/trump-administration-latest-news",
+      "source": "CNN Politics",
+      "chips": [
+        "38% approval",
+        "59% say war was wrong",
+        "Quinnipiac poll",
+        "AP-NORC poll"
+      ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Disney Killed Its $1B OpenAI Deal and Shaq's DMs Are Everyone's Problem Now",
-      "dek": "Disney quietly pulled out of its $1B Sora/OpenAI deal — the one Bob Iger personally brokered. Meanwhile Shaq went on his own podcast to read aloud alleged DMs to Sabrina Carpenter and deny them simultaneously. One of these stories will matter more to your group chat.",
-      "url": "https://deadline.com/",
-      "source": "Deadline / TMZ",
-      "chips": ["Sora app shutting down", "Shaq denies Carpenter DMs"]
+      "hed": "Iran says there are no negotiations. The White House says talks are 'productive.' Someone is lying, and oil traders are betting on both.",
+      "dek": "Tehran's foreign minister says Iran 'does not plan on any negotiations' while Karoline Leavitt holds a daily briefing insisting talks are happening and productive. Oil spiked 3.8% on the confusion alone. At this point the Strait of Hormuz is closed, gas is nearly $4 a gallon, GOP hawks are demanding war details, and the five-day pause on energy infrastructure strikes expires Saturday — so buckle up.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/3/26/iran-war-live-us-demands-tehran-accept-defeat-israel-pounds-lebanon",
+      "source": "Al Jazeera",
+      "chips": [
+        "Iran rejects 15-point plan",
+        "5-day strike pause expires Saturday",
+        "Oil +3.8% today",
+        "Trump: 'no turning back'"
+      ]
     }
   ],
   "markets": {
-    "sp500": { "val": "6,622", "chg": "+0.97%", "dir": "up" },
-    "dow":   { "val": "46,672", "chg": "+1.18%", "dir": "up" },
-    "nasdaq":{ "val": "22,002", "chg": "+1.10%", "dir": "up" },
-    "wti":   { "val": "$87.65", "chg": "-5.0%",  "dir": "down" },
-    "brent": { "val": "$98.31", "chg": "-6.1%",  "dir": "down" },
-    "gold":  { "val": "$4,547", "chg": "+3.3%",  "dir": "up" },
-    "btc":   { "val": "$71,669","chg": "+1.6%",  "dir": "up" },
-    "context": "Markets rallied on Iran peace plan optimism — oil fell hard, stocks and gold surged.",
-    "url": "https://247wallst.com/investing/2026/03/25/stock-market-live-march-25-2026-sp-500-spy-roller-coaster-ride-continues/",
-    "source": "247 Wall St"
+    "sp500": {
+      "val": "6,548",
+      "chg": "-0.65%",
+      "dir": "down"
+    },
+    "dow": {
+      "val": "46,353",
+      "chg": "-0.16%",
+      "dir": "down"
+    },
+    "nasdaq": {
+      "val": "21,705",
+      "chg": "-1.03%",
+      "dir": "down"
+    },
+    "wti": {
+      "val": "$93",
+      "chg": "+3.6%",
+      "dir": "up"
+    },
+    "brent": {
+      "val": "$106",
+      "chg": "+3.8%",
+      "dir": "up"
+    },
+    "gold": {
+      "val": "$4,428",
+      "chg": "-2.1%",
+      "dir": "down"
+    },
+    "btc": {
+      "val": "$69,463",
+      "chg": "-2.6%",
+      "dir": "down"
+    },
+    "context": "Markets slid as Iran rejected the US 15-point peace plan and oil surged above $93 WTI, erasing Wednesday's ceasefire-hope rally and reminding investors that hope is not a hedging strategy.",
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-wall-street-weighs-prospects-for-iran-truce-225159013.html",
+    "source": "Yahoo Finance"
   },
   "gas": {
-    "avg": "$3.96",
-    "note": "Up $1.02 in March alone — 10th straight weekly increase — and economists say it could wipe out most people's tax refunds. Treat yourself to something nice with the remaining $4.",
-    "premium": "$4.94",
-    "wti": "$87.65",
-    "highState": "CA/HI/WA: >$5.00",
-    "lowState": "Oklahoma: $2.79",
-    "url": "https://www.advisorperspectives.com/dshort/updates/2026/03/24/gas-prices-up-more-than-1-in-march",
-    "source": "Advisor Perspectives"
+    "avg": "$3.98",
+    "note": "Gas is nearly $4 a gallon — which means your road trip is now a moral dilemma with cup holders.",
+    "premium": "$4.72",
+    "wti": "$93",
+    "highState": "CA: $5.54",
+    "lowState": "OK: $3.26",
+    "url": "https://gasprices.aaa.com/",
+    "source": "AAA"
   },
   "popCulture": {
-    "hed": "Shaq Read His Alleged Sabrina Carpenter DMs Aloud on His Own Podcast",
-    "dek": "Screenshots of alleged messages from Shaq to Sabrina Carpenter went viral. His response: go on The Big Podcast with Shaq and read them aloud while denying they're real. Bold strategy. Separately, Mormon Wives cast reportedly told ABC execs on a recorded call that they had serious concerns about Taylor Frankie Paul — and ABC exec said he 'didn't want to know too much.'",
-    "url": "https://www.tmz.com/",
-    "source": "TMZ / NBC News"
+    "hed": "BTS is back: 'ARIRANG' sells 4 million copies in a day as the world's biggest boy band ends its 4-year hiatus",
+    "dek": "BTS performed their first full-group concert in nearly four years at Seoul's Gwanghwamun Square on March 21, streaming live on Netflix in 190 countries while RM performed from a chair after spraining his ankle at rehearsal — very method. Their new album 'ARIRANG' sold nearly 4 million copies on day one and their upcoming world tour is projected to rival Taylor Swift's Eras Tour in revenue.",
+    "url": "https://www.cnbc.com/2026/03/21/kpop-supergroup-bts-shuts-down-central-seoul-for-comeback-concert.html",
+    "source": "CNBC"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "Tung Tung Tung Sahur",
-    "definition": "A terrifying Italian brainrot meme character — an Indonesian wooden plank that randomly appears and interrupts whatever you're doing with a loud, repetitive drumming sound. Part of the wider 'Italian brainrot' meme universe where cursed AI-generated characters have taken over TikTok FYPs.",
-    "usage": "Me trying to follow the Iran ceasefire negotiations: [Tung Tung Tung Sahur enters the chat] — that's basically what it feels like every time Trump changes his position.",
-    "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
-    "source": "Epidemic Sound"
+    "term": "Tung Tung Tung Sahur (Triple-T)",
+    "definition": "An Italian brainrot character — a creepy, sentient Indonesian wooden plank that makes a repetitive drumming noise — that has taken over TikTok in March 2026. The humor comes from inserting Triple-T into serious or mundane situations where it absolutely does not belong, like a horror movie villain who is also somehow annoying.",
+    "usage": "Trump: 'Iran is negotiating.' Iran: 'We are not negotiating.' The Strait of Hormuz: *Tung Tung Tung Sahur intensifies*",
+    "url": "",
+    "source": ""
   },
-  "tldr": "Iran peace talks are happening but nobody — including Hegseth — seems thrilled about it, and both sides kept shooting anyway. Domestically: DHS still broke, Meta owes $375M, and a Democrat just flipped Mar-a-Lago's backyard."
+  "tldr": "Day 27 of the Iran war: Israel killed the IRGC navy chief, Iran rejected America's 15-point peace plan, oil spiked above $93, and Trump is threatening escalation while simultaneously insisting talks are going great — a vibe that sent stocks down and gas prices to $3.98 nationally. On the home front, the DHS has been shut down so long that TSA is actively warning Congress it may have to close airports, which is one way to make a point."
 }
