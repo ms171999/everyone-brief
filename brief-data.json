@@ -1,5 +1,5 @@
 {
-  "date": "Wednesday, March 25, 2026",
+  "date": "Wednesday, March 26, 2026",
   "headlines": [
     { "text": "U.S. sends Iran 15-point ceasefire plan via Pakistan", "tag": "🌍" },
     { "text": "Pentagon deploying up to 3,000 troops to Middle East", "tag": "🪖" },
@@ -93,12 +93,12 @@
     "source": "TMZ / NBC News"
   },
   "genZ": {
-    "type": "word",
-    "term": "delulu",
-    "definition": "Short for delusional — used affectionately to describe someone (often yourself) who has wildly unrealistic hopes or fantasies, usually about a crush or celebrity.",
-    "usage": "Me thinking Shaq's DMs were somehow going to be smooth: fully delulu behavior.",
-    "url": "https://knowyourmeme.com/memes/delulu",
-    "source": "Know Your Meme"
+    "type": "tiktok",
+    "term": "Tung Tung Tung Sahur",
+    "definition": "A terrifying Italian brainrot meme character — an Indonesian wooden plank that randomly appears and interrupts whatever you're doing with a loud, repetitive drumming sound. Part of the wider 'Italian brainrot' meme universe where cursed AI-generated characters have taken over TikTok FYPs.",
+    "usage": "Me trying to follow the Iran ceasefire negotiations: [Tung Tung Tung Sahur enters the chat] — that's basically what it feels like every time Trump changes his position.",
+    "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
+    "source": "Epidemic Sound"
   },
   "tldr": "Iran peace talks are happening but nobody — including Hegseth — seems thrilled about it, and both sides kept shooting anyway. Domestically: DHS still broke, Meta owes $375M, and a Democrat just flipped Mar-a-Lago's backyard."
 }
