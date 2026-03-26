@@ -2,14 +2,15 @@ name: Daily Brief
 
 on:
   schedule:
-    # 7AM Pacific = 15:00 UTC (14:00 UTC during daylight saving)
-    # Using 15:00 UTC to cover standard time; close enough year-round
     - cron: '0 15 * * *'
-  workflow_dispatch: # Allow manual trigger from GitHub UI
+  workflow_dispatch:
 
 jobs:
   update-brief:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -25,46 +26,64 @@ jobs:
           import json
           import os
           import sys
-          from datetime import datetime
-          import pytz
+          from datetime import datetime, timezone, timedelta
 
           api_key = os.environ.get("ANTHROPIC_API_KEY")
           if not api_key:
               print("ERROR: ANTHROPIC_API_KEY not set")
               sys.exit(1)
 
-          # Get today's date in Pacific time
-          pacific = pytz.timezone("America/Los_Angeles")
-          now = pytz.utc.localize(datetime.utcnow()).astimezone(pacific)
+          # Pacific time (UTC-7 during daylight saving, UTC-8 standard)
+          # GitHub Actions runs at 15:00 UTC = 8AM UTC-7 (close enough to 7AM)
+          pacific_offset = timedelta(hours=-7)
+          now = datetime.now(timezone.utc) + pacific_offset
           today_str = now.strftime("%A, %B %-d, %Y")
 
-          # Calculate Iran war day count (war started Feb 28, 2026)
-          war_start = pacific.localize(datetime(2026, 2, 28))
-          war_day = (now.replace(tzinfo=None) - war_start.replace(tzinfo=None)).days + 1
+          # Iran war day count (started Feb 28, 2026)
+          war_start = datetime(2026, 2, 28)
+          war_day = (now.replace(tzinfo=None) - war_start).days + 1
 
           print(f"Generating brief for {today_str} (Iran war day {war_day})")
 
-          prompt = f"""Today is {today_str}. Generate a daily news brief for a casual friend group chat called "Everyone." Use web_search to find REAL stories published TODAY.
+          prompt = f"""Today is {today_str}. Search the web for today's news, then return ONLY a JSON object (no markdown, no backticks, start with {{, end with }}).
 
-          Search for: top news today {today_str}, Iran war update today, US domestic politics today, stock market today, gas prices today, pop culture entertainment news this week, trending gen z slang or meme.
+Search for: top news {today_str}, Iran war today, US politics today, stock market today, gas prices today, pop culture news this week, trending gen z word or meme.
 
-          IMPORTANT: Return ONLY a valid JSON object. Start with {{ end with }}. No markdown, no backticks, no text before or after.
+Return this JSON structure with real current data:
+{{
+  "date": "{today_str}",
+  "headlines": [10 objects with {{"text": "headline", "tag": "emoji"}}],
+  "breaking": {{"show": false, "text": "", "url": ""}},
+  "stories": [
+    {{"tag": "iran war · day {war_day}", "tagType": "fire", "hed": "...", "dek": "...", "url": "...", "source": "...", "chips": []}},
+    {{"tag": "international", "tagType": "geo", "hed": "...", "dek": "...", "url": "...", "source": "...", "chips": []}},
+    {{"tag": "domestic", "tagType": "us", "hed": "...", "dek": "...", "url": "...", "source": "...", "chips": []}},
+    {{"tag": "domestic", "tagType": "us", "hed": "...", "dek": "...", "url": "...", "source": "...", "chips": []}},
+    {{"tag": "spicy take", "tagType": "spicy", "hed": "...", "dek": "...", "url": "...", "source": "...", "chips": []}}
+  ],
+  "markets": {{
+    "sp500": {{"val": "0,000", "chg": "+0.0%", "dir": "up"}},
+    "dow": {{"val": "00,000", "chg": "+0.0%", "dir": "up"}},
+    "nasdaq": {{"val": "00,000", "chg": "+0.0%", "dir": "up"}},
+    "wti": {{"val": "$00", "chg": "-0%", "dir": "down"}},
+    "brent": {{"val": "$00", "chg": "-0%", "dir": "down"}},
+    "gold": {{"val": "$0,000", "chg": "+0%", "dir": "up"}},
+    "btc": {{"val": "$00,000", "chg": "+0%", "dir": "up"}},
+    "context": "one sentence why markets moved",
+    "url": "https://cnbc.com",
+    "source": "CNBC"
+  }},
+  "gas": {{"avg": "$0.00", "note": "funny one-liner", "premium": "$0.00", "wti": "$00", "highState": "CA: $0.00", "lowState": "OK: $0.00", "url": "https://gasprices.aaa.com", "source": "AAA"}},
+  "popCulture": {{"hed": "...", "dek": "...", "url": "...", "source": "..."}},
+  "genZ": {{"type": "word", "term": "...", "definition": "...", "usage": "...", "url": "", "source": ""}},
+  "tldr": "two sentence summary"
+}}
 
-          REQUIRED STORY SLOTS:
-          1. tag "iran war · day {war_day}", tagType "fire" — today's Iran war update
-          2. tag "international", tagType "geo" — second international story from TODAY
-          3. tag "domestic", tagType "us" — major ongoing US story from TODAY (DHS, DOJ, DOGE, immigration, tariffs)
-          4. tag "domestic", tagType "us" — second domestic story, different topic
-          5. tag "spicy take", tagType "spicy" — most eyebrow-raising story of TODAY
-
-          JSON structure — fill ALL values with real current data:
-          {{"date":"{today_str}","headlines":[{{"text":"headline 1","tag":"🌍"}},{{"text":"headline 2","tag":"🇺🇸"}},{{"text":"headline 3","tag":"💰"}},{{"text":"headline 4","tag":"⚖️"}},{{"text":"headline 5","tag":"🪖"}},{{"text":"headline 6","tag":"🎬"}},{{"text":"headline 7","tag":"🗳️"}},{{"text":"headline 8","tag":"📈"}},{{"text":"headline 9","tag":"⚡"}},{{"text":"headline 10","tag":"🔥"}}],"breaking":{{"show":false,"text":"","url":""}},"stories":[{{"tag":"iran war · day {war_day}","tagType":"fire","hed":"Real headline","dek":"2-3 funny accurate sentences.","url":"real url","source":"outlet","chips":["chip1","chip2"]}},{{"tag":"international","tagType":"geo","hed":"Real headline","dek":"Real dek.","url":"real url","source":"outlet","chips":[]}},{{"tag":"domestic","tagType":"us","hed":"Real headline","dek":"Real dek.","url":"real url","source":"outlet","chips":[]}},{{"tag":"domestic","tagType":"us","hed":"Real headline","dek":"Real dek.","url":"real url","source":"outlet","chips":[]}},{{"tag":"spicy take","tagType":"spicy","hed":"Real headline","dek":"Real dek.","url":"real url","source":"outlet","chips":[]}}],"markets":{{"sp500":{{"val":"0,000","chg":"+0.0%","dir":"up"}},"dow":{{"val":"00,000","chg":"+0.0%","dir":"up"}},"nasdaq":{{"val":"00,000","chg":"+0.0%","dir":"up"}},"wti":{{"val":"$00","chg":"-0%","dir":"down"}},"brent":{{"val":"$00","chg":"-0%","dir":"down"}},"gold":{{"val":"$0,000","chg":"+0%","dir":"up"}},"btc":{{"val":"$00,000","chg":"+0%","dir":"up"}},"context":"Why markets moved today.","url":"real url","source":"CNBC"}},"gas":{{"avg":"$0.00","note":"Funny gas prices one-liner.","premium":"$0.00","wti":"$00","highState":"CA: $0.00","lowState":"OK: $0.00","url":"real url","source":"AAA"}},"popCulture":{{"hed":"Real entertainment headline from THIS WEEK","dek":"Two fun sentences. Must be recent news, not older than 7 days.","url":"real url","source":"outlet"}},"genZ":{{"type":"word","term":"current term","definition":"What it means.","usage":"Example sentence.","url":"","source":""}},"tldr":"Two sentence summary of today."}}
-
-          Rules: real URLs from search, dry wit, no HTML in strings, pop culture max 7 days old, fill all market values with actual numbers."""
+Rules: use real URLs from search results, dry wit, no HTML in strings, pop culture must be from this week, fill all market numbers with actual values."""
 
           payload = {
               "model": "claude-sonnet-4-6",
-              "max_tokens": 4000,
+              "max_tokens": 2500,
               "tools": [{"type": "web_search_20250305", "name": "web_search"}],
               "messages": [{"role": "user", "content": prompt}]
           }
@@ -88,7 +107,6 @@ jobs:
               print(f"HTTP Error {e.code}: {body}")
               sys.exit(1)
 
-          # Extract text from response (skip tool use blocks)
           text_blocks = [b["text"] for b in data.get("content", []) if b.get("type") == "text"]
           if not text_blocks:
               print("ERROR: No text in response")
@@ -108,7 +126,6 @@ jobs:
           print(f"SUCCESS: Brief generated for {today_str}")
           PYEOF
 
-          pip install pytz -q
           python generate.py
 
       - name: Commit updated brief
