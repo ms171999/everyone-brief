@@ -1,187 +1,201 @@
 {
-  "date": "Thursday, March 26, 2026",
+  "date": "Friday, March 27, 2026",
   "headlines": [
     {
-      "text": "Israel kills Iran's IRGC Navy chief who oversaw Strait of Hormuz blockade",
-      "tag": "💥"
+      "text": "Trump extends Iran deadline again — gives Tehran until April 6 to open Strait of Hormuz or face energy strikes",
+      "tag": "💣"
     },
     {
-      "text": "Trump warns Iran to 'get serious soon' as White House and Tehran give contradictory accounts of peace talks",
-      "tag": "🕊️"
-    },
-    {
-      "text": "DHS shutdown drags on as Senate impasse threatens airport closures nationwide",
+      "text": "Senate passes DHS funding bill at 2am, excluding ICE and Border Patrol — heads to House with uncertain future",
       "tag": "✈️"
     },
     {
-      "text": "S&P 500, Dow, Nasdaq all slide as oil surges above $93 on renewed Iran war fears",
+      "text": "Iran's Red Crescent says death toll in Iran now nears 2,000 as US and Israeli strikes intensify",
+      "tag": "⚰️"
+    },
+    {
+      "text": "Brent crude tops $110/barrel as Strait of Hormuz remains effectively closed for nearly four weeks",
+      "tag": "🛢️"
+    },
+    {
+      "text": "Massive 'No Kings' protests planned for tomorrow — organizers say March 28 could be largest single-day protest in US history",
+      "tag": "✊"
+    },
+    {
+      "text": "S&P 500 logs fifth straight week of losses — worst losing streak since Russia invaded Ukraine in 2022",
       "tag": "📉"
     },
     {
-      "text": "Gas prices hit $3.98 national average — highest since 2022 — and still climbing",
+      "text": "Iran's IRGC navy commander killed in Israeli airstrike, Israel vows to 'intensify and expand' attacks",
+      "tag": "🎯"
+    },
+    {
+      "text": "Project Hail Mary breaks records with $80.5M opening weekend — Ryan Gosling delivers biggest non-franchise debut since Oppenheimer",
+      "tag": "🚀"
+    },
+    {
+      "text": "Philippines declares state of emergency over energy crisis as diesel and petrol prices more than double since Iran war began",
       "tag": "⛽"
     },
     {
-      "text": "BTS drops album 'ARIRANG,' sells nearly 4 million copies in first day, kicks off world tour",
+      "text": "BTS drops comeback album 'Arirang' and free Seoul concert after military service hiatus — K-pop chaos resumes",
       "tag": "🎤"
-    },
-    {
-      "text": "Trump holds 11th Cabinet meeting; approval rating sits at 38% amid Iran war and DHS chaos",
-      "tag": "🏛️"
-    },
-    {
-      "text": "CPAC 2026 kicks off in Grapevine, Texas with Iran war fractures and 2026 midterms looming",
-      "tag": "🎪"
-    },
-    {
-      "text": "X (Twitter) suffers global outage as users report feeds not loading, login failures worldwide",
-      "tag": "🐦"
-    },
-    {
-      "text": "North Korea's Kim Jong Un and Belarus's Lukashenko sign friendship treaty in Pyongyang",
-      "tag": "🤝"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "BREAKING: Israel kills Iran's IRGC Navy commander Alireza Tangsiri in airstrike; oil spikes, indirect US-Iran talks ongoing via Pakistan",
-    "url": "https://www.cnn.com/2026/03/26/world/live-news/iran-war-us-israel-trump"
+    "text": "BREAKING: Israel strikes Iran's Arak nuclear facility Friday evening as IDF issues evacuation warnings to nearby civilians",
+    "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-oil-tanker-israel/"
   },
   "stories": [
     {
-      "tag": "iran war - day 27",
+      "tag": "iran war - day 28",
       "tagType": "fire",
-      "hed": "Israel kills Iran's navy chief; Trump tells Tehran to 'get serious or else'",
-      "dek": "Israel assassinated Alireza Tangsiri, the IRGC admiral who dreamed up the Strait of Hormuz blockade, in an airstrike this morning — which is one way to end a meeting. Meanwhile Trump posted on Truth Social that Iran needs to 'get serious soon, before it is too late,' while the White House says talks are 'productive' and Tehran says talks literally do not exist. Pakistan, bless its heart, confirmed it's the intermediary, which means diplomacy is currently a game of telephone with nukes on the table.",
-      "url": "https://www.cnn.com/2026/03/26/world/live-news/iran-war-us-israel-trump",
+      "hed": "Trump Gives Iran 10 More Days — The Dealmaker Who Doesn't Want a Deal",
+      "dek": "Trump extended his Strait of Hormuz deadline to April 6, saying talks are going 'very well' while Iran says they are 'not negotiating.' Somewhere in the middle, Pakistan is playing telephone between two countries who both claim not to be talking. The IRGC navy chief is dead, Israel vows to escalate, and Iran just started charging ships $2 million each to maybe not get blown up in the world's most expensive toll lane.",
+      "url": "https://www.cnn.com/2026/03/27/world/live-news/iran-war-us-israel-trump",
       "source": "CNN",
       "chips": [
-        "Hormuz blockade",
-        "Kharg Island threat",
-        "15-point peace plan rejected",
-        "Pakistan intermediary",
-        "OECD: +1.2% inflation globally"
+        "Strait of Hormuz",
+        "Arak strike",
+        "peace proposal",
+        "oil prices"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Kim Jong Un and Lukashenko sign friendship treaty in Pyongyang as the world burns elsewhere",
-      "dek": "North Korea and Belarus formalized a friendship and cooperation treaty today, which is exactly the kind of geopolitical alliance that makes everyone else's threat assessment spreadsheets longer. South Korea, meanwhile, unveiled its first mass-produced KF-21 fighter jet — its answer to the question nobody asked out loud.",
-      "url": "https://www.justsecurity.org/134974/early-edition-march-26-2026/",
-      "source": "Just Security",
+      "hed": "Philippines Declares Energy Emergency as Iran War Doubles Fuel Prices Overnight",
+      "dek": "The Philippines became the first country to declare a state of emergency due to the global energy crisis, with diesel and petrol prices more than doubling since the US-Israel war on Iran began. Hundreds marched through Manila on Friday protesting soaring fuel costs, a preview of what economists warn could spread to dozens of import-dependent nations.",
+      "url": "https://www.cnn.com/2026/03/27/world/live-news/iran-war-us-israel-trump",
+      "source": "CNN",
       "chips": [
-        "Kim-Lukashenko pact",
-        "South Korea KF-21 jet",
-        "Trump-Xi summit rescheduled May 14-15"
+        "energy crisis",
+        "Philippines",
+        "food prices",
+        "global fallout"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "DHS shutdown grinds on: TSA losing officers, airport wait times hit 4.5 hours, senators still arguing",
-      "dek": "The Department of Homeland Security has now been shut down for over 40 days and TSA has lost more than 480 officers, with some airports seeing 40-50% workforce callout rates. Senate Majority Leader Thune said talks are 'going in circles' while Congress prepares to leave for a two-week Easter recess — a bold move.",
-      "url": "https://www.cbsnews.com/live-updates/dhs-shutdown-2026-senate-funding-deal/",
-      "source": "CBS News",
+      "hed": "Senate Passes DHS Funding at 2am — TSA Workers May Finally Get Paid After 42 Days",
+      "dek": "In a voice vote at 2:20am, the Senate unanimously passed a bill to fund most of DHS — including the TSA and Coast Guard — while leaving out ICE and Border Patrol funding that Democrats refused to support. The bill now heads to a House Freedom Caucus that has already called it 'bad' and 'offensive,' so buckle up.",
+      "url": "https://www.nbcnews.com/politics/congress/senate-agrees-fund-dhs-ice-border-patrol-bid-shutdown-tsa-pay-delays-rcna265108",
+      "source": "NBC News",
       "chips": [
-        "TSA officer shortage",
-        "Airport closures threatened",
-        "SAVE America Act",
-        "Easter recess looming"
+        "DHS shutdown",
+        "TSA",
+        "ICE",
+        "42 days"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Trump's approval at 38% as polls show 59% of Americans say Iran war was a mistake",
-      "dek": "New polls from Quinnipiac, AP-NORC, and Pew all agree: the Iran war is broadly unpopular, with 54% of registered voters opposing military action and Trump's foreign policy approval hitting a low of 34%. His overall approval sits at 38%, which is deeply underwater but apparently stable, like a submarine nobody asked to be on.",
-      "url": "https://www.cnn.com/2026/03/26/politics/live-news/trump-administration-latest-news",
-      "source": "CNN Politics",
+      "hed": "'No Kings' Protests Set for Tomorrow — Could Be Largest Single-Day Demonstration in US History",
+      "dek": "Over 3,000 protests organized by Indivisible and AFL-CIO are planned across all 50 states for Saturday, March 28, fueled by ICE killings, the Iran war, and the DHS shutdown. Organizers expect it to dwarf the 7 million who turned out in October 2025, and cities from Philadelphia to LA are already closing streets.",
+      "url": "https://en.wikipedia.org/wiki/March_2026_No_Kings_protests",
+      "source": "Wikipedia / Indivisible",
       "chips": [
-        "38% approval",
-        "59% say war was wrong",
-        "Quinnipiac poll",
-        "AP-NORC poll"
+        "No Kings",
+        "protest",
+        "Indivisible",
+        "March 28"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Iran says there are no negotiations. The White House says talks are 'productive.' Someone is lying, and oil traders are betting on both.",
-      "dek": "Tehran's foreign minister says Iran 'does not plan on any negotiations' while Karoline Leavitt holds a daily briefing insisting talks are happening and productive. Oil spiked 3.8% on the confusion alone. At this point the Strait of Hormuz is closed, gas is nearly $4 a gallon, GOP hawks are demanding war details, and the five-day pause on energy infrastructure strikes expires Saturday — so buckle up.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/26/iran-war-live-us-demands-tehran-accept-defeat-israel-pounds-lebanon",
-      "source": "Al Jazeera",
+      "hed": "Oil Trading Surged Minutes Before Trump Announced 'Productive' Iran Talks — Coincidence Is Working Hard Today",
+      "dek": "Multiple reports flagged a suspicious spike in oil trading activity in the minutes before Trump posted his Truth Social announcement claiming Iran talks were going well — a pattern observers noted has occurred more than once during the war. Markets have whipsawed on every Trump diplomatic signal, creating an unusually lucrative environment if you happened to know what was coming.",
+      "url": "https://www.democracynow.org/2026/3/27/headlines",
+      "source": "Democracy Now!",
       "chips": [
-        "Iran rejects 15-point plan",
-        "5-day strike pause expires Saturday",
-        "Oil +3.8% today",
-        "Trump: 'no turning back'"
+        "market manipulation",
+        "oil trading",
+        "Trump",
+        "Iran"
+      ]
+    },
+    {
+      "tag": "cpac 2026",
+      "tagType": "us",
+      "hed": "CPAC Opens in Texas With a Notably Anxious Vibe — Trump Isn't Even Showing Up",
+      "dek": "Day one of the Conservative Political Action Conference in Grapevine, Texas featured wall-to-wall Trump praise, but attendees told reporters the MAGA movement is quietly fractured over the Iran war, Epstein files, and a growing enthusiasm gap with Democrats. Trump skipped the event for the first time since 2016.",
+      "url": "https://www.cnn.com/2026/03/26/politics/cpac-2026-takeaways-day-1",
+      "source": "CNN",
+      "chips": [
+        "CPAC",
+        "Trump",
+        "MAGA",
+        "Iran war"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "6,548",
-      "chg": "-0.65%",
+      "val": "6,477",
+      "chg": "-1.74%",
       "dir": "down"
     },
     "dow": {
-      "val": "46,353",
-      "chg": "-0.16%",
+      "val": "45,960",
+      "chg": "-1.01%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "21,705",
-      "chg": "-1.03%",
+      "val": "21,408",
+      "chg": "-2.38%",
       "dir": "down"
     },
     "wti": {
-      "val": "$93",
-      "chg": "+3.6%",
+      "val": "$94",
+      "chg": "+4.6%",
       "dir": "up"
     },
     "brent": {
-      "val": "$106",
-      "chg": "+3.8%",
+      "val": "$110",
+      "chg": "+3.0%",
       "dir": "up"
     },
     "gold": {
-      "val": "$4,428",
-      "chg": "-2.1%",
-      "dir": "down"
+      "val": "$4,421",
+      "chg": "+0.9%",
+      "dir": "up"
     },
     "btc": {
-      "val": "$69,463",
-      "chg": "-2.6%",
+      "val": "$68,912",
+      "chg": "-2.9%",
       "dir": "down"
     },
-    "context": "Markets slid as Iran rejected the US 15-point peace plan and oil surged above $93 WTI, erasing Wednesday's ceasefire-hope rally and reminding investors that hope is not a hedging strategy.",
-    "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-slide-as-wall-street-weighs-prospects-for-iran-truce-225159013.html",
-    "source": "Yahoo Finance"
+    "context": "Markets logged their fifth straight week of losses — worst streak since Russia invaded Ukraine — as the Strait of Hormuz stayed shut, Brent crude topped $110, and China opened a trade probe against the US, making stagflation feel less hypothetical by the hour.",
+    "url": "https://www.cnbc.com/2026/03/26/stock-market-today-live-updates.html",
+    "source": "CNBC"
   },
   "gas": {
     "avg": "$3.98",
-    "note": "Gas is nearly $4 a gallon — which means your road trip is now a moral dilemma with cup holders.",
-    "premium": "$4.72",
-    "wti": "$93",
-    "highState": "CA: $5.54",
-    "lowState": "OK: $3.26",
-    "url": "https://gasprices.aaa.com/",
+    "note": "Gas is now $1 more than it was a month ago, which means you are paying Iran's war budget one tank at a time.",
+    "premium": "$4.75",
+    "wti": "$94",
+    "highState": "CA: $4.81",
+    "lowState": "OK: $2.79",
+    "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "BTS is back: 'ARIRANG' sells 4 million copies in a day as the world's biggest boy band ends its 4-year hiatus",
-    "dek": "BTS performed their first full-group concert in nearly four years at Seoul's Gwanghwamun Square on March 21, streaming live on Netflix in 190 countries while RM performed from a chair after spraining his ankle at rehearsal — very method. Their new album 'ARIRANG' sold nearly 4 million copies on day one and their upcoming world tour is projected to rival Taylor Swift's Eras Tour in revenue.",
-    "url": "https://www.cnbc.com/2026/03/21/kpop-supergroup-bts-shuts-down-central-seoul-for-comeback-concert.html",
-    "source": "CNBC"
+    "hed": "Project Hail Mary Launches Ryan Gosling Into the Stratosphere With $80.5M Opening — Biggest Non-Franchise Debut Since Oppenheimer",
+    "dek": "The Ryan Gosling sci-fi epic adapted from Andy Weir's novel opened to $80.5 million domestically, a record for Amazon MGM and the best non-franchise opening since Oppenheimer. Directed by the Lego Movie duo Phil Lord and Christopher Miller, 83% of audiences said they'd 'definitely recommend' it — which in 2026 is essentially a presidential approval rating most people can only dream of.",
+    "url": "https://www.boston.com/culture/entertainment/2026/03/22/box-office-project-hail-mary-blasts-off-with-80-5-million-a-best-for-amazon-mgm-and-the-year/",
+    "source": "Boston.com / AP"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "Tung Tung Tung Sahur (Triple-T)",
-    "definition": "An Italian brainrot character — a creepy, sentient Indonesian wooden plank that makes a repetitive drumming noise — that has taken over TikTok in March 2026. The humor comes from inserting Triple-T into serious or mundane situations where it absolutely does not belong, like a horror movie villain who is also somehow annoying.",
-    "usage": "Trump: 'Iran is negotiating.' Iran: 'We are not negotiating.' The Strait of Hormuz: *Tung Tung Tung Sahur intensifies*",
-    "url": "",
-    "source": ""
+    "term": "Tung Tung Tung Sahur filter",
+    "definition": "A viral TikTok filter and meme character from the Italian brainrot craze — an unsettling anthropomorphic wooden plank from Indonesian culture that randomly intrudes on normal activities like going to the gym or finishing an assignment, backed by a creepy repetitive drumbeat. It's funny because the sheer randomness of a haunted plank showing up during mundane tasks perfectly captures the feeling of 2026.",
+    "usage": "Me trying to negotiate the price of gas down to $3 when Tung Tung Tung Sahur shows up in the Strait of Hormuz and starts charging $2 million for safe passage.",
+    "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
+    "source": "Epidemic Sound"
   },
-  "tldr": "Day 27 of the Iran war: Israel killed the IRGC navy chief, Iran rejected America's 15-point peace plan, oil spiked above $93, and Trump is threatening escalation while simultaneously insisting talks are going great — a vibe that sent stocks down and gas prices to $3.98 nationally. On the home front, the DHS has been shut down so long that TSA is actively warning Congress it may have to close airports, which is one way to make a point."
+  "tldr": "Day 28 of the Iran war: Trump extended his Strait of Hormuz deadline again, Israel struck a nuclear facility, oil hit $110, markets had their worst week since Russia invaded Ukraine, and the Senate passed a DHS funding bill at 2am that the House Freedom Caucus promptly called offensive — all while 3,000 'No Kings' protests are loading up for tomorrow. Perfectly normal Friday."
 }
