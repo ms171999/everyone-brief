@@ -90,7 +90,7 @@ Return this exact JSON structure filled with real current data:
   "tldr": "two sentence summary of today"
 }
 
-Rules: fill ALL placeholder values with real data from your search. Real URLs only. Dry wit. No HTML in strings. Pop culture max 7 days old. Market numbers must be actual current values."""
+Rules: fill ALL placeholder values with real data from your search. Real URLs only. Dry wit. No HTML in strings. Pop culture max 7 days old. Market numbers must be actual current values. IMPORTANT: Use only straight ASCII quotes in your JSON. Do not use smart quotes or curly apostrophes."""
 
 payload = {
     "model": "claude-sonnet-4-6",
@@ -129,7 +129,32 @@ raw = raw.replace("```json", "").replace("```", "").strip()
 
 start = raw.index("{")
 end = raw.rindex("}") + 1
-brief = json.loads(raw[start:end])
+json_str = raw[start:end]
+
+# Try parsing directly first
+try:
+    brief = json.loads(json_str)
+except json.JSONDecodeError as e:
+    print("First parse failed: " + str(e))
+    print("Attempting repair...")
+
+    # Remove control characters that break JSON
+    import re
+    json_str = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', json_str)
+
+    # Replace curly single quotes with straight ones
+    json_str = json_str.replace('\u2018', "'").replace('\u2019', "'")
+    json_str = json_str.replace('\u201c', '"').replace('\u201d', '"')
+
+    # Try again after repair
+    try:
+        brief = json.loads(json_str)
+    except json.JSONDecodeError as e2:
+        print("Second parse failed: " + str(e2))
+        print("Raw JSON around error:")
+        char = e2.pos
+        print(repr(json_str[max(0,char-100):char+100]))
+        sys.exit(1)
 
 with open("brief-data.json", "w") as f:
     json.dump(brief, f, indent=2, ensure_ascii=False)
