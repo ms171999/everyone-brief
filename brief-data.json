@@ -1,187 +1,104 @@
 {
-  "date": "Saturday, March 28, 2026",
+  "date": "Wednesday, March 25, 2026",
   "headlines": [
-    {
-      "text": "Houthis fire first ballistic missile at Israel, officially entering the Iran war on Day 29",
-      "tag": "🚀"
-    },
-    {
-      "text": "'No Kings' protests erupt across all 50 states — organizers claim it could be the biggest in U.S. history",
-      "tag": "✊"
-    },
-    {
-      "text": "Israel escalates strikes on Iranian nuclear sites and industrial plants",
-      "tag": "💥"
-    },
-    {
-      "text": "Trump extends Iran's Strait of Hormuz deadline 10 more days to April 6, calls talks 'very well'",
-      "tag": "⏳"
-    },
-    {
-      "text": "Dow and Nasdaq enter correction territory as Wall Street logs fifth straight losing week",
-      "tag": "📉"
-    },
-    {
-      "text": "National gas average hits $3.98 — up a full dollar in a single month",
-      "tag": "⛽"
-    },
-    {
-      "text": "Rubio at G7 in France struggles to sell allies on U.S. Iran war strategy",
-      "tag": "🤝"
-    },
-    {
-      "text": "Tiger Woods arrested for DUI in Jupiter, Florida — mug shot released",
-      "tag": "🏌️"
-    },
-    {
-      "text": "'Project Hail Mary' starring Ryan Gosling holds strong at box office in second weekend",
-      "tag": "🎬"
-    },
-    {
-      "text": "Saudi Arabia intercepts ballistic missile aimed at Riyadh; Kuwait airport radar damaged by drone strike",
-      "tag": "🛡️"
-    }
+    { "text": "U.S. sends Iran 15-point ceasefire plan via Pakistan", "tag": "🌍" },
+    { "text": "Pentagon deploying up to 3,000 troops to Middle East", "tag": "🪖" },
+    { "text": "Ukraine launches record 389-drone overnight attack on Russia", "tag": "🇺🇦" },
+    { "text": "Philippines declares national energy emergency over Iran war", "tag": "⚡" },
+    { "text": "Lebanon expels Iran's ambassador", "tag": "🇱🇧" },
+    { "text": "DHS shutdown tops 1 month; Senate blocks bill again 47–37", "tag": "🏛️" },
+    { "text": "Meta ordered to pay $375M in New Mexico child safety verdict", "tag": "⚖️" },
+    { "text": "Disney kills $1B OpenAI/Sora deal", "tag": "🎬" },
+    { "text": "Shaq's alleged Sabrina Carpenter DMs go viral; Shaq denies", "tag": "🏀" },
+    { "text": "Democrat flips Florida state house seat in Mar-a-Lago district", "tag": "🗳️" }
   ],
   "breaking": {
     "show": true,
-    "text": "Houthis confirm first missile strike on Israel — ballistic missile intercepted over occupied West Bank",
-    "url": "https://www.cnn.com/2026/03/28/world/live-news/iran-war-us-israel-trump"
+    "text": "Vance and Rubio leading Iran ceasefire negotiations; Hegseth reportedly 'disappointed' a deal is even being discussed.",
+    "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26"
   },
   "stories": [
     {
-      "tag": "iran war - day 29",
+      "tag": "iran war · day 25",
       "tagType": "fire",
-      "hed": "Houthis Finally Show Up to the Party, Houthi-Style",
-      "dek": "Yemen's Iran-backed Houthi rebels launched their first ballistic missile at Israeli military sites, officially widening the war to a fourth front. Meanwhile Israel threatened to 'escalate and expand' strikes on Tehran, and Trump — ever the dealmaker — extended his own deadline for the third time.",
-      "url": "https://www.cnn.com/2026/03/28/world/live-news/iran-war-us-israel-trump",
+      "hed": "U.S. Sends Peace Plan, Hegseth Unhappy About It, Iran Keeps Firing",
+      "dek": "Vance and Rubio are now leading ceasefire talks; Trump says Iran is willing to listen to 'sustainable' proposals. Hegseth and the Joint Chiefs were reportedly 'quite disappointed' a deal is even on the table. Israel is mobilizing 400,000 reserves anyway. Totally fine.",
+      "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
       "source": "CNN",
-      "chips": [
-        "Houthis",
-        "Israel strikes Iran",
-        "Hormuz deadline",
-        "1,900+ killed"
-      ]
+      "chips": ["3,000 troops deploying", "Philippines declares emergency", "Lebanon expels Iran envoy"]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Rubio Flies to France, G7 Allies Decline to Co-Sign U.S. Iran War",
-      "dek": "Secretary of State Marco Rubio met with G7 foreign ministers at a 12th-century abbey outside Paris, where almost every ally has raised objections to U.S. strategy in Iran. The group photo was taken in silence — which, diplomatically speaking, says everything.",
-      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-hormuz-markets-israel-tehran-rcna265440",
-      "source": "NBC News",
-      "chips": [
-        "G7",
-        "Rubio",
-        "NATO",
-        "diplomacy"
-      ]
+      "hed": "Ukraine Launches Largest-Ever Drone Attack on Russia — 389 Overnight",
+      "dek": "The biggest reported drone assault on Russian territory since the war began — hitting 13 regions plus Crimea. Meanwhile Russia is sharing intelligence with Iran, filling its war chest with oil windfalls, and prepping a spring offensive. Everything is fine.",
+      "url": "https://www.justsecurity.org/134848/early-edition-march-25-2026/",
+      "source": "Just Security / AP",
+      "chips": ["Largest drone strike of war", "Russia-Iran intel sharing confirmed"]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Millions March in 'No Kings' Protests Nationwide — and Abroad",
-      "dek": "More than 3,100 'No Kings' demonstrations are underway across the U.S. today, with Bruce Springsteen performing at the flagship rally in Minnesota and two-thirds of RSVPs coming from outside major cities. Even Madrid and Paris got in on it, because apparently nobody likes this.",
-      "url": "https://www.cnn.com/2026/03/28/us/live-news/no-kings-protests-03-28-26",
-      "source": "CNN",
-      "chips": [
-        "No Kings",
-        "protests",
-        "Springsteen",
-        "anti-Trump"
-      ]
+      "hed": "DHS Shutdown Hits One Month; TSA Lines Growing Into Spring Break",
+      "dek": "Senate blocked the funding bill again, 47–37. Thune threatened to cancel Easter recess. TSA wait times are ballooning right as spring break travel peaks. A new DHS chief was just sworn in, which is fun, because the department still has no money.",
+      "url": "https://www.democracynow.org/2026/3/25/headlines",
+      "source": "Democracy Now",
+      "chips": ["Easter recess threatened", "Spring break travel chaos"]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Democrats Accuse Trump of Engineering 2026 Midterms With 'SAVE America Act' Voter ID Push",
-      "dek": "Trump is pushing the renamed SAVE America Act — a voter ID bill requiring proof of citizenship to register — and told House Republicans it will 'guarantee the midterms.' Democrats see a master plan; Republicans see a messaging win; voters see a very long line at the DMV.",
-      "url": "https://www.cnn.com/2026/03/28/politics/save-act-2026-midterm-election-democrats-analysis",
-      "source": "CNN Politics",
-      "chips": [
-        "SAVE Act",
-        "voter ID",
-        "midterms",
-        "2026 elections"
-      ]
+      "hed": "Meta Hit with $375M Verdict; Democrat Flips Mar-a-Lago District",
+      "dek": "A New Mexico jury found Meta negligent in protecting minors from predators — $375M. Separately, a Democrat flipped a Florida state house seat that literally includes Trump's Mar-a-Lago home. Two pieces of news that will live rent-free in Zuckerberg's and Trump's heads all week.",
+      "url": "https://deadline.com/",
+      "source": "Deadline / Democracy Now",
+      "chips": ["Meta child safety verdict", "FL Mar-a-Lago district flipped"]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Oil Just Hit $100 a Barrel. Wall Street Is Having Its Worst Month Since 2022. And Trump Says Talks Are Going 'Very Well.'",
-      "dek": "WTI crude briefly touched $100 a barrel for the first time since 2022, the S&P 500 just closed out its fifth consecutive losing week, and Iran says there are zero negotiations happening. Other than that, things are going great.",
-      "url": "https://www.techi.com/oil-price-today/",
-      "source": "TECHi / Yahoo Finance",
-      "chips": [
-        "oil at $100",
-        "S&P correction",
-        "Iran rejects talks",
-        "stagflation fears"
-      ]
+      "hed": "Disney Killed Its $1B OpenAI Deal and Shaq's DMs Are Everyone's Problem Now",
+      "dek": "Disney quietly pulled out of its $1B Sora/OpenAI deal — the one Bob Iger personally brokered. Meanwhile Shaq went on his own podcast to read aloud alleged DMs to Sabrina Carpenter and deny them simultaneously. One of these stories will matter more to your group chat.",
+      "url": "https://deadline.com/",
+      "source": "Deadline / TMZ",
+      "chips": ["Sora app shutting down", "Shaq denies Carpenter DMs"]
     }
   ],
   "markets": {
-    "sp500": {
-      "val": "6,368",
-      "chg": "-1.7%",
-      "dir": "down"
-    },
-    "dow": {
-      "val": "45,167",
-      "chg": "-1.7%",
-      "dir": "down"
-    },
-    "nasdaq": {
-      "val": "20,948",
-      "chg": "-2.1%",
-      "dir": "down"
-    },
-    "wti": {
-      "val": "$99.64",
-      "chg": "+5.5%",
-      "dir": "up"
-    },
-    "brent": {
-      "val": "$112.57",
-      "chg": "+4.2%",
-      "dir": "up"
-    },
-    "gold": {
-      "val": "$4,524",
-      "chg": "+2.6%",
-      "dir": "up"
-    },
-    "btc": {
-      "val": "$66,310",
-      "chg": "-3.3%",
-      "dir": "down"
-    },
-    "context": "Stocks logged their fifth straight losing week as WTI briefly topped $100 a barrel and Iran rejected direct peace talks, sending investors fleeing into gold and out of everything else.",
-    "url": "https://finance.yahoo.com/quote/%5EGSPC/history/",
-    "source": "Yahoo Finance"
+    "sp500": { "val": "6,622", "chg": "+0.97%", "dir": "up" },
+    "dow":   { "val": "46,672", "chg": "+1.18%", "dir": "up" },
+    "nasdaq":{ "val": "22,002", "chg": "+1.10%", "dir": "up" },
+    "wti":   { "val": "$87.65", "chg": "-5.0%",  "dir": "down" },
+    "brent": { "val": "$98.31", "chg": "-6.1%",  "dir": "down" },
+    "gold":  { "val": "$4,547", "chg": "+3.3%",  "dir": "up" },
+    "btc":   { "val": "$71,669","chg": "+1.6%",  "dir": "up" },
+    "context": "Markets rallied on Iran peace plan optimism — oil fell hard, stocks and gold surged.",
+    "url": "https://247wallst.com/investing/2026/03/25/stock-market-live-march-25-2026-sp-500-spy-roller-coaster-ride-continues/",
+    "source": "247 Wall St"
   },
   "gas": {
-    "avg": "$3.98",
-    "note": "Up a full dollar in one month — your car is now officially a luxury good.",
-    "premium": "$4.69",
-    "wti": "$99.64",
-    "highState": "CA: $5.53",
-    "lowState": "OK: $3.24",
-    "url": "https://gasprices.aaa.com",
-    "source": "AAA"
+    "avg": "$3.96",
+    "note": "Up $1.02 in March alone — 10th straight weekly increase — and economists say it could wipe out most people's tax refunds. Treat yourself to something nice with the remaining $4.",
+    "premium": "$4.94",
+    "wti": "$87.65",
+    "highState": "CA/HI/WA: >$5.00",
+    "lowState": "Oklahoma: $2.79",
+    "url": "https://www.advisorperspectives.com/dshort/updates/2026/03/24/gas-prices-up-more-than-1-in-march",
+    "source": "Advisor Perspectives"
   },
   "popCulture": {
-    "hed": "Tiger Woods Arrested for DUI in Florida After Crashing His Car",
-    "dek": "Tiger Woods was arrested Friday in Jupiter, Florida after police say he clipped a car and flipped his vehicle — his mug shot was released Saturday morning. It's not the comeback anyone was expecting from a man who survived a near-fatal crash in 2021.",
+    "hed": "Shaq Read His Alleged Sabrina Carpenter DMs Aloud on His Own Podcast",
+    "dek": "Screenshots of alleged messages from Shaq to Sabrina Carpenter went viral. His response: go on The Big Podcast with Shaq and read them aloud while denying they're real. Bold strategy. Separately, Mormon Wives cast reportedly told ABC execs on a recorded call that they had serious concerns about Taylor Frankie Paul — and ABC exec said he 'didn't want to know too much.'",
+    "url": "https://www.tmz.com/",
+    "source": "TMZ / NBC News"
+  },
+  "genZ": {
+    "type": "celeb",
+    "term": "Shaq's Sabrina Carpenter DMs",
+    "definition": "Screenshots of alleged DMs from Shaquille O'Neal to Sabrina Carpenter went massively viral this week. Shaq's response was to go on his own podcast and READ THEM ALOUD while denying they were real. The internet immediately lost its mind.",
+    "usage": "The way Shaq handled those DM allegations is the geopolitical equivalent of Trump saying 'we're in productive talks with Iran' and then Iran firing more missiles.",
     "url": "https://www.tmz.com/",
     "source": "TMZ"
   },
-  "genZ": {
-    "type": "tiktok",
-    "term": "Tung Tung Tung Sahur",
-    "definition": "A deeply cursed Italian brainrot meme featuring an Indonesian wooden plank character that 'strikes' at the most inconvenient moments — mid-workout, mid-assignment, mid-anything. The horror is in the randomness: you're just living your life and then, without warning, Tung Tung Tung Sahur.",
-    "usage": "Me trying to follow Trump's Iran deadline extension timeline: *Tung Tung Tung Sahur enters the chat for the third time this month.*",
-    "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
-    "source": "Epidemic Sound"
-  },
-  "tldr": "Day 29 of the Iran war got messier as Houthis fired their first missile at Israel, WTI oil briefly hit $100 a barrel, and millions of Americans took to the streets in the largest 'No Kings' protest yet — all while Trump extended his own deadline for the third time and called it progress."
+  "tldr": "Iran peace talks are happening but nobody — including Hegseth — seems thrilled about it, and both sides kept shooting anyway. Domestically: DHS still broke, Meta owes $375M, and a Democrat just flipped Mar-a-Lago's backyard."
 }
