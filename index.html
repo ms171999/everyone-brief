@@ -228,10 +228,10 @@ function buildHTML(b){
   </div>`;
   delay+=0.07;
 
-  html+=`<div class="section-div" style="animation-delay:${delay}s">— word / meme / tiktok of the day —</div>`;
+  html+=`<div class="section-div" style="animation-delay:${delay}s">— internet moment of the day —</div>`;
   delay+=0.04;
   const z=b.genZ||{};
-  const typeLabel=z.type&&z.type.toLowerCase().includes('tiktok')?'tiktok trend':z.type&&z.type.toLowerCase().includes('meme')?'meme of the day':'word of the day';
+  const typeLabel=z.type&&z.type.toLowerCase().includes('tiktok')?'🎵 tiktok':z.type&&z.type.toLowerCase().includes('meme')?'💀 meme':z.type&&z.type.toLowerCase().includes('viral')?'🔥 viral':z.type&&z.type.toLowerCase().includes('celeb')?'👀 celebrity moment':'🌐 trending';
   html+=`<div class="genz-bubble" style="animation-delay:${delay}s">
     <div class="tag t-genz">${typeLabel}</div>
     <div class="genz-word">${esc(z.term)}</div>
