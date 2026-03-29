@@ -3,29 +3,54 @@ import urllib.error
 import json
 import os
 import sys
+import time
 from datetime import datetime, timezone, timedelta
+
+def call_api(payload, api_key, max_retries=3):
+    for attempt in range(max_retries):
+        req = urllib.request.Request(
+            "https://api.anthropic.com/v1/messages",
+            data=json.dumps(payload).encode(),
+            headers={
+                "Content-Type": "application/json",
+                "x-api-key": api_key,
+                "anthropic-version": "2023-06-01",
+            },
+            method="POST"
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                return json.loads(resp.read().decode())
+        except urllib.error.HTTPError as e:
+            body = e.read().decode()
+            if e.code == 429:
+                wait = 65 * (attempt + 1)
+                print("Rate limited. Waiting " + str(wait) + "s before retry " + str(attempt + 1) + "/" + str(max_retries))
+                time.sleep(wait)
+            else:
+                print("HTTP Error " + str(e.code) + ": " + body)
+                sys.exit(1)
+    print("ERROR: Max retries exceeded")
+    sys.exit(1)
 
 api_key = os.environ.get("ANTHROPIC_API_KEY")
 if not api_key:
     print("ERROR: ANTHROPIC_API_KEY not set")
     sys.exit(1)
 
-# Pacific time (UTC-7 during daylight saving)
 pacific_offset = timedelta(hours=-7)
 now = datetime.now(timezone.utc) + pacific_offset
 today_str = now.strftime("%A, %B %-d, %Y")
 
-# Iran war day count (started Feb 28, 2026)
 war_start = datetime(2026, 2, 28)
 war_day = (now.replace(tzinfo=None) - war_start).days + 1
+iran_tag = "iran war - day " + str(war_day)
 
 print("Generating brief for " + today_str + " (Iran war day " + str(war_day) + ")")
 
-iran_tag = "iran war - day " + str(war_day)
+prompt = """Today is """ + today_str + """. Search the web for today's news, then return ONLY a JSON object. No markdown, no backticks, no explanation. Start your response with { and end with }. Use only straight ASCII quotes.
 
-prompt = """Today is """ + today_str + """. Search the web for today's news, then return ONLY a JSON object. No markdown, no backticks, no explanation. Start your response with { and end with }.
-
-Search for: top news """ + today_str + """, Iran war update today, US politics today, stock market today, gas prices today, pop culture entertainment news this week, trending TikTok or meme right now.
+Search for: top news """ + today_str + """, Iran war update today, US politics today, stock market today, gas prices today, pop culture entertainment news this week, trending viral moment or meme right now.
 
 Return this exact JSON structure filled with real current data:
 
@@ -80,17 +105,17 @@ Return this exact JSON structure filled with real current data:
     "source": "outlet"
   },
   "genZ": {
-    "type": "tiktok OR meme OR viral OR celeb OR trending — pick whichever fits best",
-    "term": "the specific name of the thing — a meme, a viral moment, a celebrity drama, a TikTok audio, a tweet, whatever is actually being talked about TODAY",
-    "definition": "what it is and why everyone is talking about it, 2 sentences. Must be something that happened or went viral THIS WEEK. Do NOT use generic slang words like delulu, brain rot, rizz, etc.",
-    "usage": "funny example sentence connecting it to today's news or current events",
+    "type": "meme OR tiktok OR viral OR celeb",
+    "term": "specific name of whatever is actually going viral this week",
+    "definition": "what it is and why everyone is talking about it, 2 sentences. Must be from this week. Not basic slang.",
+    "usage": "funny example applying it to today's news",
     "url": "",
     "source": ""
   },
   "tldr": "two sentence summary of today"
 }
 
-Rules: fill ALL placeholder values with real data from your search. Real URLs only. Dry wit. No HTML in strings. Pop culture max 7 days old. Market numbers must be actual current values. IMPORTANT: Use only straight ASCII quotes in your JSON. Do not use smart quotes or curly apostrophes."""
+Rules: real URLs only, dry wit, no HTML in strings, pop culture max 7 days old, fill all market numbers with actual values."""
 
 payload = {
     "model": "claude-sonnet-4-6",
@@ -99,24 +124,7 @@ payload = {
     "messages": [{"role": "user", "content": prompt}]
 }
 
-req = urllib.request.Request(
-    "https://api.anthropic.com/v1/messages",
-    data=json.dumps(payload).encode(),
-    headers={
-        "Content-Type": "application/json",
-        "x-api-key": api_key,
-        "anthropic-version": "2023-06-01",
-    },
-    method="POST"
-)
-
-try:
-    with urllib.request.urlopen(req, timeout=120) as resp:
-        data = json.loads(resp.read().decode())
-except urllib.error.HTTPError as e:
-    body = e.read().decode()
-    print("HTTP Error " + str(e.code) + ": " + body)
-    sys.exit(1)
+data = call_api(payload, api_key)
 
 text_blocks = [b["text"] for b in data.get("content", []) if b.get("type") == "text"]
 if not text_blocks:
@@ -131,30 +139,18 @@ start = raw.index("{")
 end = raw.rindex("}") + 1
 json_str = raw[start:end]
 
-# Try parsing directly first
+import re
+json_str = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', json_str)
+json_str = json_str.replace('\u2018', "'").replace('\u2019', "'")
+json_str = json_str.replace('\u201c', '"').replace('\u201d', '"')
+
 try:
     brief = json.loads(json_str)
 except json.JSONDecodeError as e:
-    print("First parse failed: " + str(e))
-    print("Attempting repair...")
-
-    # Remove control characters that break JSON
-    import re
-    json_str = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', '', json_str)
-
-    # Replace curly single quotes with straight ones
-    json_str = json_str.replace('\u2018', "'").replace('\u2019', "'")
-    json_str = json_str.replace('\u201c', '"').replace('\u201d', '"')
-
-    # Try again after repair
-    try:
-        brief = json.loads(json_str)
-    except json.JSONDecodeError as e2:
-        print("Second parse failed: " + str(e2))
-        print("Raw JSON around error:")
-        char = e2.pos
-        print(repr(json_str[max(0,char-100):char+100]))
-        sys.exit(1)
+    print("Parse failed: " + str(e))
+    char = e.pos
+    print("Context: " + repr(json_str[max(0,char-100):char+100]))
+    sys.exit(1)
 
 with open("brief-data.json", "w") as f:
     json.dump(brief, f, indent=2, ensure_ascii=False)
