@@ -80,10 +80,10 @@ Return this exact JSON structure filled with real current data:
     "source": "outlet"
   },
   "genZ": {
-    "type": "tiktok",
-    "term": "name of the specific trending TikTok audio, meme format, or viral character right now",
-    "definition": "what it is and why it is funny, 2 sentences. Pick something actually trending this week, NOT basic slang like delulu or brain rot that everyone already knows.",
-    "usage": "funny example sentence applying it to today's news",
+    "type": "tiktok OR meme OR viral OR celeb OR trending — pick whichever fits best",
+    "term": "the specific name of the thing — a meme, a viral moment, a celebrity drama, a TikTok audio, a tweet, whatever is actually being talked about TODAY",
+    "definition": "what it is and why everyone is talking about it, 2 sentences. Must be something that happened or went viral THIS WEEK. Do NOT use generic slang words like delulu, brain rot, rizz, etc.",
+    "usage": "funny example sentence connecting it to today's news or current events",
     "url": "",
     "source": ""
   },
