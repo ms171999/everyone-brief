@@ -1,186 +1,183 @@
 {
-  "date": "Sunday, March 29, 2026",
+  "date": "Tuesday, March 31, 2026",
   "headlines": [
     {
-      "text": "Day 30: Houthis fire missiles at Israel as US-Iran war enters second month with no end in sight",
-      "tag": "💥"
-    },
-    {
-      "text": "Millions join third round of 'No Kings' protests across all 50 states and multiple continents",
-      "tag": "✊"
-    },
-    {
-      "text": "Pakistan, Turkey, Egypt, Saudi Arabia meet in Islamabad to push for Iran ceasefire",
+      "text": "Trump signals willingness to end Iran war even if Strait of Hormuz stays closed, stocks surge",
       "tag": "🕊️"
     },
     {
-      "text": "Iran parliament speaker warns country is bracing for a US ground invasion despite peace talks",
-      "tag": "⚠️"
-    },
-    {
-      "text": "Dow enters correction territory, S&P posts fifth straight losing week — worst streak since 2022",
-      "tag": "📉"
-    },
-    {
-      "text": "Gas prices hit $3.98 national average — up a full dollar in just one month thanks to Iran war",
+      "text": "US gas prices hit $4 a gallon for first time since 2022 as Iran war squeezes global oil supply",
       "tag": "⛽"
     },
     {
-      "text": "Tiger Woods arrested for DUI after rolling his Land Rover near Jupiter Island home, released on bail",
-      "tag": "🏌️"
+      "text": "Israel and US launch new wave of strikes on Isfahan; Hegseth refuses to rule out ground invasion",
+      "tag": "💣"
     },
     {
-      "text": "TSA agents to receive first paychecks Monday after weeks unpaid amid DHS partial shutdown",
-      "tag": "✈️"
+      "text": "Iran strikes Kuwaiti oil tanker off Dubai; parliament votes to toll the Strait of Hormuz",
+      "tag": "🛢️"
     },
     {
-      "text": "Project Hail Mary starring Ryan Gosling opens with massive $80.5M weekend — best for Amazon MGM ever",
+      "text": "China and Pakistan release five-point peace plan calling for immediate ceasefire and open Strait",
+      "tag": "🌏"
+    },
+    {
+      "text": "Supreme Court sides with Christian therapist challenging Colorado conversion therapy ban",
+      "tag": "⚖️"
+    },
+    {
+      "text": "DHS shutdown drags to record 44-plus days as Senate negotiations stall yet again",
+      "tag": "🏛️"
+    },
+    {
+      "text": "Project Hail Mary crosses $300M globally in second weekend, tops 2026 box office",
       "tag": "🚀"
     },
     {
-      "text": "No Kings protesters arrested in downtown LA after crowd tries to tear down fence at federal detention center",
-      "tag": "🚨"
+      "text": "Dow rallies 533 points on Iran peace report; S&P 500 posts best day in weeks to close volatile March",
+      "tag": "📈"
+    },
+    {
+      "text": "Nvidia takes $2 billion stake in Marvell; Warren Buffett tells Becky Quick he sold Apple too soon",
+      "tag": "💻"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "BREAKING: Iran parliament speaker says Iranian forces are preparing for US ground operation on Day 30 of war",
-    "url": "https://www.cnn.com/2026/03/29/world/live-news/iran-war-us-israel-trump"
+    "text": "BREAKING: Hegseth at Pentagon briefing refuses to rule out US ground troops entering Iran",
+    "url": "https://www.cnn.com/2026/03/31/world/live-news/iran-war-us-trump-oil"
   },
   "stories": [
     {
-      "tag": "iran war - day 30",
+      "tag": "iran war - day 32",
       "tagType": "fire",
-      "hed": "Houthis Join War, Diplomats Scramble, Iran Braces for Ground Invasion",
-      "dek": "The US-Iran war hit its one-month mark Sunday with Yemen's Houthis now lobbing missiles at Israel, at least 3,461 people killed in Iran, and foreign ministers from four countries holding emergency talks in Islamabad. Iran's parliament speaker helpfully announced the country is preparing for a US ground assault — which is either a military strategy or a very aggressive way to kill the peace talks.",
-      "url": "https://www.aljazeera.com/news/2026/3/29/us-israel-war-on-iran-whats-happening-on-day-30-of-attacks",
-      "source": "Al Jazeera",
+      "hed": "Trump hints at ending war; Hegseth says boots on ground still on the table",
+      "dek": "The Wall Street Journal reports Trump told aides he is willing to wind down hostilities even with the Strait of Hormuz largely still closed — which sent stocks soaring and oil wavering, because nothing calms markets like ambiguity. Meanwhile Hegseth held his first Pentagon briefing in nearly two weeks and confirmed that, yes, ground troops remain an option, in case Iran needed one more thing to worry about.",
+      "url": "https://www.cnn.com/2026/03/31/world/live-news/iran-war-us-trump-oil",
+      "source": "CNN",
       "chips": [
-        "Houthis enter war",
         "Strait of Hormuz",
-        "Islamabad diplomacy",
-        "ground invasion fears"
+        "Ground invasion?",
+        "Pakistan peace plan",
+        "Gas at $4"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Iran Threatens US University Campuses in Gulf Region Unless Strikes on Iranian Universities Stop",
-      "dek": "Iran's Revolutionary Guard gave the US until March 30 to officially condemn strikes on Iranian universities or face retaliatory attacks on American campuses in Qatar and UAE, where Texas A&M, Northwestern, and NYU all have outposts. Apparently the next campus visit brochure will include a new section on geopolitical risk.",
-      "url": "https://www.cnn.com/2026/03/28/world/live-news/iran-war-us-israel-trump",
-      "source": "CNN",
+      "hed": "China and Pakistan unveil five-point ceasefire plan as Iran parliament votes to toll the Strait",
+      "dek": "Pakistani FM Ishaq Dar flew to Beijing and met with Wang Yi, and together they called for an immediate ceasefire, peace talks, and restoration of Strait of Hormuz passage. Iran's parliament, presumably not reading the same memo, voted to institute a toll on ships transiting the Strait — so peace may cost you.",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-touts-big-day-iran/?id=131532311",
+      "source": "ABC News",
       "chips": [
-        "IRGC threat",
-        "Texas A&M Qatar",
-        "NYU Abu Dhabi"
+        "China-Pakistan initiative",
+        "Hormuz toll",
+        "Diplomacy"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Millions Turn Out for Third 'No Kings' Protest — Arrests Made in LA After Crowd Targets Federal Detention Center",
-      "dek": "More than 3,200 marches took place across all 50 states and several continents on Saturday, with the flagship rally in St. Paul, Minnesota. Robert De Niro, Jane Fonda, and Bruce Springsteen marched in New York. The evening's vibes shifted in LA when a subset of protesters tried to tear down a fence outside a federal detention center and were greeted with tear gas.",
-      "url": "https://abc7.com/post/no-kings-protests-2026-chaos-unfolds-thousands-gathered-downtown-los-angeles-arrests-made/18795848/",
-      "source": "ABC7 Los Angeles",
+      "hed": "Supreme Court backs conversion therapy ban challenge, deals blow to LGBTQ+ protections",
+      "dek": "The Supreme Court ruled Tuesday in favor of a Christian therapist who argued Colorado's ban on conversion therapy for minors violated her First Amendment rights. The decision sets precedent that therapist-patient conversations are constitutionally protected speech, with implications well beyond Colorado.",
+      "url": "https://www.axios.com/",
+      "source": "Axios",
       "chips": [
-        "No Kings protest",
-        "LAPD arrests",
-        "St. Paul flagship",
-        "De Niro marches"
+        "SCOTUS",
+        "First Amendment",
+        "LGBTQ+"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "TSA Workers to Finally Get Paid Monday After Weeks of Working Without Checks During DHS Shutdown",
-      "dek": "After weeks of epic airport lines and unpaid federal screeners, Trump signed an executive order to get TSA agents paid — they should see checks as early as Monday, March 30. The partial government shutdown, which has also kept DHS funding in limbo, has produced the longest TSA wait times in history and a nice bipartisan tradition of everyone pointing fingers at everyone else.",
-      "url": "https://www.cnbc.com/2026/03/26/stock-market-today-live-updates.html",
-      "source": "CNBC",
+      "hed": "DHS shutdown hits record 44-plus days with no deal in sight as TSA lines stretch to infinity",
+      "dek": "Senate negotiations over Homeland Security funding remain deadlocked, with the partial government shutdown now the longest in US history. TSA wait times have hit record highs at major airports during spring break travel, which is a great time to rediscover your love of driving — except gas is now $4 a gallon.",
+      "url": "https://punchbowl.news/",
+      "source": "Punchbowl News",
       "chips": [
         "DHS shutdown",
-        "TSA unpaid",
-        "airport delays",
-        "Trump EO"
+        "TSA delays",
+        "Senate standoff"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Tiger Woods Arrested Again for DUI — Breathalyzer Said 0.00, But He Still Rolled His Land Rover and Refused the Urine Test",
-      "dek": "Tiger Woods, 50, was arrested Friday in Jupiter Island after his Land Rover clipped a truck, rolled over, and left him crawling out the passenger door while appearing 'lethargic.' He blew triple zeroes on the breathalyzer but refused a urine test, suggesting medications may have been involved — the same script as his 2017 arrest. Trump called him a 'very close friend' and said 'some difficulty,' which is doing a lot of heavy lifting as far as statements go.",
-      "url": "https://www.pgatour.com/article/news/latest/2026/03/27/tiger-woods-arrested-dui-after-rollover-car-crash-jupiter-florida",
-      "source": "PGA TOUR / AP",
+      "hed": "Trump tells European allies to go to the Strait of Hormuz and 'just TAKE IT' — diplomacy is doing great",
+      "dek": "With fuel shortages squeezing allies, Trump posted on Truth Social urging countries that need jet fuel to 'build up some delayed courage, go to the Strait, and just TAKE IT,' adding the US 'won't be there to help you anymore.' Spain responded by banning US and Israeli forces from using its military bases, which is one way to RSVP.",
+      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-gas-prices-trump-hormuz-tanker-isfahan-rcna265972",
+      "source": "NBC News",
       "chips": [
-        "Tiger Woods DUI",
-        "Jupiter Island crash",
-        "Masters April 9",
-        "second DUI arrest"
+        "Trump Truth Social",
+        "NATO fracture",
+        "Spain ban"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "6,368",
-      "chg": "-1.67%",
-      "dir": "down"
-    },
-    "dow": {
-      "val": "45,166",
-      "chg": "-1.73%",
-      "dir": "down"
-    },
-    "nasdaq": {
-      "val": "20,948",
-      "chg": "-2.15%",
-      "dir": "down"
-    },
-    "wti": {
-      "val": "$108",
-      "chg": "+7%",
+      "val": "6,442",
+      "chg": "+1.6%",
       "dir": "up"
     },
+    "dow": {
+      "val": "45,815",
+      "chg": "+1.3%",
+      "dir": "up"
+    },
+    "nasdaq": {
+      "val": "21,209",
+      "chg": "+2.0%",
+      "dir": "up"
+    },
+    "wti": {
+      "val": "$102",
+      "chg": "-0.4%",
+      "dir": "down"
+    },
     "brent": {
-      "val": "$112",
-      "chg": "+4.2%",
+      "val": "$107",
+      "chg": "+0.2%",
       "dir": "up"
     },
     "gold": {
-      "val": "$4,522",
-      "chg": "+2.6%",
+      "val": "$4,585",
+      "chg": "+0.6%",
       "dir": "up"
     },
     "btc": {
-      "val": "$66,600",
-      "chg": "-3.6%",
+      "val": "$66,554",
+      "chg": "-0.3%",
       "dir": "down"
     },
-    "context": "Markets posted their fifth straight weekly loss — the longest losing streak since 2022 — as surging oil prices driven by the Iran war and Strait of Hormuz disruptions crushed equities and sent the Dow and Nasdaq into correction territory.",
-    "url": "https://www.cnbc.com/2026/03/26/stock-market-today-live-updates.html",
+    "context": "Stocks rallied sharply after the Wall Street Journal reported Trump told aides he is willing to end the Iran war even if the Strait of Hormuz remains largely closed, giving Wall Street its best day in weeks to close out a brutal March.",
+    "url": "https://www.cnbc.com/2026/03/30/stock-market-today-live-updates.html",
     "source": "CNBC"
   },
   "gas": {
-    "avg": "$3.98",
-    "note": "Up a full dollar in one month — your wallet is doing its own version of the Iran war.",
-    "premium": "$4.79",
-    "wti": "$108",
-    "highState": "CA: $5.62",
-    "lowState": "OK: $3.24",
-    "url": "https://gasprices.aaa.com",
+    "avg": "$4.02",
+    "note": "Congratulations, your commute now costs more than your lunch — and possibly your lunch.",
+    "premium": "$4.85",
+    "wti": "$102",
+    "highState": "CA: $5.87",
+    "lowState": "OK: $3.45",
+    "url": "https://gasprices.aaa.com/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Project Hail Mary Opens to $80.5M — Ryan Gosling Just Proved Movie Stars Still Exist",
-    "dek": "Ryan Gosling's sci-fi adaptation of Andy Weir's beloved novel scored the biggest opening weekend for a non-franchise film since Oppenheimer, shattering records for Amazon MGM. With 83% of audiences saying they would 'definitely recommend' it, Gosling may have just single-handedly saved the theatrical experience — and given everyone a two-hour escape from checking oil prices.",
-    "url": "https://www.boston.com/culture/entertainment/2026/03/22/box-office-project-hail-mary-blasts-off-with-80-5-million-a-best-for-amazon-mgm-and-the-year/",
-    "source": "Boston.com / AP"
+    "hed": "Project Hail Mary tops $300M globally in week two, cementing Ryan Gosling's biggest solo hit ever",
+    "dek": "Ryan Gosling's sci-fi adaptation of Andy Weir's novel crossed $300 million worldwide in its second weekend with a remarkable 32% drop — besting Oppenheimer's second-weekend hold. The film, directed by Phil Lord and Christopher Miller, carries a 95% on Rotten Tomatoes and an A CinemaScore, making it the rare movie that critics, audiences, and your dad all agree on.",
+    "url": "https://variety.com/2026/film/box-office/ryan-gosling-project-hail-mary-second-weekend-they-will-kill-you-flops-1236702142/",
+    "source": "Variety"
   },
   "genZ": {
-    "type": "tiktok",
-    "term": "Don Toliver Call Back dance",
-    "definition": "Don Toliver's 'Call Back' off his Octane album spawned a viral TikTok choreography trend created by @mai world that has taken over For You Pages in late March 2026. Creators across every skill level are jumping in, with the comments full of people tagging friends to learn the smooth, hypnotic routine together.",
-    "usage": "When Iran says 'no direct talks' but then the foreign ministers meet in Islamabad anyway: this is the geopolitical 'Call Back' and nobody learned the steps.",
-    "url": "https://newengen.com/insights/march-2026-tiktok-trends/",
-    "source": "New Engen"
+    "type": "meme",
+    "term": "Tung Tung Tung Sahur",
+    "definition": "A deeply unsettling meme character born from the Italian brainrot craze on TikTok — an animated Indonesian wooden plank that interrupts whatever you are doing with a repetitive, chaotic drumming sound. It has exploded across FYPs in March 2026 as a filter and sound drop used to represent any chaotic intrusion into normal life.",
+    "usage": "Me trying to track the Iran war, gas prices, the DHS shutdown, AND my 401k simultaneously: *Tung Tung Tung Sahur enters the chat*",
+    "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
+    "source": "Epidemic Sound"
   },
-  "tldr": "Day 30 of the US-Iran war arrived with Houthis launching missiles, diplomats speed-dating in Islamabad, and oil prices up 50% since hostilities began — while back home, millions marched in the streets, TSA agents are about to get their first paycheck in weeks, and Tiger Woods once again reminded everyone that his personal life is also a contact sport."
+  "tldr": "The US-Iran war entered its 32nd day with Trump floating an exit even as Hegseth refused to rule out a ground invasion, leaving the world in the diplomatic equivalent of a choose-your-own-adventure with live ordnance. Gas hit $4 a gallon for the first time since 2022, stocks rallied on peace rumors, and Ryan Gosling saved the planet on screen while the rest of us just tried to afford the drive to the theater."
 }
