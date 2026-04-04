@@ -1,137 +1,135 @@
 {
-  "date": "Friday, April 3, 2026",
+  "date": "Saturday, April 4, 2026",
   "headlines": [
     {
-      "text": "US F-15 shot down over Iran; search-and-rescue operation underway in central Iran",
-      "tag": "🛩️"
+      "text": "Iran war enters Week 6: US searches for missing F-15 crew member as strikes hit Bushehr nuclear site perimeter",
+      "tag": "💣"
     },
     {
-      "text": "Trump fires AG Pam Bondi; Todd Blanche named acting attorney general",
+      "text": "Iran fires 23 ballistic missiles and 56 drones at UAE in largest single-day Gulf attack of the war",
+      "tag": "🚀"
+    },
+    {
+      "text": "Trump fires AG Pam Bondi, replaces her with his former personal criminal defense lawyer Todd Blanche",
       "tag": "⚖️"
     },
     {
-      "text": "Hegseth ousts Army Chief of Staff Gen. Randy George and two other senior generals",
-      "tag": "🎖️"
-    },
-    {
-      "text": "Iran strikes desalination plants in Kuwait, UAE, Saudi Arabia, and Bahrain",
-      "tag": "💥"
-    },
-    {
-      "text": "March jobs report: US added 178,000 jobs, beating all forecasts",
-      "tag": "📊"
-    },
-    {
-      "text": "Gas prices hit $4.09 nationally -- first time above $4 in four years",
+      "text": "Gas hits $4.09 national average — first time above $4 since 2022, with California topping $5.89",
       "tag": "⛽"
     },
     {
-      "text": "Tiger Woods bodycam video released; judge grants permission for overseas treatment",
-      "tag": "⛳"
-    },
-    {
-      "text": "Super Mario Galaxy Movie breaks records with $68M global opening day",
+      "text": "Super Mario Galaxy Movie dominates Easter weekend box office with projected $186M+ five-day haul",
       "tag": "🎮"
     },
     {
-      "text": "UK holds talks with 40 nations on Strait of Hormuz; US sits out",
-      "tag": "🌍"
+      "text": "Pentagon budget request hits record $1.5 trillion — largest year-over-year military spending jump since WWII",
+      "tag": "💰"
     },
     {
-      "text": "ActBlue legal memos published by NYT allege platform may have committed federal crimes",
+      "text": "Artemis II crew completes translunar injection burn, four astronauts now en route around the moon",
+      "tag": "🌕"
+    },
+    {
+      "text": "CNN poll: Democrats lead Republicans by 6 points on generic congressional ballot ahead of midterms",
       "tag": "🗳️"
+    },
+    {
+      "text": "Hegseth fires Army Chief of Staff Gen. Randy George and two other top generals with no explanation",
+      "tag": "🎖️"
+    },
+    {
+      "text": "Russia evacuates 198 Rosatom staff from Iran's Bushehr nuclear plant after fourth strike on the site",
+      "tag": "☢️"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "US F-15 fighter jet shot down over Iran; search and rescue underway for crew",
-    "url": "https://edition.cnn.com/2026/04/03/world/live-news/iran-war-us-trump-oil"
+    "text": "LIVE: US still searching for missing F-15 crew member in Iran; UAE intercepts 56 drones and 23 missiles in single day",
+    "url": "https://www.cnn.com/2026/04/04/world/live-news/iran-war-us-trump-oil"
   },
   "stories": [
     {
-      "tag": "iran war - day 35",
+      "tag": "iran war - day 36",
       "tagType": "fire",
-      "hed": "US F-15 Downed Over Iran as Trump Threatens to Destroy 'What's Left'",
-      "dek": "A US F-15 went down over central Iran today -- whether shot down or suffering a bad day mechanically remains unclear -- while Trump posted that the US 'hasn't even started destroying what's left in Iran.' Iran helpfully offered a reward for locals who find the crew, which is one way to do search and rescue.",
-      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-strike-b-1-bridge-tehran-hormuz-israel-rcna266522",
-      "source": "NBC News",
+      "hed": "Two US jets down, Bushehr nuclear plant struck, missing pilot still missing — your regular Saturday in the Middle East",
+      "dek": "The war entered its 6th week with one F-15 crew member rescued and one still missing over Iran, while US-Israeli strikes hit two petrochemical plants in Khuzestan and struck near the Bushehr nuclear site — killing a security guard and prompting Russia to evacuate 198 Rosatom employees. Iran responded by firing 23 ballistic missiles and 56 drones at the UAE in what is shaping up to be the geopolitical equivalent of a food fight at a munitions depot.",
+      "url": "https://www.cnn.com/2026/04/04/world/live-news/iran-war-us-trump-oil",
+      "source": "CNN",
       "chips": [
-        "F-15 downed",
-        "Hormuz blockade",
-        "bridge strike",
-        "Hegseth fires generals"
+        "F-15 crew missing",
+        "Bushehr struck",
+        "UAE barrage",
+        "Hormuz partial opening"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "UK Rallies 40 Nations on Hormuz; US Declines to Attend Its Own War's Cleanup",
-      "dek": "Britain hosted 40 countries to discuss reopening the Strait of Hormuz, through which roughly 20 percent of global oil and LNG flows. The US, which started the war, did not participate, apparently busy tweeting about making a fortune from the oil instead.",
-      "url": "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks",
-      "source": "Al Jazeera",
+      "hed": "Iran partially opens Strait of Hormuz to 'essential goods' — but won't say what counts as essential",
+      "dek": "Tehran announced vessels carrying essential goods may pass through the Strait of Hormuz, which has been effectively closed since the war began, sending a slight signal of de-escalation. The catch: Iran has not defined what qualifies as 'essential,' leaving global shipping in the awkward position of guessing whether their cargo of semiconductors or soybeans makes the cut.",
+      "url": "https://www.cnn.com/2026/04/04/world/live-news/iran-war-us-trump-oil",
+      "source": "CNN",
       "chips": [
         "Strait of Hormuz",
-        "diplomacy",
-        "oil supply"
+        "global shipping",
+        "oil prices"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Bondi Out, Blanche In: Trump Reshuffles DOJ as Epstein Files Loom",
-      "dek": "Trump ousted Attorney General Pam Bondi and installed former personal attorney Todd Blanche as acting AG, with the Epstein files casting a long shadow over the transition. The New York Times simultaneously published confidential ActBlue legal memos suggesting Democrats' biggest fundraising platform may have committed federal crimes.",
-      "url": "https://www.thecipherbrief.com/report/global-intelligence-report-for-friday-april-3-2026",
-      "source": "The Cipher Brief",
+      "hed": "Trump fires AG Pam Bondi, installs his own former criminal defense attorney as acting Attorney General",
+      "dek": "President Trump ousted Pam Bondi as Attorney General and replaced her with Todd Blanche — the same lawyer who defended Trump in his New York criminal hush-money trial — in a move that legal experts described as unprecedented and Democrats described as somewhat on-brand. Bondi was praised effusively in Trump's Truth Social post, which is typically how you find out you've been fired.",
+      "url": "https://www.cnn.com/2026/04/02/politics/pam-bondi-role-trump",
+      "source": "CNN",
       "chips": [
         "Pam Bondi",
         "Todd Blanche",
-        "DOJ",
-        "ActBlue"
+        "DOJ shakeup"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Hegseth Fires Army's Top General and Two Others Mid-War",
-      "dek": "Defense Secretary Pete Hegseth abruptly dismissed Army Chief of Staff Gen. Randy George along with two other senior officers, with no official explanation given. Nothing says wartime confidence like firing your top general on Day 35 of an active conflict.",
-      "url": "https://thehill.com",
-      "source": "The Hill",
+      "hed": "Hegseth fires Army Chief of Staff Gen. Randy George and two other generals — Pentagon offers no reason",
+      "dek": "Defense Secretary Pete Hegseth abruptly dismissed Army Chief of Staff General Randy George along with two other senior generals, offering no public explanation for the firings. The New York Times reports George had recently clashed with Hegseth over blocked promotions for four Army officers — two of whom are Black and two are women — which in Washington is now apparently a fireable offense.",
+      "url": "https://www.npr.org/sections/politics/",
+      "source": "NPR",
       "chips": [
         "Pete Hegseth",
         "Gen. Randy George",
-        "military leadership"
+        "military purge"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump Wants to 'Make a Fortune' Off Iran's Oil While the World Pays $4+ at the Pump",
-      "dek": "Trump posted this morning that the US could 'easily OPEN THE HORMUZ STRAIT, TAKE THE OIL, & MAKE A FORTUNE' -- a statement that landed differently for the 330 million Americans currently paying over $4 a gallon. Gas is up more than $1 since February 26, a 33 percent spike that economists are calling the sharpest one-month increase in recent history.",
-      "url": "https://gasprices.aaa.com/",
-      "source": "AAA",
+      "hed": "Democrats lead the generic ballot by 6 points — but their own favorability is 28 points underwater",
+      "dek": "A new CNN poll shows Democrats with a 6-point edge on the generic congressional ballot, exactly mirroring their 2018 advantage that preceded a 41-seat blue wave. The twist: Democrats are simultaneously polling 28 points underwater on party favorability, suggesting Americans are willing to vote for a party they actively dislike, which is either a damning indictment of Republicans or a very American thing to do.",
+      "url": "https://www.cnn.com/2026/04/03/politics/video/inside-politics-midterm-poll-panel",
+      "source": "CNN",
       "chips": [
-        "gas prices",
-        "Hormuz",
-        "inflation",
-        "Trump"
+        "2026 midterms",
+        "generic ballot",
+        "blue wave"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "6,604",
-      "chg": "-0.3%",
-      "dir": "down"
+      "val": "6,582",
+      "chg": "+0.1%",
+      "dir": "up"
     },
     "dow": {
-      "val": "46,615",
-      "chg": "-0.3%",
+      "val": "46,504",
+      "chg": "-0.1%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "20,850",
-      "chg": "-0.3%",
-      "dir": "down"
+      "val": "21,879",
+      "chg": "+0.2%",
+      "dir": "up"
     },
     "wti": {
       "val": "$111",
@@ -144,42 +142,42 @@
       "dir": "up"
     },
     "gold": {
-      "val": "$4,677",
-      "chg": "+0.04%",
+      "val": "$4,702",
+      "chg": "+0.5%",
       "dir": "up"
     },
     "btc": {
-      "val": "$66,650",
-      "chg": "+0.6%",
-      "dir": "up"
+      "val": "$66,868",
+      "chg": "-2.8%",
+      "dir": "down"
     },
-    "context": "US markets are closed for Good Friday; futures slipped 0.3% after a stronger-than-expected March jobs report reduced Fed cut bets, while oil surged to $111 on the downed F-15 and Trump's escalation threats.",
+    "context": "Markets closed flat for Good Friday as a blowout March jobs report (178K jobs added) and surging oil above $111/barrel from the Iran war kept the Fed on hold and investors on edge.",
     "url": "https://www.cnbc.com",
     "source": "CNBC"
   },
   "gas": {
     "avg": "$4.09",
-    "note": "Filling up a 15-gallon tank now costs $19 more than it did before the war. The Strait of Hormuz is closed; your wallet is too.",
-    "premium": "$4.89",
+    "note": "The Strait of Hormuz is closed, your wallet is open, and the two are directly related.",
+    "premium": "$4.94",
     "wti": "$111",
     "highState": "CA: $5.89",
-    "lowState": "OK: $3.45",
+    "lowState": "OK: $3.27",
     "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Super Mario Galaxy Movie Blasts Off With $68M Global Opening Day, Crushing Its Predecessor",
-    "dek": "The Super Mario Galaxy Movie launched to a record $34.5M domestic opening day on April 1 -- the biggest of 2026 -- and $68.4M worldwide, edging out the original Super Mario Bros. Movie. Critics gave it 43% on Rotten Tomatoes; audiences gave it 91%, which tells you everything about who buys popcorn.",
-    "url": "https://variety.com/2026/film/news/super-mario-galaxy-movie-biggest-opening-day-2026-1236705460/",
-    "source": "Variety"
+    "hed": "The Super Mario Galaxy Movie is dominating Easter weekend with a projected $186M+ five-day domestic opening",
+    "dek": "The Illumination and Universal sequel opened to $59.1M in its first two days domestically, pacing slightly ahead of the original 2023 film that went on to earn $1.36 billion globally. Critics gave it a 42% on Rotten Tomatoes while audiences handed it a 90% — a gap so wide it has its own Yoshi.",
+    "url": "https://deadline.com/2026/04/box-office-super-mario-galaxy-movie-1236771415/",
+    "source": "Deadline"
   },
   "genZ": {
-    "type": "viral",
-    "term": "Skeleton Banging Shield",
-    "definition": "A TikTok meme format featuring a skeleton frantically banging a shield, used to represent chaotic, overwhelming, or absurd situations that you just have to endure. It exploded in early 2026 as one of the first major meme formats of the year, with creators applying it to everything from work stress to global news.",
-    "usage": "Me watching Trump threaten to destroy Iran's power plants while simultaneously tweeting about making a fortune off their oil: [skeleton banging shield at full speed].",
+    "type": "tiktok",
+    "term": "Jon Hamm dance overlay",
+    "definition": "A viral TikTok trend using a clip of Jon Hamm losing himself on a dance floor from the Apple TV+ show 'Your Friends and Neighbors' Season 2, which dropped April 3. Creators overlay the looping dance clip — with transparency lowered for a morph effect — onto mundane personal wins or nostalgic moments, turning everyday mediocrity into an unexpected triumph.",
+    "usage": "POV: You check gas prices, see $4.09 nationally, and remember Oklahoma exists at $3.27. *Jon Hamm dance overlay.*",
     "url": "",
     "source": ""
   },
-  "tldr": "On Good Friday 2026, a US F-15 went down over Iran on Day 35 of the war, Trump fired his attorney general and the Army's top general before breakfast, and gas hit $4.09 nationally. The Super Mario Galaxy Movie opened to a record $68M worldwide, providing the only uncomplicated joy of the week."
+  "tldr": "The US-Iran war entered its sixth week on a busy Saturday, with a missing F-15 pilot, strikes near a nuclear plant, UAE hit by a drone-and-missile barrage, and Iran partially cracking open the Strait of Hormuz — all while Trump fired his Attorney General and replaced her with his old criminal defense lawyer, gas hit $4.09 a gallon, and Mario made $188 million at the movies because people needed to cope somehow."
 }
