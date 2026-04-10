@@ -1,182 +1,183 @@
 {
-  "date": "Thursday, April 9, 2026",
+  "date": "Friday, April 10, 2026",
   "headlines": [
     {
-      "text": "US-Iran ceasefire already shaking: Israel bombs Lebanon killing 250+, Hormuz status murky",
-      "tag": "💣"
+      "text": "Vance flies to Islamabad for high-stakes US-Iran peace talks as ceasefire frays",
+      "tag": "✈️"
     },
     {
-      "text": "Trump warns all US troops stay in Mideast until a 'REAL AGREEMENT' is honored",
-      "tag": "🪖"
+      "text": "Israel kills 300+ in Lebanon 'Black Wednesday' strikes, threatening to blow up Iran deal",
+      "tag": "💥"
     },
     {
-      "text": "Iran accuses US of violating ceasefire on day one; Parliament speaker calls talks 'unreasonable'",
+      "text": "Iran parliament speaker warns 'time is running out' ahead of Pakistan negotiations",
+      "tag": "⏳"
+    },
+    {
+      "text": "March CPI surges to 3.3% — biggest monthly gain since 2022 — as Iran war torches energy prices",
       "tag": "🔥"
     },
     {
-      "text": "House Democrats try war powers resolution to curb Trump's Iran authority at pro forma session",
-      "tag": "🏛️"
+      "text": "House GOP gavels Democrats silent on Iran War Powers vote during pro forma session",
+      "tag": "🔨"
     },
     {
-      "text": "Oil whipsaws: WTI back near $100 as Hormuz closure fears return after brief ceasefire euphoria",
-      "tag": "🛢️"
+      "text": "Stocks rise for 8th straight day; Dow turned positive for 2026 on ceasefire hopes",
+      "tag": "📈"
     },
     {
-      "text": "Democrats romp in Wisconsin Supreme Court race, continue post-2024 overperformance streak",
-      "tag": "🗳️"
-    },
-    {
-      "text": "Former AG Pam Bondi refuses to appear before Congress for April 14 Epstein files deposition",
-      "tag": "📁"
-    },
-    {
-      "text": "Trump threatens to pull out of NATO after meeting with Secretary General Mark Rutte",
-      "tag": "🌐"
-    },
-    {
-      "text": "Gas prices hit $4.12 national average, up over $1 since US-Israel struck Iran in February",
+      "text": "National gas average hits $4.17/gal — first time above $4 since 2022, thanks Iran",
       "tag": "⛽"
     },
     {
-      "text": "Shiloh Jolie-Pitt appears in K-pop star Dayoung music video in quietly cast role",
-      "tag": "🎬"
+      "text": "UK bans Kanye West, cancels entire Wireless Festival rather than replace him",
+      "tag": "🎤"
+    },
+    {
+      "text": "Melania Trump denies Epstein ties in surprise White House appearance",
+      "tag": "👀"
+    },
+    {
+      "text": "TSMC posts 35% Q1 revenue surge on AI chip demand, shares up in premarket",
+      "tag": "💻"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Iran ceasefire in doubt: Hormuz tanker traffic halted again after Israel's Lebanon assault; VP Vance heads to Islamabad for talks Saturday",
-    "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-ceasefire-trump-hormuz-israel-lebanon-rcna267205"
+    "text": "JD Vance departs for Islamabad — US-Iran direct talks begin Saturday",
+    "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074"
   },
   "stories": [
     {
-      "tag": "iran war - day 41",
+      "tag": "iran war - day 42",
       "tagType": "fire",
-      "hed": "US-Iran Ceasefire Cracks on Day One as Israel Bombs Lebanon and Hormuz Closes Again",
-      "dek": "The ink was barely dry on the two-week ceasefire before Israel launched its largest Lebanon attack since Operation Roaring Lion began, killing over 250. Iran responded by halting tanker traffic through Hormuz again, which is either a bold negotiating tactic or proof that 'ceasefire' is doing a lot of heavy lifting as a word.",
-      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-ceasefire-trump-hormuz-israel-lebanon-rcna267205",
-      "source": "NBC News",
+      "hed": "Vance Boards Air Force Two for Islamabad as Israel Bombs Lebanon and the Ceasefire Groans Audibly",
+      "dek": "JD Vance left for Pakistan this morning to lead US-Iran negotiations, joining Witkoff and Jared Kushner — the same duo whose previous Geneva talks were torpedoed when the US started bombing Iran mid-session. Iran's parliament speaker says the ceasefire has already been violated and time is running out, while Netanyahu insists Lebanon is not covered by any deal and is continuing airstrikes there anyway. Trump told NBC he is 'very optimistic,' which is either reassuring or a red flag depending on your risk tolerance.",
+      "url": "https://www.cnn.com/2026/04/10/world/live-news/iran-war-trump-us-ceasefire",
+      "source": "CNN",
       "chips": [
-        "Hormuz",
-        "Lebanon",
-        "Vance Islamabad talks"
+        "Vance in Islamabad",
+        "Lebanon strikes continue",
+        "Strait still blocked",
+        "Iran 10-point demands"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Lebanon Declares Day of National Mourning After Wave of Israeli Strikes Kills 200+",
-      "dek": "Israel's Air Force confirmed its largest Lebanon attack since the war began, with Lebanon's health ministry reporting hundreds killed or wounded. The US and Israel maintain Lebanon is not covered by the Iran ceasefire, a position that is testing the limits of the word 'ceasefire.'",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/9/iran-war-live-israel-kills-254-in-lebanon-shaking-trump-tehran-ceasefire",
-      "source": "Al Jazeera",
+      "hed": "UK Bans Kanye West, Cancels Entire Wireless Festival Rather Than Just Find a New Headliner",
+      "dek": "Britain's Home Office revoked Ye's Electronic Travel Authorization, stating his presence 'would not be conducive to the public good,' and the entire three-day London festival was scrapped rather than book a replacement. PM Keir Starmer said West 'should never have been invited' — a sentiment that apparently also applies to whoever signed the initial contract.",
+      "url": "https://www.rollingstone.com/music/music-news/wireless-festival-canceled-kanye-west-uk-entry-1236710291/",
+      "source": "Rolling Stone",
       "chips": [
-        "Israel",
-        "Hezbollah",
-        "Lebanon mourning"
+        "UK travel ban",
+        "Wireless canceled",
+        "Refunds issued"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Democrats Push War Powers Resolution as Jamie Raskin Briefs Members on 25th Amendment",
-      "dek": "House Minority Leader Hakeem Jeffries called the two-week ceasefire 'woefully insufficient' and moved to force a war powers vote at today's pro forma session. Meanwhile Rep. Jamie Raskin will brief members on the 25th Amendment Friday, which is either routine civics education or something else entirely.",
-      "url": "https://www.cbsnews.com/live-updates/iran-trump-ceasefire-strait-hormuz-israel-war-hezbollah-continues/",
-      "source": "CBS News",
+      "hed": "GOP Speaker Pro Tempore Gavels Democrats Silent the Moment They Tried to Force an Iran War Powers Vote",
+      "dek": "With most of Congress on recess, Maryland Democrat Glenn Ivey attempted to pass an Iran war powers resolution by unanimous consent during a pro forma session. Republican Speaker Pro Tempore Chris Smith gaveled the chamber adjourned approximately one sentence into Ivey's remarks, adjourning until April 13. Democracy: working exactly as designed.",
+      "url": "https://www.democracynow.org/2026/4/10/headlines",
+      "source": "Democracy Now",
       "chips": [
-        "Jeffries",
-        "War Powers",
-        "25th Amendment"
+        "War Powers Act",
+        "Congress on recess",
+        "Iran oversight"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Trump Rips NATO Allies as 'Very Disappointing' After Secretary General Rutte Visit",
-      "dek": "Following a White House meeting with NATO Secretary General Mark Rutte, Trump threatened to pull out of the alliance and blasted allies for not helping with Iran. Rutte argued Europe had in fact helped, which apparently was not the correct answer.",
-      "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-casualties-reported-missile-strikes-israel/?id=131757074",
-      "source": "ABC News",
+      "hed": "March CPI Hits 3.3% as Iran War Sends Gas Past $4 for First Time Since 2022",
+      "dek": "Consumer prices accelerated sharply from February's 2.6% rate as the US-Iran war sent energy costs skyrocketing, and the Federal Reserve now faces a classic stagflation headache. Stocks opened higher anyway because at this point markets have simply dissociated.",
+      "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-open-higher-after-march-cpi-data-shows-surging-energy-costs-230420442.html",
+      "source": "Yahoo Finance",
       "chips": [
-        "NATO",
-        "Trump",
-        "Rutte"
+        "CPI 3.3%",
+        "Energy inflation",
+        "Fed rate watch"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Iran's Parliament Says the US Already Violated Three of Its Ten Ceasefire Conditions Before Talks Even Start",
-      "dek": "Iran's Parliament Speaker Mohammad Bagher Qalibaf declared negotiations 'unreasonable' because the US allegedly broke three clauses of Tehran's 10-point plan before the first round of talks in Islamabad this weekend. At this rate the Islamabad talks may spend most of their time debating what the ceasefire said rather than what comes next.",
-      "url": "https://www.thestreet.com/latest-news/stock-market-today-apr-9-2026-updates",
-      "source": "TheStreet",
+      "hed": "Melania Trump Surfaced at the White House to Deny Knowing Epstein — While the White House Declined to Comment on the Timing",
+      "dek": "In a rare public appearance, First Lady Melania Trump denied past ties to Jeffrey Epstein and said he did not introduce her to Donald Trump. The White House separately declined to comment on why this statement dropped when it did, which is its own kind of comment.",
+      "url": "https://www.pbs.org/newshour/politics/watch-first-lady-melania-trump-denies-any-ties-to-jeffrey-epstein-and-calls-for-survivors-testimony",
+      "source": "PBS NewsHour",
       "chips": [
-        "Qalibaf",
-        "10-point plan",
-        "Islamabad"
+        "Melania statement",
+        "Epstein",
+        "White House timing"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "6,812",
-      "chg": "+0.43%",
+      "val": "6,824",
+      "chg": "+0.3%",
       "dir": "up"
     },
     "dow": {
-      "val": "48,071",
-      "chg": "+0.34%",
+      "val": "48,185",
+      "chg": "+0.3%",
       "dir": "up"
     },
     "nasdaq": {
-      "val": "22,763",
-      "chg": "+0.56%",
+      "val": "22,822",
+      "chg": "+0.3%",
       "dir": "up"
     },
     "wti": {
-      "val": "$99.60",
-      "chg": "+5.5%",
+      "val": "$98",
+      "chg": "+0.7%",
       "dir": "up"
     },
     "brent": {
-      "val": "$102.40",
-      "chg": "+4.8%",
+      "val": "$96",
+      "chg": "+0.4%",
       "dir": "up"
     },
     "gold": {
-      "val": "$4,742",
-      "chg": "+0.45%",
-      "dir": "up"
+      "val": "$4,751",
+      "chg": "-0.3%",
+      "dir": "down"
     },
     "btc": {
-      "val": "$72,318",
-      "chg": "+1.39%",
+      "val": "$72,139",
+      "chg": "+0.9%",
       "dir": "up"
     },
-    "context": "Stocks held narrow gains mid-session as ceasefire optimism battled oil's resurgence above $99, with WTI spiking over 5% on renewed Hormuz closure fears after Israel's Lebanon strikes.",
-    "url": "https://finance.yahoo.com/",
-    "source": "Yahoo Finance"
+    "context": "Markets extended their 8-day rally on ceasefire hopes and in-line CPI data, while oil crept back up as the Strait of Hormuz remained effectively blocked and investors awaited Saturday's Islamabad talks.",
+    "url": "https://www.cnbc.com/2026/04/09/stock-market-today-live-updates.html",
+    "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.12",
-    "note": "Gas is up over a dollar since February — turns out starting a war near 20% of the world's oil supply has consequences at the pump.",
-    "premium": "$4.89",
-    "wti": "$99.60",
-    "highState": "CA: $5.40+",
-    "lowState": "OK: $3.27",
+    "avg": "$4.17",
+    "note": "Congrats: your commute now costs more than your lunch, and lunch isn't cheap either.",
+    "premium": "$4.85",
+    "wti": "$98",
+    "highState": "CA: $5.93",
+    "lowState": "OK: $3.65",
     "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Shiloh Jolie-Pitt Secretly Stars in K-Pop Music Video for Dayoung's 'What's a Girl to Do'",
-    "dek": "Brad and Angelina's 19-year-old daughter Shiloh was quietly cast in K-pop star Dayoung's latest music video, sending the internet into a full spiral. It's the celebrity offspring crossover event nobody saw coming but everyone is absolutely losing their minds over.",
-    "url": "https://www.eonline.com/news",
-    "source": "E! Online"
+    "hed": "UK Bans Kanye West From the Country Entirely, Canceling Wireless Festival and Delivering the Most Decisive Music Industry Verdict of 2026",
+    "dek": "The UK Home Office pulled Ye's travel authorization, citing the public good — forcing the entire three-day festival to cancel rather than find a replacement, with full refunds going out to 150,000 ticket holders. It is the first time a music festival has been nuked not by rain, logistics, or a headliner's demands, but by an actual government ban.",
+    "url": "https://www.rollingstone.com/music/music-news/wireless-festival-canceled-kanye-west-uk-entry-1236710291/",
+    "source": "Rolling Stone"
   },
   "genZ": {
     "type": "viral",
-    "term": "KitKat Heist memes",
-    "definition": "A real European truck robbery in which over 400,000 KitKat bars — roughly 12 tons of chocolate — were stolen in transit, instantly becoming the internet's favorite crime story of the month. The sheer absurdity of a large-scale chocolate heist triggered an avalanche of memes calling it the 'chocolatiest crime in history' across TikTok and Instagram this week.",
-    "usage": "The Iran ceasefire lasted about as long as those KitKat bars survived near a hungry thief — gone before anyone could enjoy it.",
-    "url": "https://napoleoncat.com/blog/trending-memes/",
-    "source": "NapoleonCat"
+    "term": "Loving Life Again trend",
+    "definition": "A TikTok format set to Ella Langley's track where creators lipsync to camera with text overlays about cutting out negativity and returning to things that actually make them happy — it's the post-winter exhale set to music, and it is everywhere on the For You Page this week. Think: less 'girl dinner,' more 'girl renaissance.'",
+    "usage": "POV: you find out Vance is negotiating Iran peace so you don't have to pay $5 a gallon anymore. And just like that, I'm back to loving life again.",
+    "url": "",
+    "source": ""
   },
-  "tldr": "Day 41 of the Iran war brought a ceasefire that began falling apart within hours, as Israel hammered Lebanon, Iran briefly re-closed the Strait of Hormuz, and oil prices snapped back above $99 while confused diplomats booked flights to Islamabad. At home, Democrats pushed a war powers vote, gas hit $4.12 a gallon, and the internet was mostly focused on a chocolate heist."
+  "tldr": "Day 42 of the Iran war: JD Vance flew to Pakistan for make-or-break nuclear negotiations while Israel kept bombing Lebanon and Iran's parliament speaker said the ceasefire was already broken before talks even started. On the home front, gas hit $4.17 a gallon, inflation jumped to 3.3%, and the UK banned Kanye West from the entire country — a rare Friday where the international crisis and the music news felt equally chaotic."
 }
