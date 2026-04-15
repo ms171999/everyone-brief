@@ -1,183 +1,184 @@
 {
-  "date": "Monday, April 13, 2026",
+  "date": "Wednesday, April 15, 2026",
   "headlines": [
     {
-      "text": "U.S. Navy blockade of Iranian ports takes effect at 10 a.m. ET after peace talks collapse in Pakistan",
-      "tag": "⚓"
+      "text": "Trump says Iran war is 'very close to over' as US naval blockade enters Day 3",
+      "tag": "🔥"
     },
     {
-      "text": "Trump threatens to sink Iranian ships that approach the blockade; Iran calls it 'piracy'",
-      "tag": "🚢"
+      "text": "Pakistan army chief flies to Tehran to broker second round of US-Iran peace talks",
+      "tag": "🕊️"
     },
     {
-      "text": "Viktor Orban ousted after 16 years as Hungary's PM; Peter Magyar wins landslide supermajority",
-      "tag": "🇭🇺"
+      "text": "S&P 500 sneaks toward all-time high of 7,002 as markets shrug off war jitters",
+      "tag": "📈"
     },
     {
-      "text": "Oil tops $104 a barrel as Strait of Hormuz blockade rattles global energy markets",
-      "tag": "🛢️"
+      "text": "It's Tax Day: average refund up 11% to $3,500 thanks to Trump's 'One Big Beautiful Bill'",
+      "tag": "🧾"
     },
     {
-      "text": "Pope Leo XIV fires back at Trump: 'I have no fear of the Trump administration'",
-      "tag": "✝️"
+      "text": "Trump threatens to fire Fed Chair Powell if he doesn't leave when his term expires next month",
+      "tag": "🏦"
     },
     {
-      "text": "Rep. Eric Swalwell drops California governor bid after sexual misconduct allegations",
-      "tag": "🏛️"
-    },
-    {
-      "text": "Euphoria Season 3 premieres on HBO — Rue, Zendaya, and chaos are finally back after 4-year hiatus",
-      "tag": "💜"
-    },
-    {
-      "text": "Trump threatens 50% China tariffs if Beijing ships air defense weapons to Iran",
-      "tag": "🇨🇳"
-    },
-    {
-      "text": "UK, France refuse to join U.S. blockade; Macron proposes multinational peaceful mission for Hormuz",
+      "text": "Lebanon and Israel hold first direct diplomatic talks in decades in Washington DC",
       "tag": "🌍"
     },
     {
-      "text": "Goldman Sachs posts near-record quarter but shares fall 4% on disappointing fixed-income trading",
-      "tag": "💰"
+      "text": "Gas prices hit $4.12 national average — highest since August 2022 — thanks to Hormuz blockade",
+      "tag": "⛽"
+    },
+    {
+      "text": "Eric Swalwell faces 5th sexual misconduct allegation; lawmakers call on him to resign from Congress",
+      "tag": "🏛️"
+    },
+    {
+      "text": "Lena Dunham's memoir 'Famesick' out now, spills on Adam Driver chair-throwing and cheating on Jack Antonoff",
+      "tag": "📚"
+    },
+    {
+      "text": "Hampshire College announces it will finally close at end of fall 2026 semester",
+      "tag": "🎓"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "U.S. naval blockade of all Iranian ports now in effect as of 10 a.m. ET. Iran warns no port in the Persian Gulf will be safe.",
-    "url": "https://www.cnn.com/2026/04/13/world/live-news/iran-us-war-trump-hormuz"
+    "text": "CENTCOM: US blockade of Iranian ports 'fully implemented' — Iran threatens to shut down Red Sea shipping in retaliation",
+    "url": "https://www.cnn.com/2026/04/15/world/live-news/iran-war-blockade-us-trump"
   },
   "stories": [
     {
-      "tag": "iran war - day 45",
+      "tag": "iran war - day 47",
       "tagType": "fire",
-      "hed": "U.S. Navy Slams the Door on Iran's Ports as Peace Talks Crater",
-      "dek": "After 21 hours of negotiations in Islamabad went nowhere, the U.S. military began blockading all maritime traffic in and out of Iranian ports at 10 a.m. ET Monday. Trump said any Iranian ships that come near the blockade will be 'immediately eliminated' — a threat Iran's navy chief called 'ridiculous and funny,' which is a very bold thing to say to a man who just mined your coast.",
-      "url": "https://www.cnn.com/2026/04/13/world/live-news/iran-us-war-trump-hormuz",
+      "hed": "Trump Says War 'Very Close to Over' as Blockade Fully Bites and Pakistan Plays Matchmaker Again",
+      "dek": "The US naval blockade is now 'fully implemented,' having turned back six vessels in its first 24 hours, while Iran threatens to shut down Red Sea shipping if it continues. Trump, ever the optimist, says a deal is imminent and that China has pinky-promised not to send Tehran any more weapons.",
+      "url": "https://www.cnn.com/2026/04/15/world/live-news/iran-war-blockade-us-trump",
       "source": "CNN",
       "chips": [
-        "Strait of Hormuz",
-        "Vance Talks",
-        "Oil Prices",
-        "Ceasefire Watch"
+        "Hormuz blockade",
+        "Peace talks",
+        "Pakistan mediating",
+        "Ceasefire expiring"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Hungary Dumps Orban After 16 Years in a Landslide for Democracy",
-      "dek": "Peter Magyar's Tisza party steamrolled Viktor Orban's Fidesz on Sunday, winning a two-thirds supermajority on 53.6% of the vote — the highest Hungarian turnout since the fall of communism. JD Vance had personally campaigned for Orban days before the vote, which should probably go in some kind of endorsement hall of shame.",
-      "url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz",
-      "source": "Al Jazeera",
+      "hed": "Lebanon and Israel Sit Down Together in Washington for First Time in Decades",
+      "dek": "In a genuinely historic moment, Lebanese and Israeli ambassadors held direct talks in DC for over two hours, with Secretary of State Rubio calling it a 'historic opportunity.' Lebanon wants a ceasefire; Israel wants Hezbollah gone. Classic negotiation.",
+      "url": "https://www.vindy.com/news/national-news/2026/04/nation-and-world-at-a-glance-for-april-15/",
+      "source": "The Vindicator / AP",
       "chips": [
-        "Peter Magyar",
-        "EU Reset",
-        "Ukraine Aid",
-        "Trump Ally Falls"
+        "Lebanon-Israel talks",
+        "Hezbollah",
+        "Rubio diplomacy"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Swalwell Exits California Governor's Race Amid Misconduct Allegations",
-      "dek": "Rep. Eric Swalwell suspended his California gubernatorial campaign after sexual misconduct allegations caused an immediate collapse — staffers quit, Democratic supporters bailed, and the whole thing fell apart faster than a campaign promise. He posted an apology on X, which is also where his political career now lives.",
-      "url": "https://www.golocalprov.com/news/5-big-news-stories-overnight-monday-april-13-2026",
-      "source": "GoLocal Prov / CNN",
+      "hed": "Happy Tax Day: Refunds Are Up, Powell's Job Is Down, and Senate Republicans Are Deeply Divided on Iran War Funding",
+      "dek": "The IRS says average refunds are up 11% to $3,500 this year, boosted by Trump's new deductions for tips, overtime, and car loans. Meanwhile, Senate Republicans are fighting over whether to fund a war with no end in sight, and Trump is openly threatening to fire the Fed chair on live TV.",
+      "url": "https://drydenwire.com/news/morning-headlines-wednesday-apr-15-2026/",
+      "source": "DrydenWire",
       "chips": [
-        "California Governor Race",
-        "2026 Elections"
+        "Tax Day",
+        "IRS refunds",
+        "Trump vs Powell",
+        "Senate war funding"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Congress Eyes Expulsion of Up to Four Lawmakers This Week",
-      "dek": "The House of Representatives could move to expel as many as four members this week — two Democrats and two Republicans — over a wave of ethical and misconduct allegations. Bipartisan agreement is rare in Washington, but apparently mutual disgrace is a unifying force.",
-      "url": "https://everythingbriefing.substack.com/p/april-13-2026",
-      "source": "Everything Briefing",
+      "hed": "Swalwell Out of California Governor's Race and Possibly Congress Too After 5th Misconduct Allegation",
+      "dek": "Eric Swalwell dropped his California gubernatorial bid after sexual misconduct allegations piled up, and now multiple colleagues are calling for his congressional resignation as well. In an already chaotic 2026 midterm landscape, Democrats are scrambling to keep their eyes on economic messaging.",
+      "url": "https://www.nbcnews.com/politics/2026-election",
+      "source": "NBC News",
       "chips": [
-        "House Ethics",
-        "Swalwell",
-        "Tony Gonzales"
+        "Swalwell resignation",
+        "California governor race",
+        "2026 midterms"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump Posts Himself as Jesus After Attacking the Pope — On the Same Day",
-      "dek": "After publicly attacking Pope Leo XIV as 'weak' and 'terrible for foreign policy,' Trump posted an AI illustration of himself as Jesus Christ on social media. Evangelical and Catholic allies called the post 'blasphemous' in a rare public break from the base. The Pope, for his part, said he had 'no fear of the Trump administration,' which is also something Jesus might have said.",
-      "url": "https://www.washingtonpost.com/politics/",
-      "source": "Washington Post",
+      "hed": "Trump vs. Pope Leo XIV Is the Culture War Nobody Asked For but Everyone Is Getting",
+      "dek": "Pope Leo XIV called the US-Israel war in Iran a product of a 'delusion of omnipotence,' and Trump fired back on social media calling the Pope 'too liberal and weak on crime.' A sitting US president is currently beefing with the Pope on the internet, and somehow this is just a Wednesday.",
+      "url": "https://www.thederrick.com/ap/entertainment/the-year-of-2026-in-shocking-pop-culture-moments-and-it-s-only-april/article_3eda0752-a557-5443-bbf2-93df64c02053.html",
+      "source": "AP / The Derrick",
       "chips": [
-        "Pope Leo XIV",
-        "Trump Religion",
-        "Culture War"
+        "Trump vs Pope Leo",
+        "Vatican Iran war stance",
+        "Culture war"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "6,824",
-      "chg": "+0.1%",
+      "val": "6,998",
+      "chg": "+0.44%",
       "dir": "up"
     },
     "dow": {
-      "val": "47,683",
-      "chg": "-0.5%",
+      "val": "48,393",
+      "chg": "-0.29%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "22,982",
-      "chg": "+0.3%",
+      "val": "23,873",
+      "chg": "+0.99%",
       "dir": "up"
     },
     "wti": {
-      "val": "$104",
-      "chg": "+8.3%",
-      "dir": "up"
+      "val": "$91",
+      "chg": "-1.5%",
+      "dir": "down"
     },
     "brent": {
-      "val": "$102",
-      "chg": "+6.0%",
-      "dir": "up"
-    },
-    "gold": {
-      "val": "$4,720",
+      "val": "$94",
       "chg": "-0.7%",
       "dir": "down"
     },
-    "btc": {
-      "val": "$71,189",
-      "chg": "-2.7%",
-      "dir": "down"
+    "gold": {
+      "val": "$4,828",
+      "chg": "+0.57%",
+      "dir": "up"
     },
-    "context": "Stocks reversed early losses and oil surged past $100/barrel after the U.S. imposed its Hormuz blockade; Goldman Sachs dragged the Dow lower despite a near-record earnings quarter.",
-    "url": "https://www.cnbc.com/2026/04/12/stock-market-today-live-updates.html",
-    "source": "CNBC"
+    "btc": {
+      "val": "$74,556",
+      "chg": "+0.18%",
+      "dir": "up"
+    },
+    "context": "Markets near all-time highs as Iran peace talk optimism and strong bank earnings from Morgan Stanley and BofA offset Dow drag from energy stocks.",
+    "url": "https://finance.yahoo.com/markets/stocks/article/stock-market-today-sp-500-nasdaq-dow-futures-hover-amid-renewed-hopes-for-us-iran-talks-231104868.html",
+    "source": "Yahoo Finance"
   },
   "gas": {
-    "avg": "$4.13",
-    "note": "Congrats on your $4 gas — analysts say it could be $5 by Memorial Day, so enjoy the 'cheap' fill-up while it lasts.",
-    "premium": "$4.85",
-    "wti": "$104",
+    "avg": "$4.12",
+    "note": "Filling up your tank now costs roughly what a therapy session used to — and you need both.",
+    "premium": "$4.89",
+    "wti": "$91",
     "highState": "CA: $5.89",
-    "lowState": "OK: $3.45",
+    "lowState": "OK: $3.27",
     "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Euphoria Season 3 Premieres on HBO After Four-Year Wait — And Rue Is Still a Mess",
-    "dek": "The long-awaited third season of Euphoria dropped Sunday night on HBO Max, featuring a five-year time jump that puts Zendaya's Rue deep in debt to a drug lord as a literal mule, while Cassie is engaged to Nate and running an OnlyFans-style platform. Creator Sam Levinson confirmed this will likely be the final season, which means America has approximately eight Sundays left to figure out what to do with itself.",
-    "url": "https://time.com/article/2026/04/07/euphoria-season-3-premiere-questions/",
-    "source": "TIME"
+    "hed": "Lena Dunham's Memoir 'Famesick' Drops Bombshells on Adam Driver, Jack Antonoff, and Lorde (Allegedly)",
+    "dek": "Released April 14, 'Famesick' immediately hit No. 1 on Amazon after Dunham revealed Adam Driver threw a chair at her on the Girls set and she cheated on Jack Antonoff near the end of their relationship. The unnamed 'teen pop star' Antonoff got cozy with is very much a household name, and the internet has already done the math.",
+    "url": "https://variety.com/2026/tv/news/lena-dunham-famesick-revelations-jack-antonoff-1236721370/",
+    "source": "Variety"
   },
   "genZ": {
     "type": "viral",
-    "term": "You the Birthday",
-    "definition": "A viral Gen Z slang term from TikTok that originated from a misheard lyric in Hunxho's song 'Birthday Girl' — specifically the line 'she eat, she the birthday girl' heard as 'she eat, she the birthday.' It functions as a compliment that can also be backhanded, sort of like calling someone 'special.' Multiple explainer videos have racked up hundreds of thousands of views in the past week as confused millennials demand answers.",
-    "usage": "Iran refusing to give up its nuclear program at the Islamabad talks? Iran is NOT the birthday. JD Vance flying home empty-handed? Also not the birthday.",
-    "url": "https://knowyourmeme.com/memes/you-the-birthday-you-da-birthday",
-    "source": "Know Your Meme"
+    "term": "FB Mom Photos trend",
+    "definition": "A TikTok format where creators post carousels of slightly off-center, mid-sentence candid shots of their boyfriend, best friend, or pet — captioned 'me when I take FB mom photos of my ___' set to a piano-backed 'awww so cute' audio clip. It went massive this week because it perfectly names the thing everyone does but nobody admits to.",
+    "usage": "Trump's press team taking candid shots of him waving at the blockade ships from the Oval Office: certified FB Mom Photos behavior.",
+    "url": "https://newengen.com/tiktok-trends/",
+    "source": "New Engen TikTok Trends"
   },
-  "tldr": "The U.S. Navy began blockading Iranian ports today after peace talks in Pakistan collapsed after 21 hours, sending oil above $104/barrel and rattling global markets. Meanwhile, Hungary booted Trump ally Viktor Orban in a historic landslide, Euphoria returned to HBO, and Trump found time to both attack the Pope and post himself as Jesus — all before noon."
+  "tldr": "Day 47 of the Iran war: the US blockade is biting, Trump says it's almost over, and Pakistan is once again stuck playing hall monitor between two nuclear-adjacent powers. On the home front, it's Tax Day — refunds are up, gas is expensive, and Lena Dunham is blowing up group chats nationwide."
 }
