@@ -1,184 +1,181 @@
 {
-  "date": "Wednesday, April 15, 2026",
+  "date": "Thursday, April 16, 2026",
   "headlines": [
     {
-      "text": "Trump says Iran war is 'very close to over' as US naval blockade enters Day 3",
-      "tag": "🔥"
-    },
-    {
-      "text": "Pakistan army chief flies to Tehran to broker second round of US-Iran peace talks",
+      "text": "Trump announces 10-day Israel-Lebanon ceasefire, first in 34 years",
       "tag": "🕊️"
     },
     {
-      "text": "S&P 500 sneaks toward all-time high of 7,002 as markets shrug off war jitters",
+      "text": "Hegseth warns Iran: deal or US restarts combat as ceasefire clock ticks",
+      "tag": "⚔️"
+    },
+    {
+      "text": "Pakistan army chief in Tehran pushing for second round of US-Iran talks",
+      "tag": "🤝"
+    },
+    {
+      "text": "S&P 500 and Nasdaq hit fresh record highs, shrugging off war jitters",
       "tag": "📈"
     },
     {
-      "text": "It's Tax Day: average refund up 11% to $3,500 thanks to Trump's 'One Big Beautiful Bill'",
-      "tag": "🧾"
-    },
-    {
-      "text": "Trump threatens to fire Fed Chair Powell if he doesn't leave when his term expires next month",
-      "tag": "🏦"
-    },
-    {
-      "text": "Lebanon and Israel hold first direct diplomatic talks in decades in Washington DC",
-      "tag": "🌍"
-    },
-    {
-      "text": "Gas prices hit $4.12 national average — highest since August 2022 — thanks to Hormuz blockade",
+      "text": "AAA: national gas average hits $4.09, highest since 2022",
       "tag": "⛽"
     },
     {
-      "text": "Eric Swalwell faces 5th sexual misconduct allegation; lawmakers call on him to resign from Congress",
+      "text": "House votes today on Iran war powers resolution to rein in Trump",
       "tag": "🏛️"
     },
     {
-      "text": "Lena Dunham's memoir 'Famesick' out now, spills on Adam Driver chair-throwing and cheating on Jack Antonoff",
-      "tag": "📚"
+      "text": "Trump feud with Pope Leo XIV escalates; religious experts call it unprecedented",
+      "tag": "✝️"
     },
     {
-      "text": "Hampshire College announces it will finally close at end of fall 2026 semester",
-      "tag": "🎓"
+      "text": "Lena Dunham memoir 'Famesick' drops bombshells on Adam Driver's on-set rage",
+      "tag": "📖"
+    },
+    {
+      "text": "Airlines warn of systemic jet fuel shortage if Strait of Hormuz stays blocked",
+      "tag": "✈️"
+    },
+    {
+      "text": "Russia hammers Kyiv with mass drone and missile strike, killing at least 16",
+      "tag": "🇺🇦"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "CENTCOM: US blockade of Iranian ports 'fully implemented' — Iran threatens to shut down Red Sea shipping in retaliation",
-    "url": "https://www.cnn.com/2026/04/15/world/live-news/iran-war-blockade-us-trump"
+    "text": "Trump announces 10-day Israel-Lebanon ceasefire beginning 5 PM ET today",
+    "url": "https://www.ms.now/liveblog/iran-war-news-today-us-april-16-2026"
   },
   "stories": [
     {
-      "tag": "iran war - day 47",
+      "tag": "iran war - day 48",
       "tagType": "fire",
-      "hed": "Trump Says War 'Very Close to Over' as Blockade Fully Bites and Pakistan Plays Matchmaker Again",
-      "dek": "The US naval blockade is now 'fully implemented,' having turned back six vessels in its first 24 hours, while Iran threatens to shut down Red Sea shipping if it continues. Trump, ever the optimist, says a deal is imminent and that China has pinky-promised not to send Tehran any more weapons.",
-      "url": "https://www.cnn.com/2026/04/15/world/live-news/iran-war-blockade-us-trump",
-      "source": "CNN",
+      "hed": "Hegseth Threatens Iran While Pakistan Plays Kissinger in Tehran",
+      "dek": "Defense Secretary Pete Hegseth told Iran it can have a deal or a war, which is a fun binary when your entire missile industry has been bombed into rubble. Pakistan's army chief flew to Tehran personally, because nothing says 'neutral mediator' like a country with its own nuclear weapons.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/16/iran-war-live-pakistan-in-push-for-new-round-of-us-iran-peace-negotiations",
+      "source": "Al Jazeera",
       "chips": [
-        "Hormuz blockade",
-        "Peace talks",
-        "Pakistan mediating",
-        "Ceasefire expiring"
+        "Ceasefire expires Apr 22",
+        "Blockade fully implemented",
+        "10 ships turned back"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Lebanon and Israel Sit Down Together in Washington for First Time in Decades",
-      "dek": "In a genuinely historic moment, Lebanese and Israeli ambassadors held direct talks in DC for over two hours, with Secretary of State Rubio calling it a 'historic opportunity.' Lebanon wants a ceasefire; Israel wants Hezbollah gone. Classic negotiation.",
-      "url": "https://www.vindy.com/news/national-news/2026/04/nation-and-world-at-a-glance-for-april-15/",
-      "source": "The Vindicator / AP",
+      "hed": "Russia Pounds Kyiv With Hundreds of Drones and Dozens of Missiles",
+      "dek": "Russia launched a mass strike on civilian areas of Ukraine, killing at least 16 people in an attack stretching for hours. The Iran war consuming global attention appears to be doing Russia's news cycle a favor.",
+      "url": "https://www.npr.org/sections/news",
+      "source": "NPR",
       "chips": [
-        "Lebanon-Israel talks",
-        "Hezbollah",
-        "Rubio diplomacy"
+        "16 killed",
+        "Civilian areas targeted"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Happy Tax Day: Refunds Are Up, Powell's Job Is Down, and Senate Republicans Are Deeply Divided on Iran War Funding",
-      "dek": "The IRS says average refunds are up 11% to $3,500 this year, boosted by Trump's new deductions for tips, overtime, and car loans. Meanwhile, Senate Republicans are fighting over whether to fund a war with no end in sight, and Trump is openly threatening to fire the Fed chair on live TV.",
-      "url": "https://drydenwire.com/news/morning-headlines-wednesday-apr-15-2026/",
-      "source": "DrydenWire",
+      "hed": "House Votes Today on War Powers Resolution to Limit Trump on Iran",
+      "dek": "The House is set to vote on a resolution calling on Trump to halt military hostilities against Iran without a formal declaration of war. The Senate already failed to advance a similar measure, but slim House margins mean this one could actually be close.",
+      "url": "https://abc7.com/live-updates/iran-war-straight-hormuz-blockade-oil-prices-us-stock-market-ceasefire/18880313/",
+      "source": "ABC7",
       "chips": [
-        "Tax Day",
-        "IRS refunds",
-        "Trump vs Powell",
-        "Senate war funding"
+        "Senate already failed",
+        "Slim House margins",
+        "Vote at 11:30 AM ET"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Swalwell Out of California Governor's Race and Possibly Congress Too After 5th Misconduct Allegation",
-      "dek": "Eric Swalwell dropped his California gubernatorial bid after sexual misconduct allegations piled up, and now multiple colleagues are calling for his congressional resignation as well. In an already chaotic 2026 midterm landscape, Democrats are scrambling to keep their eyes on economic messaging.",
-      "url": "https://www.nbcnews.com/politics/2026-election",
-      "source": "NBC News",
+      "hed": "Trump vs. Pope Leo XIV: A Beef for the Ages",
+      "dek": "Trump has been attacking Pope Leo XIV as too liberal and weak, while Leo says a 'delusion of omnipotence' is fueling the Iran war. Religious experts told NPR this level of presidential pope-bashing is completely unprecedented — and yet here we are.",
+      "url": "https://www.npr.org/sections/national/",
+      "source": "NPR",
       "chips": [
-        "Swalwell resignation",
-        "California governor race",
-        "2026 midterms"
+        "Leo calls for peace",
+        "Trump: 'too liberal'",
+        "Vatican responds"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump vs. Pope Leo XIV Is the Culture War Nobody Asked For but Everyone Is Getting",
-      "dek": "Pope Leo XIV called the US-Israel war in Iran a product of a 'delusion of omnipotence,' and Trump fired back on social media calling the Pope 'too liberal and weak on crime.' A sitting US president is currently beefing with the Pope on the internet, and somehow this is just a Wednesday.",
-      "url": "https://www.thederrick.com/ap/entertainment/the-year-of-2026-in-shocking-pop-culture-moments-and-it-s-only-april/article_3eda0752-a557-5443-bbf2-93df64c02053.html",
-      "source": "AP / The Derrick",
+      "hed": "Billionaire Ken Griffin Warns of Recession While Markets Hit Record Highs — Someone Is Wrong",
+      "dek": "Citadel's Ken Griffin is ringing recession alarm bells even as the S&P 500 closes above 7,000 for the first time in history. Either Griffin knows something the market doesn't, or the market is doing what it always does: aggressively not caring.",
+      "url": "https://www.thestreet.com/latest-news/stock-market-today-apr-16-2026-futures-rise-after-sp-nasdaq-hit-record-highs",
+      "source": "TheStreet",
       "chips": [
-        "Trump vs Pope Leo",
-        "Vatican Iran war stance",
-        "Culture war"
+        "S&P 500 above 7,000",
+        "Recession warning",
+        "TSMC earnings beat"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "6,998",
-      "chg": "+0.44%",
+      "val": "7,023",
+      "chg": "+0.8%",
       "dir": "up"
     },
     "dow": {
-      "val": "48,393",
-      "chg": "-0.29%",
+      "val": "48,463",
+      "chg": "-0.1%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "23,873",
-      "chg": "+0.99%",
+      "val": "24,016",
+      "chg": "+1.6%",
       "dir": "up"
     },
     "wti": {
-      "val": "$91",
-      "chg": "-1.5%",
-      "dir": "down"
+      "val": "$92",
+      "chg": "+1.2%",
+      "dir": "up"
     },
     "brent": {
-      "val": "$94",
-      "chg": "-0.7%",
-      "dir": "down"
+      "val": "$95",
+      "chg": "+1.0%",
+      "dir": "up"
     },
     "gold": {
-      "val": "$4,828",
-      "chg": "+0.57%",
+      "val": "$3,220",
+      "chg": "+0.5%",
       "dir": "up"
     },
     "btc": {
-      "val": "$74,556",
-      "chg": "+0.18%",
+      "val": "$74,813",
+      "chg": "+0.9%",
       "dir": "up"
     },
-    "context": "Markets near all-time highs as Iran peace talk optimism and strong bank earnings from Morgan Stanley and BofA offset Dow drag from energy stocks.",
-    "url": "https://finance.yahoo.com/markets/stocks/article/stock-market-today-sp-500-nasdaq-dow-futures-hover-amid-renewed-hopes-for-us-iran-talks-231104868.html",
-    "source": "Yahoo Finance"
+    "context": "S&P 500 and Nasdaq hit fresh record highs on ceasefire optimism and strong tech earnings, with the S&P closing above 7,000 for the first time; oil climbed on Strait of Hormuz blockade fears.",
+    "url": "https://www.cnbc.com/2026/04/15/stock-market-today-live-updates.html",
+    "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.12",
-    "note": "Filling up your tank now costs roughly what a therapy session used to — and you need both.",
-    "premium": "$4.89",
-    "wti": "$91",
-    "highState": "CA: $5.89",
+    "avg": "$4.09",
+    "note": "Gas hasn't been this expensive since 2022 — Iran started a war and somehow you're the one paying for it at the pump.",
+    "premium": "$4.78",
+    "wti": "$92",
+    "highState": "CA: $5.86",
     "lowState": "OK: $3.27",
-    "url": "https://gasprices.aaa.com",
+    "url": "https://gasprices.aaa.com/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Lena Dunham's Memoir 'Famesick' Drops Bombshells on Adam Driver, Jack Antonoff, and Lorde (Allegedly)",
-    "dek": "Released April 14, 'Famesick' immediately hit No. 1 on Amazon after Dunham revealed Adam Driver threw a chair at her on the Girls set and she cheated on Jack Antonoff near the end of their relationship. The unnamed 'teen pop star' Antonoff got cozy with is very much a household name, and the internet has already done the math.",
-    "url": "https://variety.com/2026/tv/news/lena-dunham-famesick-revelations-jack-antonoff-1236721370/",
+    "hed": "Lena Dunham's Memoir 'Famesick' Claims Adam Driver Hurled a Chair and Screamed in Her Face on the Set of 'Girls'",
+    "dek": "Out April 14, Dunham's explosive memoir details Adam Driver allegedly throwing a chair at the wall next to her and punching a hole in his trailer because he hated his haircut. Driver has not responded, which is somehow very on-brand for him.",
+    "url": "https://variety.com/2026/tv/global/lena-dunham-adam-driver-verbally-aggressive-girls-threw-chair-1236721046/",
     "source": "Variety"
   },
   "genZ": {
-    "type": "viral",
+    "type": "tiktok",
     "term": "FB Mom Photos trend",
-    "definition": "A TikTok format where creators post carousels of slightly off-center, mid-sentence candid shots of their boyfriend, best friend, or pet — captioned 'me when I take FB mom photos of my ___' set to a piano-backed 'awww so cute' audio clip. It went massive this week because it perfectly names the thing everyone does but nobody admits to.",
-    "usage": "Trump's press team taking candid shots of him waving at the blockade ships from the Oval Office: certified FB Mom Photos behavior.",
+    "definition": "A TikTok carousel format where creators post slightly-off-center, mid-sentence candid shots of the person they love most — boyfriend, best friend, dog — set to a piano 'awww so cute' audio, captioned 'me when I take FB mom photos of my ___.' It went viral this week because it perfectly names the thing everyone does but never admits.",
+    "usage": "The White House press team posting candid photos of Trump looking presidential during Iran negotiations is just the government version of the FB Mom Photos trend — proud, slightly awkward, and deeply invested in one person's image.",
     "url": "https://newengen.com/tiktok-trends/",
-    "source": "New Engen TikTok Trends"
+    "source": "New Engen"
   },
-  "tldr": "Day 47 of the Iran war: the US blockade is biting, Trump says it's almost over, and Pakistan is once again stuck playing hall monitor between two nuclear-adjacent powers. On the home front, it's Tax Day — refunds are up, gas is expensive, and Lena Dunham is blowing up group chats nationwide."
+  "tldr": "Day 48 of the Iran war brought a surprise 10-day Israel-Lebanon ceasefire announced by Trump, a ticking US-Iran ceasefire expiring April 22, and a House war powers vote that could actually be close. Meanwhile, the S&P 500 crossed 7,000 for the first time ever and gas hit $4.09 a gallon, meaning history is being made at both Wall Street and the pump."
 }
