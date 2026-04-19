@@ -1,116 +1,116 @@
 {
-  "date": "Saturday, April 18, 2026",
+  "date": "Sunday, April 19, 2026",
   "headlines": [
     {
-      "text": "Iran Re-Closes Strait of Hormuz Hours After Reopening It, Accusing US of 'Piracy'",
+      "text": "Iran re-closes Strait of Hormuz, demands US lift naval blockade as Wednesday ceasefire deadline looms",
       "tag": "🚢"
     },
     {
-      "text": "Trump Says US Naval Blockade Will 'Remain in Full Force' Until Iran Deal Is Done",
-      "tag": "⚓"
-    },
-    {
-      "text": "S&P 500 Closes at Record 7,126 as Markets Rally on Iran Peace Hopes",
-      "tag": "📈"
-    },
-    {
-      "text": "Democrat Analilia Mejia Wins NJ-11 Special Election, Narrows GOP House Majority to 218-214",
-      "tag": "🗳️"
-    },
-    {
-      "text": "Madonna Surprises Crowd at Coachella Weekend 2, Joins Sabrina Carpenter Onstage",
-      "tag": "🎤"
-    },
-    {
-      "text": "Senate Passes Short-Term Surveillance Program Extension Through April 30",
-      "tag": "🔍"
-    },
-    {
-      "text": "Gas Prices Hit $4.08 National Average, Up Nearly 30% from a Year Ago",
-      "tag": "⛽"
-    },
-    {
-      "text": "Trump Warns Iran: 'We'll Have to Start Dropping Bombs Again' If No Deal Reached",
+      "text": "Trump warns Iran: deal will happen 'the nice way or the hard way' as negotiations stall",
       "tag": "💣"
     },
     {
-      "text": "Pope Leo XIV Pushes Back on Trump Criticism, Calls for Peace in Iran War",
-      "tag": "✝️"
+      "text": "US Energy Secretary Wright says America 'not too far away from a deal' with Iran",
+      "tag": "🤝"
     },
     {
-      "text": "Netflix Co-Founder Reed Hastings to Leave Board in June as Earnings Disappoint",
-      "tag": "📺"
+      "text": "Democrats notch another special election overperformance in New Jersey House race",
+      "tag": "🗳️"
+    },
+    {
+      "text": "Former immigration judges speak out against Trump's 'deportation judge' replacements",
+      "tag": "⚖️"
+    },
+    {
+      "text": "British counterterror police probe Iranian proxy arson attacks on London synagogues",
+      "tag": "🔥"
+    },
+    {
+      "text": "IRGC gunboats fire on tanker in Strait of Hormuz with no radio warning",
+      "tag": "🛢️"
+    },
+    {
+      "text": "Justin Bieber brings out Billie Eilish, SZA, and Sexyy Red at Coachella Weekend 2 — redeems himself",
+      "tag": "🎤"
+    },
+    {
+      "text": "S&P 500 and Dow close at fresh records Friday on Strait of Hormuz reopening optimism",
+      "tag": "📈"
+    },
+    {
+      "text": "National gas average hits $4.08 — highest since 2022 — as Iran war squeezes supply",
+      "tag": "⛽"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "BREAKING: Iran's IRGC re-closes Strait of Hormuz, says it has returned to 'previous state' under strict military control after US refuses to lift port blockade",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks"
+    "text": "Iran has re-closed the Strait of Hormuz and IRGC gunboats fired on a tanker — ceasefire expires Wednesday",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed"
   },
   "stories": [
     {
-      "tag": "iran war - day 49",
+      "tag": "iran war - day 51",
       "tagType": "fire",
-      "hed": "Iran Opens Strait, Iran Closes Strait, Trump Threatens Bombs — All Before Lunch",
-      "dek": "In a dizzying 24-hour whiplash, Iran reopened the Strait of Hormuz on Friday, causing oil prices to crater 9% and Wall Street to throw a party. Then on Saturday morning, the IRGC slammed it shut again, accusing the US of 'piracy' for maintaining its naval blockade of Iranian ports. Trump responded by saying the blockade stays until the deal is '100% done' — and that bombs are back on the menu if talks fail.",
-      "url": "https://www.pbs.org/newshour/world/irans-military-closes-strait-of-hormuz-again-citing-u-s-blockade",
-      "source": "PBS NewsHour",
+      "hed": "Hormuz: Open, Closed, Open, Closed — Iran Treats the World's Most Important Waterway Like a Screen Door",
+      "dek": "Iran shut the Strait of Hormuz again Saturday, one day after triumphantly reopening it, blaming US 'breaches of trust.' Trump says a deal will happen 'the nice way or the hard way,' which is a perfectly terrifying thing to say with a ceasefire expiring on Wednesday.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/19/iran-war-live-tehran-says-no-date-set-for-us-talks-hormuz-strait-closed",
+      "source": "Al Jazeera",
       "chips": [
-        "Hormuz closed again",
-        "US blockade holds",
-        "talks expected Sunday"
+        "Ceasefire expires Wed",
+        "Pakistan talks unclear",
+        "IRGC fired on tanker"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Pope Leo XIV and Trump Are in an Actual Feud Over the Iran War",
-      "dek": "Pope Leo XIV, on his Africa tour, called out a 'delusion of omnipotence' fueling the US-Israel war in Iran. Trump fired back on social media accusing Leo of being 'weak on crime and foreign policy.' The Vatican responded by noting its peace appeals are rooted in the Gospel — which, one presumes, Trump has not read lately.",
-      "url": "https://www.pbs.org/newshour/",
-      "source": "PBS NewsHour",
+      "hed": "London Counterterror Police Probe Arson Attacks on Synagogues as Possible Iranian Proxy Operation",
+      "dek": "British counterterror officers are investigating a string of overnight arson attacks on Jewish sites in northwest London, including a synagogue in Harrow, as potentially the work of Iranian proxies. No injuries reported, but the timing — mid-Iran war — is doing a lot of talking.",
+      "url": "https://www.timesofisrael.com/liveblog-april-19-2026/",
+      "source": "Times of Israel",
       "chips": [
-        "Pope Leo XIV",
-        "Trump feud",
-        "Vatican peace push"
+        "Iranian proxies",
+        "London",
+        "Counterterrorism"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Progressive Analilia Mejia Wins NJ-11, Squeezes GOP House Majority to a Nail-Biting 218-214",
-      "dek": "Democrat and former Bernie Sanders campaign staffer Analilia Mejia crushed Republican Joe Hathaway in New Jersey's 11th Congressional District special election Thursday, further narrowing Republicans' already paper-thin House majority. Democrats have now overperformed in multiple special elections since Trump returned to office, which is making the November midterms look very interesting indeed.",
-      "url": "https://www.cnn.com/2026/04/16/politics/new-jersey-special-election-analilia-mejia-joe-hathaway",
+      "hed": "Democrats Post Another Special Election Overperformance, Narrow GOP's Razor-Thin House Majority",
+      "dek": "Analilia Mejia won New Jersey's 11th District in a special House election, CNN projects, continuing a string of Democratic overperformances that are making Republicans very nervous about the 2026 midterms. Turns out running a war and purging judges is a complicated campaign pitch.",
+      "url": "https://www.cnn.com/election/2026",
       "source": "CNN",
       "chips": [
         "NJ-11",
-        "House majority 218-214",
-        "midterm bellwether"
+        "House majority",
+        "2026 midterms"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Congress Punts on Spy Program with Last-Minute Extension Through April 30",
-      "dek": "After failing to pass either a 5-year renewal or Trump's preferred 18-month version, the Senate passed a short-term fix extending the warrantless overseas surveillance program by just 13 days. Congress has essentially scheduled a second cliffhanger for itself in two weeks, which is on brand.",
-      "url": "https://www.vindy.com/news/national-news/2026/04/nation-and-world-at-a-glance-for-april-18/",
-      "source": "The Vindicator / AP",
+      "hed": "Trump Purges 200+ Immigration Judges, Replaces Them with 'Deportation Judges' — Former Jurists Push Back",
+      "dek": "More than 200 immigration judges have been fired, forced out, or retired, replaced by what the administration calls 'deportation judges.' Former judges say due process is being gutted; the administration says the old system was too slow. Both are right, which is the awkward part.",
+      "url": "https://www.cbsnews.com/news/this-week-on-sunday-morning-april-19-2026/",
+      "source": "CBS News",
       "chips": [
-        "FISA surveillance",
-        "Senate vote",
-        "expires April 30"
+        "Immigration courts",
+        "Due process",
+        "Mass deportations"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Wall Street Hit an All-Time Record This Week Entirely on Vibes and Presidential Optimism",
-      "dek": "The S&P 500 closed Friday at a record 7,126 despite the Strait of Hormuz being, at best, open in spirit. Traders essentially priced in a peace deal that does not yet exist, based on Trump's assurances — which is either genius forward-looking analysis or the most expensive act of collective credulity in market history. Oil then proceeded to get re-closed overnight, so.",
-      "url": "https://www.thestreet.com/latest-news/stock-market-today-apr-17-2026-updates",
-      "source": "TheStreet",
+      "hed": "Trump Is Golfing in Virginia While Iran Plays Hot-Potato With the Strait of Hormuz and a Wednesday Deadline Ticks Down",
+      "dek": "As Iran fires on tankers, closes the Strait, reopens it, then closes it again, and a ceasefire literally expires in three days, CNN confirms the president is at his golf course. To be fair, Vance, Witkoff, and Kushner are on it — which is either comforting or terrifying depending on your priors.",
+      "url": "https://www.cnn.com/2026/04/18/world/live-news/iran-war-trump-israel",
+      "source": "CNN",
       "chips": [
-        "S&P record",
-        "oil whiplash",
-        "Iran optimism trade"
+        "Trump golfs",
+        "Ceasefire deadline",
+        "Vance leads talks"
       ]
     }
   ],
@@ -131,52 +131,52 @@
       "dir": "up"
     },
     "wti": {
-      "val": "$84",
-      "chg": "-7.86%",
+      "val": "$83",
+      "chg": "-11.5%",
       "dir": "down"
     },
     "brent": {
-      "val": "$92",
-      "chg": "-7.87%",
+      "val": "$94",
+      "chg": "-10.0%",
       "dir": "down"
     },
     "gold": {
-      "val": "$4,880",
+      "val": "$4,879",
       "chg": "+1.48%",
       "dir": "up"
     },
     "btc": {
-      "val": "$77,190",
-      "chg": "+3.43%",
+      "val": "$76,038",
+      "chg": "+0.55%",
       "dir": "up"
     },
-    "context": "Markets surged Friday on Iran peace optimism and Hormuz reopening news, but oil cratered 9% — then Iran re-closed the strait Saturday morning, which the market has not fully digested yet.",
-    "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-dow-climbs-1000-points-sp-500-and-nasdaq-surge-as-iran-says-strait-of-hormuz-completely-open-230532463.html",
+    "context": "Stocks surged to record highs Friday after Iran briefly declared the Strait of Hormuz open, crashing oil prices more than 10% on hopes the war's worst supply shock may be easing.",
+    "url": "https://finance.yahoo.com/quote/%5EGSPC/history/",
     "source": "Yahoo Finance"
   },
   "gas": {
     "avg": "$4.08",
-    "note": "Paying $4 a gallon to drive to a job that has not given you a raise since 2022 is called the American experience.",
+    "note": "Your wallet called. It's not doing well. Neither is the Strait of Hormuz.",
     "premium": "$4.65",
-    "wti": "$84",
+    "wti": "$83",
     "highState": "CA: $5.89",
     "lowState": "OK: $3.44",
     "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Madonna Crashes Sabrina Carpenter's Coachella Set and the Internet Has Not Recovered",
-    "dek": "Madonna rose from beneath the Coachella stage during Sabrina Carpenter's Weekend 2 headlining set, launching into 'Vogue' and 'Like a Prayer' in what is already being called the surprise of the festival season. The Material Girl appearing under the stage while Gen Z screamed is either a metaphor for something or just extremely good television.",
-    "url": "https://www.tmz.com/",
-    "source": "TMZ"
+    "hed": "Justin Bieber Redeems Himself at Coachella Weekend 2 — Brings Out Billie Eilish, SZA, Big Sean, and Sexyy Red",
+    "dek": "After Week 1's divisive YouTube-laptop set got called 'the worst in festival history,' Bieber came back swinging Saturday night with a star-studded set that sent the crowd into actual frenzy. He serenaded Billie Eilish mid-set with 'One Less Lonely Girl,' proving he still has it — and a $10M Coachella check to cash.",
+    "url": "https://www.justjared.com/2026/04/19/justin-biebers-coachella-weekend-2-set-list-singer-brings-out-billie-eilish-big-sean-sza-more/",
+    "source": "Just Jared"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "Rick and Morty Dance / I Was Looking For a Job",
-    "definition": "An AI-generated cartoon dance battle video originally posted by TikToker @reqdeca went viral in early April 2026 after @diarymarthy_ set it to a Yeat-style remix of The Smiths' 'Heaven Knows I'm Miserable Now' — specifically the line 'I was looking for a job and then I found a job.' The format exploded into memes pairing the shuffling cartoon characters with brainrot captions about mundane suffering.",
-    "usage": "Congress passing a 13-day surveillance extension instead of a real bill is giving very 'I was looking for a job and then I found a job... that expires April 30' energy.",
-    "url": "",
-    "source": ""
+    "term": "Triple T Sance (Tung Tung Tung Sahur dance)",
+    "definition": "A viral TikTok dance trend where users dance to 'Dumb wit it (get in dea)' by Geaux Teezy alongside an AI-generated dancing version of 'Tung Tung Tung Sahur,' an absurdist brainrot character that has taken over For You Pages in April 2026. It's the kind of thing that makes perfect sense if you've been extremely online for the past two weeks and zero sense if you have not.",
+    "usage": "Iran re-closing the Strait of Hormuz for the second time in 48 hours is giving major Triple T Sance energy — chaotic, inexplicable, and somehow everyone is still watching.",
+    "url": "https://knowyourmeme.com/newsfeed/trending/page/1",
+    "source": "Know Your Meme"
   },
-  "tldr": "Iran opened the Strait of Hormuz, Wall Street partied at record highs, then Iran closed it again — all within about 18 hours, which is a reasonable summary of 2026 so far. Meanwhile, Democrats won another special election, Madonna showed up at Coachella, and your gas is still $4 a gallon."
+  "tldr": "Iran whiplashed the world Sunday by re-closing the Strait of Hormuz one day after opening it, firing on a tanker, and refusing to send a delegation to Pakistan talks — all with a ceasefire expiring Wednesday. Meanwhile, stocks closed at record highs Friday on the brief optimism, gas sits at a 4-year high, and Justin Bieber actually showed up at Coachella this time."
 }
