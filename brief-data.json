@@ -1,182 +1,184 @@
 {
-  "date": "Monday, April 20, 2026",
+  "date": "Thursday, April 23, 2026",
   "headlines": [
     {
-      "text": "Iran skips Islamabad talks after US Navy seizes Iranian cargo ship, ceasefire expires Wednesday",
+      "text": "Trump orders Navy to shoot Iranian boats laying mines in Strait of Hormuz",
       "tag": "🚢"
     },
     {
-      "text": "7.4 magnitude earthquake hits off Japan's northeastern coast, tsunami warning issued then downgraded",
-      "tag": "🌊"
+      "text": "Iran seizes two cargo ships, fires on third — calls US blockade an 'act of war'",
+      "tag": "⚔️"
     },
     {
-      "text": "JD Vance expected to depart for Pakistan Tuesday for second round of US-Iran nuclear talks",
-      "tag": "✈️"
+      "text": "Senate defeats Iran War Powers resolution for a fifth time, 55-46",
+      "tag": "🏛️"
     },
     {
-      "text": "Trump says ceasefire is over Wednesday, warns it is 'highly unlikely' he extends it without a deal",
-      "tag": "⚠️"
+      "text": "Pentagon fires Navy Secretary John Phelan after clashes with Hegseth",
+      "tag": "💥"
     },
     {
-      "text": "Stock futures fall as Iran tensions flare and Strait of Hormuz remains essentially closed",
+      "text": "Trump approval rating sinks to mid-30s; aides draft midterm strategy to avoid a referendum on him",
       "tag": "📉"
     },
     {
-      "text": "Gas prices remain above $4/gallon nationally; Energy Secretary says sub-$3 may not return until 2027",
-      "tag": "⛽"
+      "text": "Senate Republicans pass ICE/border patrol budget blueprint without Democratic support amid partial DHS shutdown",
+      "tag": "🔒"
     },
     {
-      "text": "RFK Jr. finishes marathon week of congressional hearings on vaccines, measles, and HHS budget cuts",
-      "tag": "💉"
-    },
-    {
-      "text": "Tariff refunds begin rolling out today as importers apply for $166 billion in Supreme Court-ordered relief",
-      "tag": "💸"
-    },
-    {
-      "text": "Michael Jackson biopic starring nephew Jaafar Jackson opens in US theaters this Friday, April 24",
+      "text": "Michael Jackson biopic 'Michael' eyes record $150M global opening this weekend despite 33% on Rotten Tomatoes",
       "tag": "🎬"
     },
     {
-      "text": "Man kills 8 children across 3 homes in Shreveport, Louisiana in nation's deadliest mass shooting since 2024",
-      "tag": "🚨"
+      "text": "S&P 500 and Nasdaq closed at record highs Wednesday; stocks waver Thursday on Iran stalemate and software earnings miss",
+      "tag": "📈"
+    },
+    {
+      "text": "National average gas price hits $4.03 a gallon — experts say sub-$3 gas is months away at minimum",
+      "tag": "⛽"
+    },
+    {
+      "text": "UN warns Iran war has pushed 32 million people toward poverty; Strait of Hormuz still closed on Day 55",
+      "tag": "🌍"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Iran says it has NO plans for new talks after US Navy seizes cargo ship TOUSKA; ceasefire expires Wednesday",
-    "url": "https://www.cnn.com/2026/04/20/world/live-news/iran-war-us-trump-israel"
+    "text": "Trump orders Navy to 'shoot and kill' Iranian boats placing mines in Strait of Hormuz as Iran seizes two ships and fires on third",
+    "url": "https://www.cnn.com/2026/04/23/world/live-news/iran-war-trump-blockade-israel-lebanon"
   },
   "stories": [
     {
-      "tag": "iran war - day 52",
+      "tag": "iran war - day 55",
       "tagType": "fire",
-      "hed": "Iran Cancels Talks After US Navy Shoots Hole in Their Ship (Literally)",
-      "dek": "The US guided-missile destroyer USS Spruance fired on the Iranian cargo ship TOUSKA in the Gulf of Oman, then US Marines took custody of the vessel. Iran responded by canceling peace talks and calling it a war crime, which is the diplomatic equivalent of storming out of dinner before dessert. Ceasefire expires Wednesday; Vance is reportedly packing his bags for Islamabad anyway.",
-      "url": "https://www.cnn.com/2026/04/20/world/live-news/iran-war-us-trump-israel",
-      "source": "CNN",
+      "hed": "Trump Says 'Shoot on Sight' While Iran Runs a Toll Booth at Hormuz",
+      "dek": "Trump extended the ceasefire indefinitely, then immediately ordered the Navy to fire on any Iranian boat laying mines — because nothing says 'peace talks' like a shoot-on-sight order. Meanwhile Iran is literally charging ships a toll to pass through the strait and pocketing up to $20 million a day, which is the most aggressive valet service in maritime history.",
+      "url": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire",
+      "source": "Al Jazeera",
       "chips": [
-        "ceasefire expires Wed",
-        "Vance to Pakistan",
-        "Hormuz still closed"
+        "Strait of Hormuz",
+        "Iran Blockade",
+        "Peace Talks Stalled",
+        "Navy Standoff"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "7.4 Earthquake Strikes Off Japan, Tsunami Warning Issued and Downgraded",
-      "dek": "A powerful 7.4-magnitude quake hit off Japan's northeastern coast Monday, prompting a three-meter tsunami warning for Iwate, Hokkaido, and Aomori prefectures that was later downgraded to an advisory. No injuries were immediately confirmed, though 200 power outages were reported and PM Sanae Takaichi urged coastal residents to evacuate to higher ground.",
-      "url": "https://www.cnn.com/2026/04/20/world/earthquake-tsunami-warning-japan-intl",
-      "source": "CNN",
+      "hed": "Lebanon Ceasefire Frays as Israel Kills Five Including Journalist Amal Khalil",
+      "dek": "Israel killed at least five people in southern Lebanon despite the 10-day US-brokered ceasefire, including Al-Akhbar correspondent Amal Khalil, who had previously received death threats via WhatsApp from an Israeli phone number. A second round of Israel-Lebanon ambassador-level talks is underway in Washington today.",
+      "url": "https://www.democracynow.org/2026/4/23/headlines",
+      "source": "Democracy Now!",
       "chips": [
-        "Japan",
-        "no injuries confirmed",
-        "tsunami advisory"
+        "Lebanon",
+        "Israel",
+        "Ceasefire",
+        "Press Freedom"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Supreme Court Tariff Refunds Begin Today: $166 Billion Up for Grabs",
-      "dek": "Two months after the Supreme Court struck down Trump's sweeping tariffs, the refund application process officially opens today for American importers owed over $166 billion. It's the largest tariff refund program in US history, which is a sentence that probably sounded impossible four years ago.",
-      "url": "https://www.cnn.com/2026/04/20/us/5-things-to-know-for-april-20-gas-prices-louisiana-mass-shooting-peace-talks-tsunami-warning-animal-rights-protest",
-      "source": "CNN",
+      "hed": "Pentagon Fires Navy Secretary Phelan After He Suggested Outsourcing Warship Production Abroad",
+      "dek": "Navy Secretary John Phelan was abruptly fired after signaling openness to building US Navy warships overseas — a comment that somehow surprised an administration actively fighting a naval war. Defense Secretary Hegseth had also reportedly been frustrated with Phelan's pace on domestic shipbuilding reform, making this the 34th senior official removed under Trump.",
+      "url": "https://www.democracynow.org/2026/4/23/headlines",
+      "source": "Democracy Now!",
       "chips": [
-        "trade war fallout",
-        "importers",
-        "Supreme Court"
+        "Pentagon",
+        "Hegseth",
+        "Military Leadership"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "RFK Jr. Wraps Congressional Gauntlet: Seven Hearings, Zero Vaccine Endorsements",
-      "dek": "Health Secretary Robert F. Kennedy Jr. completed a sprint of congressional budget hearings this week, where Democrats grilled him on measles outbreaks, gutted vaccine recommendations, and proposed $16 billion in HHS cuts. He conceded the MMR vaccine is 'safe for most people,' which his own agency has been quietly undermining, a distinction that was not lost on anyone in the room.",
-      "url": "https://www.npr.org/2026/04/16/nx-s1-5787749/rfk-jr-hearing-hhs-health-budget-cuts",
-      "source": "NPR",
+      "hed": "Trump's Approval Sinks to Mid-30s; Aides Plot Midterm Strategy to Make It About Democrats Instead",
+      "dek": "Three polls this week placed Trump's approval in the mid-30 percent range, so advisers are developing a midterm strategy that frames 2026 as a choice between the two parties rather than a verdict on Trump — a classic move that roughly translates to 'please don't look at us, look at them.'",
+      "url": "https://www.cnn.com/2026/04/23/us/5-things-to-know-for-april-23-ice-funding-tap-water-toxin-iran-war-midterm-strategy-covid-19-vaccines",
+      "source": "CNN",
       "chips": [
-        "MAHA",
-        "measles outbreak",
-        "HHS budget cuts"
+        "Trump Polls",
+        "Midterms 2026",
+        "Republicans"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Pope Leo XIV vs. Trump: The Holy See vs. The Truth Social",
-      "dek": "Pope Leo XIV pushed back Monday on Trump's criticism of his calls for peace in the Iran war, saying his message is rooted in the Gospel rather than weakness. Trump had accused the Pope of being 'too liberal and weak on crime' on social media, making this the most unusual papal beef since at least the Reformation. Supporters at Trump rallies in Las Vegas and Phoenix sided with Trump in the dispute, which is a sentence historians will enjoy.",
-      "url": "https://www.nbcnews.com/politics/2026-election",
-      "source": "NBC News",
+      "hed": "Mysterious Traders Made Millions on Suspiciously Well-Timed Bets Tied to the Iran War",
+      "dek": "Investigators are looking into a cluster of traders who made extraordinary profits on options and energy contracts placed just before key Iran war escalations — the kind of timing that makes you wonder whether someone got the memo early, or just has incredibly good vibes about global conflict.",
+      "url": "https://www.democracynow.org/2026/4/23/headlines",
+      "source": "Democracy Now!",
       "chips": [
-        "Trump vs Pope Leo XIV",
-        "Iran war",
-        "midterms"
+        "War Profiteering",
+        "Market Manipulation",
+        "Iran"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,116",
+      "val": "7,130",
+      "chg": "+0.1%",
+      "dir": "up"
+    },
+    "dow": {
+      "val": "49,441",
       "chg": "-0.1%",
       "dir": "down"
     },
-    "dow": {
-      "val": "49,447",
-      "chg": "-0.0%",
-      "dir": "down"
-    },
     "nasdaq": {
-      "val": "24,405",
-      "chg": "-0.3%",
+      "val": "24,633",
+      "chg": "-0.1%",
       "dir": "down"
     },
     "wti": {
-      "val": "$86",
-      "chg": "+4.0%",
+      "val": "$93",
+      "chg": "+3.2%",
       "dir": "up"
     },
     "brent": {
-      "val": "$96",
-      "chg": "+1.0%",
+      "val": "$103",
+      "chg": "+2.8%",
       "dir": "up"
     },
     "gold": {
-      "val": "$4,839",
-      "chg": "-0.8%",
-      "dir": "down"
+      "val": "$4,735",
+      "chg": "+0.8%",
+      "dir": "up"
     },
     "btc": {
-      "val": "$75,324",
-      "chg": "-0.6%",
+      "val": "$77,810",
+      "chg": "-0.5%",
       "dir": "down"
     },
-    "context": "Futures slid sharply on renewed Iran-US tensions after the USS Spruance seized an Iranian cargo ship and peace talks collapsed, sending oil surging and equities lower.",
-    "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-p-500-230354361.html",
+    "context": "Stocks wavered as Iran-US peace talks stalled and IBM plus ServiceNow cratered on earnings, while oil surged for a fourth straight day on Hormuz tension.",
+    "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-thursday-april-23-dow-sp-500-nasdaq-oil-rises-software-233045213.html",
     "source": "Yahoo Finance"
   },
   "gas": {
-    "avg": "$4.16",
-    "note": "Gas is so expensive even your car is reconsidering its life choices.",
-    "premium": "$4.90",
-    "wti": "$86",
-    "highState": "CA: $5.89",
-    "lowState": "OK: $3.27",
-    "url": "https://gasprices.aaa.com",
+    "avg": "$4.03",
+    "note": "Gas is $4 a gallon and the Strait of Hormuz is still closed — congrats, your commute is now a geopolitical event.",
+    "premium": "$4.69",
+    "wti": "$93",
+    "highState": "CA: $5.85",
+    "lowState": "OK: $3.38",
+    "url": "https://gasprices.aaa.com/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Michael Jackson Biopic Opens Friday: Nephew Jaafar Jackson Stars in Most Anticipated Biopic in Years",
-    "dek": "The long-delayed Michael biopic, directed by Antoine Fuqua and starring MJ's actual nephew Jaafar Jackson, finally hits US theaters this Friday April 24 in IMAX. The $155M film covers Jackson's rise from the Jackson 5 to global superstardom, though critics note it conspicuously moonwalks around his legal controversies.",
-    "url": "https://www.rottentomatoes.com/m/michael",
-    "source": "Rotten Tomatoes"
+    "hed": "Michael Jackson Biopic 'Michael' Opens Tomorrow Eyeing $150M Global Debut Despite 33% on Rotten Tomatoes",
+    "dek": "The Antoine Fuqua-directed biopic starring MJ's real nephew Jaafar Jackson is tracking for the biggest opening ever for a music biopic — critics hate it, fans don't care, and the internet has spent the week debating whether skipping the abuse allegations makes it a hagiography or just a very expensive music video.",
+    "url": "https://deadline.com/2026/04/box-office-michael-weekend-projection-1236867306/",
+    "source": "Deadline"
   },
   "genZ": {
-    "type": "tiktok",
-    "term": "Rick and Morty Dance / I Was Looking For a Job",
-    "definition": "An AI-generated cartoon dance battle video by TikToker @reqdeca went viral in late March, blowing up further in April when set to a Yeat-style remix of The Smiths song featuring the 'I was looking for a job and then I found a job' lyric. Millions of TikTokers are now recreating the dance and overlaying it with every possible brainrot caption format.",
-    "usage": "POV: Iran cancels peace talks the same week your ceasefire expires [Rick and Morty doing the dance]",
-    "url": "https://sg.news.yahoo.com/rick-morty-dance-tiktok-viral-201704870.html",
-    "source": "Know Your Meme via Yahoo News"
+    "type": "meme",
+    "term": "Grok, is this true?",
+    "definition": "A satirical TikTok phrase where users tag 'Grok, is this true?' under viral posts — originally a sincere question directed at Elon Musk's X chatbot, it has evolved into ironic shorthand for mocking obvious lies, political spin, or absurd news. In April 2026 it has exploded as a format for reacting to war coverage and political claims.",
+    "usage": "Trump says the naval blockade is 'basically a ceasefire.' Grok, is this true?",
+    "url": "",
+    "source": ""
   },
-  "tldr": "The US-Iran ceasefire is on life support after American Marines seized an Iranian cargo ship and Tehran canceled peace talks, with the clock ticking to Wednesday's expiration. Meanwhile Japan got hit by a 7.4 earthquake, gas remains painful at $4.16 a gallon, and somehow a Michael Jackson biopic opening Friday is the most normal thing happening this week."
+  "tldr": "On Day 55 of the Iran war, Trump ordered the Navy to shoot Iranian mine-layers while simultaneously extending the ceasefire indefinitely, which is the diplomatic equivalent of hugging someone and punching them at the same time. Gas is $4 a gallon, the stock market is shrugging, and the Michael Jackson biopic opens tomorrow to rave reviews from exactly zero critics and roughly 100 million fans who already bought tickets."
 }
