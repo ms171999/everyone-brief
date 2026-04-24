@@ -1,184 +1,182 @@
 {
-  "date": "Thursday, April 23, 2026",
+  "date": "Friday, April 24, 2026",
   "headlines": [
     {
-      "text": "Trump orders Navy to shoot Iranian boats laying mines in Strait of Hormuz",
-      "tag": "🚢"
+      "text": "Iran FM Araghchi Heads to Pakistan as US-Iran Talks Deadlocked on Day 56",
+      "tag": "🔥"
     },
     {
-      "text": "Iran seizes two cargo ships, fires on third — calls US blockade an 'act of war'",
-      "tag": "⚔️"
+      "text": "Trump Extends Israel-Lebanon Ceasefire by Three Weeks, Says 'Don't Rush Me' on Iran",
+      "tag": "🕊️"
     },
     {
-      "text": "Senate defeats Iran War Powers resolution for a fifth time, 55-46",
-      "tag": "🏛️"
+      "text": "Hegseth: US Naval Blockade of Iran 'Growing and Going Global,' Another Carrier Incoming",
+      "tag": "⚓"
     },
     {
-      "text": "Pentagon fires Navy Secretary John Phelan after clashes with Hegseth",
-      "tag": "💥"
+      "text": "DOJ Drops Criminal Probe Into Fed Chair Powell; Trump's Pick Kevin Warsh Clears Path",
+      "tag": "🏦"
     },
     {
-      "text": "Trump approval rating sinks to mid-30s; aides draft midterm strategy to avoid a referendum on him",
-      "tag": "📉"
+      "text": "Meta Announces 8,000 Layoffs — 10% of Workforce — to Fund AI Spending Binge",
+      "tag": "💼"
     },
     {
-      "text": "Senate Republicans pass ICE/border patrol budget blueprint without Democratic support amid partial DHS shutdown",
-      "tag": "🔒"
-    },
-    {
-      "text": "Michael Jackson biopic 'Michael' eyes record $150M global opening this weekend despite 33% on Rotten Tomatoes",
-      "tag": "🎬"
-    },
-    {
-      "text": "S&P 500 and Nasdaq closed at record highs Wednesday; stocks waver Thursday on Iran stalemate and software earnings miss",
+      "text": "Intel Surges 19%+ After Earnings Beat, Elon Musk Hints at $3B Deal With Chipmaker",
       "tag": "📈"
     },
     {
-      "text": "National average gas price hits $4.03 a gallon — experts say sub-$3 gas is months away at minimum",
-      "tag": "⛽"
+      "text": "Senate GOP Advances $70 Billion Funding Plan for ICE and Border Patrol",
+      "tag": "🛂"
     },
     {
-      "text": "UN warns Iran war has pushed 32 million people toward poverty; Strait of Hormuz still closed on Day 55",
-      "tag": "🌍"
+      "text": "DOJ Seeks to Denaturalize Hundreds of US Citizens Amid Immigration Crackdown",
+      "tag": "⚖️"
+    },
+    {
+      "text": "Michael Jackson Biopic Opens Today, Eyes Record-Breaking $150M Global Debut",
+      "tag": "🎬"
+    },
+    {
+      "text": "Gas Prices Tick Back Up to $4.06 Nationally as Iran War Keeps Oil Markets on Edge",
+      "tag": "⛽"
     }
   ],
   "breaking": {
-    "show": true,
-    "text": "Trump orders Navy to 'shoot and kill' Iranian boats placing mines in Strait of Hormuz as Iran seizes two ships and fires on third",
-    "url": "https://www.cnn.com/2026/04/23/world/live-news/iran-war-trump-blockade-israel-lebanon"
+    "show": false,
+    "text": "",
+    "url": ""
   },
   "stories": [
     {
-      "tag": "iran war - day 55",
+      "tag": "iran war - day 56",
       "tagType": "fire",
-      "hed": "Trump Says 'Shoot on Sight' While Iran Runs a Toll Booth at Hormuz",
-      "dek": "Trump extended the ceasefire indefinitely, then immediately ordered the Navy to fire on any Iranian boat laying mines — because nothing says 'peace talks' like a shoot-on-sight order. Meanwhile Iran is literally charging ships a toll to pass through the strait and pocketing up to $20 million a day, which is the most aggressive valet service in maritime history.",
-      "url": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire",
-      "source": "Al Jazeera",
+      "hed": "Araghchi Flies to Islamabad as US-Iran Talks Hit a Wall",
+      "dek": "Iran's top diplomat is heading to Pakistan for 'consultations' — not actually talking to Americans, just talking about talking to Americans. Trump, asked for a timeline on ending the war he started, offered the diplomatic masterpiece: 'Don't rush me.'",
+      "url": "https://www.cnn.com/2026/04/24/world/live-news/iran-war-trump-israel-lebanon",
+      "source": "CNN",
       "chips": [
-        "Strait of Hormuz",
-        "Iran Blockade",
-        "Peace Talks Stalled",
-        "Navy Standoff"
+        "Strait of Hormuz blockade",
+        "Lebanon ceasefire extended",
+        "Pakistan mediating"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Lebanon Ceasefire Frays as Israel Kills Five Including Journalist Amal Khalil",
-      "dek": "Israel killed at least five people in southern Lebanon despite the 10-day US-brokered ceasefire, including Al-Akhbar correspondent Amal Khalil, who had previously received death threats via WhatsApp from an Israeli phone number. A second round of Israel-Lebanon ambassador-level talks is underway in Washington today.",
-      "url": "https://www.democracynow.org/2026/4/23/headlines",
-      "source": "Democracy Now!",
+      "hed": "Russia Offers to Store Iran's Enriched Uranium — Trump Says No Thanks",
+      "dek": "Putin proposed stashing Iran's uranium in Russia, which could have theoretically unlocked a deal. Trump reportedly declined, apparently not wild about giving Moscow more nuclear leverage. At least someone is being cautious about something.",
+      "url": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire",
+      "source": "Al Jazeera",
       "chips": [
-        "Lebanon",
-        "Israel",
-        "Ceasefire",
-        "Press Freedom"
+        "Russia-Iran axis",
+        "nuclear deal stalled",
+        "Kremlin offer rejected"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Pentagon Fires Navy Secretary Phelan After He Suggested Outsourcing Warship Production Abroad",
-      "dek": "Navy Secretary John Phelan was abruptly fired after signaling openness to building US Navy warships overseas — a comment that somehow surprised an administration actively fighting a naval war. Defense Secretary Hegseth had also reportedly been frustrated with Phelan's pace on domestic shipbuilding reform, making this the 34th senior official removed under Trump.",
-      "url": "https://www.democracynow.org/2026/4/23/headlines",
-      "source": "Democracy Now!",
+      "hed": "DOJ Drops Powell Probe, Clearing Way for Trump's Fed Pick Kevin Warsh",
+      "dek": "The Justice Department closed its criminal investigation into outgoing Fed Chair Jerome Powell, who had been scrutinized over a building renovation. The S&P 500 and Nasdaq moved higher on the news, because markets love it when the president gets what he wants.",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-april-24-224547261.html",
+      "source": "Yahoo Finance",
       "chips": [
-        "Pentagon",
-        "Hegseth",
-        "Military Leadership"
+        "Federal Reserve",
+        "Kevin Warsh",
+        "markets rally"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Trump's Approval Sinks to Mid-30s; Aides Plot Midterm Strategy to Make It About Democrats Instead",
-      "dek": "Three polls this week placed Trump's approval in the mid-30 percent range, so advisers are developing a midterm strategy that frames 2026 as a choice between the two parties rather than a verdict on Trump — a classic move that roughly translates to 'please don't look at us, look at them.'",
-      "url": "https://www.cnn.com/2026/04/23/us/5-things-to-know-for-april-23-ice-funding-tap-water-toxin-iran-war-midterm-strategy-covid-19-vaccines",
-      "source": "CNN",
+      "hed": "Meta Cuts 8,000 Jobs While Doubling Down on AI Spending to $135B",
+      "dek": "Zuckerberg is firing 10% of his staff to pay for AI infrastructure — a strategy that, in 2026, is called 'efficiency.' Microsoft simultaneously offered voluntary buyouts to thousands of senior employees, because apparently Big Tech is having a moment.",
+      "url": "https://www.cnn.com/2026/04/23/tech/meta-layoffs-10-percent-staff-ai",
+      "source": "CNN Business",
       "chips": [
-        "Trump Polls",
-        "Midterms 2026",
-        "Republicans"
+        "Big Tech layoffs",
+        "AI arms race",
+        "Microsoft buyouts"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Mysterious Traders Made Millions on Suspiciously Well-Timed Bets Tied to the Iran War",
-      "dek": "Investigators are looking into a cluster of traders who made extraordinary profits on options and energy contracts placed just before key Iran war escalations — the kind of timing that makes you wonder whether someone got the memo early, or just has incredibly good vibes about global conflict.",
-      "url": "https://www.democracynow.org/2026/4/23/headlines",
-      "source": "Democracy Now!",
+      "hed": "Consumer Sentiment Hits Record Low — Below COVID, Below 2008, Below Everything",
+      "dek": "The University of Michigan's final April consumer sentiment reading came in at 49.8, the lowest ever recorded — worse than the financial crisis, worse than the pandemic. On the bright side, at least people feel consistently terrible, which is its own kind of stability.",
+      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-april-24-224547261.html",
+      "source": "Yahoo Finance",
       "chips": [
-        "War Profiteering",
-        "Market Manipulation",
-        "Iran"
+        "consumer confidence collapse",
+        "Iran war economy",
+        "record low sentiment"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,130",
-      "chg": "+0.1%",
+      "val": "7,155",
+      "chg": "+0.7%",
       "dir": "up"
     },
     "dow": {
-      "val": "49,441",
+      "val": "49,241",
       "chg": "-0.1%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "24,633",
-      "chg": "-0.1%",
-      "dir": "down"
+      "val": "24,770",
+      "chg": "+1.4%",
+      "dir": "up"
     },
     "wti": {
-      "val": "$93",
-      "chg": "+3.2%",
-      "dir": "up"
+      "val": "$95",
+      "chg": "-0.8%",
+      "dir": "down"
     },
     "brent": {
-      "val": "$103",
-      "chg": "+2.8%",
-      "dir": "up"
+      "val": "$99",
+      "chg": "-0.6%",
+      "dir": "down"
     },
     "gold": {
-      "val": "$4,735",
-      "chg": "+0.8%",
-      "dir": "up"
-    },
-    "btc": {
-      "val": "$77,810",
+      "val": "$4,712",
       "chg": "-0.5%",
       "dir": "down"
     },
-    "context": "Stocks wavered as Iran-US peace talks stalled and IBM plus ServiceNow cratered on earnings, while oil surged for a fourth straight day on Hormuz tension.",
-    "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-thursday-april-23-dow-sp-500-nasdaq-oil-rises-software-233045213.html",
+    "btc": {
+      "val": "$78,188",
+      "chg": "-0.3%",
+      "dir": "down"
+    },
+    "context": "Nasdaq and S&P rallied after the DOJ dropped its Powell probe and Intel surged 19% on a strong earnings beat, while the Dow lagged as oil dipped on ceasefire extension hopes.",
+    "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-april-24-224547261.html",
     "source": "Yahoo Finance"
   },
   "gas": {
-    "avg": "$4.03",
-    "note": "Gas is $4 a gallon and the Strait of Hormuz is still closed — congrats, your commute is now a geopolitical event.",
-    "premium": "$4.69",
-    "wti": "$93",
-    "highState": "CA: $5.85",
+    "avg": "$4.06",
+    "note": "Still $1+ above pre-war prices — turns out blockading the world's busiest oil chokepoint has consequences at the pump.",
+    "premium": "$4.85",
+    "wti": "$95",
+    "highState": "CA: $5.99",
     "lowState": "OK: $3.38",
     "url": "https://gasprices.aaa.com/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Michael Jackson Biopic 'Michael' Opens Tomorrow Eyeing $150M Global Debut Despite 33% on Rotten Tomatoes",
-    "dek": "The Antoine Fuqua-directed biopic starring MJ's real nephew Jaafar Jackson is tracking for the biggest opening ever for a music biopic — critics hate it, fans don't care, and the internet has spent the week debating whether skipping the abuse allegations makes it a hagiography or just a very expensive music video.",
-    "url": "https://deadline.com/2026/04/box-office-michael-weekend-projection-1236867306/",
-    "source": "Deadline"
+    "hed": "Michael Jackson Biopic Opens Today With Record $150M Global Box Office Projection — Critics Hate It, Fans Don't Care",
+    "dek": "Lionsgate's 'Michael,' directed by Antoine Fuqua and starring MJ's nephew Jaafar Jackson, lands in 3,900 theaters today with a 39% critics score and a 94% audience score on Rotten Tomatoes. It's tracking to be the biggest music biopic opening ever, proving once again that critical consensus and box office returns have a complicated relationship.",
+    "url": "https://variety.com/2026/film/box-office/michael-box-office-record-opening-music-biopic-1236726929/",
+    "source": "Variety"
   },
   "genZ": {
-    "type": "meme",
-    "term": "Grok, is this true?",
-    "definition": "A satirical TikTok phrase where users tag 'Grok, is this true?' under viral posts — originally a sincere question directed at Elon Musk's X chatbot, it has evolved into ironic shorthand for mocking obvious lies, political spin, or absurd news. In April 2026 it has exploded as a format for reacting to war coverage and political claims.",
-    "usage": "Trump says the naval blockade is 'basically a ceasefire.' Grok, is this true?",
+    "type": "tiktok",
+    "term": "Tung Tung Tung Sahur",
+    "definition": "An AI-generated brainrot character that exploded across TikTok this month, featuring an absurd looping figure dancing to chaotic audio — the latest in a lineage of unhinged AI meme creatures that Gen Z has fully adopted as their spirit animals. It pairs with the viral 'I just get so nervy' audio from a Roblox voice chat clip, creating the perfectly meaningless loop that defines 2026 internet culture.",
+    "usage": "When Trump said 'Don't rush me' about ending the Iran war, the entire TikTok comment section responded with Tung Tung Tung Sahur dancing, which is honestly a more coherent foreign policy response than anything out of the State Department.",
     "url": "",
     "source": ""
   },
-  "tldr": "On Day 55 of the Iran war, Trump ordered the Navy to shoot Iranian mine-layers while simultaneously extending the ceasefire indefinitely, which is the diplomatic equivalent of hugging someone and punching them at the same time. Gas is $4 a gallon, the stock market is shrugging, and the Michael Jackson biopic opens tomorrow to rave reviews from exactly zero critics and roughly 100 million fans who already bought tickets."
+  "tldr": "Day 56 of the Iran war: Iran's top diplomat is flying to Pakistan to talk about maybe talking to the US, Trump extended the Lebanon ceasefire and told reporters not to rush him, and Intel's earnings beat briefly made people forget that consumer sentiment just hit an all-time record low. It's fine."
 }
