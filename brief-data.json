@@ -1,182 +1,183 @@
 {
-  "date": "Friday, April 24, 2026",
+  "date": "Saturday, April 25, 2026",
   "headlines": [
     {
-      "text": "Iran FM Araghchi Heads to Pakistan as US-Iran Talks Deadlocked on Day 56",
-      "tag": "🔥"
-    },
-    {
-      "text": "Trump Extends Israel-Lebanon Ceasefire by Three Weeks, Says 'Don't Rush Me' on Iran",
+      "text": "Iran FM Araghchi departs Pakistan after delivering Tehran war-end demands to mediators; Witkoff and Kushner still en route",
       "tag": "🕊️"
     },
     {
-      "text": "Hegseth: US Naval Blockade of Iran 'Growing and Going Global,' Another Carrier Incoming",
-      "tag": "⚓"
-    },
-    {
-      "text": "DOJ Drops Criminal Probe Into Fed Chair Powell; Trump's Pick Kevin Warsh Clears Path",
-      "tag": "🏦"
-    },
-    {
-      "text": "Meta Announces 8,000 Layoffs — 10% of Workforce — to Fund AI Spending Binge",
-      "tag": "💼"
-    },
-    {
-      "text": "Intel Surges 19%+ After Earnings Beat, Elon Musk Hints at $3B Deal With Chipmaker",
+      "text": "S&P 500 and Nasdaq close at record highs Friday on Intel surge and AI euphoria",
       "tag": "📈"
     },
     {
-      "text": "Senate GOP Advances $70 Billion Funding Plan for ICE and Border Patrol",
-      "tag": "🛂"
+      "text": "US naval blockade redirects 33+ ships near Strait of Hormuz as oil tops $100 a barrel",
+      "tag": "⛽"
     },
     {
-      "text": "DOJ Seeks to Denaturalize Hundreds of US Citizens Amid Immigration Crackdown",
-      "tag": "⚖️"
-    },
-    {
-      "text": "Michael Jackson Biopic Opens Today, Eyes Record-Breaking $150M Global Debut",
+      "text": "Michael Jackson biopic 'Michael' stomps to record $85M+ opening weekend despite 39% Rotten Tomatoes score",
       "tag": "🎬"
     },
     {
-      "text": "Gas Prices Tick Back Up to $4.06 Nationally as Iran War Keeps Oil Markets on Edge",
+      "text": "Trump extends Israel-Lebanon ceasefire by three weeks; IDF still striking southern Lebanon villages",
+      "tag": "🪖"
+    },
+    {
+      "text": "Fed Chair Jerome Powell ousted; Kevin Warsh Senate confirmation hearing underway",
+      "tag": "🏦"
+    },
+    {
+      "text": "National gas average holds near $4.02/gal — highest since August 2022 — with California at $5.84",
       "tag": "⛽"
+    },
+    {
+      "text": "Helena Bonham Carter abruptly dropped from White Lotus Season 4 just days into France filming",
+      "tag": "🌸"
+    },
+    {
+      "text": "Iran internet blackout hits 57 days straight, over 1,340 hours of severed global access",
+      "tag": "📵"
+    },
+    {
+      "text": "Zelensky meets Saudi Crown Prince MBS in Riyadh, pitches Ukraine drone expertise as Gulf export",
+      "tag": "🌍"
     }
   ],
   "breaking": {
-    "show": false,
-    "text": "",
-    "url": ""
+    "show": true,
+    "text": "Iran FM leaves Pakistan without direct US talks; Witkoff and Kushner still flying to Islamabad",
+    "url": "https://www.cnn.com/2026/04/25/world/live-news/iran-war-israel-pakistan-talks"
   },
   "stories": [
     {
-      "tag": "iran war - day 56",
+      "tag": "iran war - day 57",
       "tagType": "fire",
-      "hed": "Araghchi Flies to Islamabad as US-Iran Talks Hit a Wall",
-      "dek": "Iran's top diplomat is heading to Pakistan for 'consultations' — not actually talking to Americans, just talking about talking to Americans. Trump, asked for a timeline on ending the war he started, offered the diplomatic masterpiece: 'Don't rush me.'",
-      "url": "https://www.cnn.com/2026/04/24/world/live-news/iran-war-trump-israel-lebanon",
-      "source": "CNN",
+      "hed": "Witkoff and Kushner fly to Pakistan; Iran says nobody told them",
+      "dek": "The White House confirmed envoys Steve Witkoff and Jared Kushner are heading to Islamabad for direct Iran talks — a plan Iran's foreign ministry publicly denied even exists. Araghchi has already left the building, which is a bold diplomatic move even by Schrodinger's-negotiation standards.",
+      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-envoys-heading-pakistan-uncertainty-iran-talks-rcna342031",
+      "source": "NBC News",
       "chips": [
-        "Strait of Hormuz blockade",
-        "Lebanon ceasefire extended",
-        "Pakistan mediating"
+        "Pakistan talks",
+        "Araghchi departs",
+        "Hormuz blockade",
+        "3,400 killed in Iran"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Russia Offers to Store Iran's Enriched Uranium — Trump Says No Thanks",
-      "dek": "Putin proposed stashing Iran's uranium in Russia, which could have theoretically unlocked a deal. Trump reportedly declined, apparently not wild about giving Moscow more nuclear leverage. At least someone is being cautious about something.",
-      "url": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire",
-      "source": "Al Jazeera",
+      "hed": "US naval blockade on Iran strangles oil routes as Brent holds above $100",
+      "dek": "The US has redirected at least 33 ships since imposing its naval blockade on April 13, while Iran's Strait of Hormuz closure continues to rattle global energy markets. Iran's parliament speaker says reopening Hormuz is 'not possible' while the blockade remains.",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-israel-ceasefire/",
+      "source": "CBS News",
       "chips": [
-        "Russia-Iran axis",
-        "nuclear deal stalled",
-        "Kremlin offer rejected"
+        "Strait of Hormuz",
+        "oil above $100",
+        "naval blockade"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "DOJ Drops Powell Probe, Clearing Way for Trump's Fed Pick Kevin Warsh",
-      "dek": "The Justice Department closed its criminal investigation into outgoing Fed Chair Jerome Powell, who had been scrutinized over a building renovation. The S&P 500 and Nasdaq moved higher on the news, because markets love it when the president gets what he wants.",
-      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-april-24-224547261.html",
-      "source": "Yahoo Finance",
+      "hed": "Powell ousted, Warsh confirmation hearing kicks off as Fed rate dilemma sharpens",
+      "dek": "The Senate Banking Committee began confirmation hearings for Kevin Warsh as Trump's Fed Chair pick, with markets watching closely. Analysts note Warsh is a hawk entering a rate environment complicated by war-driven inflation running at 3.3% annually.",
+      "url": "https://www.npr.org/sections/national/",
+      "source": "NPR",
       "chips": [
         "Federal Reserve",
         "Kevin Warsh",
-        "markets rally"
+        "interest rates"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Meta Cuts 8,000 Jobs While Doubling Down on AI Spending to $135B",
-      "dek": "Zuckerberg is firing 10% of his staff to pay for AI infrastructure — a strategy that, in 2026, is called 'efficiency.' Microsoft simultaneously offered voluntary buyouts to thousands of senior employees, because apparently Big Tech is having a moment.",
-      "url": "https://www.cnn.com/2026/04/23/tech/meta-layoffs-10-percent-staff-ai",
-      "source": "CNN Business",
+      "hed": "Speaker Johnson unveils FISA 702 extension with April 30 deadline looming",
+      "dek": "House Speaker Mike Johnson dropped his latest proposal to extend the controversial FISA 702 surveillance program with just days to spare before it expires. Civil liberties groups are not thrilled, which is how you know Congress is probably going to pass it.",
+      "url": "https://www.npr.org/sections/national/",
+      "source": "NPR",
       "chips": [
-        "Big Tech layoffs",
-        "AI arms race",
-        "Microsoft buyouts"
+        "FISA 702",
+        "surveillance",
+        "Congress deadline"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Consumer Sentiment Hits Record Low — Below COVID, Below 2008, Below Everything",
-      "dek": "The University of Michigan's final April consumer sentiment reading came in at 49.8, the lowest ever recorded — worse than the financial crisis, worse than the pandemic. On the bright side, at least people feel consistently terrible, which is its own kind of stability.",
-      "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-april-24-224547261.html",
-      "source": "Yahoo Finance",
+      "hed": "Markets at all-time highs while consumer sentiment plunges to all-time lows — pick a lane, America",
+      "dek": "The S&P 500 and Nasdaq are printing record closes while consumer confidence has cratered to historic lows driven by Iran war anxiety and gas prices up 30% year-over-year. Bank of America's economists warn investors may be dangerously extrapolating the 'escalate to de-escalate' trade war playbook onto an actual war.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/24/stock-market-today-april-24-s-and-p-500-and-nasdaq-set-new-highs-on-tech-surge/",
+      "source": "Motley Fool",
       "chips": [
-        "consumer confidence collapse",
-        "Iran war economy",
-        "record low sentiment"
+        "S&P record",
+        "consumer sentiment crash",
+        "Iran war premium"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,155",
-      "chg": "+0.7%",
+      "val": "7,165",
+      "chg": "+0.8%",
       "dir": "up"
     },
     "dow": {
-      "val": "49,241",
-      "chg": "-0.1%",
+      "val": "49,231",
+      "chg": "-0.2%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "24,770",
-      "chg": "+1.4%",
+      "val": "24,837",
+      "chg": "+1.6%",
       "dir": "up"
     },
     "wti": {
       "val": "$95",
-      "chg": "-0.8%",
+      "chg": "-1.0%",
       "dir": "down"
     },
     "brent": {
-      "val": "$99",
-      "chg": "-0.6%",
-      "dir": "down"
-    },
-    "gold": {
-      "val": "$4,712",
+      "val": "$101",
       "chg": "-0.5%",
       "dir": "down"
     },
+    "gold": {
+      "val": "$4,725",
+      "chg": "+0.0%",
+      "dir": "up"
+    },
     "btc": {
-      "val": "$78,188",
+      "val": "$77,635",
       "chg": "-0.3%",
       "dir": "down"
     },
-    "context": "Nasdaq and S&P rallied after the DOJ dropped its Powell probe and Intel surged 19% on a strong earnings beat, while the Dow lagged as oil dipped on ceasefire extension hopes.",
-    "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-friday-april-24-224547261.html",
-    "source": "Yahoo Finance"
+    "context": "Intel's blockbuster earnings sent chips and mega-cap AI stocks to new records Friday, though the Dow lagged as cyclicals slid and oil eased slightly on fragile Iran diplomacy hopes.",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/04/24/stock-market-today-april-24-s-and-p-500-and-nasdaq-set-new-highs-on-tech-surge/",
+    "source": "Motley Fool / Yahoo Finance"
   },
   "gas": {
-    "avg": "$4.06",
-    "note": "Still $1+ above pre-war prices — turns out blockading the world's busiest oil chokepoint has consequences at the pump.",
-    "premium": "$4.85",
+    "avg": "$4.02",
+    "note": "Filling up now costs 35% more than before the Iran war — congrats to everyone who bought an EV and now pays $4.02 in smug savings.",
+    "premium": "$4.75",
     "wti": "$95",
-    "highState": "CA: $5.99",
+    "highState": "CA: $5.84",
     "lowState": "OK: $3.38",
-    "url": "https://gasprices.aaa.com/",
+    "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Michael Jackson Biopic Opens Today With Record $150M Global Box Office Projection — Critics Hate It, Fans Don't Care",
-    "dek": "Lionsgate's 'Michael,' directed by Antoine Fuqua and starring MJ's nephew Jaafar Jackson, lands in 3,900 theaters today with a 39% critics score and a 94% audience score on Rotten Tomatoes. It's tracking to be the biggest music biopic opening ever, proving once again that critical consensus and box office returns have a complicated relationship.",
-    "url": "https://variety.com/2026/film/box-office/michael-box-office-record-opening-music-biopic-1236726929/",
-    "source": "Variety"
+    "hed": "Michael Jackson biopic 'Michael' moonwalks to record $85M+ opening despite critics panning it at 39% on Rotten Tomatoes",
+    "dek": "Directed by Antoine Fuqua and starring MJ's real nephew Jaafar Jackson, the film skips the abuse allegations entirely and audiences apparently do not care — giving it an A- CinemaScore. Critics said 'sanitized'; fans said 'shut up and play Billie Jean.'",
+    "url": "https://deadline.com/2026/04/box-office-michael-1236870542/",
+    "source": "Deadline"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "Tung Tung Tung Sahur",
-    "definition": "An AI-generated brainrot character that exploded across TikTok this month, featuring an absurd looping figure dancing to chaotic audio — the latest in a lineage of unhinged AI meme creatures that Gen Z has fully adopted as their spirit animals. It pairs with the viral 'I just get so nervy' audio from a Roblox voice chat clip, creating the perfectly meaningless loop that defines 2026 internet culture.",
-    "usage": "When Trump said 'Don't rush me' about ending the Iran war, the entire TikTok comment section responded with Tung Tung Tung Sahur dancing, which is honestly a more coherent foreign policy response than anything out of the State Department.",
-    "url": "",
-    "source": ""
+    "term": "Fruit Love Island",
+    "definition": "An AI-generated TikTok series depicting anthropomorphic fruit characters competing on a Love Island-style dating show, which went so viral it spawned its own 'finale' episode with millions of views. It perfectly captures the April 2026 internet mood of watching chaotic AI slop unironically for emotional support during a wartime news cycle.",
+    "usage": "Watching Witkoff fly to Pakistan only to find out Araghchi already left is giving major Fruit Love Island energy — everyone showed up, nobody coupled up, and Pakistan is stuck hosting the reunion special.",
+    "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
+    "source": "Epidemic Sound"
   },
-  "tldr": "Day 56 of the Iran war: Iran's top diplomat is flying to Pakistan to talk about maybe talking to the US, Trump extended the Lebanon ceasefire and told reporters not to rush him, and Intel's earnings beat briefly made people forget that consumer sentiment just hit an all-time record low. It's fine."
+  "tldr": "Iran's foreign minister delivered war-end demands to Pakistani mediators then left Islamabad just as US envoys Witkoff and Kushner flew in, turning peace talks into an extremely expensive game of diplomatic tag. Meanwhile Wall Street partied at record highs on Intel earnings while the rest of America paid $4 a gallon and watched a Michael Jackson biopic that pretends the 1990s never happened."
 }
