@@ -1,183 +1,182 @@
 {
-  "date": "Saturday, April 25, 2026",
+  "date": "Sunday, April 26, 2026",
   "headlines": [
     {
-      "text": "Iran FM Araghchi departs Pakistan after delivering Tehran war-end demands to mediators; Witkoff and Kushner still en route",
-      "tag": "🕊️"
+      "text": "Gunman opens fire at White House Correspondents' Dinner; Trump rushed to safety, suspect in custody",
+      "tag": "🚨"
     },
     {
-      "text": "S&P 500 and Nasdaq close at record highs Friday on Intel surge and AI euphoria",
+      "text": "Trump cancels Witkoff-Kushner Pakistan trip, says Iran can 'call us anytime' from their rubble",
+      "tag": "✈️"
+    },
+    {
+      "text": "Iran refuses 'forced negotiations' as US naval blockade redirects 37 ships and counting",
+      "tag": "⚓"
+    },
+    {
+      "text": "Israel strikes Hezbollah in Lebanon again as ceasefire frays at the seams",
+      "tag": "💥"
+    },
+    {
+      "text": "Al-Qaeda-linked JNIM and Tuareg rebels launch largest coordinated attack in Mali in years, seize Kidal",
+      "tag": "🌍"
+    },
+    {
+      "text": "Michael Jackson biopic 'Michael' opens to fans literally dancing in the aisles — and fights about it online",
+      "tag": "🕺"
+    },
+    {
+      "text": "Intel surges 23% on AI-driven earnings blowout, lifting Nasdaq to record close Friday",
       "tag": "📈"
     },
     {
-      "text": "US naval blockade redirects 33+ ships near Strait of Hormuz as oil tops $100 a barrel",
+      "text": "Gas prices tick up to $4.10 nationwide as Iran war keeps Strait of Hormuz in a chokehold",
       "tag": "⛽"
     },
     {
-      "text": "Michael Jackson biopic 'Michael' stomps to record $85M+ opening weekend despite 39% Rotten Tomatoes score",
-      "tag": "🎬"
+      "text": "Trump uses WHCA shooting to once again pitch his under-construction White House ballroom as the solution to everything",
+      "tag": "🏛️"
     },
     {
-      "text": "Trump extends Israel-Lebanon ceasefire by three weeks; IDF still striking southern Lebanon villages",
-      "tag": "🪖"
-    },
-    {
-      "text": "Fed Chair Jerome Powell ousted; Kevin Warsh Senate confirmation hearing underway",
-      "tag": "🏦"
-    },
-    {
-      "text": "National gas average holds near $4.02/gal — highest since August 2022 — with California at $5.84",
-      "tag": "⛽"
-    },
-    {
-      "text": "Helena Bonham Carter abruptly dropped from White Lotus Season 4 just days into France filming",
-      "tag": "🌸"
-    },
-    {
-      "text": "Iran internet blackout hits 57 days straight, over 1,340 hours of severed global access",
-      "tag": "📵"
-    },
-    {
-      "text": "Zelensky meets Saudi Crown Prince MBS in Riyadh, pitches Ukraine drone expertise as Gulf export",
-      "tag": "🌍"
+      "text": "Pope Leo XIV calls death penalty 'inadmissible' hours after DOJ authorizes firing squads for federal executions",
+      "tag": "⛪"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Iran FM leaves Pakistan without direct US talks; Witkoff and Kushner still flying to Islamabad",
-    "url": "https://www.cnn.com/2026/04/25/world/live-news/iran-war-israel-pakistan-talks"
+    "text": "BREAKING: Suspect charged in White House Correspondents' Dinner shooting; arraignment set for Monday, U.S. Attorney Jeanine Pirro says",
+    "url": "https://www.cnn.com/2026/04/25/politics/live-news/trump-white-house-correspondents-dinner"
   },
   "stories": [
     {
       "tag": "iran war - day 57",
       "tagType": "fire",
-      "hed": "Witkoff and Kushner fly to Pakistan; Iran says nobody told them",
-      "dek": "The White House confirmed envoys Steve Witkoff and Jared Kushner are heading to Islamabad for direct Iran talks — a plan Iran's foreign ministry publicly denied even exists. Araghchi has already left the building, which is a bold diplomatic move even by Schrodinger's-negotiation standards.",
-      "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-envoys-heading-pakistan-uncertainty-iran-talks-rcna342031",
-      "source": "NBC News",
+      "hed": "Trump Tells Envoys to Stay Home, Iran Told to Use a Phone Like Everyone Else",
+      "dek": "Trump scrapped Witkoff and Kushner's Pakistan trip mid-taxi-to-runway, saying 18-hour flights are for losers and Iran can 'call anytime.' Iran's President Pezeshkian, unmoved, said Tehran won't negotiate under blockade — which is a fancy way of saying the war is very much still on.",
+      "url": "https://www.cnn.com/2026/04/25/world/live-news/iran-war-israel-pakistan-talks",
+      "source": "CNN",
       "chips": [
-        "Pakistan talks",
-        "Araghchi departs",
-        "Hormuz blockade",
-        "3,400 killed in Iran"
+        "Blockade: 37 ships rerouted",
+        "Witkoff-Kushner grounded",
+        "Iran: no forced talks"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "US naval blockade on Iran strangles oil routes as Brent holds above $100",
-      "dek": "The US has redirected at least 33 ships since imposing its naval blockade on April 13, while Iran's Strait of Hormuz closure continues to rattle global energy markets. Iran's parliament speaker says reopening Hormuz is 'not possible' while the blockade remains.",
-      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-israel-ceasefire/",
-      "source": "CBS News",
+      "hed": "Mali Hit by Largest Coordinated Attack in Years; Jihadists and Tuareg Rebels Seize Kidal",
+      "dek": "Al-Qaeda-linked JNIM and the Azawad Liberation Front launched simultaneous strikes on Bamako, Gao, Sevare, and Kidal in a pre-dawn blitz analysts are calling unprecedented since 2012. The junta leader's whereabouts remain unknown, the defense minister's house was blown up, and the army's 'situation is under control' statement has been met with appropriate skepticism.",
+      "url": "https://www.pbs.org/newshour/world/islamic-militants-and-separatists-attack-several-locations-in-malis-capital-and-other-cities",
+      "source": "PBS NewsHour",
       "chips": [
-        "Strait of Hormuz",
-        "oil above $100",
-        "naval blockade"
+        "JNIM claims attacks",
+        "Kidal seized by rebels",
+        "US Embassy: shelter in place"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Powell ousted, Warsh confirmation hearing kicks off as Fed rate dilemma sharpens",
-      "dek": "The Senate Banking Committee began confirmation hearings for Kevin Warsh as Trump's Fed Chair pick, with markets watching closely. Analysts note Warsh is a hawk entering a rate environment complicated by war-driven inflation running at 3.3% annually.",
-      "url": "https://www.npr.org/sections/national/",
+      "hed": "Shooting at WHCA Dinner Suspect May Have Targeted Trump Officials, Acting AG Says",
+      "dek": "A gunman opened fire near the ballroom entrance of the Washington Hilton during the White House Correspondents' Dinner Saturday night, sending journalists and officials diving under tables. One Secret Service agent was shot and is reportedly doing fine. Trump, for his third brush with gun violence, responded by promoting his under-construction White House ballroom.",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner",
       "source": "NPR",
       "chips": [
-        "Federal Reserve",
-        "Kevin Warsh",
-        "interest rates"
+        "Suspect in custody",
+        "Agent shot, OK",
+        "Arraignment Monday"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Speaker Johnson unveils FISA 702 extension with April 30 deadline looming",
-      "dek": "House Speaker Mike Johnson dropped his latest proposal to extend the controversial FISA 702 surveillance program with just days to spare before it expires. Civil liberties groups are not thrilled, which is how you know Congress is probably going to pass it.",
-      "url": "https://www.npr.org/sections/national/",
+      "hed": "Pope Leo XIV Condemns Death Penalty as DOJ Greenlit Firing Squads for Federal Executions",
+      "dek": "Pope Leo XIV called capital punishment 'inadmissible' in a video message released on the same day the Justice Department said it would permit firing squads for federal executions — a coincidence in timing that left very little ambiguity about who was talking to whom.",
+      "url": "https://www.npr.org/sections/news/",
       "source": "NPR",
       "chips": [
-        "FISA 702",
-        "surveillance",
-        "Congress deadline"
+        "Pope Leo XIV speaks",
+        "DOJ: firing squads OK",
+        "Federal policy shift"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Markets at all-time highs while consumer sentiment plunges to all-time lows — pick a lane, America",
-      "dek": "The S&P 500 and Nasdaq are printing record closes while consumer confidence has cratered to historic lows driven by Iran war anxiety and gas prices up 30% year-over-year. Bank of America's economists warn investors may be dangerously extrapolating the 'escalate to de-escalate' trade war playbook onto an actual war.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/04/24/stock-market-today-april-24-s-and-p-500-and-nasdaq-set-new-highs-on-tech-surge/",
-      "source": "Motley Fool",
+      "hed": "Trump Turns Assassination Attempt Into a Ballroom Pitch — His Third Time Getting Shot At",
+      "dek": "For the third time since 2024, Trump found himself near gunfire and responded not with shock but with a Truth Social post about why his White House ballroom would have prevented it. At some point, 'I hate to say I'm honored,' as Trump himself put it, becomes a pretty dark personal brand.",
+      "url": "https://www.washingtonpost.com/politics/",
+      "source": "Washington Post",
       "chips": [
-        "S&P record",
-        "consumer sentiment crash",
-        "Iran war premium"
+        "Third incident",
+        "Ballroom lobbying resumes",
+        "Suspect: anti-Christian writings"
       ]
     }
   ],
   "markets": {
     "sp500": {
       "val": "7,165",
-      "chg": "+0.8%",
+      "chg": "+0.80%",
       "dir": "up"
     },
     "dow": {
-      "val": "49,231",
-      "chg": "-0.2%",
+      "val": "49,230",
+      "chg": "-0.16%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "24,837",
-      "chg": "+1.6%",
+      "val": "24,836",
+      "chg": "+1.63%",
       "dir": "up"
     },
     "wti": {
-      "val": "$95",
-      "chg": "-1.0%",
+      "val": "$94",
+      "chg": "-1.51%",
       "dir": "down"
     },
     "brent": {
-      "val": "$101",
-      "chg": "-0.5%",
+      "val": "$104",
+      "chg": "-0.50%",
       "dir": "down"
     },
     "gold": {
-      "val": "$4,725",
-      "chg": "+0.0%",
+      "val": "$4,740",
+      "chg": "+0.36%",
       "dir": "up"
     },
     "btc": {
-      "val": "$77,635",
-      "chg": "-0.3%",
+      "val": "$77,301",
+      "chg": "-0.43%",
       "dir": "down"
     },
-    "context": "Intel's blockbuster earnings sent chips and mega-cap AI stocks to new records Friday, though the Dow lagged as cyclicals slid and oil eased slightly on fragile Iran diplomacy hopes.",
-    "url": "https://www.fool.com/coverage/stock-market-today/2026/04/24/stock-market-today-april-24-s-and-p-500-and-nasdaq-set-new-highs-on-tech-surge/",
-    "source": "Motley Fool / Yahoo Finance"
+    "context": "Nasdaq and S&P 500 closed at record highs Friday as Intel surged 23% on AI earnings and hopes for US-Iran peace talks briefly lifted sentiment before Trump canceled his envoys' trip.",
+    "url": "https://www.cnbc.com/2026/04/23/stock-market-today-live-updates.html",
+    "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.02",
-    "note": "Filling up now costs 35% more than before the Iran war — congrats to everyone who bought an EV and now pays $4.02 in smug savings.",
+    "avg": "$4.10",
+    "note": "Filling up now costs more than most streaming services combined — and the content is worse.",
     "premium": "$4.75",
-    "wti": "$95",
-    "highState": "CA: $5.84",
-    "lowState": "OK: $3.38",
+    "wti": "$94",
+    "highState": "CA: $5.85",
+    "lowState": "OK: $3.40",
     "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Michael Jackson biopic 'Michael' moonwalks to record $85M+ opening despite critics panning it at 39% on Rotten Tomatoes",
-    "dek": "Directed by Antoine Fuqua and starring MJ's real nephew Jaafar Jackson, the film skips the abuse allegations entirely and audiences apparently do not care — giving it an A- CinemaScore. Critics said 'sanitized'; fans said 'shut up and play Billie Jean.'",
-    "url": "https://deadline.com/2026/04/box-office-michael-1236870542/",
-    "source": "Deadline"
+    "hed": "Fans Are Literally Moonwalking in Theater Aisles During the Michael Jackson Biopic 'Michael' — Opening Weekend Goes Feral",
+    "dek": "The long-awaited Michael Jackson biopic starring his nephew Jaafar Jackson opened this week, and concertgoers are rushing to the front of theaters to dance, dividing the internet between 'this is beautiful' and 'I paid $18 to watch your back.' It is already 2026's most chaotic theatrical experience.",
+    "url": "https://www.tmz.com/",
+    "source": "TMZ"
   },
   "genZ": {
-    "type": "tiktok",
-    "term": "Fruit Love Island",
-    "definition": "An AI-generated TikTok series depicting anthropomorphic fruit characters competing on a Love Island-style dating show, which went so viral it spawned its own 'finale' episode with millions of views. It perfectly captures the April 2026 internet mood of watching chaotic AI slop unironically for emotional support during a wartime news cycle.",
-    "usage": "Watching Witkoff fly to Pakistan only to find out Araghchi already left is giving major Fruit Love Island energy — everyone showed up, nobody coupled up, and Pakistan is stuck hosting the reunion special.",
-    "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
-    "source": "Epidemic Sound"
+    "type": "viral",
+    "term": "Grok, is this true?",
+    "definition": "A phrase originally used sincerely to fact-check viral TikToks via the X-based AI chatbot Grok, it has evolved into a sarcastic punchline dropped under any obviously absurd or made-up claim online. In April 2026 it became the go-to way to mock political spin, war coverage takes, and influencer drama without engaging earnestly.",
+    "usage": "Trump says the WHCA shooter 'would never have happened' with his White House ballroom. Grok, is this true?",
+    "url": "",
+    "source": ""
   },
-  "tldr": "Iran's foreign minister delivered war-end demands to Pakistani mediators then left Islamabad just as US envoys Witkoff and Kushner flew in, turning peace talks into an extremely expensive game of diplomatic tag. Meanwhile Wall Street partied at record highs on Intel earnings while the rest of America paid $4 a gallon and watched a Michael Jackson biopic that pretends the 1990s never happened."
+  "tldr": "A gunman at the White House Correspondents' Dinner sent Trump sprinting for the exit and pivoting to ballroom promotion by morning, while across the Atlantic, Mali's capital burned as jihadists and Tuareg rebels launched the country's biggest coordinated offensive in over a decade. Meanwhile, the Iran ceasefire talks collapsed before they even started, gas hit $4.10, and Intel's AI earnings sent the Nasdaq to record highs because the market, like Trump, remains stubbornly unbothered."
 }
