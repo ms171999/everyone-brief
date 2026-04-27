@@ -1,182 +1,188 @@
 {
-  "date": "Sunday, April 26, 2026",
+  "date": "Monday, April 27, 2026",
   "headlines": [
     {
-      "text": "Gunman opens fire at White House Correspondents' Dinner; Trump rushed to safety, suspect in custody",
-      "tag": "🚨"
+      "text": "WHCD shooter Cole Allen arraigned in DC federal court as Trump calls him a 'sick guy'",
+      "tag": "🔫"
     },
     {
-      "text": "Trump cancels Witkoff-Kushner Pakistan trip, says Iran can 'call us anytime' from their rubble",
-      "tag": "✈️"
+      "text": "Iran FM Araghchi meets Putin in St. Petersburg as US-Iran peace talks remain stuck",
+      "tag": "🕊️"
     },
     {
-      "text": "Iran refuses 'forced negotiations' as US naval blockade redirects 37 ships and counting",
-      "tag": "⚓"
+      "text": "Rubio rejects Iran's Hormuz deal offer; IRGC says strait control is 'definitive strategy'",
+      "tag": "🚢"
     },
     {
-      "text": "Israel strikes Hezbollah in Lebanon again as ceasefire frays at the seams",
-      "tag": "💥"
+      "text": "OpenAI and Microsoft overhaul deal: exclusivity ends, OpenAI can now use any cloud provider",
+      "tag": "🤖"
     },
     {
-      "text": "Al-Qaeda-linked JNIM and Tuareg rebels launch largest coordinated attack in Mali in years, seize Kidal",
-      "tag": "🌍"
+      "text": "Michael Jackson biopic opens to record-shattering $97M domestic, $217M globally",
+      "tag": "🎬"
     },
     {
-      "text": "Michael Jackson biopic 'Michael' opens to fans literally dancing in the aisles — and fights about it online",
-      "tag": "🕺"
+      "text": "German Chancellor Merz says US has 'no strategy' in Iran and is being 'humiliated'",
+      "tag": "🇩🇪"
     },
     {
-      "text": "Intel surges 23% on AI-driven earnings blowout, lifting Nasdaq to record close Friday",
-      "tag": "📈"
-    },
-    {
-      "text": "Gas prices tick up to $4.10 nationwide as Iran war keeps Strait of Hormuz in a chokehold",
+      "text": "Gas prices tick up for 5th straight day to $4.11 national average, still below April 9 peak",
       "tag": "⛽"
     },
     {
-      "text": "Trump uses WHCA shooting to once again pitch his under-construction White House ballroom as the solution to everything",
-      "tag": "🏛️"
+      "text": "Israeli strikes kill 14 in Lebanon on Sunday, deadliest day since ceasefire extension",
+      "tag": "💥"
     },
     {
-      "text": "Pope Leo XIV calls death penalty 'inadmissible' hours after DOJ authorizes firing squads for federal executions",
-      "tag": "⛪"
+      "text": "Iran's Hormuz blockade has cut tanker traffic to about 5% of pre-war daily average",
+      "tag": "🛢️"
+    },
+    {
+      "text": "US Navy orders ships to 'shoot and kill' any vessel laying mines in Strait of Hormuz",
+      "tag": "⚓"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "BREAKING: Suspect charged in White House Correspondents' Dinner shooting; arraignment set for Monday, U.S. Attorney Jeanine Pirro says",
-    "url": "https://www.cnn.com/2026/04/25/politics/live-news/trump-white-house-correspondents-dinner"
+    "text": "Cole Allen, suspected WHCD shooter, arraigned in federal court Monday in DC on charges of using a firearm during a crime of violence and assault on a federal officer.",
+    "url": "https://www.cnbc.com/2026/04/27/cole-allen-whcd-arraigment-trump.html"
   },
   "stories": [
     {
-      "tag": "iran war - day 57",
+      "tag": "iran war - day 59",
       "tagType": "fire",
-      "hed": "Trump Tells Envoys to Stay Home, Iran Told to Use a Phone Like Everyone Else",
-      "dek": "Trump scrapped Witkoff and Kushner's Pakistan trip mid-taxi-to-runway, saying 18-hour flights are for losers and Iran can 'call anytime.' Iran's President Pezeshkian, unmoved, said Tehran won't negotiate under blockade — which is a fancy way of saying the war is very much still on.",
-      "url": "https://www.cnn.com/2026/04/25/world/live-news/iran-war-israel-pakistan-talks",
+      "hed": "Iran Offers Hormuz Deal, US Says No Thanks; Trump Suggests Tehran Can Just Call",
+      "dek": "Iran proposed reopening the Strait of Hormuz if the US lifts its naval blockade — Secretary Rubio called it unacceptable before the ink was dry. Trump canceled his envoys' trip to Pakistan and suggested Iran could just pick up the phone, which is one way to run a war.",
+      "url": "https://www.cnn.com/2026/04/27/world/live-news/iran-war-trump-israel",
       "source": "CNN",
       "chips": [
-        "Blockade: 37 ships rerouted",
-        "Witkoff-Kushner grounded",
-        "Iran: no forced talks"
+        "Hormuz",
+        "Araghchi-Putin meet",
+        "ceasefire stalled",
+        "Rubio rejects deal"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Mali Hit by Largest Coordinated Attack in Years; Jihadists and Tuareg Rebels Seize Kidal",
-      "dek": "Al-Qaeda-linked JNIM and the Azawad Liberation Front launched simultaneous strikes on Bamako, Gao, Sevare, and Kidal in a pre-dawn blitz analysts are calling unprecedented since 2012. The junta leader's whereabouts remain unknown, the defense minister's house was blown up, and the army's 'situation is under control' statement has been met with appropriate skepticism.",
-      "url": "https://www.pbs.org/newshour/world/islamic-militants-and-separatists-attack-several-locations-in-malis-capital-and-other-cities",
-      "source": "PBS NewsHour",
+      "hed": "Israeli Strikes Kill 14 in Lebanon Despite Ceasefire Extension, Hezbollah Fires Drones",
+      "dek": "The US-brokered Israel-Hezbollah ceasefire extended three weeks ago is looking increasingly theoretical, with Sunday marking the deadliest day of the truce so far. At least 2,509 people have been killed in Lebanon by Israeli fire since early March.",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-israel-ceasefire/",
+      "source": "CBS News",
       "chips": [
-        "JNIM claims attacks",
-        "Kidal seized by rebels",
-        "US Embassy: shelter in place"
+        "Lebanon",
+        "Hezbollah",
+        "ceasefire violations",
+        "Israel strikes"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Shooting at WHCA Dinner Suspect May Have Targeted Trump Officials, Acting AG Says",
-      "dek": "A gunman opened fire near the ballroom entrance of the Washington Hilton during the White House Correspondents' Dinner Saturday night, sending journalists and officials diving under tables. One Secret Service agent was shot and is reportedly doing fine. Trump, for his third brush with gun violence, responded by promoting his under-construction White House ballroom.",
-      "url": "https://www.npr.org/2026/04/25/nx-s1-5799544/trump-white-house-correspondents-dinner",
-      "source": "NPR",
+      "hed": "WHCD Shooter Cole Allen Arraigned: 'Manifesto,' Anti-Admin Motive, and a Hotel Security Mess",
+      "dek": "Cole Allen, 31, a CalTech-trained engineer and part-time tutor from Torrance, CA, faces federal charges after breaching a checkpoint at the White House Correspondents' Dinner with a shotgun. A Secret Service agent's vest stopped one round; Trump got a third brush with gunfire — and immediately used it to argue for his White House ballroom.",
+      "url": "https://www.cbsnews.com/news/white-house-correspondents-dinner-shooting-suspect-cole-allen/",
+      "source": "CBS News",
       "chips": [
-        "Suspect in custody",
-        "Agent shot, OK",
-        "Arraignment Monday"
+        "Cole Allen",
+        "WHCD shooting",
+        "arraignment",
+        "Secret Service"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Pope Leo XIV Condemns Death Penalty as DOJ Greenlit Firing Squads for Federal Executions",
-      "dek": "Pope Leo XIV called capital punishment 'inadmissible' in a video message released on the same day the Justice Department said it would permit firing squads for federal executions — a coincidence in timing that left very little ambiguity about who was talking to whom.",
-      "url": "https://www.npr.org/sections/news/",
-      "source": "NPR",
+      "hed": "Microsoft and OpenAI Break Up — Sort Of — In Landmark AI Deal Restructuring",
+      "dek": "Microsoft has agreed to drop its exclusive right to sell OpenAI's models, meaning ChatGPT can now live on Amazon, Google, and anyone else willing to host it. Microsoft stops paying revenue share to OpenAI; MSFT stock dipped on the news because apparently fewer strings attached is scarier than more.",
+      "url": "https://www.cnbc.com/2026/04/27/openai-microsoft-partnership-revenue-cap.html",
+      "source": "CNBC",
       "chips": [
-        "Pope Leo XIV speaks",
-        "DOJ: firing squads OK",
-        "Federal policy shift"
+        "OpenAI",
+        "Microsoft",
+        "Azure",
+        "AI deal",
+        "IPO path"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump Turns Assassination Attempt Into a Ballroom Pitch — His Third Time Getting Shot At",
-      "dek": "For the third time since 2024, Trump found himself near gunfire and responded not with shock but with a Truth Social post about why his White House ballroom would have prevented it. At some point, 'I hate to say I'm honored,' as Trump himself put it, becomes a pretty dark personal brand.",
-      "url": "https://www.washingtonpost.com/politics/",
-      "source": "Washington Post",
+      "hed": "Germany's Merz Says America Is Being 'Humiliated' by Iran — And He Might Have a Point",
+      "dek": "German Chancellor Friedrich Merz told students Monday that the US has 'no strategy' on Iran, noting that American envoys flew to Islamabad only to leave without results while Tehran keeps the Strait locked down. The Iranians, he added, are 'clearly stronger than one thought' — a diplomatic observation that is sure to play well in Mar-a-Lago.",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152",
+      "source": "ABC News",
       "chips": [
-        "Third incident",
-        "Ballroom lobbying resumes",
-        "Suspect: anti-Christian writings"
+        "Merz",
+        "Germany",
+        "US Iran strategy",
+        "humiliation"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,165",
-      "chg": "+0.80%",
-      "dir": "up"
+      "val": "7,158",
+      "chg": "-0.1%",
+      "dir": "down"
     },
     "dow": {
-      "val": "49,230",
-      "chg": "-0.16%",
+      "val": "49,161",
+      "chg": "-0.1%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "24,836",
-      "chg": "+1.63%",
-      "dir": "up"
+      "val": "24,771",
+      "chg": "-0.3%",
+      "dir": "down"
     },
     "wti": {
-      "val": "$94",
-      "chg": "-1.51%",
-      "dir": "down"
+      "val": "$95",
+      "chg": "+0.9%",
+      "dir": "up"
     },
     "brent": {
-      "val": "$104",
-      "chg": "-0.50%",
-      "dir": "down"
+      "val": "$106",
+      "chg": "+1.0%",
+      "dir": "up"
     },
     "gold": {
-      "val": "$4,740",
-      "chg": "+0.36%",
+      "val": "$4,705",
+      "chg": "+0.1%",
       "dir": "up"
     },
     "btc": {
-      "val": "$77,301",
-      "chg": "-0.43%",
+      "val": "$77,759",
+      "chg": "-1.1%",
       "dir": "down"
     },
-    "context": "Nasdaq and S&P 500 closed at record highs Friday as Intel surged 23% on AI earnings and hopes for US-Iran peace talks briefly lifted sentiment before Trump canceled his envoys' trip.",
-    "url": "https://www.cnbc.com/2026/04/23/stock-market-today-live-updates.html",
+    "context": "Stocks drifted lower as stalled Iran peace talks and a closed Strait of Hormuz kept oil elevated; Goldman Sachs raised its Brent forecast to $90/bbl by late 2026 and global inventories are drawing at a record pace.",
+    "url": "https://www.cnbc.com/2026/04/26/stock-market-today-live-updates.html",
     "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.10",
-    "note": "Filling up now costs more than most streaming services combined — and the content is worse.",
-    "premium": "$4.75",
-    "wti": "$94",
-    "highState": "CA: $5.85",
-    "lowState": "OK: $3.40",
+    "avg": "$4.11",
+    "note": "Gas prices have risen five straight days — because nothing says 'peace talks are going great' like paying more to fill your tank.",
+    "premium": "$5.02",
+    "wti": "$95",
+    "highState": "CA: $5.89",
+    "lowState": "OK: $3.27",
     "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Fans Are Literally Moonwalking in Theater Aisles During the Michael Jackson Biopic 'Michael' — Opening Weekend Goes Feral",
-    "dek": "The long-awaited Michael Jackson biopic starring his nephew Jaafar Jackson opened this week, and concertgoers are rushing to the front of theaters to dance, dividing the internet between 'this is beautiful' and 'I paid $18 to watch your back.' It is already 2026's most chaotic theatrical experience.",
-    "url": "https://www.tmz.com/",
-    "source": "TMZ"
+    "hed": "Michael Jackson Biopic 'Michael' Moonwalks to Record $97M Domestic Opening Weekend",
+    "dek": "Antoine Fuqua's MJ biopic starring nephew Jaafar Jackson opened to the biggest music biopic debut in history, pulling $217M globally despite a brutal 38% Rotten Tomatoes score. Critics called it sanitized; audiences gave it an A- on CinemaScore and danced in the aisles anyway — Bohemian Rhapsody arc speedrun.",
+    "url": "https://variety.com/2026/film/box-office/michael-box-office-opening-weekend-record-1236730805/",
+    "source": "Variety"
   },
   "genZ": {
-    "type": "viral",
+    "type": "tiktok",
     "term": "Grok, is this true?",
-    "definition": "A phrase originally used sincerely to fact-check viral TikToks via the X-based AI chatbot Grok, it has evolved into a sarcastic punchline dropped under any obviously absurd or made-up claim online. In April 2026 it became the go-to way to mock political spin, war coverage takes, and influencer drama without engaging earnestly.",
-    "usage": "Trump says the WHCA shooter 'would never have happened' with his White House ballroom. Grok, is this true?",
+    "definition": "A phrase originally used sincerely to fact-check viral TikToks using the X/Grok AI chatbot, now weaponized as pure satire — slapped under obviously absurd claims, personal drama, and news headlines to mock how unhinged the internet has become. It exploded in April 2026 as a go-to way to process the sheer volume of unbelievable-but-real news.",
+    "usage": "Trump cancels peace envoy trip, suggests Iran just call him on the phone. 'Grok, is this true?' — yes, tragically.",
     "url": "",
     "source": ""
   },
-  "tldr": "A gunman at the White House Correspondents' Dinner sent Trump sprinting for the exit and pivoting to ballroom promotion by morning, while across the Atlantic, Mali's capital burned as jihadists and Tuareg rebels launched the country's biggest coordinated offensive in over a decade. Meanwhile, the Iran ceasefire talks collapsed before they even started, gas hit $4.10, and Intel's AI earnings sent the Nasdaq to record highs because the market, like Trump, remains stubbornly unbothered."
+  "tldr": "Day 59 of the US-Iran war saw Iran offer a Hormuz deal that the US swiftly rejected, while Trump suggested Tehran could just dial his number; back home, the man who fired a shotgun at the White House Correspondents' Dinner was arraigned in federal court and the Michael Jackson biopic made $97 million proving critics are optional."
 }
