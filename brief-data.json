@@ -1,182 +1,187 @@
 {
-  "date": "Wednesday, April 29, 2026",
+  "date": "Thursday, April 30, 2026",
   "headlines": [
     {
-      "text": "Trump warns Iran to 'get smart soon' as peace talks stall and Strait of Hormuz stays closed",
-      "tag": "🚨"
+      "text": "CENTCOM prepares new strike options for Iran as Trump rejects Hormuz-for-nuke-talks deal",
+      "tag": "💣"
     },
     {
-      "text": "Hegseth grilled by Congress for first time since Iran war began, defends $1.5T defense budget",
-      "tag": "🎖️"
+      "text": "Gas hits $4.30/gal nationally -- up 27 cents in one week -- highest since July 2022",
+      "tag": "⛽"
     },
     {
-      "text": "UAE announces it will quit OPEC effective May 1, rattling global energy markets",
-      "tag": "🛢️"
+      "text": "Dow surges 730 pts on Caterpillar blowout; Meta craters 9% on $145B AI capex",
+      "tag": "📈"
     },
     {
-      "text": "FCC challenges ABC station licenses after Trump demands action against Jimmy Kimmel",
-      "tag": "📺"
+      "text": "Supreme Court guts Voting Rights Act Section 2, setting off redistricting free-for-all",
+      "tag": "⚖️"
     },
     {
-      "text": "King Charles III addresses Congress in only second-ever speech by a British monarch, then heads to NYC",
-      "tag": "👑"
+      "text": "Michael Jackson biopic opens to record $218.8M globally, critics shrug, audiences moonwalk in",
+      "tag": "🎬"
     },
     {
-      "text": "Brent crude surges past $116/barrel in eighth straight session of gains — IEA calls it largest supply shock on record",
-      "tag": "🔥"
+      "text": "USS Gerald R. Ford aircraft carrier heading home from Middle East as war enters stalemate",
+      "tag": "⚓"
     },
     {
-      "text": "Fed expected to hold rates steady in what may be Jerome Powell's final meeting as chair",
-      "tag": "🏦"
+      "text": "Israel intercepts Gaza aid flotilla near Crete; 16 killed in Israeli airstrikes on Lebanon",
+      "tag": "🌍"
     },
     {
-      "text": "Mag 7 earnings — Alphabet, Amazon, Meta, Microsoft — all report after the bell Wednesday",
-      "tag": "💻"
+      "text": "UK PM Starmer accuses Iran of wanting to harm British Jews after London stabbing attack",
+      "tag": "🇬🇧"
     },
     {
-      "text": "Tornado tears through Mineral Wells, Texas as severe storm outbreak sweeps Midwest and South",
-      "tag": "🌪️"
+      "text": "Louisiana Gov. Landry moves to suspend May primary elections to redraw congressional map",
+      "tag": "🗺️"
     },
     {
-      "text": "Apple CEO Tim Cook to step down Sept. 1; hardware chief John Ternus tapped as successor",
-      "tag": "🍎"
+      "text": "PCE inflation rose 3.5% year-over-year in March; Fed holds rates steady for third time",
+      "tag": "💰"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Iran war Day 61: Trump posts AI-generated image of himself with rifle, warns Iran 'better get smart soon' as Pakistan awaits revised peace proposal by Friday",
-    "url": "https://www.cnn.com/2026/04/29/world/live-news/iran-war-peace-proposal-trump"
+    "text": "CENTCOM chief to brief Trump today on new 'short and powerful' Iran strike options as peace talks stall",
+    "url": "https://www.cnn.com/2026/04/30/world/live-news/iran-war-news"
   },
   "stories": [
     {
-      "tag": "iran war - day 61",
+      "tag": "iran war - day 62",
       "tagType": "fire",
-      "hed": "Trump Threatens Iran While Playing War-Themed Dress-Up on Social Media",
-      "dek": "With peace talks stalled and the Strait of Hormuz still closed, Trump posted an AI-generated image of himself holding a rifle with explosions behind him, warning Iran to 'get smart soon.' Pakistan is waiting on Iran's revised proposal by Friday — a deadline that sounds optimistic given Iran's rial just hit 1.8 million to the dollar.",
-      "url": "https://www.cnn.com/2026/04/29/world/live-news/iran-war-peace-proposal-trump",
+      "hed": "Trump rejects Iran deal, gets briefed on new strike options as gas prices blow past $4.30",
+      "dek": "CENTCOM prepared a 'short and powerful' wave of new strikes and Trump is being briefed today, which is a very normal Thursday. Iran's parliament speaker meanwhile trolled Trump's oil-well-explosion prediction by saying 'three days in, no well exploded -- we could livestream it on X.'",
+      "url": "https://www.cnn.com/2026/04/30/world/live-news/iran-war-news",
+      "source": "CNN",
       "chips": [
-        "Strait of Hormuz",
-        "Blockade",
-        "Hegseth Hearing",
-        "UAE quits OPEC"
+        "Strait of Hormuz blockade",
+        "69M barrels stranded",
+        "$25B war cost",
+        "Pakistan peace talks"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "UAE Ditches OPEC Just as Global Oil Supply Already Hanging by a Thread",
-      "dek": "The United Arab Emirates announced it will exit OPEC effective May 1, citing the Strait of Hormuz closure as the moment to break free and gain pricing flexibility. The IEA called the Hormuz shutdown the largest oil supply shock on record, and Brent crude hit $116 a barrel Wednesday.",
-      "url": "https://www.cnn.com/2026/04/28/world/live-news/iran-war-trump-israel",
-      "source": "CNN",
+      "hed": "UK PM Starmer accuses Iran of directing terror against British Jews after north London stabbing",
+      "dek": "Two Jewish men were stabbed in the street in north London, and PM Keir Starmer stood at Downing Street to declare Iran wants 'to harm British Jews' and called for stronger powers against hostile state proxies. Meanwhile, Israel intercepted a Gaza aid flotilla near the Greek island of Crete.",
+      "url": "https://www.timesofisrael.com/liveblog-april-30-2026/",
+      "source": "Times of Israel",
       "chips": [
-        "OPEC",
-        "Energy Markets",
-        "Iran War"
+        "London attack",
+        "Gaza flotilla",
+        "Israel-Lebanon",
+        "Hezbollah drone"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "FCC Targets ABC Licenses as Trump Escalates War on Jimmy Kimmel Over a Joke",
-      "dek": "The Trump administration challenged ABC's broadcast licenses — an extraordinary use of FCC power — after Trump demanded the network punish Kimmel for calling Melania an 'expectant widow.' Kimmel's Monday monologue hit 4 million views in under 24 hours, which is presumably not the chilling effect the White House was hoping for.",
-      "url": "https://www.cnn.com/2026/04/29/media/jimmy-kimmel-trump-abc-licenses-hnk",
-      "source": "CNN",
+      "hed": "Supreme Court guts Voting Rights Act, opening redistricting chaos across the South",
+      "dek": "The Court tossed Louisiana's congressional map and dramatically narrowed Section 2 of the Voting Rights Act, making it much harder to challenge racially discriminatory maps. Florida and Louisiana governors moved immediately to redraw lines, potentially adding multiple GOP House seats.",
+      "url": "https://www.cnn.com/2026/04/29/politics/live-news/supreme-court-temporary-protected-status",
+      "source": "CNN Politics",
       "chips": [
-        "First Amendment",
-        "FCC",
-        "Jimmy Kimmel"
+        "VRA gutted",
+        "Louisiana map",
+        "DeSantis redistricting",
+        "Midterm implications"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "James Comey Indicted in Case Widely Seen as Targeting Protected Speech",
-      "dek": "The Trump administration secured an indictment against former FBI Director James Comey over conduct that legal experts say likely falls under First Amendment protection. It comes the same week the FCC went after ABC, prompting critics to describe a coordinated campaign to reshape what Americans see and hear in media.",
-      "url": "https://www.cnn.com/2026/04/29/us/5-things-to-know-for-april-29-free-speech-king-charles-tornado-devastation-elon-musk-passports",
-      "source": "CNN",
+      "hed": "Caterpillar pops 10%, Meta tanks 9% -- markets split as earnings season gets weird",
+      "dek": "The Dow surged 730 points on the back of Caterpillar's blowout quarter and raised guidance, while Meta plunged after hiking AI capex to $125-145B. The S&P 500 gained 0.5% and the Nasdaq barely budged, because that is what markets do when they cannot make up their mind.",
+      "url": "https://www.cnbc.com/2026/04/29/stock-market-today-live-updates.html",
+      "source": "CNBC",
       "chips": [
-        "Free Speech",
-        "DOJ",
-        "First Amendment"
+        "CAT +10%",
+        "META -9%",
+        "Eli Lilly +7%",
+        "April best month since 2020"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "New US Passports Will Feature Trump's Image Inside — Presumably So You Remember Who Signed Your Travel Docs",
-      "dek": "The State Department announced new passports will include an image of President Trump alongside Declaration of Independence text and the American flag, as part of the 250th anniversary branding. It is, analysts note, the most prominent use yet of a sitting president's likeness on official government documents Americans are legally required to carry.",
-      "url": "https://www.cnn.com/2026/04/29/us/5-things-to-know-for-april-29-free-speech-king-charles-tornado-devastation-elon-musk-passports",
-      "source": "CNN",
+      "hed": "Gas was under $3 before this war. Now it's $4.30. Americans are about to get very opinionated about foreign policy.",
+      "dek": "AAA confirmed the national average jumped 27 cents in a single week to $4.30, up 44% since the Iran war began in late February. Gas prices were below $3 before the first bomb dropped, which means every driver in America is now personally invested in Strait of Hormuz diplomacy whether they wanted to be or not.",
+      "url": "https://gasprices.aaa.com/oil-prices-spike-national-average-up-nearly-30-cents-in-one-week/",
+      "source": "AAA",
       "chips": [
-        "Trump",
-        "State Department",
-        "Wild"
+        "$4.30 national avg",
+        "44% increase since war",
+        "CA: $6.01",
+        "OK: $3.70"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,128",
-      "chg": "-0.2%",
-      "dir": "down"
-    },
-    "dow": {
-      "val": "48,981",
-      "chg": "-0.3%",
-      "dir": "down"
-    },
-    "nasdaq": {
-      "val": "24,561",
-      "chg": "-0.4%",
-      "dir": "down"
-    },
-    "wti": {
-      "val": "$107",
-      "chg": "+6.9%",
+      "val": "7,170",
+      "chg": "+0.5%",
       "dir": "up"
     },
+    "dow": {
+      "val": "49,592",
+      "chg": "+1.5%",
+      "dir": "up"
+    },
+    "nasdaq": {
+      "val": "24,701",
+      "chg": "+0.1%",
+      "dir": "up"
+    },
+    "wti": {
+      "val": "$104",
+      "chg": "-2.7%",
+      "dir": "down"
+    },
     "brent": {
-      "val": "$116",
-      "chg": "+4.7%",
+      "val": "$120",
+      "chg": "+1.9%",
       "dir": "up"
     },
     "gold": {
-      "val": "$4,591",
-      "chg": "-2.2%",
-      "dir": "down"
-    },
-    "btc": {
-      "val": "$78,568",
-      "chg": "+3.8%",
+      "val": "$4,629",
+      "chg": "+1.5%",
       "dir": "up"
     },
-    "context": "Markets drifted lower as oil surged on stalled Iran peace talks and a closed Strait of Hormuz, with all eyes on Mag 7 earnings after the bell and Powell's likely final Fed rate decision.",
-    "url": "https://www.cnbc.com/2026/04/27/stock-market-today-live-updates.html",
+    "btc": {
+      "val": "$76,316",
+      "chg": "-1.1%",
+      "dir": "down"
+    },
+    "context": "Caterpillar's blowout earnings and easing oil prices lifted the Dow while Meta's monster AI capex hike dragged tech down, splitting Wall Street neatly in half.",
+    "url": "https://www.cnbc.com/2026/04/29/stock-market-today-live-updates.html",
     "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.23",
-    "note": "Every time Iran and the US fail to negotiate, your commute gets 5 cents more expensive — it's basically a war tax on your morning drive.",
-    "premium": "$4.89",
-    "wti": "$107",
-    "highState": "CA: $5.84",
-    "lowState": "OK: $3.38",
-    "url": "https://gasprices.aaa.com/",
+    "avg": "$4.30",
+    "note": "Gas was under $3 before the war. Iran really said 'let me help you cut back on driving.'",
+    "premium": "$4.85",
+    "wti": "$104",
+    "highState": "CA: $6.01",
+    "lowState": "OK: $3.70",
+    "url": "https://gasprices.aaa.com/oil-prices-spike-national-average-up-nearly-30-cents-in-one-week/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Michael Jackson Biopic Moonwalks to Record $97M Domestic Opening, $219M Worldwide",
-    "dek": "Lionsgate's Michael, starring Jackson's nephew Jaafar Jackson and directed by Antoine Fuqua, shattered the all-time record for a music biopic opening — critics panned it as sanitized (38% on Rotten Tomatoes), but audiences didn't care and danced in the aisles anyway. It's already the biggest hit for Lionsgate since The Hunger Games: Mockingjay Part 2 in 2015.",
+    "hed": "Michael Jackson biopic 'Michael' moonwalks to record $218.8M global opening, biggest music biopic ever",
+    "dek": "Directed by Antoine Fuqua and starring MJ's actual nephew Jaafar Jackson, the film blew past all tracking to open at $97M domestic -- the biggest biopic debut ever, topping Oppenheimer. Critics called it sanitized; audiences reportedly danced in the aisles and did not care.",
     "url": "https://variety.com/2026/film/box-office/michael-box-office-opening-weekend-record-1236730805/",
     "source": "Variety"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "Euphoria Season 3 character edits",
-    "definition": "After a four-year absence, Euphoria returned in April 2026 with a five-year time jump and a new cast addition in Rosalía, igniting a TikTok wildfire of outfit recreations, quote-based audio trends, and 'glow-up' comparison edits every Sunday night. The pent-up demand turned every episode drop into a cultural event that basically shuts down fashion and beauty TikTok for 48 hours.",
-    "usage": "Trump posting that AI rifle image is giving very much Nate Jacobs villain-era energy — chaotic, threatening, and somehow still on your feed.",
-    "url": "https://newengen.com/insights/april-2026-tiktok-trends/",
-    "source": "NewEngen"
+    "term": "Remember Who You Are meme",
+    "definition": "A TikTok trend using the audio 'Freakin Out' by Dexter and the Moonrocks where creators montage nostalgic clips targeting a specific generation or niche demographic with the phrase 'Remember who you are, [2000s baby / elder millennial / etc.].' It hit peak velocity this week as Euphoria Season 3 and the Michael biopic sent everyone into a nostalgia spiral simultaneously.",
+    "usage": "Remember who you are, person who thought gas would stay under $3 forever.",
+    "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
+    "source": "Epidemic Sound"
   },
-  "tldr": "Day 61 of the Iran war brought Trump posting AI action-hero selfies, Brent crude topping $116, the UAE rage-quitting OPEC, and gas hitting $4.23 a gallon — while Washington simultaneously tried to cancel late-night comedy and stamp the president's face inside your passport. The Michael Jackson biopic opened to $97M and people literally danced in theaters, which is either escapism or a cry for help."
+  "tldr": "The Iran war hit day 62 with no deal in sight, CENTCOM prepping new strike options, and gas prices now at a 4-year high of $4.30 a gallon -- a number that is doing more for antiwar sentiment than any congressional hearing. Meanwhile, the Michael Jackson biopic broke box office records, the Supreme Court kneecapped the Voting Rights Act, and Caterpillar single-handedly saved the Dow."
 }
