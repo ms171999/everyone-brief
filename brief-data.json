@@ -1,139 +1,143 @@
 {
-  "date": "Friday, May 1, 2026",
+  "date": "Sunday, May 3, 2026",
   "headlines": [
     {
-      "text": "Iran sends new peace proposal to US via Pakistan as Day 63 deadline looms",
-      "tag": "🕊️"
+      "text": "Iran gives US a 30-day ultimatum: take the deal or face 'impossible' military operation",
+      "tag": "🚨"
     },
     {
-      "text": "S&P 500 surges past 7,200 record, Apple jumps 3% on earnings beat",
-      "tag": "📈"
-    },
-    {
-      "text": "Gas prices hit $4.39/gallon national average, up 9 cents in a single day",
-      "tag": "⛽"
-    },
-    {
-      "text": "May Day protests sweep nation: workers, teachers boycott work and school",
-      "tag": "✊"
-    },
-    {
-      "text": "White House Correspondents Dinner shooter Cole Allen faces presidential assassination charges",
-      "tag": "🔫"
-    },
-    {
-      "text": "Trump warns Iran war 'may resume,' says only he knows status of talks",
-      "tag": "⚠️"
-    },
-    {
-      "text": "The Devil Wears Prada 2 opens today with $10M in previews, projected $85M-$100M weekend",
-      "tag": "👠"
-    },
-    {
-      "text": "War Powers clock hits 60 days: Congress can't agree if deadline is real or not",
-      "tag": "⏰"
-    },
-    {
-      "text": "Spirit Airlines preparing to shut down after government bailout talks fail",
+      "text": "Spirit Airlines shuts down overnight, stranding thousands and putting 17,000 out of work",
       "tag": "✈️"
     },
     {
-      "text": "Elon Musk testifies xAI used OpenAI model outputs to train Grok",
-      "tag": "🤖"
+      "text": "Gas hits $4.45/gal nationally — up nearly 50% since the Iran war began in February",
+      "tag": "⛽"
+    },
+    {
+      "text": "76ers stun Celtics in Game 7, Embiid drops 34 to advance in NBA playoffs",
+      "tag": "🏀"
+    },
+    {
+      "text": "Olivia Rodrigo pulls double duty on SNL, debuts unreleased track 'begged' from upcoming album",
+      "tag": "🎤"
+    },
+    {
+      "text": "S&P 500 and Nasdaq hit all-time highs Friday on Apple earnings and Iran peace hopes",
+      "tag": "📈"
+    },
+    {
+      "text": "IRGC says it is on standby for a return to war as talks remain deadlocked on day 65",
+      "tag": "💣"
+    },
+    {
+      "text": "Supreme Court gerrymandering ruling triggers redistricting scramble ahead of 2026 midterms",
+      "tag": "🗳️"
+    },
+    {
+      "text": "Trump eyes pulling far more than 5,000 troops from Germany as US-Europe tensions rise",
+      "tag": "🇩🇪"
+    },
+    {
+      "text": "Kentucky Derby 2026 drew massive celebrity crowds and betting traffic over the weekend",
+      "tag": "🐎"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Iran sends revised peace proposal through Pakistani mediators on Day 63 deadline — Trump says only he knows the real status of talks",
-    "url": "https://www.cnn.com/2026/05/01/world/live-news/iran-war-news"
+    "text": "IRGC sets 30-day deadline for US to end Iran blockade or face renewed war",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon"
   },
   "stories": [
     {
-      "tag": "iran war - day 63",
+      "tag": "iran war - day 65",
       "tagType": "fire",
-      "hed": "Iran Sends New Peace Proposal as Trump Keeps War Card on the Table",
-      "dek": "Iran quietly slipped a revised proposal to US mediators in Islamabad today, which is the diplomatic equivalent of sliding a note under the door of someone who is actively threatening to kick it in. Trump responded by saying only he and 'a handful' of people know what's actually going on — so everyone else is just vibing.",
-      "url": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks",
-      "source": "Al Jazeera",
+      "hed": "Iran sends 14-point peace plan; Trump says he'll read it but doesn't think he can make a deal",
+      "dek": "Iran's proposal wants the war wrapped up in 30 days, the US blockade lifted, sanctions gone, and frozen assets back — basically everything. Trump reviewed the 'concept' and said restarting strikes is still 'a possibility,' which is diplomacy-speak for 'no deal yet, please hold.'",
+      "url": "https://www.cnn.com/2026/05/03/world/live-news/iran-war-news",
+      "source": "CNN",
       "chips": [
-        "Strait of Hormuz closed",
-        "Pakistan mediating",
-        "War Powers deadline hit",
-        "Naval blockade ongoing"
+        "Strait of Hormuz",
+        "14-point plan",
+        "IRGC 30-day deadline",
+        "nuclear red line"
+      ]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Spirit Airlines is dead: budget carrier shuts down after $500M bailout collapses, 17,000 jobs gone",
+      "dek": "Spirit went from 'cheap flights to Florida' to 'permanently cancelled' overnight after creditors torched a last-ditch government rescue deal. The first major US airline failure in 25 years leaves thousands stranded and will almost certainly raise fares industry-wide just in time for summer.",
+      "url": "https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html",
+      "source": "CNBC",
+      "chips": [
+        "17,000 jobs lost",
+        "Iran fuel costs",
+        "rescue fares",
+        "summer travel impact"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Israel Kills 15 in South Lebanon Despite Active Ceasefire",
-      "dek": "Israeli strikes killed at least 15 people in southern Lebanon today despite a ceasefire that was extended just last week. The US embassy in Lebanon is now calling for an emergency meeting between Israeli and Lebanese leaders, which feels like bringing a strongly worded agenda to a building that is on fire.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action",
-      "source": "Al Jazeera",
+      "hed": "Shipping traffic through Strait of Hormuz down over 90% as US blockade hits 48 turned-away ships",
+      "dek": "The UK Royal Navy is warning of a 'strangulation of international trade' and a looming humanitarian crisis for roughly 20,000 sailors stuck in the waterway. Before the war, 3,000 vessels passed through monthly; in March, it was just 154.",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/",
+      "source": "CBS News",
       "chips": [
-        "Lebanon ceasefire violated",
-        "Hezbollah drones",
-        "US urges talks"
+        "global trade",
+        "oil prices",
+        "naval blockade",
+        "humanitarian crisis"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "May Day Strong: Half a Million Workers and Teachers Walk Out Nationwide",
-      "dek": "More than 500 labor unions and organizations launched 'May Day Strong' boycotts of work, school, and shopping across cities from Boston to San Francisco to protest Trump's policies. Charlotte, NC actually canceled school preemptively because so many teachers RSVP'd to the walkout.",
-      "url": "https://www.npr.org/2026/05/01/nx-s1-5805805/may-day-protests-boycott-schools-trump",
-      "source": "NPR",
-      "chips": [
-        "Teacher walkouts",
-        "Labor Day protests",
-        "Anti-Trump demonstrations"
-      ]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Congress Bickers Over Whether Iran War 60-Day Clock Has Actually Run Out",
-      "dek": "Today marks what many lawmakers believe is the 60-day War Powers deadline for the Iran conflict, but Republicans and the White House can't agree on whether ceasefire days count, who gets to decide, or what day it even started. The Constitution, apparently, left some things ambiguous.",
-      "url": "https://www.cnn.com/2026/05/01/politics/iran-war-60-day-deadline-congress",
+      "hed": "Supreme Court gerrymandering ruling sets off redistricting war ahead of 2026 midterms",
+      "dek": "A fresh SCOTUS ruling on congressional maps is triggering a scramble across multiple states to redraw districts, in ways experts say will disproportionately affect minority voters. Louisiana already delayed House primaries as the legal chaos unfolds.",
+      "url": "https://www.cnn.com/election/2026",
       "source": "CNN Politics",
       "chips": [
-        "War Powers Resolution",
-        "Congressional oversight",
-        "Trump pushback"
+        "redistricting",
+        "2026 midterms",
+        "Louisiana",
+        "minority voters"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump and Melania Demand Jimmy Kimmel Be Fired After Correspondents Dinner Shooting",
-      "dek": "Three days before an armed man stormed the White House Correspondents Dinner checkpoint, Kimmel joked that Melania had 'the glow of an expectant widow.' After the shooting, both Trumps publicly called for ABC to fire him. Kimmel has not yet responded, but his writers' room is presumably very busy.",
-      "url": "https://en.wikipedia.org/wiki/2026_White_House_Correspondents%27_Dinner_shooting",
-      "source": "Wikipedia / CBS News",
+      "hed": "61% of Americans now say the Iran war was a mistake — matching Iraq War disapproval levels from 2006",
+      "dek": "A new Washington Post/ABC/Ipsos poll finds nearly two-thirds of the country regrets the February 28 strikes, with 90% of Democrats and 71% of independents calling it a mistake. Republicans at 19% disapproval are the lone holdouts, and midterm math is starting to look very ugly for the GOP.",
+      "url": "https://www.cnn.com/2026/05/01/world/live-news/iran-war-news",
+      "source": "CNN / WaPo-ABC-Ipsos poll",
       "chips": [
-        "Cole Allen charged",
-        "Assassination attempt",
-        "Kimmel controversy"
+        "poll",
+        "midterm risk",
+        "public opinion",
+        "Iraq war parallels"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,243",
-      "chg": "+0.54%",
+      "val": "7,230",
+      "chg": "+0.29%",
       "dir": "up"
     },
     "dow": {
-      "val": "49,430",
-      "chg": "+0.37%",
-      "dir": "up"
+      "val": "49,499",
+      "chg": "-0.31%",
+      "dir": "down"
     },
     "nasdaq": {
-      "val": "25,064",
-      "chg": "+0.69%",
+      "val": "25,114",
+      "chg": "+0.89%",
       "dir": "up"
     },
     "wti": {
       "val": "$103",
-      "chg": "-2.0%",
+      "chg": "-1.9%",
       "dir": "down"
     },
     "brent": {
@@ -142,42 +146,42 @@
       "dir": "down"
     },
     "gold": {
-      "val": "$4,638",
-      "chg": "+0.2%",
-      "dir": "up"
+      "val": "$4,626",
+      "chg": "-0.09%",
+      "dir": "down"
     },
     "btc": {
-      "val": "$76,550",
-      "chg": "+1.3%",
+      "val": "$78,381",
+      "chg": "+1.67%",
       "dir": "up"
     },
-    "context": "Apple's earnings beat and Iran peace proposal news lifted stocks and dropped oil prices Friday, giving Wall Street permission to briefly forget about the Strait of Hormuz.",
+    "context": "S&P 500 and Nasdaq notched all-time highs Friday on blowout Apple earnings and a brief oil dip after Iran submitted a new peace proposal through Pakistani mediators.",
     "url": "https://www.cnbc.com/2026/04/30/stock-market-today-live-updates.html",
     "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.39",
-    "note": "Up 9 cents in one day and 33 cents in one week — your wallet is now a war casualty.",
-    "premium": "$4.89",
+    "avg": "$4.45",
+    "note": "Your tank now costs more than your Netflix subscription — per gallon.",
+    "premium": "$5.15",
     "wti": "$103",
-    "highState": "CA: $6.06",
-    "lowState": "MS: $3.80",
+    "highState": "CA: $6.10",
+    "lowState": "OK: $3.71",
     "url": "https://gasprices.aaa.com/state-gas-price-averages/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "The Devil Wears Prada 2 Opens Today With $10M in Previews and $90M-$100M Weekend in Sight",
-    "dek": "Meryl Streep, Anne Hathaway, Emily Blunt, and Stanley Tucci all returned for the long-awaited sequel, which earned $10M in Thursday previews alone and is projected to dominate the opening weekend of summer 2026. Critics call Streep 'viciously funny' and the plot 'underbaked,' which is honestly exactly what millennial women asked for.",
-    "url": "https://variety.com/2026/film/box-office/devil-wears-prada-2-box-office-opening-weekend-projections-1236732376/",
-    "source": "Variety"
+    "hed": "Olivia Rodrigo hosts SNL for the first time, debuts unreleased track 'begged' from her upcoming third album",
+    "dek": "Rodrigo pulled double duty on the May 2 episode — her SNL hosting debut — performing 'Drop Dead' (already a Billboard Hot 100 No. 1) and surprising fans with the mournful ballad 'begged' from her forthcoming album 'You Seem Pretty Sad for a Girl So in Love,' out June 12. She's either the saddest or the most productive 23-year-old alive.",
+    "url": "https://www.billboard.com/culture/tv-film/olivia-rodrigo-debuts-begging-snl-1236237765/",
+    "source": "Billboard"
   },
   "genZ": {
-    "type": "meme",
-    "term": "Triple T Dance (Tung Tung Tung Sahur)",
-    "definition": "An AI-generated Indonesian brainrot character — a wooden stick-figure holding a baseball bat — that went globally viral via TikTok and has now spawned a full dance trend in 2026 where users film themselves doing the 'Get In There Bow' dance alongside the animated creature. The original meme references a Ramadan tradition of beating drums to wake people for the pre-dawn meal, then went completely unhinged from there.",
-    "usage": "Trump saying only 'a handful' of people know the status of Iran talks is very much Tung Tung Tung Sahur energy — chaotic, repetitive, and somehow still going.",
-    "url": "https://knowyourmeme.com/memes/triple-t-dance",
-    "source": "Know Your Meme"
+    "type": "tiktok",
+    "term": "It's Gonna Be May / NSYNC lip-sync wave",
+    "definition": "Every May 1st, the millennial-to-Gen-Z internet activates a mass lip-sync to NSYNC's 'It's Gonna Be Me' because Justin Timberlake's pronunciation of 'me' sounds exactly like 'May.' This year the trend hit especially hard on TikTok with creators dropping the sound in the context of Iran war price hikes, Spirit Airlines cancellations, and the general chaos of the news cycle.",
+    "usage": "Spirit Airlines passengers waking up to canceled flights on May 2: *NSYNC plays* 'It's gonna be May... and you're walking to the bus station.'",
+    "url": "https://later.com/blog/tiktok-trends/",
+    "source": "Later"
   },
-  "tldr": "Day 63 of the Iran war arrived with a new peace proposal from Tehran and gas prices spiking to a 4-year high, while America simultaneously watched The Devil Wears Prada 2 and argued about whether Congress has any say in any of this. Miranda Priestly and the War Powers Resolution both remain, for now, unresolved."
+  "tldr": "On day 65 of the US-Iran war, Trump is 'reviewing' a 14-point peace proposal he doesn't think he can accept while the IRGC sets a 30-day deadline and gas hits $4.45 a gallon nationally. Spirit Airlines ceased operations overnight after a $500M government bailout collapsed, marking the first major US airline failure in 25 years and leaving thousands of passengers stranded the weekend before Mother's Day."
 }
