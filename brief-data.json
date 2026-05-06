@@ -1,187 +1,185 @@
 {
-  "date": "Sunday, May 3, 2026",
+  "date": "Wednesday, May 6, 2026",
   "headlines": [
     {
-      "text": "Iran gives US a 30-day ultimatum: take the deal or face 'impossible' military operation",
-      "tag": "🚨"
-    },
-    {
-      "text": "Spirit Airlines shuts down overnight, stranding thousands and putting 17,000 out of work",
-      "tag": "✈️"
-    },
-    {
-      "text": "Gas hits $4.45/gal nationally — up nearly 50% since the Iran war began in February",
-      "tag": "⛽"
-    },
-    {
-      "text": "76ers stun Celtics in Game 7, Embiid drops 34 to advance in NBA playoffs",
-      "tag": "🏀"
-    },
-    {
-      "text": "Olivia Rodrigo pulls double duty on SNL, debuts unreleased track 'begged' from upcoming album",
-      "tag": "🎤"
-    },
-    {
-      "text": "S&P 500 and Nasdaq hit all-time highs Friday on Apple earnings and Iran peace hopes",
-      "tag": "📈"
-    },
-    {
-      "text": "IRGC says it is on standby for a return to war as talks remain deadlocked on day 65",
+      "text": "Trump threatens to restart bombing if Iran doesn't sign peace memo within days",
       "tag": "💣"
     },
     {
-      "text": "Supreme Court gerrymandering ruling triggers redistricting scramble ahead of 2026 midterms",
+      "text": "US and Iran closing in on 1-page deal to end war, sources say",
+      "tag": "🕊️"
+    },
+    {
+      "text": "Stocks surge to new records as Iran deal hopes send oil tumbling",
+      "tag": "📈"
+    },
+    {
+      "text": "AMD jumps 16%, Disney up 8%, Uber up 6% on blowout earnings",
+      "tag": "💰"
+    },
+    {
+      "text": "Gas prices hit $4.54 national average, up 50% since the war started",
+      "tag": "⛽"
+    },
+    {
+      "text": "Trump-backed challengers oust Indiana senators who blocked redistricting",
       "tag": "🗳️"
     },
     {
-      "text": "Trump eyes pulling far more than 5,000 troops from Germany as US-Europe tensions rise",
-      "tag": "🇩🇪"
+      "text": "RFK Jr. announces plan to curb psychiatric drug prescribing nationwide",
+      "tag": "💊"
     },
     {
-      "text": "Kentucky Derby 2026 drew massive celebrity crowds and betting traffic over the weekend",
-      "tag": "🐎"
+      "text": "Hantavirus outbreak on cruise ship prompts evacuation standoff at Canary Islands",
+      "tag": "🚢"
+    },
+    {
+      "text": "Beyonce's Met Gala skeleton dress ignites Act III album fan theory firestorm",
+      "tag": "💀"
+    },
+    {
+      "text": "Apple in talks with Intel and Samsung to make US-built iPhone chips",
+      "tag": "📱"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "IRGC sets 30-day deadline for US to end Iran blockade or face renewed war",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon"
+    "text": "BREAKING: Trump warns Iran 'the bombing starts' at higher intensity if no deal reached today",
+    "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582"
   },
   "stories": [
     {
-      "tag": "iran war - day 65",
+      "tag": "iran war - day 68",
       "tagType": "fire",
-      "hed": "Iran sends 14-point peace plan; Trump says he'll read it but doesn't think he can make a deal",
-      "dek": "Iran's proposal wants the war wrapped up in 30 days, the US blockade lifted, sanctions gone, and frozen assets back — basically everything. Trump reviewed the 'concept' and said restarting strikes is still 'a possibility,' which is diplomacy-speak for 'no deal yet, please hold.'",
-      "url": "https://www.cnn.com/2026/05/03/world/live-news/iran-war-news",
+      "hed": "Peace Memo or More Bombs: Trump Gives Iran an Ultimatum",
+      "dek": "The US and Iran are reportedly within inches of signing a 1-page, 14-point memo to end the war, but Trump reminded everyone he has a plan B that involves considerably more explosions. Iran, for its part, has not formally responded and is exchanging diplomatic messages through Pakistan, which is really earning its mediator money right now.",
+      "url": "https://www.cnn.com/2026/05/06/world/live-news/iran-war-trump-strait-of-hormuz",
       "source": "CNN",
       "chips": [
         "Strait of Hormuz",
-        "14-point plan",
-        "IRGC 30-day deadline",
-        "nuclear red line"
-      ]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Spirit Airlines is dead: budget carrier shuts down after $500M bailout collapses, 17,000 jobs gone",
-      "dek": "Spirit went from 'cheap flights to Florida' to 'permanently cancelled' overnight after creditors torched a last-ditch government rescue deal. The first major US airline failure in 25 years leaves thousands stranded and will almost certainly raise fares industry-wide just in time for summer.",
-      "url": "https://www.cnbc.com/2026/05/02/spirit-airlines-shutdown-inside-the-final-hours.html",
-      "source": "CNBC",
-      "chips": [
-        "17,000 jobs lost",
-        "Iran fuel costs",
-        "rescue fares",
-        "summer travel impact"
+        "Project Freedom paused",
+        "Nuclear deal framework",
+        "Pakistan mediating"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Shipping traffic through Strait of Hormuz down over 90% as US blockade hits 48 turned-away ships",
-      "dek": "The UK Royal Navy is warning of a 'strangulation of international trade' and a looming humanitarian crisis for roughly 20,000 sailors stuck in the waterway. Before the war, 3,000 vessels passed through monthly; in March, it was just 154.",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/",
-      "source": "CBS News",
+      "hed": "Iran FM Meets China in Beijing as Diplomatic Scramble Intensifies",
+      "dek": "Iranian Foreign Minister Araghchi traveled to Beijing Wednesday for his first China visit since the war began, meeting with Wang Yi as China urged a comprehensive ceasefire. It is the diplomatic equivalent of calling your richest friend when the landlord is at the door.",
+      "url": "https://www.npr.org/2026/05/05/nx-s1-5811770/iran-war-updates",
+      "source": "NPR",
       "chips": [
-        "global trade",
-        "oil prices",
-        "naval blockade",
-        "humanitarian crisis"
+        "Iran diplomacy",
+        "China-Iran ties",
+        "Wang Yi"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Supreme Court gerrymandering ruling sets off redistricting war ahead of 2026 midterms",
-      "dek": "A fresh SCOTUS ruling on congressional maps is triggering a scramble across multiple states to redraw districts, in ways experts say will disproportionately affect minority voters. Louisiana already delayed House primaries as the legal chaos unfolds.",
-      "url": "https://www.cnn.com/election/2026",
-      "source": "CNN Politics",
+      "hed": "Trump Purges Indiana Republicans Who Defied Him on Redistricting",
+      "dek": "Five Trump-backed primary challengers defeated Indiana state senators who had voted against his mid-decade redistricting push. The message to Republican legislators everywhere was delivered clearly and without ambiguity: play ball or get the ball.",
+      "url": "https://www.justsecurity.org/138076/early-edition-may-6-2026/",
+      "source": "Just Security",
       "chips": [
-        "redistricting",
-        "2026 midterms",
-        "Louisiana",
-        "minority voters"
+        "2026 primaries",
+        "Redistricting",
+        "Trump endorsements",
+        "Indiana"
+      ]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Senate GOP Tucks $1 Billion for Trump Ballroom Into Immigration Bill",
+      "dek": "Senate Judiciary Republicans included roughly $1 billion in Secret Service security upgrades tied to Trump's White House ballroom project inside a $72 billion immigration enforcement reconciliation package. Washington, where 'ballroom security' is now a line item.",
+      "url": "https://www.justsecurity.org/138076/early-edition-may-6-2026/",
+      "source": "Just Security",
+      "chips": [
+        "Reconciliation",
+        "ICE funding",
+        "Trump ballroom",
+        "Secret Service"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "61% of Americans now say the Iran war was a mistake — matching Iraq War disapproval levels from 2006",
-      "dek": "A new Washington Post/ABC/Ipsos poll finds nearly two-thirds of the country regrets the February 28 strikes, with 90% of Democrats and 71% of independents calling it a mistake. Republicans at 19% disapproval are the lone holdouts, and midterm math is starting to look very ugly for the GOP.",
-      "url": "https://www.cnn.com/2026/05/01/world/live-news/iran-war-news",
-      "source": "CNN / WaPo-ABC-Ipsos poll",
+      "hed": "Rubio Said the War Was Over. Trump Said It Wasn't. Both Were Speaking Simultaneously.",
+      "dek": "At the exact moment Secretary of State Rubio told reporters Operation Epic Fury was 'concluded,' Trump told PBS the combat operations were absolutely not over. The two statements were made at the same time from different rooms, which is either a communications breakdown or performance art.",
+      "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582",
+      "source": "ABC News",
       "chips": [
-        "poll",
-        "midterm risk",
-        "public opinion",
-        "Iraq war parallels"
+        "Rubio vs Trump",
+        "Epic Fury",
+        "White House comms"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,230",
-      "chg": "+0.29%",
+      "val": "7,338",
+      "chg": "+1.10%",
       "dir": "up"
     },
     "dow": {
-      "val": "49,499",
-      "chg": "-0.31%",
-      "dir": "down"
+      "val": "49,854",
+      "chg": "+1.14%",
+      "dir": "up"
     },
     "nasdaq": {
-      "val": "25,114",
-      "chg": "+0.89%",
+      "val": "25,670",
+      "chg": "+1.36%",
       "dir": "up"
     },
     "wti": {
-      "val": "$103",
-      "chg": "-1.9%",
+      "val": "$92",
+      "chg": "-9.2%",
       "dir": "down"
     },
     "brent": {
-      "val": "$110",
-      "chg": "-0.2%",
+      "val": "$101",
+      "chg": "-8.0%",
       "dir": "down"
     },
     "gold": {
-      "val": "$4,626",
-      "chg": "-0.09%",
-      "dir": "down"
-    },
-    "btc": {
-      "val": "$78,381",
-      "chg": "+1.67%",
+      "val": "$4,654",
+      "chg": "+1.87%",
       "dir": "up"
     },
-    "context": "S&P 500 and Nasdaq notched all-time highs Friday on blowout Apple earnings and a brief oil dip after Iran submitted a new peace proposal through Pakistani mediators.",
-    "url": "https://www.cnbc.com/2026/04/30/stock-market-today-live-updates.html",
-    "source": "CNBC"
+    "btc": {
+      "val": "$82,320",
+      "chg": "+1.30%",
+      "dir": "up"
+    },
+    "context": "Markets hit new records and oil cratered as reports of a US-Iran peace memo sent traders into full risk-on mode, with AMD, Disney, and Uber earnings adding fuel to the rally.",
+    "url": "https://www.thestreet.com/latest-news/stock-market-today-may-6-2026-updates",
+    "source": "TheStreet"
   },
   "gas": {
-    "avg": "$4.45",
-    "note": "Your tank now costs more than your Netflix subscription — per gallon.",
-    "premium": "$5.15",
-    "wti": "$103",
-    "highState": "CA: $6.10",
-    "lowState": "OK: $3.71",
-    "url": "https://gasprices.aaa.com/state-gas-price-averages/",
+    "avg": "$4.54",
+    "note": "Up 50% since Feb 28 — turns out wars are bad for your commute and your wallet simultaneously.",
+    "premium": "$5.10",
+    "wti": "$92",
+    "highState": "CA: $6.16",
+    "lowState": "OK: $3.96",
+    "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Olivia Rodrigo hosts SNL for the first time, debuts unreleased track 'begged' from her upcoming third album",
-    "dek": "Rodrigo pulled double duty on the May 2 episode — her SNL hosting debut — performing 'Drop Dead' (already a Billboard Hot 100 No. 1) and surprising fans with the mournful ballad 'begged' from her forthcoming album 'You Seem Pretty Sad for a Girl So in Love,' out June 12. She's either the saddest or the most productive 23-year-old alive.",
-    "url": "https://www.billboard.com/culture/tv-film/olivia-rodrigo-debuts-begging-snl-1236237765/",
-    "source": "Billboard"
+    "hed": "Beyonce Returns to Met Gala After 10 Years in a Crystal Skeleton Gown, Breaks the Internet and Possibly Hints at Act III",
+    "dek": "Queen Bey co-chaired the 2026 Met Gala on May 4 wearing an Olivier Rousteing skeleton dress that sent the Beyhive into a frenzy over Act III album clues. She brought Blue Ivy as her date, because when you end a 10-year Met hiatus, you do it in full family armor.",
+    "url": "https://www.eonline.com/news/1431700/met-gala-2026-beyonces-skeleton-look-sparks-act-iii-theories",
+    "source": "E! News"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "It's Gonna Be May / NSYNC lip-sync wave",
-    "definition": "Every May 1st, the millennial-to-Gen-Z internet activates a mass lip-sync to NSYNC's 'It's Gonna Be Me' because Justin Timberlake's pronunciation of 'me' sounds exactly like 'May.' This year the trend hit especially hard on TikTok with creators dropping the sound in the context of Iran war price hikes, Spirit Airlines cancellations, and the general chaos of the news cycle.",
-    "usage": "Spirit Airlines passengers waking up to canceled flights on May 2: *NSYNC plays* 'It's gonna be May... and you're walking to the bus station.'",
-    "url": "https://later.com/blog/tiktok-trends/",
-    "source": "Later"
+    "term": "Miranda Priestly audio trend",
+    "definition": "With The Devil Wears Prada 2 hitting theaters this week, TikTok FYPs have been flooded with creators using Miranda Priestly audio clips to roast everything from bad roommates to overpriced gas. The trend rewards maximum theatricality and a very specific kind of devastated stare.",
+    "usage": "POV: you ask Trump and Rubio to get their war story straight and they give you two completely different answers at the same time. *Miranda Priestly stare*",
+    "url": "https://newengen.com/insights/may-tiktok-trends/",
+    "source": "New Engen"
   },
-  "tldr": "On day 65 of the US-Iran war, Trump is 'reviewing' a 14-point peace proposal he doesn't think he can accept while the IRGC sets a 30-day deadline and gas hits $4.45 a gallon nationally. Spirit Airlines ceased operations overnight after a $500M government bailout collapsed, marking the first major US airline failure in 25 years and leaving thousands of passengers stranded the weekend before Mother's Day."
+  "tldr": "The US and Iran are reportedly days away from a 1-page peace deal, sending stocks to record highs and oil tumbling, while Trump reminded everyone he is perfectly prepared to resume bombing if the paperwork falls through. Meanwhile, Beyonce wore a skeleton to the Met Gala, gas costs $4.54 a gallon, and somehow AMD had a better week than everyone."
 }
