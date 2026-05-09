@@ -1,182 +1,182 @@
 {
-  "date": "Friday, May 8, 2026",
+  "date": "Saturday, May 9, 2026",
   "headlines": [
     {
-      "text": "Trump calls ceasefire 'holding' as US and Iran trade fire in the Strait of Hormuz",
-      "tag": "💥"
+      "text": "US awaits Iran's response to war-ending peace proposal as Strait of Hormuz clashes continue",
+      "tag": "🚨"
     },
     {
-      "text": "UAE intercepts Iranian missiles and drones; Rubio awaits Tehran's response to peace proposal",
+      "text": "Trump announces 3-day Russia-Ukraine ceasefire for Victory Day, 1,000 prisoners to be swapped",
       "tag": "🕊️"
     },
     {
-      "text": "US trade court strikes down Trump's 10% global tariffs for second time — government to refund $166B",
-      "tag": "⚖️"
+      "text": "Hantavirus-stricken cruise ship MV Hondius arrives at Tenerife; 3 dead, 100+ still aboard",
+      "tag": "🚢"
     },
     {
-      "text": "US adds 115,000 jobs in April, crushing expectations of 65,000; markets rally",
+      "text": "S&P 500 and Nasdaq hit new all-time highs on strong April jobs report; Dow barely budges",
       "tag": "📈"
     },
     {
-      "text": "Gas prices hit $4.56/gallon national average — up 53% since Iran war began",
+      "text": "National gas average hits $4.53, up $1.40 from a year ago, as Iran war squeezes supply",
       "tag": "⛽"
     },
     {
-      "text": "Tennessee Republicans enact new House map carving up majority-Black Memphis district amid protests",
-      "tag": "🗳️"
-    },
-    {
-      "text": "Iran internet blackout enters Day 70 as NetBlocks reports 1,656+ hours of severed connectivity",
-      "tag": "📵"
-    },
-    {
-      "text": "The Devil Wears Prada 2 crosses $254M worldwide in its first week — Miranda Priestly remains undefeated",
-      "tag": "👠"
-    },
-    {
-      "text": "Chief Justice Roberts laments Supreme Court being seen as 'political actors' amid dimming public approval",
+      "text": "Virginia Supreme Court blocks Democratic redistricting referendum, major blow to party's midterm hopes",
       "tag": "🏛️"
     },
     {
-      "text": "NATO allies openly discussing a future without US leadership as Iran war fallout deepens",
-      "tag": "🌍"
+      "text": "Hezbollah claims 9 attacks on Israel Saturday; IDF orders evacuations in southern Lebanon",
+      "tag": "💥"
+    },
+    {
+      "text": "Russia holds downsized Victory Day parade; Putin invokes WWII to rally troops in Ukraine",
+      "tag": "🎖️"
+    },
+    {
+      "text": "Devil Wears Prada 2 surpasses original film's $326M global lifetime gross in just 9 days",
+      "tag": "👠"
+    },
+    {
+      "text": "Blue Dot Fever: Post Malone, Meghan Trainor, Zayn, and Pussycat Dolls all cancel tours over unsold seats",
+      "tag": "🎤"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "UAE air defenses engaged Iranian missiles and drones Friday; Rubio says US awaiting Iran's peace proposal response 'today'",
-    "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582"
+    "text": "BREAKING: US awaits formal Iranian response to peace proposal; sporadic Hormuz clashes reported Saturday morning",
+    "url": "https://www.cnn.com/2026/05/09/world/live-news/iran-war-news"
   },
   "stories": [
     {
-      "tag": "iran war - day 70",
+      "tag": "iran war - day 71",
       "tagType": "fire",
-      "hed": "Trump calls it a 'love tap' as US and Iran exchange fire across the Strait of Hormuz",
-      "dek": "Three US Navy destroyers were attacked by Iranian missiles and drones in the Strait of Hormuz, and the US responded with 'self-defense strikes' on Iranian military sites at Bandar Abbas and Qeshm. Trump told reporters the ceasefire was 'holding,' which is one definition of holding. Secretary of State Rubio flew to Rome to meet the Pope and await Tehran's peace proposal response, which has not yet arrived.",
-      "url": "https://www.cnn.com/2026/05/08/world/live-news/iran-war-news",
+      "hed": "Iran Still Ghosting Washington on Peace Deal as Hormuz Clashes Simmer",
+      "dek": "The US is waiting on Iran's response to a 14-point war-ending proposal — Rubio says their system is 'highly fractured and dysfunctional.' Meanwhile the Navy keeps playing bumper boats with Iranian tankers, and Trump calls it a 'love tap.' Ceasefire, allegedly, still in effect.",
+      "url": "https://www.cnn.com/2026/05/09/world/live-news/iran-war-news",
       "source": "CNN",
       "chips": [
         "Strait of Hormuz",
-        "Ceasefire in name only",
-        "Rubio in Rome"
+        "Peace Talks",
+        "US Blockade"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "NATO allies quietly planning a post-US alliance as Iran war fractures the partnership",
-      "dek": "Fresh disputes between Washington and NATO over the Iran war are pushing European leaders to seriously consider a future without US leadership of the alliance. Canada's PM Mark Carney became the first non-European leader invited to a European Political Community summit, signaling a western realignment underway.",
-      "url": "https://www.npr.org/2026/05/08/nx-s1-5810515/us-war-trump-nato-iran-europe-canada-germany",
-      "source": "NPR",
+      "hed": "Russia's Victory Day Parade Goes On, Scaled Back and Surrounded by Drones That Didn't Show",
+      "dek": "Putin held his annual Red Square parade — this year with extra security and North Korean troops in attendance, because 2026. Zelenskyy issued a cheeky decree 'permitting' Russia to celebrate, which the Kremlin called a 'silly joke.'",
+      "url": "https://www.aljazeera.com/news/2026/5/9/russia-holds-downsized-victory-day",
+      "source": "Al Jazeera",
       "chips": [
-        "NATO fracture",
-        "Canada pivot",
-        "European autonomy"
+        "Russia",
+        "Ukraine",
+        "Ceasefire"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Trade court rules Trump's 10% global tariffs illegal — again — and orders $166B in refunds",
-      "dek": "A federal trade court ruled 2-1 that Trump's replacement 10% tariffs — imposed after the Supreme Court struck down his original tariffs in February — are also illegal and unauthorized by law. The government is now on the hook for over $166 billion in refunds to importers, with payments expected to begin next week.",
-      "url": "https://www.npr.org/2026/05/07/nx-s1-5815343/trade-court-strikes-down-10-percent-tariffs",
+      "hed": "Virginia Supreme Court Kills Democratic Redistricting Win, Handing GOP a Lifeline",
+      "dek": "The Virginia Supreme Court blocked a referendum passed in April that would have given Democrats up to four additional US House seats. Republicans, who had been staring down a brutal midterm map, exhaled collectively.",
+      "url": "https://www.npr.org/sections/elections/",
       "source": "NPR",
-      "chips": [
-        "Tariffs struck down",
-        "SCOTUS fallout",
-        "$166B refunds"
-      ]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Tennessee Republicans remap Memphis district as Democratic senator stands on her desk in protest",
-      "dek": "Amid raucous gallery protests, Tennessee Republicans enacted a new US House map that carves up a majority-Black Memphis district, benefiting the GOP ahead of November midterms. Democratic state Sen. Charlane Oliver stood on her desk holding a banner calling the redistricting a 'Jim Crow' effort before the chamber was quickly adjourned.",
-      "url": "https://www.vindy.com/news/national-news/2026/05/nation-and-world-at-a-glance-for-may-8/",
-      "source": "The Vindicator / AP",
       "chips": [
         "Redistricting",
-        "Midterms",
-        "Memphis"
+        "Midterms 2026",
+        "Virginia"
+      ]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Hantavirus Cruise Ship Crisis: MV Hondius Docks at Tenerife With 3 Dead, WHO Chief On Scene",
+      "dek": "A hantavirus outbreak aboard the MV Hondius cruise ship has killed three people, with more than 100 passengers still aboard as the ship reaches the Canary Islands. Spanish authorities in biohazard suits are waiting at port, as is the WHO director, who apparently had nothing better to do this Saturday.",
+      "url": "https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955",
+      "source": "ABC News",
+      "chips": [
+        "Hantavirus",
+        "Cruise Ship",
+        "Public Health"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump is not getting what he wanted from the Iran war — and the goalposts have quietly moved",
-      "dek": "CNN analysis notes that Trump, who once demanded 'unconditional surrender' and regime change, is now pursuing a negotiated deal that falls well short of his original maximalist aims. His poll numbers have sunk to historic lows and gas is $4.56 a gallon, which is one way to lose a mandate.",
-      "url": "https://www.cnn.com/2026/05/08/politics/trump-iran-war-demands",
-      "source": "CNN",
+      "hed": "Blue Dot Fever Is the Music Industry's Collective Reckoning With Its Own Greed",
+      "dek": "Post Malone, Meghan Trainor, Zayn, Jelly Roll, and the Pussycat Dolls have all canceled or gutted their 2026 tours. The blue dots on Ticketmaster maps — indicating unsold seats — are everywhere, and insiders say the industry has been 'high on its own supply' for years. Average ticket price in 2026: $144. Average fan's patience: gone.",
+      "url": "https://fortune.com/2026/05/07/what-is-the-blue-dot-fever-why-post-malone-meghan-trainor-zayn-jelly-roll-pussycat-dolls-canceling-concert-dates/",
+      "source": "Fortune",
       "chips": [
-        "War fatigue",
-        "Moving goalposts",
-        "Poll collapse"
+        "Blue Dot Fever",
+        "Ticketmaster",
+        "Concert Economy"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,394",
-      "chg": "+0.78%",
+      "val": "7,398",
+      "chg": "+0.84%",
       "dir": "up"
     },
     "dow": {
-      "val": "49,745",
-      "chg": "+0.30%",
+      "val": "49,609",
+      "chg": "+0.02%",
       "dir": "up"
     },
     "nasdaq": {
-      "val": "26,151",
-      "chg": "+1.34%",
+      "val": "26,247",
+      "chg": "+1.71%",
       "dir": "up"
     },
     "wti": {
-      "val": "$95.68",
-      "chg": "+0.92%",
+      "val": "$95",
+      "chg": "+1.2%",
       "dir": "up"
     },
     "brent": {
-      "val": "$101.53",
-      "chg": "+1.47%",
+      "val": "$102",
+      "chg": "+1.7%",
       "dir": "up"
     },
     "gold": {
-      "val": "$4,717",
-      "chg": "+0.13%",
+      "val": "$4,724",
+      "chg": "+0.27%",
       "dir": "up"
     },
     "btc": {
-      "val": "$79,980",
-      "chg": "+0.25%",
+      "val": "$80,350",
+      "chg": "+0.95%",
       "dir": "up"
     },
-    "context": "Markets rallied on a blowout April jobs report (115K vs. 65K expected) even as US-Iran clashes in the Strait of Hormuz kept oil above $100 Brent and nerves elevated.",
-    "url": "https://finance.yahoo.com/quote/%5EGSPC/",
-    "source": "Yahoo Finance"
+    "context": "S&P and Nasdaq hit fresh all-time highs Friday as a blowout April jobs report (115K added vs. 65K expected) let investors briefly forget there is a war in the Middle East.",
+    "url": "https://www.cnbc.com/2026/05/07/stock-market-today-live-updates.html",
+    "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.56",
-    "note": "Gas is up 53% since February — your car now costs more to feed than your dog.",
-    "premium": "$5.15",
-    "wti": "$95.68",
+    "avg": "$4.53",
+    "note": "Filling up your tank now costs roughly what a nice dinner used to — thanks, Strait of Hormuz.",
+    "premium": "$5.20",
+    "wti": "$95",
     "highState": "CA: $6.16",
-    "lowState": "OK: $3.96",
+    "lowState": "OK: $3.98",
     "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "The Devil Wears Prada 2 struts past $254M worldwide in its first week, making Miranda Priestly the only person winning right now",
-    "dek": "The 20-years-later sequel reuniting Meryl Streep, Anne Hathaway, Emily Blunt and Stanley Tucci opened to $77M domestic and $234M globally — the second-biggest worldwide debut of 2026. Women made up 76% of ticket buyers, confirming that 'the cerulean sweater' speech holds more cultural power than most world leaders.",
-    "url": "https://deadline.com/2026/05/box-office-devil-wears-prada-2-michael-1236877817/",
+    "hed": "Devil Wears Prada 2 Blows Past Original Film's Entire Lifetime Gross in Under 10 Days",
+    "dek": "The Meryl Streep and Anne Hathaway sequel hit $324M worldwide through Thursday, surpassing the original's $326M lifetime haul with the weekend still ahead. Miranda Priestly remains the most powerful force in Western civilization, apparently.",
+    "url": "https://deadline.com/2026/05/devil-wears-prada-2-box-office-record-1236888479/",
     "source": "Deadline"
   },
   "genZ": {
-    "type": "meme",
-    "term": "Italian Brainrot / Tung Tung Tung Sahur",
-    "definition": "An AI-generated wooden creature holding a bat who chants an Indonesian Ramadan drumming call — part of the 'Italian Brainrot' meme universe of absurd AI characters with fake-Italian names like Bombardiro Crocodilo. The character went so viral it was added as a Fortnite skin in April 2026 and is now being applied to literally everything on TikTok.",
-    "usage": "When Trump calls ongoing US-Iran missile exchanges a 'love tap' and insists the ceasefire is holding: 'Tung Tung Tung Sahur has entered the Strait of Hormuz.'",
-    "url": "https://knowyourmeme.com/memes/tung-tung-tung-sahur",
-    "source": "Know Your Meme"
+    "type": "viral",
+    "term": "Blue Dot Fever",
+    "definition": "A term coined this week to describe the embarrassing phenomenon of major music artists canceling tours because their Ticketmaster seating maps are full of blue dots — the color used to show unsold seats. Post Malone, Meghan Trainor, Zayn Malik, and the Pussycat Dolls have all been diagnosed in the past week, with insiders saying artists have been pricing tickets like they are Taylor Swift when they are decidedly not.",
+    "usage": "Iran still has not responded to the US peace deal — honestly sounds like a bad case of Blue Dot Fever, lots of open seats at the negotiating table.",
+    "url": "https://www.hypebot.com/what-is-blue-dot-fever-the-rising-tide-of-tour-cancellations-in-2026/",
+    "source": "Hypebot"
   },
-  "tldr": "The US and Iran exchanged fire in the Strait of Hormuz on Day 70 of the war while Trump insisted the ceasefire was 'holding' and Rubio waited by the phone in Rome. Back home, a blowout jobs report lifted markets, courts killed Trump's tariffs again, and Americans paid $4.56 a gallon to drive to the theater to watch The Devil Wears Prada 2 — perhaps the most relatable response to current events."
+  "tldr": "The US is holding its breath waiting for Iran to respond to a peace proposal that would end a 71-day war, while simultaneously firing on tankers and calling it a ceasefire. Elsewhere, stocks hit record highs, gas is $4.53 a gallon, and Miranda Priestly made $324 million in nine days — so the economy is, depending on your portfolio, fine."
 }
