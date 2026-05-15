@@ -1,185 +1,182 @@
 {
-  "date": "Wednesday, May 13, 2026",
+  "date": "Friday, May 15, 2026",
   "headlines": [
     {
-      "text": "Trump lands in Beijing for high-stakes Xi summit as Iran ceasefire hangs by a thread",
-      "tag": "✈️"
+      "text": "Trump departs Beijing after summit with Xi; touts 'fantastic' trade deals with no major breakthroughs announced",
+      "tag": "🇨🇳"
     },
     {
-      "text": "Iran vows military is at 'highest level of readiness' with 'no room for retreat'",
-      "tag": "🚨"
+      "text": "Iran FM doubts US 'seriousness' in nuke talks; ceasefire hanging by a thread on Day 77",
+      "tag": "💣"
     },
     {
-      "text": "April CPI hits 3.8% — highest since 2023 — as Iran war drives energy costs sky-high",
-      "tag": "📈"
+      "text": "Drake drops THREE albums at midnight: Iceman, Habibti, and Maid of Honour flood streaming platforms",
+      "tag": "🎵"
     },
     {
-      "text": "Gunshots erupt inside Philippine Senate as police move to arrest ICC-wanted senator",
-      "tag": "🔫"
+      "text": "S&P 500 and Nasdaq slide Friday as tech stocks give back gains; Dow retreats from 50,000",
+      "tag": "📉"
     },
     {
-      "text": "Pentagon weighing renaming Iran conflict 'Operation Sledgehammer' to reset 60-day war clock",
-      "tag": "⚔️"
+      "text": "Gas prices hit $4.53 national average — highest level since 2022 — as Iran war constricts global oil supply",
+      "tag": "⛽"
     },
     {
-      "text": "Cannes Film Festival opens with Peter Jackson honorary Palme d'Or, Demi Moore on jury",
-      "tag": "🎬"
+      "text": "Senate confirms Kevin Warsh as next Fed Chair as Jerome Powell's term ends today",
+      "tag": "🏦"
     },
     {
-      "text": "Nebraska Democratic primary still too close to call with under 300 votes separating candidates",
+      "text": "House Iran war powers resolution fails 212-212 in dramatic tied vote",
       "tag": "🗳️"
     },
     {
-      "text": "Trump paints National Mall Reflecting Pool 'American Flag Blue' — judge sets May 21 hearing",
-      "tag": "🎨"
+      "text": "Ship seized near Strait of Hormuz as tensions flare; another vessel sunk in the region",
+      "tag": "🚢"
     },
     {
-      "text": "Amazon launches 'Alexa for Shopping' AI tool and 30-minute-or-less delivery in dozens of cities",
-      "tag": "📦"
+      "text": "South Carolina governor calls special session to eliminate sole Democratic House seat in redistricting push",
+      "tag": "🗺️"
     },
     {
-      "text": "Gas prices up 28% year-over-year as Iran war squeezes global oil supply and strains budgets",
-      "tag": "⛽"
+      "text": "Starbucks lays off 300 more corporate workers in third round of cuts, warns of $400M restructuring charges",
+      "tag": "☕"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Gunshots fired inside Philippine Senate as ICC-wanted Senator Dela Rosa faces arrest",
-    "url": "https://www.aljazeera.com/news/2026/5/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up"
+    "text": "BREAKING: Ship seized near Strait of Hormuz as Iran tensions spike Friday morning",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran"
   },
   "stories": [
     {
-      "tag": "iran war - day 75",
+      "tag": "iran war - day 77",
       "tagType": "fire",
-      "hed": "Ceasefire on 'life support' as Trump flies to Beijing, Iran says military is ready to fight",
-      "dek": "Trump called Iran's peace counter-proposal 'totally unacceptable' and boarded Air Force One for China, where he plans a 'long talk' with Xi about a war he insists he doesn't need Beijing's help to end. Iran's military responded by announcing it is at its 'highest level of readiness' — which is a very specific way to say 'we're fine, how are you.'",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-life-support-israel-hezbollah/",
-      "source": "CBS News",
+      "hed": "Iran FM Says US Isn't Serious; Ceasefire Creaks; Ships Get Grabbed Near Hormuz",
+      "dek": "Iran's Foreign Minister Abbas Araghchi announced he doubts America's 'seriousness' in negotiations and confirmed talks with Russia about moving enriched uranium — which is either diplomacy or a very alarming game of hot potato. Meanwhile a ship was seized near the Strait of Hormuz on Friday morning, because apparently the waterway is now a lawless parking lot.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran",
+      "source": "Al Jazeera",
       "chips": [
-        "ceasefire fragile",
-        "Trump-Xi summit",
-        "Pentagon: $29B cost",
-        "Iran: 70% missiles intact"
+        "Hormuz seizure",
+        "uranium talks",
+        "ceasefire fragile"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Gunshots ring out at Philippine Senate as police close in on ICC-wanted senator",
-      "dek": "Senator Ronald dela Rosa — the architect of Duterte's deadly drug war — barricaded himself inside the Philippine Senate as marines and police moved in to arrest him on ICC crimes against humanity charges. More than a dozen shots were fired, journalists fled, and the building was evacuated, proving that legislative immunity has its limits.",
-      "url": "https://www.aljazeera.com/news/2026/5/13/gunshots-ring-out-at-philippine-senate-where-lawmaker-is-holed-up",
-      "source": "Al Jazeera",
-      "chips": [
-        "ICC arrest",
-        "Philippines",
-        "Duterte drug war"
-      ]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Trump arrives in Beijing to red carpet, military band, and 300 kids waving Chinese flags",
-      "dek": "China rolled out the full ceremonial treatment for Trump's first Beijing visit in nearly nine years, dispatching Vice President Han Zheng and an honor guard to the tarmac. The agenda includes trade, Taiwan, and whether Xi can help end the Iran war — a war Trump simultaneously says China's help isn't needed for.",
-      "url": "https://www.cnn.com/2026/05/13/politics/live-news/trump-china-visit-arrival-ceremony-hnk",
+      "hed": "Trump Leaves Beijing Claiming Wins; Xi Made Clear Taiwan Is His Top Priority",
+      "dek": "President Trump departed China after two days of talks at the Great Hall of the People, calling results 'fantastic' while analysts noted no major binding agreements were signed. Xi reportedly warned that mishandling Taiwan could cause 'clashes and even conflicts,' which is diplomatic code for 'do not touch.'",
+      "url": "https://www.cnn.com/2026/05/15/world/video/trump-leaves-china-summit-with-iran-taiwan-and-trade-in-focus-hnk-digvid",
       "source": "CNN",
       "chips": [
         "Trump-Xi summit",
-        "trade",
-        "Taiwan",
-        "Iran diplomacy"
+        "Taiwan warning",
+        "trade deals"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Nebraska Democratic primary still too close to call; Schumer warns Trump may 'sell out Taiwan'",
-      "dek": "With 85% of votes counted, state Sen. John Cavanaugh leads activist Denise Powell by fewer than 300 votes in Nebraska's battleground 2nd District — a race that could help decide House control in November. Meanwhile, Senate Minority Leader Schumer used the Trump-China trip to accuse the president of potentially trading away Taiwan for a headline.",
-      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-china-xi-nebraska-wv-election-results-congress-iran-live-updates-rcna344525",
-      "source": "NBC News",
+      "hed": "Senate Confirms Kevin Warsh as Fed Chair as Jerome Powell Exits Stage Left",
+      "dek": "The Senate confirmed Kevin Warsh to lead the Federal Reserve just as markets were tanking on Friday, which is the kind of timing that builds character. Treasury yields hit near one-year highs at 4.55% as markets priced in a possible rate hike — odds that went from 1% to 45% in a single month of war-driven inflation.",
+      "url": "https://www.npr.org/sections/national/",
+      "source": "NPR",
       "chips": [
-        "midterms",
-        "Nebraska primary",
-        "Schumer on Taiwan"
+        "Warsh confirmed",
+        "Fed chair",
+        "rate hike fears"
+      ]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "House Iran War Powers Vote Ties 212-212, Fails — A Literal Coin Flip on War Authority",
+      "dek": "In a rare tied vote, the House failed to pass a resolution requiring congressional approval for further military action against Iran, with three Republicans breaking ranks to join nearly all Democrats. A tied vote counts as a loss, meaning Trump's war powers remain unchecked, and Rep. Jared Golden of Maine became the only Democrat who apparently had other plans.",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-peace-talks-baghaei/?id=132837701",
+      "source": "ABC News",
+      "chips": [
+        "war powers",
+        "212-212 tie",
+        "Congress"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump says he 'doesn't think about Americans' financial situation' on Iran — Speaker Johnson scrambles to contextualize",
-      "dek": "Asked about the economic toll of the Iran war on ordinary Americans, Trump replied that he thinks about only one thing: Iran not having a nuclear weapon. House Speaker Mike Johnson, given a chance to respond, said he was sure the president thinks about Americans' finances — in the tone of a man who is not sure at all.",
-      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-china-xi-nebraska-wv-election-results-congress-iran-live-updates-rcna344525",
-      "source": "NBC News",
+      "hed": "Republicans Are Gerrymandering So Hard the Supreme Court Had to Help — Voters Are the Collateral Damage",
+      "dek": "With midterms approaching and the Supreme Court having weakened the Voting Rights Act, GOP-led states are sprinting to redraw maps in a redistricting blitz that voting experts say will cost voters dearly regardless of which party wins. South Carolina is eliminating its only Democratic House seat, and that's just a Friday in 2026.",
+      "url": "https://www.npr.org/sections/politics/",
+      "source": "NPR",
       "chips": [
-        "Trump quote",
-        "inflation",
-        "gas prices",
-        "midterm risk"
+        "gerrymandering",
+        "midterms 2026",
+        "Voting Rights Act"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,351",
-      "chg": "-0.83%",
+      "val": "7,419",
+      "chg": "-1.1%",
       "dir": "down"
     },
     "dow": {
-      "val": "49,493",
-      "chg": "-0.42%",
+      "val": "49,656",
+      "chg": "-0.8%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "25,879",
-      "chg": "-1.50%",
+      "val": "26,204",
+      "chg": "-1.6%",
       "dir": "down"
     },
     "wti": {
-      "val": "$101.68",
-      "chg": "+3.68%",
+      "val": "$102",
+      "chg": "+1.6%",
       "dir": "up"
     },
     "brent": {
-      "val": "$107.40",
-      "chg": "-0.35%",
-      "dir": "down"
+      "val": "$107",
+      "chg": "+1.5%",
+      "dir": "up"
     },
     "gold": {
-      "val": "$4,688",
-      "chg": "-0.75%",
+      "val": "$4,548",
+      "chg": "-2.0%",
       "dir": "down"
     },
     "btc": {
-      "val": "$80,308",
-      "chg": "-1.37%",
-      "dir": "down"
+      "val": "$81,661",
+      "chg": "+2.7%",
+      "dir": "up"
     },
-    "context": "Stocks slid as April PPI surged well above expectations, oil jumped on Iran ceasefire fears, and gold fell as hot inflation priced out any Fed rate cuts this year.",
-    "url": "https://www.thestreet.com/latest-news/stock-market-today-may-13-2026-updates",
-    "source": "TheStreet"
+    "context": "Markets sold off Friday as Trump's China summit ended with no Iran breakthrough, spiking oil prices and Treasury yields while tech stocks gave back recent record-high gains.",
+    "url": "https://www.cnbc.com/amp/2026/05/14/stock-market-today-live-updates.html",
+    "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.51",
-    "note": "Cheaper than CA but pricier than your therapist — and you need both right now.",
-    "premium": "$5.11",
-    "wti": "$101.68",
+    "avg": "$4.53",
+    "note": "Filling up your tank now costs roughly what a fancy brunch did last year — except this hurts more and no one brings you mimosas.",
+    "premium": "$5.20",
+    "wti": "$102",
     "highState": "CA: $6.15",
-    "lowState": "OK: $3.89",
+    "lowState": "OK: $3.94",
     "url": "https://gasprices.aaa.com/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "79th Cannes Film Festival opens with Peter Jackson honorary Palme d'Or and Demi Moore as jury president",
-    "dek": "Peter Jackson received his honorary Palme d'Or from Elijah Wood — a Lord of the Rings reunion nobody knew they needed — while Demi Moore, Jane Fonda, and Heidi Klum lit up a red carpet that Hollywood largely skipped this year. Season 4 of 'The White Lotus' is also filming on location at Cannes itself, which is either very meta or a cry for help.",
-    "url": "https://variety.com/2026/film/news/cannes-opening-night-red-carpet-peter-jackson-tribute-james-franco-1236745621/",
-    "source": "Variety"
+    "hed": "Drake Drops Three Albums Simultaneously at Midnight: Iceman, Habibti, and Maid of Honour",
+    "dek": "In an unprecedented music industry move, Drake released 43 songs across three full albums at midnight on May 15, after months of viral ice-sculpture stunts and livestream episodes in Toronto teasing just one. Whether this is a masterclass in saturation marketing or a cry for help is a debate currently raging on every corner of the internet.",
+    "url": "https://www.ibtimes.com.au/drake-triple-album-release-2026-1868860",
+    "source": "IBTimes Australia"
   },
   "genZ": {
-    "type": "tiktok",
-    "term": "And Emily... that's all",
-    "definition": "A viral TikTok trend using the iconic Miranda Priestly line from The Devil Wears Prada sequel to contrast two people, two versions of yourself, or two ways of doing something — one polished, one a disaster. It exploded this week riding the wave of the Devil Wears Prada 2 release and Cannes buzz.",
-    "usage": "Trump saying he doesn't think about Americans' financial situation at the gas pump vs. the guy who just paid $6.15 a gallon in California: and Emily... that's all.",
-    "url": "https://www.ramd.am/blog/trends-tiktok",
-    "source": "Ramdam TikTok Trends"
+    "type": "viral",
+    "term": "Drake Triple Drop",
+    "definition": "Drake releasing three albums simultaneously at midnight on May 15 — Iceman, Habibti, and Maid of Honour — after a months-long campaign involving a 25-foot ice sculpture in Toronto that fans literally attacked with pickaxes to find the release date. The internet is now debating whether dropping 43 songs at once is genius or just Drake flooding the zone so at least something has to hit.",
+    "usage": "Iran ceasefire negotiations rn are giving major Drake Triple Drop energy — overwhelming volume of content, nothing quite landing, and everyone's exhausted but still hitting play.",
+    "url": "https://thesource.com/2026/05/15/drake-stuns-fans-with-triple-album-reveal-after-toronto-livestream-spectacle/",
+    "source": "The Source"
   },
-  "tldr": "Trump flew to Beijing to charm Xi Jinping into helping end a war he insists he doesn't need China's help to end, while back home inflation hit a three-year high and the average American was paying $4.51 a gallon to fill up their feelings. The Iran ceasefire is technically still alive, in the same way a houseplant you forgot to water for six weeks is technically still alive."
+  "tldr": "Trump left Beijing empty-handed on Iran while the ceasefire frayed further on Day 77, ships got seized near Hormuz, and stocks dropped as oil spiked and investors wondered if the war is about to resume. On the bright side, Drake dropped three albums at midnight, which is either the most or least important thing that happened today depending entirely on your priorities."
 }
