@@ -1,182 +1,181 @@
 {
-  "date": "Friday, May 15, 2026",
+  "date": "Saturday, May 16, 2026",
   "headlines": [
     {
-      "text": "Trump departs Beijing after summit with Xi; touts 'fantastic' trade deals with no major breakthroughs announced",
-      "tag": "🇨🇳"
+      "text": "USS Gerald R. Ford returns home after record 326-day deployment supporting Iran war",
+      "tag": "⚓"
     },
     {
-      "text": "Iran FM doubts US 'seriousness' in nuke talks; ceasefire hanging by a thread on Day 77",
-      "tag": "💣"
+      "text": "Israel strikes Lebanon just hours after agreeing to 45-day ceasefire extension",
+      "tag": "💥"
     },
     {
-      "text": "Drake drops THREE albums at midnight: Iceman, Habibti, and Maid of Honour flood streaming platforms",
-      "tag": "🎵"
+      "text": "Iran FM claims victory: 'All countries now acknowledge Iran was the victor in this war'",
+      "tag": "🇮🇷"
     },
     {
-      "text": "S&P 500 and Nasdaq slide Friday as tech stocks give back gains; Dow retreats from 50,000",
+      "text": "New Ebola outbreak in Congo kills 80, spreads to Uganda; no vaccine exists for this strain",
+      "tag": "🦠"
+    },
+    {
+      "text": "Stock market tumbles: Dow falls 537 points, S&P 500 drops 1.24% as Iran war inflation fears mount",
       "tag": "📉"
     },
     {
-      "text": "Gas prices hit $4.53 national average — highest level since 2022 — as Iran war constricts global oil supply",
+      "text": "Gas prices hit $4.53/gal nationally — up more than a dollar since US-Israel attacked Iran in February",
       "tag": "⛽"
     },
     {
-      "text": "Senate confirms Kevin Warsh as next Fed Chair as Jerome Powell's term ends today",
-      "tag": "🏦"
+      "text": "Trump-Xi summit ends with no major breakthroughs on Iran, Taiwan, or trade",
+      "tag": "🤝"
     },
     {
-      "text": "House Iran war powers resolution fails 212-212 in dramatic tied vote",
-      "tag": "🗳️"
+      "text": "House passes first fiscal 2027 appropriations bill as Republicans push budget reconciliation",
+      "tag": "🏛️"
     },
     {
-      "text": "Ship seized near Strait of Hormuz as tensions flare; another vessel sunk in the region",
-      "tag": "🚢"
+      "text": "Michael Jackson biopic 'Michael' closing in on $600M at global box office as Paris Jackson feuds with estate",
+      "tag": "🎬"
     },
     {
-      "text": "South Carolina governor calls special session to eliminate sole Democratic House seat in redistricting push",
-      "tag": "🗺️"
-    },
-    {
-      "text": "Starbucks lays off 300 more corporate workers in third round of cuts, warns of $400M restructuring charges",
-      "tag": "☕"
+      "text": "Euphoria Season 3 finale confirmed as longest episode in HBO history at 93 minutes",
+      "tag": "📺"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "BREAKING: Ship seized near Strait of Hormuz as Iran tensions spike Friday morning",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran"
+    "text": "Ebola outbreak in Congo spreads to Uganda — 246 suspected cases, 80+ dead, no vaccine for this strain",
+    "url": "https://www.cnn.com/2026/05/15/health/ebola-outbreak-deaths-congo"
   },
   "stories": [
     {
-      "tag": "iran war - day 77",
+      "tag": "iran war - day 78",
       "tagType": "fire",
-      "hed": "Iran FM Says US Isn't Serious; Ceasefire Creaks; Ships Get Grabbed Near Hormuz",
-      "dek": "Iran's Foreign Minister Abbas Araghchi announced he doubts America's 'seriousness' in negotiations and confirmed talks with Russia about moving enriched uranium — which is either diplomacy or a very alarming game of hot potato. Meanwhile a ship was seized near the Strait of Hormuz on Friday morning, because apparently the waterway is now a lawless parking lot.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/15/iran-war-live-trumps-visit-to-china-shadowed-by-conflict-with-tehran",
-      "source": "Al Jazeera",
+      "hed": "USS Ford Is Home, War Is Not: Aircraft Carrier Returns After Record Deployment as Iran Talks Stay Stuck",
+      "dek": "The world's largest aircraft carrier docked in Norfolk on Saturday after a record 326-day deployment covering the Iran war, the capture of Maduro, and enough frequent flyer miles to retire on. Back on shore, the war it left behind is still very much ongoing — Iran's FM is claiming victory while Israel is bombing Lebanon hours after a ceasefire extension, which is a very creative interpretation of the word 'ceasefire.'",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/",
+      "source": "CBS News",
       "chips": [
-        "Hormuz seizure",
-        "uranium talks",
-        "ceasefire fragile"
+        "USS Ford home",
+        "Hormuz blockade",
+        "Lebanon strikes",
+        "Iran FM claims victory"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Trump Leaves Beijing Claiming Wins; Xi Made Clear Taiwan Is His Top Priority",
-      "dek": "President Trump departed China after two days of talks at the Great Hall of the People, calling results 'fantastic' while analysts noted no major binding agreements were signed. Xi reportedly warned that mishandling Taiwan could cause 'clashes and even conflicts,' which is diplomatic code for 'do not touch.'",
-      "url": "https://www.cnn.com/2026/05/15/world/video/trump-leaves-china-summit-with-iran-taiwan-and-trade-in-focus-hnk-digvid",
+      "hed": "New Ebola Outbreak Kills 80 in Congo, Spreads to Uganda — and There Is No Vaccine for This Strain",
+      "dek": "Africa CDC confirmed 246 suspected cases and at least 80 deaths of a rare Bundibugyo strain of Ebola in Congo's Ituri province, which happens to border Uganda and South Sudan, happen to be a mining hub with constant population movement, and happen to have no approved vaccine or treatment. Uganda has already confirmed one death. Public health experts call this potentially the second-largest non-Zaire Ebola outbreak in history.",
+      "url": "https://www.cnn.com/2026/05/15/health/ebola-outbreak-deaths-congo",
       "source": "CNN",
       "chips": [
-        "Trump-Xi summit",
-        "Taiwan warning",
-        "trade deals"
+        "Bundibugyo strain",
+        "no vaccine",
+        "Uganda case",
+        "246 suspected"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Senate Confirms Kevin Warsh as Fed Chair as Jerome Powell Exits Stage Left",
-      "dek": "The Senate confirmed Kevin Warsh to lead the Federal Reserve just as markets were tanking on Friday, which is the kind of timing that builds character. Treasury yields hit near one-year highs at 4.55% as markets priced in a possible rate hike — odds that went from 1% to 45% in a single month of war-driven inflation.",
-      "url": "https://www.npr.org/sections/national/",
-      "source": "NPR",
+      "hed": "Wall Street Wipes Out Records in One Day: Dow Loses 537 Points as Iran War Inflation Fears Grip Markets",
+      "dek": "One day after the Dow cracked 50,000 for the first time since February, markets remembered the Strait of Hormuz is still closed, oil is above $100, the new Fed chair Kevin Warsh just took Jerome Powell's keys, and the Trump-Xi summit produced zero breakthroughs. Nvidia dropped 4.4%, Intel cratered 6%, and energy was the only sector that went up — because of course it was.",
+      "url": "https://www.cnbc.com/amp/2026/05/14/stock-market-today-live-updates.html",
+      "source": "CNBC",
       "chips": [
-        "Warsh confirmed",
-        "Fed chair",
-        "rate hike fears"
+        "Dow -537",
+        "S&P -1.24%",
+        "Nasdaq -1.54%",
+        "Kevin Warsh Fed debut"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "House Iran War Powers Vote Ties 212-212, Fails — A Literal Coin Flip on War Authority",
-      "dek": "In a rare tied vote, the House failed to pass a resolution requiring congressional approval for further military action against Iran, with three Republicans breaking ranks to join nearly all Democrats. A tied vote counts as a loss, meaning Trump's war powers remain unchecked, and Rep. Jared Golden of Maine became the only Democrat who apparently had other plans.",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-peace-talks-baghaei/?id=132837701",
-      "source": "ABC News",
+      "hed": "Gas Hits $4.53 Nationally, California Above $6, Oklahoma the Last Refuge at $3.94",
+      "dek": "Average gas prices are up more than a dollar since the US-Israel war on Iran began February 28, with six states now above $5 a gallon and California eclipsing $6. Analysts warn the national average could hit $5 before summer. Oklahoma remains America's cheapest gas refuge, which is the most Oklahoma has mattered to coastal elites since the land rush.",
+      "url": "https://gasprices.aaa.com/",
+      "source": "AAA",
       "chips": [
-        "war powers",
-        "212-212 tie",
-        "Congress"
+        "$4.53 national avg",
+        "CA: $6.16",
+        "Iran war premium",
+        "oil above $100"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Republicans Are Gerrymandering So Hard the Supreme Court Had to Help — Voters Are the Collateral Damage",
-      "dek": "With midterms approaching and the Supreme Court having weakened the Voting Rights Act, GOP-led states are sprinting to redraw maps in a redistricting blitz that voting experts say will cost voters dearly regardless of which party wins. South Carolina is eliminating its only Democratic House seat, and that's just a Friday in 2026.",
-      "url": "https://www.npr.org/sections/politics/",
-      "source": "NPR",
-      "chips": [
-        "gerrymandering",
-        "midterms 2026",
-        "Voting Rights Act"
-      ]
+      "hed": "Trump Leaves Beijing 'Empty-Handed' After Xi Summit: Big Trip, Small Receipts",
+      "dek": "Trump flew to China with 16 top CEOs, got a 200-Boeing-jet order (half of what Wall Street expected), took a stroll through Zhongnanhai admiring Chinese roses, and left with no deal on Iran, tariffs, or Taiwan. The market's 1%+ selloff on Friday was Wall Street's polite way of saying the vibe did not match the invoice.",
+      "url": "https://www.ms.now/rachel-maddow-show/maddowblog/trump-xi-china-trip-iran-taiwan-declining-nation",
+      "source": "MSNBC"
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,419",
-      "chg": "-1.1%",
+      "val": "7,408",
+      "chg": "-1.24%",
       "dir": "down"
     },
     "dow": {
-      "val": "49,656",
-      "chg": "-0.8%",
+      "val": "49,526",
+      "chg": "-1.07%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "26,204",
-      "chg": "-1.6%",
+      "val": "26,225",
+      "chg": "-1.54%",
       "dir": "down"
     },
     "wti": {
-      "val": "$102",
-      "chg": "+1.6%",
+      "val": "$104",
+      "chg": "+2.6%",
       "dir": "up"
     },
     "brent": {
-      "val": "$107",
-      "chg": "+1.5%",
+      "val": "$108",
+      "chg": "+2.4%",
       "dir": "up"
     },
     "gold": {
-      "val": "$4,548",
-      "chg": "-2.0%",
+      "val": "$4,483",
+      "chg": "-2.7%",
       "dir": "down"
     },
     "btc": {
-      "val": "$81,661",
-      "chg": "+2.7%",
-      "dir": "up"
+      "val": "$79,080",
+      "chg": "-2.9%",
+      "dir": "down"
     },
-    "context": "Markets sold off Friday as Trump's China summit ended with no Iran breakthrough, spiking oil prices and Treasury yields while tech stocks gave back recent record-high gains.",
+    "context": "Stocks fell sharply Friday as Iran war inflation fears, rising Treasury yields hitting 4.55%, and a disappointing Trump-Xi summit with no breakthroughs sent investors fleeing tech and into energy.",
     "url": "https://www.cnbc.com/amp/2026/05/14/stock-market-today-live-updates.html",
     "source": "CNBC"
   },
   "gas": {
     "avg": "$4.53",
-    "note": "Filling up your tank now costs roughly what a fancy brunch did last year — except this hurts more and no one brings you mimosas.",
-    "premium": "$5.20",
-    "wti": "$102",
-    "highState": "CA: $6.15",
+    "note": "Filling up your tank now costs more than a reasonable dinner for two — the Iran war says you're welcome.",
+    "premium": "$5.37",
+    "wti": "$104",
+    "highState": "CA: $6.16",
     "lowState": "OK: $3.94",
     "url": "https://gasprices.aaa.com/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Drake Drops Three Albums Simultaneously at Midnight: Iceman, Habibti, and Maid of Honour",
-    "dek": "In an unprecedented music industry move, Drake released 43 songs across three full albums at midnight on May 15, after months of viral ice-sculpture stunts and livestream episodes in Toronto teasing just one. Whether this is a masterclass in saturation marketing or a cry for help is a debate currently raging on every corner of the internet.",
-    "url": "https://www.ibtimes.com.au/drake-triple-album-release-2026-1868860",
-    "source": "IBTimes Australia"
+    "hed": "Euphoria Season 3 Finale Confirmed as Longest Episode in HBO History at 93 Minutes — Topping Game of Thrones",
+    "dek": "With only three episodes left before the May 31 finale, HBO confirmed the Euphoria Season 3 closer will run a record-shattering 93 minutes, surpassing Game of Thrones' 'The Long Night.' Zendaya has already hinted this is the series finale, so Sam Levinson apparently needs every single one of those 93 minutes to wrap up whatever is happening in adult Rue's life.",
+    "url": "https://www.justjared.com/2026/05/11/euphoria-season-3-finale-runtime-revealed-breaks-hbo-record-for-longest-episode/",
+    "source": "Just Jared"
   },
   "genZ": {
-    "type": "viral",
-    "term": "Drake Triple Drop",
-    "definition": "Drake releasing three albums simultaneously at midnight on May 15 — Iceman, Habibti, and Maid of Honour — after a months-long campaign involving a 25-foot ice sculpture in Toronto that fans literally attacked with pickaxes to find the release date. The internet is now debating whether dropping 43 songs at once is genius or just Drake flooding the zone so at least something has to hit.",
-    "usage": "Iran ceasefire negotiations rn are giving major Drake Triple Drop energy — overwhelming volume of content, nothing quite landing, and everyone's exhausted but still hitting play.",
-    "url": "https://thesource.com/2026/05/15/drake-stuns-fans-with-triple-album-reveal-after-toronto-livestream-spectacle/",
-    "source": "The Source"
+    "type": "tiktok",
+    "term": "No You Don't Get to Ask Questions",
+    "definition": "A TikTok trend built around playful defensiveness where creators show themselves doing something clearly questionable and shut down any attempt at explanation with the line 'no, you don't get to ask questions.' The humor comes from the tension of something being obviously wrong but completely unaddressed, which in May 2026 feels deeply relatable.",
+    "usage": "Trump leaving the Beijing summit with 200 Boeing jets instead of the 500 Wall Street expected: 'No, you don't get to ask questions.'",
+    "url": "https://www.ramd.am/blog/trends-tiktok",
+    "source": "Ramdam TikTok Trends"
   },
-  "tldr": "Trump left Beijing empty-handed on Iran while the ceasefire frayed further on Day 77, ships got seized near Hormuz, and stocks dropped as oil spiked and investors wondered if the war is about to resume. On the bright side, Drake dropped three albums at midnight, which is either the most or least important thing that happened today depending entirely on your priorities."
+  "tldr": "The USS Gerald R. Ford came home from a record 326-day deployment today, but the Iran war it sailed into is still very much unresolved — Israel bombed Lebanon hours after a ceasefire extension, Iran's FM declared victory, and markets cratered on inflation fears. Meanwhile, a no-vaccine Ebola strain is spreading from Congo to Uganda, gas is $4.53 and climbing, and Euphoria's series finale is shaping up to be 93 minutes of Zendaya crying in HD."
 }
