@@ -1,116 +1,117 @@
 {
-  "date": "Saturday, May 16, 2026",
+  "date": "Sunday, May 17, 2026",
   "headlines": [
     {
-      "text": "USS Gerald R. Ford returns home after record 326-day deployment supporting Iran war",
-      "tag": "⚓"
-    },
-    {
-      "text": "Israel strikes Lebanon just hours after agreeing to 45-day ceasefire extension",
+      "text": "Drone strikes UAE nuclear plant as Iran war enters Day 79 with no peace deal in sight",
       "tag": "💥"
     },
     {
-      "text": "Iran FM claims victory: 'All countries now acknowledge Iran was the victor in this war'",
-      "tag": "🇮🇷"
+      "text": "Bulgaria's Dara wins Eurovision 2026 with 'Bangaranga' in Vienna — biggest margin in contest history",
+      "tag": "🎤"
     },
     {
-      "text": "New Ebola outbreak in Congo kills 80, spreads to Uganda; no vaccine exists for this strain",
-      "tag": "🦠"
+      "text": "Napoleon Solo pulls off 10-1 upset to win 151st Preakness Stakes at Laurel Park",
+      "tag": "🐎"
     },
     {
-      "text": "Stock market tumbles: Dow falls 537 points, S&P 500 drops 1.24% as Iran war inflation fears mount",
-      "tag": "📉"
+      "text": "SNL Season 51 finale: Will Ferrell plays Epstein's ghost haunting Trump; Paul McCartney closes the season",
+      "tag": "📺"
     },
     {
-      "text": "Gas prices hit $4.53/gal nationally — up more than a dollar since US-Israel attacked Iran in February",
+      "text": "IDF kills Hamas Gaza military chief Izzadin El Haddad in precision airstrike",
+      "tag": "🎯"
+    },
+    {
+      "text": "Sen. Bill Cassidy loses Louisiana GOP primary to Trump-backed Julia Letlow",
+      "tag": "🗳️"
+    },
+    {
+      "text": "Israel and US reportedly preparing to renew Iran strikes as peace talks collapse",
+      "tag": "⚔️"
+    },
+    {
+      "text": "Gas prices hit $4.52 national average — up 53% since war started in February",
       "tag": "⛽"
     },
     {
-      "text": "Trump-Xi summit ends with no major breakthroughs on Iran, Taiwan, or trade",
-      "tag": "🤝"
+      "text": "Stocks slide Friday as Dow falls 537 pts; oil tops $109/bbl on Hormuz fears",
+      "tag": "📉"
     },
     {
-      "text": "House passes first fiscal 2027 appropriations bill as Republicans push budget reconciliation",
-      "tag": "🏛️"
-    },
-    {
-      "text": "Michael Jackson biopic 'Michael' closing in on $600M at global box office as Paris Jackson feuds with estate",
-      "tag": "🎬"
-    },
-    {
-      "text": "Euphoria Season 3 finale confirmed as longest episode in HBO history at 93 minutes",
-      "tag": "📺"
+      "text": "Alex Cooper of 'Call Her Daddy' announces pregnancy with husband Matt Kaplan",
+      "tag": "🍼"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Ebola outbreak in Congo spreads to Uganda — 246 suspected cases, 80+ dead, no vaccine for this strain",
-    "url": "https://www.cnn.com/2026/05/15/health/ebola-outbreak-deaths-congo"
+    "text": "Drone strikes electrical generator at UAE Barakah Nuclear Plant; no radiation leak reported",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time"
   },
   "stories": [
     {
-      "tag": "iran war - day 78",
+      "tag": "iran war - day 79",
       "tagType": "fire",
-      "hed": "USS Ford Is Home, War Is Not: Aircraft Carrier Returns After Record Deployment as Iran Talks Stay Stuck",
-      "dek": "The world's largest aircraft carrier docked in Norfolk on Saturday after a record 326-day deployment covering the Iran war, the capture of Maduro, and enough frequent flyer miles to retire on. Back on shore, the war it left behind is still very much ongoing — Iran's FM is claiming victory while Israel is bombing Lebanon hours after a ceasefire extension, which is a very creative interpretation of the word 'ceasefire.'",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/",
-      "source": "CBS News",
+      "hed": "Drone hits UAE nuclear plant; Israel and US prep for renewed Iran strikes as talks collapse",
+      "dek": "A drone struck an electrical generator at the UAE Barakah Nuclear Power Plant today, because apparently the region was not spicy enough. Israel says it has hit 100 sites in Lebanon in two days despite a ceasefire — a word that has apparently lost all meaning.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time",
+      "source": "Al Jazeera",
       "chips": [
-        "USS Ford home",
-        "Hormuz blockade",
-        "Lebanon strikes",
-        "Iran FM claims victory"
+        "Hormuz still closed",
+        "Lebanon ceasefire fiction",
+        "US-Israel prepping strikes"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "New Ebola Outbreak Kills 80 in Congo, Spreads to Uganda — and There Is No Vaccine for This Strain",
-      "dek": "Africa CDC confirmed 246 suspected cases and at least 80 deaths of a rare Bundibugyo strain of Ebola in Congo's Ituri province, which happens to border Uganda and South Sudan, happen to be a mining hub with constant population movement, and happen to have no approved vaccine or treatment. Uganda has already confirmed one death. Public health experts call this potentially the second-largest non-Zaire Ebola outbreak in history.",
-      "url": "https://www.cnn.com/2026/05/15/health/ebola-outbreak-deaths-congo",
-      "source": "CNN",
+      "hed": "Bulgaria's Dara wins Eurovision 2026 in Vienna with record-shattering 516 points",
+      "dek": "Dara and her club banger 'Bangaranga' swept both the jury and televote at the 70th Eurovision Song Contest — Bulgaria's first-ever win. Five countries boycotted over Israel's participation, ensuring no one could just enjoy the sparkly costumes in peace.",
+      "url": "https://www.nbcnews.com/world/europe/eurovision-song-contest-winner-bulgaria-2026-rcna345433",
+      "source": "NBC News",
       "chips": [
-        "Bundibugyo strain",
-        "no vaccine",
-        "Uganda case",
-        "246 suspected"
+        "Israel 2nd place",
+        "5 countries boycotted",
+        "Vienna 2026"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Wall Street Wipes Out Records in One Day: Dow Loses 537 Points as Iran War Inflation Fears Grip Markets",
-      "dek": "One day after the Dow cracked 50,000 for the first time since February, markets remembered the Strait of Hormuz is still closed, oil is above $100, the new Fed chair Kevin Warsh just took Jerome Powell's keys, and the Trump-Xi summit produced zero breakthroughs. Nvidia dropped 4.4%, Intel cratered 6%, and energy was the only sector that went up — because of course it was.",
-      "url": "https://www.cnbc.com/amp/2026/05/14/stock-market-today-live-updates.html",
-      "source": "CNBC",
+      "hed": "Sen. Bill Cassidy loses Louisiana Senate primary to Trump-backed Rep. Julia Letlow",
+      "dek": "Cassidy, one of seven GOP senators who voted to convict Trump after January 6, has now paid the price at the ballot box. The result cements Trump's grip on the Republican Party and his willingness to carry grudges across multiple election cycles.",
+      "url": "https://www.cbsnews.com/us-iran-tensions/",
+      "source": "CBS News",
       "chips": [
-        "Dow -537",
-        "S&P -1.24%",
-        "Nasdaq -1.54%",
-        "Kevin Warsh Fed debut"
+        "2026 midterms",
+        "Trump revenge tour",
+        "Louisiana primary"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Gas Hits $4.53 Nationally, California Above $6, Oklahoma the Last Refuge at $3.94",
-      "dek": "Average gas prices are up more than a dollar since the US-Israel war on Iran began February 28, with six states now above $5 a gallon and California eclipsing $6. Analysts warn the national average could hit $5 before summer. Oklahoma remains America's cheapest gas refuge, which is the most Oklahoma has mattered to coastal elites since the land rush.",
-      "url": "https://gasprices.aaa.com/",
-      "source": "AAA",
+      "hed": "Iran suspected in hack of US gas station fuel-level monitoring systems",
+      "dek": "US officials suspect Iran hacked systems that display fuel levels at gas stations across several states, changing the displays but not the actual fuel. It is unclear whether this was sabotage or Iran simply trolling Americans who are already mad about $4.52 gas.",
+      "url": "https://www.timesofisrael.com/as-iran-talks-stall-israel-and-us-prepping-to-renew-war-as-soon-as-next-week-report/",
+      "source": "Times of Israel / CNN",
       "chips": [
-        "$4.53 national avg",
-        "CA: $6.16",
-        "Iran war premium",
-        "oil above $100"
+        "Iran cyber ops",
+        "gas prices",
+        "infrastructure hack"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump Leaves Beijing 'Empty-Handed' After Xi Summit: Big Trip, Small Receipts",
-      "dek": "Trump flew to China with 16 top CEOs, got a 200-Boeing-jet order (half of what Wall Street expected), took a stroll through Zhongnanhai admiring Chinese roses, and left with no deal on Iran, tariffs, or Taiwan. The market's 1%+ selloff on Friday was Wall Street's polite way of saying the vibe did not match the invoice.",
-      "url": "https://www.ms.now/rachel-maddow-show/maddowblog/trump-xi-china-trip-iran-taiwan-declining-nation",
-      "source": "MSNBC"
+      "hed": "Trump is trapped by his own Iran war strategy and nobody knows how it ends",
+      "dek": "CNN reports Trump is 'trapped by his own strategy' as he grapples for an exit from a war with no clear endgame, stalled peace talks, $109 oil, and a Strait of Hormuz that has been closed for 79 days. Even the guy who wrote 'The Art of the Deal' cannot deal his way out of this one.",
+      "url": "https://www.cnn.com/politics",
+      "source": "CNN",
+      "chips": [
+        "no exit strategy",
+        "Hormuz blockade",
+        "inflation spiral"
+      ]
     }
   ],
   "markets": {
@@ -130,52 +131,52 @@
       "dir": "down"
     },
     "wti": {
-      "val": "$104",
-      "chg": "+2.6%",
+      "val": "$105",
+      "chg": "+4.5%",
       "dir": "up"
     },
     "brent": {
-      "val": "$108",
-      "chg": "+2.4%",
+      "val": "$109",
+      "chg": "+3.4%",
       "dir": "up"
     },
     "gold": {
-      "val": "$4,483",
-      "chg": "-2.7%",
+      "val": "$4,562",
+      "chg": "-2.6%",
       "dir": "down"
     },
     "btc": {
-      "val": "$79,080",
-      "chg": "-2.9%",
+      "val": "$77,905",
+      "chg": "-1.5%",
       "dir": "down"
     },
-    "context": "Stocks fell sharply Friday as Iran war inflation fears, rising Treasury yields hitting 4.55%, and a disappointing Trump-Xi summit with no breakthroughs sent investors fleeing tech and into energy.",
-    "url": "https://www.cnbc.com/amp/2026/05/14/stock-market-today-live-updates.html",
+    "context": "Stocks fell sharply Friday as Iran peace talks collapsed after the Trump-Xi summit, sending oil above $109/bbl and Treasury yields to one-year highs, triggering a broad tech selloff.",
+    "url": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
     "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.53",
-    "note": "Filling up your tank now costs more than a reasonable dinner for two — the Iran war says you're welcome.",
-    "premium": "$5.37",
-    "wti": "$104",
-    "highState": "CA: $6.16",
+    "avg": "$4.52",
+    "note": "At $4.52 a gallon, filling up a tank now costs roughly the same as your first month of therapy — which you will need.",
+    "premium": "$5.10",
+    "wti": "$105",
+    "highState": "CA: $6.14",
     "lowState": "OK: $3.94",
-    "url": "https://gasprices.aaa.com/",
+    "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Euphoria Season 3 Finale Confirmed as Longest Episode in HBO History at 93 Minutes — Topping Game of Thrones",
-    "dek": "With only three episodes left before the May 31 finale, HBO confirmed the Euphoria Season 3 closer will run a record-shattering 93 minutes, surpassing Game of Thrones' 'The Long Night.' Zendaya has already hinted this is the series finale, so Sam Levinson apparently needs every single one of those 93 minutes to wrap up whatever is happening in adult Rue's life.",
-    "url": "https://www.justjared.com/2026/05/11/euphoria-season-3-finale-runtime-revealed-breaks-hbo-record-for-longest-episode/",
-    "source": "Just Jared"
+    "hed": "Will Ferrell plays Epstein's ghost haunting Trump in SNL Season 51 finale, with Paul McCartney closing the show",
+    "dek": "SNL ended its 51st season with Will Ferrell as a chain-rattling Epstein apparition visiting a napping Trump fresh off his China trip — they sang 'Just the Two of Us' together, which is a sentence that exists now. Paul McCartney then closed the whole thing out with an encore, because nothing follows a Epstein sketch like a Beatle.",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/will-ferrell-epstein-saturday-night-live-season-51-finale-1236597858/",
+    "source": "Hollywood Reporter"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "No You Don't Get to Ask Questions",
-    "definition": "A TikTok trend built around playful defensiveness where creators show themselves doing something clearly questionable and shut down any attempt at explanation with the line 'no, you don't get to ask questions.' The humor comes from the tension of something being obviously wrong but completely unaddressed, which in May 2026 feels deeply relatable.",
-    "usage": "Trump leaving the Beijing summit with 200 Boeing jets instead of the 500 Wall Street expected: 'No, you don't get to ask questions.'",
-    "url": "https://www.ramd.am/blog/trends-tiktok",
-    "source": "Ramdam TikTok Trends"
+    "term": "Bangaranga challenge",
+    "definition": "Following Bulgaria's shock Eurovision 2026 win with Dara's 'Bangaranga,' TikTok lit up overnight with users recreating the song's intense choreography and posting their own versions. The song's chaotic club-banger energy and the phrase 'Welcome to the riot!' became instant meme fodder across every platform.",
+    "usage": "When the Dow drops 537 points but you still have to act fine at brunch: *Bangaranga dance commences*",
+    "url": "",
+    "source": ""
   },
-  "tldr": "The USS Gerald R. Ford came home from a record 326-day deployment today, but the Iran war it sailed into is still very much unresolved — Israel bombed Lebanon hours after a ceasefire extension, Iran's FM declared victory, and markets cratered on inflation fears. Meanwhile, a no-vaccine Ebola strain is spreading from Congo to Uganda, gas is $4.53 and climbing, and Euphoria's series finale is shaping up to be 93 minutes of Zendaya crying in HD."
+  "tldr": "Day 79 of the Iran war brought a drone strike on a UAE nuclear plant and collapsing peace talks, while oil stayed above $109 a barrel and stocks sold off hard. On the lighter side, Bulgaria shocked Eurovision, Napoleon Solo shocked the Preakness, and Will Ferrell shocked SNL viewers by playing Jeffrey Epstein's ghost — so truly something for everyone."
 }
