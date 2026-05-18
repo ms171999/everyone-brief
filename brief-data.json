@@ -1,182 +1,186 @@
 {
-  "date": "Sunday, May 17, 2026",
+  "date": "Monday, May 18, 2026",
   "headlines": [
     {
-      "text": "Drone strikes UAE nuclear plant as Iran war enters Day 79 with no peace deal in sight",
-      "tag": "💥"
+      "text": "Trump warns Iran: 'Clock is ticking' as ceasefire talks stall and drone hits UAE nuclear plant perimeter",
+      "tag": "🚨"
     },
     {
-      "text": "Bulgaria's Dara wins Eurovision 2026 with 'Bangaranga' in Vienna — biggest margin in contest history",
-      "tag": "🎤"
+      "text": "Iran submits response to US peace proposal via Pakistan mediator as Lebanon death toll tops 3,000",
+      "tag": "🕊️"
     },
     {
-      "text": "Napoleon Solo pulls off 10-1 upset to win 151st Preakness Stakes at Laurel Park",
-      "tag": "🐎"
+      "text": "Trump's Q1 stock disclosure shows 3,642 trades worth up to $750M — including Nvidia buys before chip export approval",
+      "tag": "💰"
     },
     {
-      "text": "SNL Season 51 finale: Will Ferrell plays Epstein's ghost haunting Trump; Paul McCartney closes the season",
-      "tag": "📺"
-    },
-    {
-      "text": "IDF kills Hamas Gaza military chief Izzadin El Haddad in precision airstrike",
-      "tag": "🎯"
-    },
-    {
-      "text": "Sen. Bill Cassidy loses Louisiana GOP primary to Trump-backed Julia Letlow",
+      "text": "Georgia primaries Tuesday will test Trump's grip on GOP as midterm redistricting wars heat up",
       "tag": "🗳️"
     },
     {
-      "text": "Israel and US reportedly preparing to renew Iran strikes as peace talks collapse",
-      "tag": "⚔️"
-    },
-    {
-      "text": "Gas prices hit $4.52 national average — up 53% since war started in February",
+      "text": "National average gas price hits $4.515 today — up 53% since start of Iran war in February",
       "tag": "⛽"
     },
     {
-      "text": "Stocks slide Friday as Dow falls 537 pts; oil tops $109/bbl on Hormuz fears",
+      "text": "Markets slip as 10-year Treasury yield hits year high; investors brace for Nvidia earnings Wednesday",
       "tag": "📉"
     },
     {
-      "text": "Alex Cooper of 'Call Her Daddy' announces pregnancy with husband Matt Kaplan",
-      "tag": "🍼"
+      "text": "Ebola outbreak in DRC and Uganda infects hundreds; CDC relocating small number of Americans affected",
+      "tag": "🦠"
+    },
+    {
+      "text": "Devil Wears Prada 2 crosses $445M worldwide; Michael Jackson biopic battles it for box office crown this weekend",
+      "tag": "🎬"
+    },
+    {
+      "text": "SpaceX 5-for-1 stock split expected to complete by May 22 as company eyes $1.75T valuation",
+      "tag": "🚀"
+    },
+    {
+      "text": "Senate parliamentarian blocks $1B White House security funding from budget bill",
+      "tag": "🏛️"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Drone strikes electrical generator at UAE Barakah Nuclear Plant; no radiation leak reported",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time"
+    "text": "LIVE: Iran submits updated peace proposal to US through Pakistan — White House reportedly calls it insufficient",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks"
   },
   "stories": [
     {
-      "tag": "iran war - day 79",
+      "tag": "iran war - day 80",
       "tagType": "fire",
-      "hed": "Drone hits UAE nuclear plant; Israel and US prep for renewed Iran strikes as talks collapse",
-      "dek": "A drone struck an electrical generator at the UAE Barakah Nuclear Power Plant today, because apparently the region was not spicy enough. Israel says it has hit 100 sites in Lebanon in two days despite a ceasefire — a word that has apparently lost all meaning.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/17/iran-war-live-tehran-eyes-tolls-in-hormuz-trump-warns-of-very-bad-time",
+      "hed": "Iran responds to US peace proposal, but White House calls it a swing and a miss",
+      "dek": "Iran submitted an updated ceasefire proposal to Washington via Pakistan, but the White House reportedly considers it insufficient — which is a very diplomatic way of saying both sides are still yelling past each other. Meanwhile Trump posted on Truth Social that Iran's clock is ticking, which historically is not how you close a peace deal.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks",
       "source": "Al Jazeera",
       "chips": [
-        "Hormuz still closed",
-        "Lebanon ceasefire fiction",
-        "US-Israel prepping strikes"
+        "ceasefire talks",
+        "UAE drone strike",
+        "Strait of Hormuz",
+        "Lebanon: 3,000+ dead"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Bulgaria's Dara wins Eurovision 2026 in Vienna with record-shattering 516 points",
-      "dek": "Dara and her club banger 'Bangaranga' swept both the jury and televote at the 70th Eurovision Song Contest — Bulgaria's first-ever win. Five countries boycotted over Israel's participation, ensuring no one could just enjoy the sparkly costumes in peace.",
-      "url": "https://www.nbcnews.com/world/europe/eurovision-song-contest-winner-bulgaria-2026-rcna345433",
-      "source": "NBC News",
+      "hed": "Drone strike ignites fire at UAE's Barakah nuclear plant perimeter; no group claims responsibility",
+      "dek": "A weekend drone strike hit an electrical generator on the perimeter of the UAE's only nuclear power plant, Barakah, adding a fresh layer of nuclear-adjacent anxiety to an already anxious region. The UAE has faced repeated Iranian drone and missile attacks since the war began in February.",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-monday-may-18-2026/",
+      "source": "Havana Times / Democracy Now",
       "chips": [
-        "Israel 2nd place",
-        "5 countries boycotted",
-        "Vienna 2026"
+        "UAE",
+        "nuclear plant",
+        "drone attack"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Sen. Bill Cassidy loses Louisiana Senate primary to Trump-backed Rep. Julia Letlow",
-      "dek": "Cassidy, one of seven GOP senators who voted to convict Trump after January 6, has now paid the price at the ballot box. The result cements Trump's grip on the Republican Party and his willingness to carry grudges across multiple election cycles.",
-      "url": "https://www.cbsnews.com/us-iran-tensions/",
-      "source": "CBS News",
+      "hed": "Trump's 3,642-trade Q1 disclosure raises eyebrows: Nvidia bought before chip export approval, market dip bought before war launch",
+      "dek": "New OGE filings show Trump's portfolio executed roughly 58 trades per trading day in Q1 2026, with a surge of buying in March — right after the Iran war sent the S&P 500 down 8%. The White House says a trust run by his sons made all the calls, which everyone is free to believe.",
+      "url": "https://www.cnbc.com/2026/05/15/trump-stock-trade-tech-oge.html",
+      "source": "CNBC",
       "chips": [
-        "2026 midterms",
-        "Trump revenge tour",
-        "Louisiana primary"
+        "insider trading scrutiny",
+        "Nvidia",
+        "ethics filing",
+        "stock ban push"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Iran suspected in hack of US gas station fuel-level monitoring systems",
-      "dek": "US officials suspect Iran hacked systems that display fuel levels at gas stations across several states, changing the displays but not the actual fuel. It is unclear whether this was sabotage or Iran simply trolling Americans who are already mad about $4.52 gas.",
-      "url": "https://www.timesofisrael.com/as-iran-talks-stall-israel-and-us-prepping-to-renew-war-as-soon-as-next-week-report/",
-      "source": "Times of Israel / CNN",
+      "hed": "Georgia and other states hold primaries Tuesday in first major midterm test of Trump's GOP control",
+      "dek": "Several states vote Tuesday with Georgia's House and Senate contests drawing the most attention as a gauge of Trump's grip on the Republican Party. A Louisiana primary over the weekend already showed what happens to Republicans who cross him.",
+      "url": "https://www.cnn.com/2026/05/18/us/5-things-to-know-for-may-18-prayer-event-trumps-new-warning-primaries-ebola-outbreak-severe-storms",
+      "source": "CNN",
       "chips": [
-        "Iran cyber ops",
-        "gas prices",
-        "infrastructure hack"
+        "Georgia primary",
+        "midterms",
+        "redistricting",
+        "Trump vs. GOP"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump is trapped by his own Iran war strategy and nobody knows how it ends",
-      "dek": "CNN reports Trump is 'trapped by his own strategy' as he grapples for an exit from a war with no clear endgame, stalled peace talks, $109 oil, and a Strait of Hormuz that has been closed for 79 days. Even the guy who wrote 'The Art of the Deal' cannot deal his way out of this one.",
-      "url": "https://www.cnn.com/politics",
+      "hed": "Taxpayer-funded Christian prayer rally on the National Mall: separation of church and state, but make it a weekend event",
+      "dek": "Thousands gathered Sunday on the National Mall for an all-day evangelical prayer event backed by Trump and funded partly by taxpayer dollars, reigniting the church-state debate. Legal experts CNN spoke with were split on constitutionality, which is the polite way of saying the lawyers are also arguing about this.",
+      "url": "https://www.cnn.com/2026/05/18/us/5-things-to-know-for-may-18-prayer-event-trumps-new-warning-primaries-ebola-outbreak-severe-storms",
       "source": "CNN",
       "chips": [
-        "no exit strategy",
-        "Hormuz blockade",
-        "inflation spiral"
+        "church and state",
+        "National Mall",
+        "Trump White House",
+        "First Amendment"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,408",
-      "chg": "-1.24%",
+      "val": "7,365",
+      "chg": "-0.59%",
       "dir": "down"
     },
     "dow": {
       "val": "49,526",
-      "chg": "-1.07%",
+      "chg": "-0.34%",
       "dir": "down"
     },
     "nasdaq": {
       "val": "26,225",
-      "chg": "-1.54%",
+      "chg": "-0.54%",
       "dir": "down"
     },
     "wti": {
-      "val": "$105",
-      "chg": "+4.5%",
+      "val": "$102",
+      "chg": "+0.9%",
       "dir": "up"
     },
     "brent": {
-      "val": "$109",
-      "chg": "+3.4%",
-      "dir": "up"
+      "val": "$108",
+      "chg": "-1.1%",
+      "dir": "down"
     },
     "gold": {
-      "val": "$4,562",
-      "chg": "-2.6%",
-      "dir": "down"
+      "val": "$4,549",
+      "chg": "+0.4%",
+      "dir": "up"
     },
     "btc": {
-      "val": "$77,905",
-      "chg": "-1.5%",
+      "val": "$76,803",
+      "chg": "-0.8%",
       "dir": "down"
     },
-    "context": "Stocks fell sharply Friday as Iran peace talks collapsed after the Trump-Xi summit, sending oil above $109/bbl and Treasury yields to one-year highs, triggering a broad tech selloff.",
-    "url": "https://www.cnbc.com/2026/05/14/stock-market-today-live-updates.html",
-    "source": "CNBC"
+    "context": "Markets are sliding as Trump's 'clock is ticking' Iran post, a UAE nuclear plant drone strike, and a 10-year Treasury yield at its highest in a year all reminded investors that geopolitics is still very much a thing.",
+    "url": "https://www.thestreet.com/latest-news/stock-market-today-may-18-2026-updates",
+    "source": "TheStreet"
   },
   "gas": {
-    "avg": "$4.52",
-    "note": "At $4.52 a gallon, filling up a tank now costs roughly the same as your first month of therapy — which you will need.",
-    "premium": "$5.10",
-    "wti": "$105",
-    "highState": "CA: $6.14",
+    "avg": "$4.515",
+    "note": "Filling up your tank now costs more than a sit-down lunch — thanks, Strait of Hormuz.",
+    "premium": "$5.07",
+    "wti": "$102",
+    "highState": "CA: $6.15",
     "lowState": "OK: $3.94",
-    "url": "https://gasprices.aaa.com",
+    "url": "https://gasprices.aaa.com/?state=US",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Will Ferrell plays Epstein's ghost haunting Trump in SNL Season 51 finale, with Paul McCartney closing the show",
-    "dek": "SNL ended its 51st season with Will Ferrell as a chain-rattling Epstein apparition visiting a napping Trump fresh off his China trip — they sang 'Just the Two of Us' together, which is a sentence that exists now. Paul McCartney then closed the whole thing out with an encore, because nothing follows a Epstein sketch like a Beatle.",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/will-ferrell-epstein-saturday-night-live-season-51-finale-1236597858/",
-    "source": "Hollywood Reporter"
+    "hed": "Devil Wears Prada 2 hits $445M worldwide while Michael Jackson biopic battles it for the May box office crown",
+    "dek": "Meryl Streep is once again running the world and the box office, with Prada 2 earning $41.6M in its second weekend and now sitting at $445M globally. The Michael Jackson biopic passed $604M worldwide and is fighting back this weekend — all while The Mandalorian and Grogu quietly prepares for its Memorial Day debut next week.",
+    "url": "https://deadline.com/2026/05/box-office-michael-devil-wears-prada-2-obsession-preview-1236905015/",
+    "source": "Deadline"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "Bangaranga challenge",
-    "definition": "Following Bulgaria's shock Eurovision 2026 win with Dara's 'Bangaranga,' TikTok lit up overnight with users recreating the song's intense choreography and posting their own versions. The song's chaotic club-banger energy and the phrase 'Welcome to the riot!' became instant meme fodder across every platform.",
-    "usage": "When the Dow drops 537 points but you still have to act fine at brunch: *Bangaranga dance commences*",
-    "url": "",
-    "source": ""
+    "term": "and Emily... that's all",
+    "definition": "A viral TikTok trend using the iconic Miranda Priestly line from Devil Wears Prada to contrast two things — one polished and correct, one chaotic and wrong. It blew up this week riding the massive success of Devil Wears Prada 2 at the box office, with everyone from dog owners to college students using it to deliver subtle judgment.",
+    "usage": "Iran's updated peace proposal: the one with war reparations demands and a Strait of Hormuz blockade lifted... and the one the White House actually accepted... that's all.",
+    "url": "https://www.ramd.am/blog/trends-tiktok",
+    "source": "Ramdam TikTok Trends"
   },
-  "tldr": "Day 79 of the Iran war brought a drone strike on a UAE nuclear plant and collapsing peace talks, while oil stayed above $109 a barrel and stocks sold off hard. On the lighter side, Bulgaria shocked Eurovision, Napoleon Solo shocked the Preakness, and Will Ferrell shocked SNL viewers by playing Jeffrey Epstein's ghost — so truly something for everyone."
+  "tldr": "Day 80 of the Iran war: talks are happening through Pakistan but nobody is happy about the terms, and a drone hit a nuclear plant in the UAE just to keep things spicy. At home, Trump's stock disclosure showing 3,642 trades and suspiciously well-timed Nvidia buys is the most interesting financial document since the last interesting financial document."
 }
