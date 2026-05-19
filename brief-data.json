@@ -1,186 +1,185 @@
 {
-  "date": "Monday, May 18, 2026",
+  "date": "Tuesday, May 19, 2026",
   "headlines": [
     {
-      "text": "Trump warns Iran: 'Clock is ticking' as ceasefire talks stall and drone hits UAE nuclear plant perimeter",
-      "tag": "🚨"
+      "text": "Trump calls off Iran strike at last minute, says Gulf leaders asked him to 'hold off' as negotiations continue",
+      "tag": "💣"
     },
     {
-      "text": "Iran submits response to US peace proposal via Pakistan mediator as Lebanon death toll tops 3,000",
-      "tag": "🕊️"
-    },
-    {
-      "text": "Trump's Q1 stock disclosure shows 3,642 trades worth up to $750M — including Nvidia buys before chip export approval",
-      "tag": "💰"
-    },
-    {
-      "text": "Georgia primaries Tuesday will test Trump's grip on GOP as midterm redistricting wars heat up",
+      "text": "Six states hold primaries today in biggest midterm election day of 2026 -- Trump's grip on GOP tested in Kentucky",
       "tag": "🗳️"
     },
     {
-      "text": "National average gas price hits $4.515 today — up 53% since start of Iran war in February",
-      "tag": "⛽"
+      "text": "Iran submits new peace proposal; White House says it falls short, calls it 'not a meaningful improvement'",
+      "tag": "🕊️"
     },
     {
-      "text": "Markets slip as 10-year Treasury yield hits year high; investors brace for Nvidia earnings Wednesday",
-      "tag": "📉"
+      "text": "Sandy Fire in Simi Valley scorches 1,386 acres, forces evacuations, closes schools -- only 5% contained",
+      "tag": "🔥"
     },
     {
-      "text": "Ebola outbreak in DRC and Uganda infects hundreds; CDC relocating small number of Americans affected",
+      "text": "30-year Treasury yield hits 5.198%, highest in nearly 19 years, rattling bond markets and equity bulls",
+      "tag": "📈"
+    },
+    {
+      "text": "San Diego mosque shooting kills 3; nation grapples with rising anti-Muslim hate crimes",
+      "tag": "🕌"
+    },
+    {
+      "text": "Ebola outbreak in DRC and Uganda tops 130 deaths; WHO declares public health emergency of international concern",
       "tag": "🦠"
     },
     {
-      "text": "Devil Wears Prada 2 crosses $445M worldwide; Michael Jackson biopic battles it for box office crown this weekend",
-      "tag": "🎬"
+      "text": "Stephen Colbert's final week: Jon Stewart visits tonight as Late Show counts down to Thursday's series finale",
+      "tag": "🎙️"
     },
     {
-      "text": "SpaceX 5-for-1 stock split expected to complete by May 22 as company eyes $1.75T valuation",
-      "tag": "🚀"
-    },
-    {
-      "text": "Senate parliamentarian blocks $1B White House security funding from budget bill",
+      "text": "Trump-backed candidate Ed Gallrein challenges Rep. Thomas Massie in most expensive House primary in history",
       "tag": "🏛️"
+    },
+    {
+      "text": "Gas prices hit $4.53 nationally -- up 44% year-over-year -- as Iran war squeezes global oil supply",
+      "tag": "⛽"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "LIVE: Iran submits updated peace proposal to US through Pakistan — White House reportedly calls it insufficient",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks"
+    "text": "Trump says he called off a 'very major attack' on Iran scheduled for today at the request of Qatar, Saudi Arabia, and UAE leaders",
+    "url": "https://www.axios.com/2026/05/19/trump-iran-attack-postponed"
   },
   "stories": [
     {
-      "tag": "iran war - day 80",
+      "tag": "iran war - day 81",
       "tagType": "fire",
-      "hed": "Iran responds to US peace proposal, but White House calls it a swing and a miss",
-      "dek": "Iran submitted an updated ceasefire proposal to Washington via Pakistan, but the White House reportedly considers it insufficient — which is a very diplomatic way of saying both sides are still yelling past each other. Meanwhile Trump posted on Truth Social that Iran's clock is ticking, which historically is not how you close a peace deal.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/18/iran-war-live-trump-warns-clock-ticking-saudi-uae-report-drone-attacks",
-      "source": "Al Jazeera",
+      "hed": "Trump Cancels Tuesday Iran Strike, Says Gulf Leaders Begged Him to Chill",
+      "dek": "Trump revealed he had a massive attack on Iran locked and loaded for today, then called it off because the leaders of Qatar, Saudi Arabia, and UAE asked nicely. Iran meanwhile submitted a peace proposal so underwhelming the White House reportedly rolled their eyes so hard it was audible.",
+      "url": "https://www.axios.com/2026/05/19/thomas-massie-trump-republican-primary",
+      "source": "Axios",
       "chips": [
         "ceasefire talks",
-        "UAE drone strike",
         "Strait of Hormuz",
-        "Lebanon: 3,000+ dead"
+        "Gulf diplomacy"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Drone strike ignites fire at UAE's Barakah nuclear plant perimeter; no group claims responsibility",
-      "dek": "A weekend drone strike hit an electrical generator on the perimeter of the UAE's only nuclear power plant, Barakah, adding a fresh layer of nuclear-adjacent anxiety to an already anxious region. The UAE has faced repeated Iranian drone and missile attacks since the war began in February.",
-      "url": "https://havanatimes.org/news/international-news-briefs-for-monday-may-18-2026/",
-      "source": "Havana Times / Democracy Now",
+      "hed": "Ebola Tops 130 Dead in DRC and Uganda as WHO Declares Global Emergency",
+      "dek": "The World Health Organization declared the Ebola outbreak in the Democratic Republic of Congo and Uganda a public health emergency of international concern. Experts worry USAID cuts may have hampered early response capacity.",
+      "url": "https://www.democracynow.org/2026/5/19/headlines",
+      "source": "Democracy Now",
       "chips": [
-        "UAE",
-        "nuclear plant",
-        "drone attack"
+        "Ebola",
+        "WHO",
+        "DRC",
+        "Uganda"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Trump's 3,642-trade Q1 disclosure raises eyebrows: Nvidia bought before chip export approval, market dip bought before war launch",
-      "dek": "New OGE filings show Trump's portfolio executed roughly 58 trades per trading day in Q1 2026, with a surge of buying in March — right after the Iran war sent the S&P 500 down 8%. The White House says a trust run by his sons made all the calls, which everyone is free to believe.",
-      "url": "https://www.cnbc.com/2026/05/15/trump-stock-trade-tech-oge.html",
-      "source": "CNBC",
+      "hed": "Super Tuesday of the Midterms: Six States Vote as Trump Tests Loyalty Machine",
+      "dek": "Alabama, Georgia, Idaho, Kentucky, Oregon, and Pennsylvania are all holding primaries today in the most consequential midterm election day of 2026. The marquee race is Kentucky, where Trump is spending $32 million to kneecap libertarian-leaning Rep. Thomas Massie.",
+      "url": "https://www.npr.org/2026/05/18/g-s1-122235/primary-day-alabama-georgia-idaho-kentucky-oregon-pennsylvania",
+      "source": "NPR",
       "chips": [
-        "insider trading scrutiny",
-        "Nvidia",
-        "ethics filing",
-        "stock ban push"
-      ]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Georgia and other states hold primaries Tuesday in first major midterm test of Trump's GOP control",
-      "dek": "Several states vote Tuesday with Georgia's House and Senate contests drawing the most attention as a gauge of Trump's grip on the Republican Party. A Louisiana primary over the weekend already showed what happens to Republicans who cross him.",
-      "url": "https://www.cnn.com/2026/05/18/us/5-things-to-know-for-may-18-prayer-event-trumps-new-warning-primaries-ebola-outbreak-severe-storms",
-      "source": "CNN",
-      "chips": [
-        "Georgia primary",
         "midterms",
-        "redistricting",
-        "Trump vs. GOP"
+        "Thomas Massie",
+        "Kentucky",
+        "Trump"
+      ]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Sandy Fire Burns 1,386 Acres in Simi Valley, Triggering Evacuations Across Ventura and LA Counties",
+      "dek": "A fast-moving brush fire sparked by a tractor hitting a rock has scorched nearly 1,400 acres in Simi Valley and is just 5% contained. Schools are closed, evacuation orders are in place, and air quality is deteriorating as far as Malibu and Calabasas.",
+      "url": "https://abc7.com/live-updates/sandy-fire-simi-valley-several-structures-burned-184-acres-scorched/19125501/",
+      "source": "ABC7 Los Angeles",
+      "chips": [
+        "wildfire",
+        "Simi Valley",
+        "California",
+        "evacuation"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Taxpayer-funded Christian prayer rally on the National Mall: separation of church and state, but make it a weekend event",
-      "dek": "Thousands gathered Sunday on the National Mall for an all-day evangelical prayer event backed by Trump and funded partly by taxpayer dollars, reigniting the church-state debate. Legal experts CNN spoke with were split on constitutionality, which is the polite way of saying the lawyers are also arguing about this.",
-      "url": "https://www.cnn.com/2026/05/18/us/5-things-to-know-for-may-18-prayer-event-trumps-new-warning-primaries-ebola-outbreak-severe-storms",
-      "source": "CNN",
+      "hed": "Report: A Trump-Linked Account Was Buying Oil, Defense, and Gold While Trump Insisted the Iran War Would End 'Soon'",
+      "dek": "Fortune reports that while Trump publicly promised peace was around the corner, an account tied to his name was quietly loading up on oil, defense, and gold -- the holy trinity of war profiteering. Nothing says 'ceasefire incoming' like a timely commodities haul.",
+      "url": "https://fortune.com/article/current-price-of-gold-05-19-2026/",
+      "source": "Fortune",
       "chips": [
-        "church and state",
-        "National Mall",
-        "Trump White House",
-        "First Amendment"
+        "conflict of interest",
+        "Trump finances",
+        "Iran war"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,365",
-      "chg": "-0.59%",
+      "val": "7,351",
+      "chg": "-0.7%",
       "dir": "down"
     },
     "dow": {
-      "val": "49,526",
-      "chg": "-0.34%",
+      "val": "49,441",
+      "chg": "-0.5%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "26,225",
-      "chg": "-0.54%",
-      "dir": "down"
-    },
-    "wti": {
-      "val": "$102",
-      "chg": "+0.9%",
-      "dir": "up"
-    },
-    "brent": {
-      "val": "$108",
+      "val": "25,908",
       "chg": "-1.1%",
       "dir": "down"
     },
+    "wti": {
+      "val": "$103",
+      "chg": "-1.4%",
+      "dir": "down"
+    },
+    "brent": {
+      "val": "$111",
+      "chg": "-1.0%",
+      "dir": "down"
+    },
     "gold": {
-      "val": "$4,549",
-      "chg": "+0.4%",
+      "val": "$4,539",
+      "chg": "+0.04%",
       "dir": "up"
     },
     "btc": {
-      "val": "$76,803",
-      "chg": "-0.8%",
+      "val": "$76,768",
+      "chg": "-0.2%",
       "dir": "down"
     },
-    "context": "Markets are sliding as Trump's 'clock is ticking' Iran post, a UAE nuclear plant drone strike, and a 10-year Treasury yield at its highest in a year all reminded investors that geopolitics is still very much a thing.",
-    "url": "https://www.thestreet.com/latest-news/stock-market-today-may-18-2026-updates",
-    "source": "TheStreet"
+    "context": "Stocks fell for a third straight session as the 30-year Treasury yield hit a 19-year high of 5.198%, with bond market stress and Iran war uncertainty outweighing relief from Trump canceling today's planned Iran strike.",
+    "url": "https://www.cnbc.com/2026/05/18/stock-market-today-live-updates.html",
+    "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.515",
-    "note": "Filling up your tank now costs more than a sit-down lunch — thanks, Strait of Hormuz.",
-    "premium": "$5.07",
-    "wti": "$102",
+    "avg": "$4.53",
+    "note": "Gas is up 44% year-over-year, which is a great way to reconsider your entire life plan every time you pull up to a pump.",
+    "premium": "$5.10",
+    "wti": "$103",
     "highState": "CA: $6.15",
     "lowState": "OK: $3.94",
-    "url": "https://gasprices.aaa.com/?state=US",
+    "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Devil Wears Prada 2 hits $445M worldwide while Michael Jackson biopic battles it for the May box office crown",
-    "dek": "Meryl Streep is once again running the world and the box office, with Prada 2 earning $41.6M in its second weekend and now sitting at $445M globally. The Michael Jackson biopic passed $604M worldwide and is fighting back this weekend — all while The Mandalorian and Grogu quietly prepares for its Memorial Day debut next week.",
-    "url": "https://deadline.com/2026/05/box-office-michael-devil-wears-prada-2-obsession-preview-1236905015/",
+    "hed": "Stephen Colbert's Final Week: Jon Stewart Visits Tonight, Springsteen Performs Wednesday, Finale Thursday",
+    "dek": "The Late Show with Stephen Colbert is airing its last episodes this week before CBS retires the 33-year franchise entirely on May 21. Tonight features Jon Stewart and Steven Spielberg, with a David Byrne performance -- because if you're going out, you might as well go out dancing.",
+    "url": "https://deadline.com/2026/05/late-show-with-stephen-colbert-final-week-guests-1236906782/",
     "source": "Deadline"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "and Emily... that's all",
-    "definition": "A viral TikTok trend using the iconic Miranda Priestly line from Devil Wears Prada to contrast two things — one polished and correct, one chaotic and wrong. It blew up this week riding the massive success of Devil Wears Prada 2 at the box office, with everyone from dog owners to college students using it to deliver subtle judgment.",
-    "usage": "Iran's updated peace proposal: the one with war reparations demands and a Strait of Hormuz blockade lifted... and the one the White House actually accepted... that's all.",
+    "term": "Devil Wears Prada 'and Emily... that's all' trend",
+    "definition": "Inspired by the massive box office success of Devil Wears Prada 2 and its viral Miranda Priestly energy, TikTokers are flooding feeds with the 'and Emily... that's all' format -- filming two contrasting shots to deliver subtle, devastating judgment. It's the most passive-aggressive meme of the year and people are absolutely obsessed.",
+    "usage": "POV: Trump calling off the Iran strike // POV: Trump's account buying oil futures at the same time -- 'and Emily... that's all.'",
     "url": "https://www.ramd.am/blog/trends-tiktok",
     "source": "Ramdam TikTok Trends"
   },
-  "tldr": "Day 80 of the Iran war: talks are happening through Pakistan but nobody is happy about the terms, and a drone hit a nuclear plant in the UAE just to keep things spicy. At home, Trump's stock disclosure showing 3,642 trades and suspiciously well-timed Nvidia buys is the most interesting financial document since the last interesting financial document."
+  "tldr": "Trump called off a planned Iran strike today at the last minute after Gulf leaders intervened, while Iran's new peace proposal landed with all the enthusiasm of a participation trophy. Back home, six states are voting in the biggest midterm primary day of 2026 and Wall Street is having its worst stretch in months, apparently unimpressed by the diplomatic progress."
 }
