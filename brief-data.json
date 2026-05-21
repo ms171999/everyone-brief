@@ -1,162 +1,182 @@
 {
-  "date": "Wednesday, May 20, 2026",
+  "date": "Thursday, May 21, 2026",
   "headlines": [
     {
-      "text": "Trump says US may strike Iran 'even harder' but prefers a deal as ceasefire holds by a thread",
+      "text": "Stephen Colbert signs off tonight in final Late Show broadcast after CBS cancellation",
+      "tag": "📺"
+    },
+    {
+      "text": "Iran reviews US peace proposal as Trump warns deal must come in 'a few days or it goes very quickly'",
       "tag": "💣"
     },
     {
-      "text": "All 50 states now average above $4/gallon for gas; national average hits $4.56",
+      "text": "SpaceX files S-1 for what could be the largest IPO in history, targeting up to $2 trillion valuation",
+      "tag": "🚀"
+    },
+    {
+      "text": "Memorial Day gas prices hit four-year highs at $4.56/gal as Strait of Hormuz stays closed",
       "tag": "⛽"
     },
     {
-      "text": "DOJ grants Trump, family, and businesses immunity from tax inquiries in 'lawfare' settlement",
-      "tag": "⚖️"
+      "text": "Stocks slide as oil tops $101 and Treasury yields climb; Nvidia earnings fail to lift markets",
+      "tag": "📉"
     },
     {
-      "text": "Senate votes 50-47 to advance resolution limiting Trump's war powers on Iran",
-      "tag": "🏛️"
-    },
-    {
-      "text": "Nvidia reports Q1 FY2027 earnings after bell today; Wall Street expects $79.2B revenue",
+      "text": "Meta lays off 8,000 workers — 10% of staff — and reassigns thousands more to AI roles",
       "tag": "🤖"
     },
     {
-      "text": "Xi Jinping welcomes Putin in Beijing days after Trump's visit — China plays both sides",
-      "tag": "🌏"
+      "text": "Iran announces 'Controlled Maritime Zone' in Strait of Hormuz as diplomatic clock ticks",
+      "tag": "🛢️"
     },
     {
-      "text": "Trump ousts Rep. Thomas Massie in Kentucky primary via hand-picked challenger Ed Gallrein",
+      "text": "Colorado Gov. Polis censured by state Democratic Party for freeing election denier Tina Peters",
       "tag": "🗳️"
     },
     {
-      "text": "Drake drops three albums simultaneously — ICEMAN becomes most-streamed album in a day on Spotify",
-      "tag": "🎵"
+      "text": "SpaceX Starship Flight 12 set for 6:30 PM ET launch from Texas — biggest rocket ever built",
+      "tag": "🛸"
     },
     {
-      "text": "WHO raises alarm over rare Ebola strain spreading in Congo; 134 suspected deaths, 500+ cases",
-      "tag": "🦠"
-    },
-    {
-      "text": "Stocks rally Wednesday as oil tumbles 6% on Iran deal optimism ahead of Nvidia earnings",
-      "tag": "📈"
+      "text": "The Mandalorian and Grogu hits theaters tomorrow as first Star Wars film since 2019",
+      "tag": "⭐"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Iran's chief negotiator accuses US of 'overt and clandestine movements' signaling new attack as Trump says deal in 'final stages'",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes"
+    "text": "TONIGHT: Stephen Colbert airs his final Late Show at 11:35 PM ET — both Jimmy Fallon and Jimmy Kimmel are going dark in solidarity.",
+    "url": "https://www.today.com/popculture/tv/last-episode-late-show-stephen-colbert-rcna344758"
   },
   "stories": [
     {
-      "tag": "iran war - day 82",
+      "tag": "iran war - day 83",
       "tagType": "fire",
-      "hed": "Trump Says Deal Is in 'Final Stages' — Iran Says He's Lying and Loading Missiles",
-      "dek": "Trump told reporters the Iran deal is nearly done while simultaneously threatening to strike 'even harder.' Iran's chief negotiator called US moves 'overt and clandestine,' which is diplomatese for 'we see you warming up the jets.' Meanwhile two Chinese tankers quietly slipped through the Strait of Hormuz with 4 million barrels of Iraqi crude, because commerce waits for no ceasefire.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/20/iran-war-live-tehran-warns-of-many-more-surprises-if-conflict-resumes",
+      "hed": "Iran Reviews US Peace Proposal, IRGC Claims Hormuz Control, Trump Says Clock Is Ticking",
+      "dek": "Pakistan is still playing diplomatic matchmaker between Washington and Tehran, passing notes like it's seventh grade. Iran says it will 'downblend' its own enriched uranium, which is the diplomatic equivalent of 'we'll clean our own room, thanks.' Trump gave them two to three days, which in Iran-war time is basically a geological epoch.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/21/iran-war-live-tehran-says-no-surrender-to-us-diplomacy-wiser-than-war",
       "source": "Al Jazeera",
       "chips": [
-        "ceasefire talks",
-        "Strait of Hormuz",
-        "Trump war powers"
+        "Hormuz Standoff",
+        "Pakistan Mediation",
+        "Nuclear Uranium Dispute"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Putin Flies to Beijing Right After Trump Left — Xi Is Running the World's Busiest Guest Room",
-      "dek": "Russian President Vladimir Putin arrived in Beijing Wednesday for a meeting with Xi Jinping meant to reaffirm ties, just days after Trump made his own visit to China. Xi is apparently the one world leader everyone needs a meeting with in 2026, and he is not complaining about it.",
-      "url": "https://www.npr.org/sections/news",
-      "source": "NPR"
+      "hed": "USS Nimitz Arrives in Southern Caribbean as Cuba Promises 'Fierce Resistance'",
+      "dek": "The US sent its aircraft carrier to hover near Cuba as a 'show of force,' while Secretary Rubio offered $100 million in food and medicine — a classic stick-and-carrot combo, if the carrot is delivered by an aircraft carrier. Cuba responded by promising fierce resistance, which tracks.",
+      "url": "https://www.justsecurity.org/139509/early-edition-may-21-2026/",
+      "source": "Just Security",
+      "chips": [
+        "Cuba",
+        "USS Nimitz",
+        "Rubio"
+      ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "DOJ Settles 'Lawfare' Case by Permanently Barring IRS From Examining Trump's Taxes",
-      "dek": "As part of a deal that also created a $1.8 billion 'anti-weaponization' compensation fund, the Justice Department has agreed that the US is 'forever barred and precluded' from examining or prosecuting Trump and his family's tax issues. The provision was quietly inserted as a supplement to the main agreement, which is one way to do things.",
-      "url": "https://www.golocalprov.com/news/5-big-news-stories-overnight-wednesday-may-20-2026",
-      "source": "GoLocalProv / NYT"
+      "hed": "SpaceX Files Blockbuster IPO at Up to $2 Trillion Valuation — And Musk's Pay Is Tied to a Mars Colony",
+      "dek": "SpaceX dropped its S-1 and it is a document full of moon-shot promises, including the 'largest actionable total addressable market in human history' at $28.5 trillion. Musk's compensation package includes bonus shares if he colonizes Mars with at least one million people, which is either visionary or the most audacious severance package in corporate history.",
+      "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-has-arrived",
+      "source": "TechCrunch",
+      "chips": [
+        "SpaceX IPO",
+        "Starship",
+        "Musk"
+      ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Senate Advances War Powers Resolution on Iran 50-47 in Breakthrough for Democrats",
-      "dek": "The Senate voted to move forward with a resolution aimed at limiting Trump's authority to wage war in Iran — a first step that faces enormous hurdles, including a near-certain presidential veto. Democrats are treating a procedural vote as a moral victory, which is where we are in 2026.",
-      "url": "https://www.justsecurity.org/139417/early-edition-may-20-2026/",
-      "source": "Just Security / CBS News"
+      "hed": "Meta Cuts 8,000 Jobs and Moves Thousands to AI — Zuckerberg Says No More Layoffs This Year",
+      "dek": "Meta laid off roughly 10% of its workforce while simultaneously promising no more company-wide layoffs — a sentence that only makes sense if you are Mark Zuckerberg. The workers reassigned to AI initiatives were reportedly told their new jobs are to help build the AI that will eventually replace the remaining workers.",
+      "url": "https://www.justsecurity.org/139509/early-edition-may-21-2026/",
+      "source": "Just Security / WSJ",
+      "chips": [
+        "Meta Layoffs",
+        "AI Pivot",
+        "Zuckerberg"
+      ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "CFTC Is Probing a Suspicious Surge in Oil Futures Moments Before Trump Postponed Iran Strikes",
-      "dek": "The Commodity Futures Trading Commission is scrutinizing a spike in oil futures trading that occurred just before Trump announced a pause on strikes against Tehran's energy infrastructure in March. Someone knew something — or got very, very lucky — and the CFTC would like a word.",
-      "url": "https://www.justsecurity.org/139417/early-edition-may-20-2026/",
-      "source": "Just Security"
+      "hed": "CBS Canceled Colbert, So Tonight the Only Remaining Counterweight to Prime-Time Propaganda Goes Dark",
+      "dek": "CBS cited 'financial reasons' for canceling The Late Show, though Colbert himself noted the network's change of heart coincided with Trump's lawsuit pressure on Paramount. The replacement: Byron Allen's Comics Unleashed, which promises to be non-political and non-offensive — perfect for a country that is currently at war and paying $4.56 for gas.",
+      "url": "https://parade.com/tv/stephen-colbert-last-final-late-show-guide",
+      "source": "Parade",
+      "chips": [
+        "Colbert",
+        "CBS",
+        "Late Night RIP"
+      ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,401",
-      "chg": "+0.9%",
-      "dir": "up"
+      "val": "7,400",
+      "chg": "-0.44%",
+      "dir": "down"
     },
     "dow": {
-      "val": "49,915",
-      "chg": "+1.1%",
-      "dir": "up"
+      "val": "49,757",
+      "chg": "-0.51%",
+      "dir": "down"
     },
     "nasdaq": {
-      "val": "26,181",
-      "chg": "+1.2%",
-      "dir": "up"
+      "val": "28,114",
+      "chg": "-0.72%",
+      "dir": "down"
     },
     "wti": {
-      "val": "$97",
-      "chg": "-6%",
-      "dir": "down"
+      "val": "$101",
+      "chg": "+2.9%",
+      "dir": "up"
     },
     "brent": {
-      "val": "$104",
-      "chg": "-6%",
-      "dir": "down"
+      "val": "$107",
+      "chg": "+2.2%",
+      "dir": "up"
     },
     "gold": {
-      "val": "$4,477",
-      "chg": "-0.8%",
+      "val": "$4,515",
+      "chg": "-0.45%",
       "dir": "down"
     },
     "btc": {
-      "val": "$77,137",
-      "chg": "+0.4%",
-      "dir": "up"
+      "val": "$77,136",
+      "chg": "-0.38%",
+      "dir": "down"
     },
-    "context": "Stocks jumped and oil cratered Wednesday after Trump said Iran nuclear deal talks are in 'final stages,' while Nvidia earnings loom large after the bell.",
-    "url": "https://www.cnbc.com/2026/05/19/stock-market-today-live-updates.html",
-    "source": "CNBC"
+    "context": "Oil topping $101 reignited inflation fears and pushed Treasury yields higher, drowning out Nvidia's blockbuster earnings and dragging all major indices into the red.",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-21-2026",
+    "source": "TheStreet"
   },
   "gas": {
     "avg": "$4.56",
-    "note": "Gas is up 53% since the Iran war started — your wallet has filed for humanitarian relief.",
-    "premium": "$5.48",
-    "wti": "$97",
-    "highState": "CA: $6.15",
-    "lowState": "GA: $4.01",
-    "url": "https://gasprices.aaa.com/state-gas-price-averages/",
+    "note": "Gas is now $1.38 higher than a year ago — congrats on your Memorial Day road trip, enjoy the $180 fill-up.",
+    "premium": "$5.20",
+    "wti": "$101",
+    "highState": "CA: $6.14",
+    "lowState": "MS: $4.01",
+    "url": "https://gasprices.aaa.com/memorial-day-weekend-gas-prices-reach-four-year-highs/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Drake Drops Three Albums at Once — ICEMAN, Habibti, and Maid of Honour Hit Streaming on May 15",
-    "dek": "Drake released not one but three studio albums simultaneously on May 15, with ICEMAN becoming the most-streamed album in a single day in 2026 on Spotify. The rollout involved a 25-foot ice sculpture in Toronto that fans tried to break open with pickaxes and set on fire, which is either brilliant marketing or a sign that we have all gone completely feral.",
-    "url": "https://variety.com/2026/music/news/drake-releases-iceman-habibti-maid-of-honour-albums-1236749401/",
-    "source": "Variety"
+    "hed": "Colbert's Final Late Show Airs Tonight — Fallon and Kimmel Go Dark in Solidarity",
+    "dek": "After 11 years and a controversial cancellation by Paramount-owned CBS, Stephen Colbert takes his final bow at 11:35 PM ET tonight in what CBS is billing as an 'extended' episode. Bruce Springsteen already showed up Wednesday to torch the place on the way out, performing an anti-ICE anthem and directly blaming Trump for the cancellation — so the bar for tonight is set somewhere between a state funeral and a punk show.",
+    "url": "https://www.today.com/popculture/tv/last-episode-late-show-stephen-colbert-rcna344758",
+    "source": "TODAY"
   },
   "genZ": {
-    "type": "meme",
-    "term": "Iceman/Fireman cinematic universe",
-    "definition": "After Drake dropped ICEMAN on May 15, the internet immediately spawned a wave of AI-generated fake album covers and parody songs featuring Drake and Kendrick Lamar with titles following the '-man' suffix pattern, with Complex calling it a 'cinematic universe' of fake albums. Creators are flooding TikTok and X with tracklist parodies, fake rollout stunts, and AI vocal deepfakes of both rappers, making the meme ecosystem around the albums almost as entertaining as the actual music.",
-    "usage": "Trump postponing Iran strikes then threatening to strike 'even harder' is giving very much Iceman cinematic universe energy — the rollout keeps changing but the album might never drop.",
-    "url": "https://en.wikipedia.org/wiki/Iceman_(Drake_album)",
-    "source": "Wikipedia / Complex"
+    "type": "tiktok",
+    "term": "Devil Wears Prada Miranda Priestly 'and Emily... that's all' trend",
+    "definition": "Spawned by the massive box-office return of The Devil Wears Prada 2, TikTokers are using Miranda Priestly's icily dismissive 'and Emily... that's all' audio to film two contrasting shots — one polished and correct, one absolute chaos — as a subtle judgment format. It exploded this week after the sequel pulled in $43 million in its second weekend and Priestly-core energy saturated the FYP.",
+    "usage": "Iran reviewing the US peace proposal for the fifth day in a row: [shot of Iran's foreign ministry] 'and Emily...' [cut to Trump at Andrews giving a two-day deadline] 'that's all.'",
+    "url": "",
+    "source": ""
   },
-  "tldr": "Trump is simultaneously offering Iran a peace deal and threatening to bomb them harder, oil prices crashed 6% on ceasefire optimism, and Wall Street is holding its breath for Nvidia earnings after the bell. Meanwhile Drake released three albums at once, gas costs $4.56 a gallon, and the DOJ made sure nobody will ever look at Trump's taxes again — a busy Wednesday by any measure."
+  "tldr": "Iran is still reviewing a US peace proposal while Trump's clock ticks, oil is above $101, gas hit a four-year high at $4.56, and Stephen Colbert signs off tonight after CBS canceled the one late-night show that wasn't afraid to say what everyone was thinking. SpaceX filed for the biggest IPO in history and plans to colonize Mars, which at current gas prices might actually be the more affordable commute."
 }
