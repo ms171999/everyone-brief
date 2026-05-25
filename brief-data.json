@@ -1,117 +1,120 @@
 {
-  "date": "Sunday, May 24, 2026",
+  "date": "Monday, May 25, 2026",
   "headlines": [
     {
-      "text": "Trump says he won't 'rush into' Iran deal as GOP senators warn it could be a 'disastrous mistake'",
-      "tag": "🕊️"
+      "text": "Trump says Iran peace deal 'proceeding nicely' but no signing imminent as blockade holds",
+      "tag": "💣"
     },
     {
-      "text": "Gunman opens fire near White House checkpoint, killed by Secret Service — third incident in a month",
+      "text": "Gunman killed after opening fire at White House checkpoint; bystander wounded",
       "tag": "🚨"
     },
     {
-      "text": "ABC reporter Selina Wang's viral video of diving for cover during White House shooting viewed 3M+ times",
-      "tag": "📱"
+      "text": "Tulsi Gabbard resigns as DNI to care for husband battling rare bone cancer",
+      "tag": "🏛️"
     },
     {
-      "text": "Rubio says 'significant progress' made on Iran peace framework, Strait of Hormuz partially reopening",
-      "tag": "🛳️"
+      "text": "Mandalorian & Grogu hauls in $100M domestic over Memorial Day — Disney's lowest Star Wars opening ever",
+      "tag": "🎬"
     },
     {
-      "text": "Memorial Day gas prices hit four-year high at $4.56/gal as Iran war keeps Strait of Hormuz choked",
-      "tag": "⛽"
-    },
-    {
-      "text": "Star Wars: The Mandalorian and Grogu opens to $102M over Memorial Day — worst Star Wars debut since Solo",
-      "tag": "🌟"
-    },
-    {
-      "text": "Dow hits intraday all-time high as stocks post eighth straight winning week on Middle East peace hopes",
+      "text": "US markets closed for Memorial Day; stock futures rise on Iran deal optimism",
       "tag": "📈"
     },
     {
-      "text": "NYT publisher A.G. Sulzberger blasts Trump press attacks at Yale Law School, accuses outlets of caving",
-      "tag": "📰"
+      "text": "Gas prices hit four-year high at $4.51 national average over holiday weekend",
+      "tag": "⛽"
     },
     {
-      "text": "Trump admin overhauls green card policy — foreigners in US must now leave and apply from home country",
-      "tag": "🗂️"
+      "text": "WTI crude drops ~5% toward $91 as Iran deal hopes cool oil rally",
+      "tag": "🛢️"
     },
     {
-      "text": "SpaceX IPO confirmed, targeting $1.75 trillion Nasdaq valuation with debut expected June 12",
-      "tag": "🚀"
+      "text": "Iranian delegation in Qatar to hash out Hormuz and uranium disputes with US negotiators",
+      "tag": "🌍"
+    },
+    {
+      "text": "Stephen Colbert's Late Show airs final episode this week amid media merger chaos",
+      "tag": "📺"
+    },
+    {
+      "text": "European and Asian markets rally Monday on Iran peace talk momentum",
+      "tag": "🌐"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "THIRD SHOOTING NEAR WHITE HOUSE IN A MONTH: Gunman Nasire Best, 21, opens fire at Secret Service checkpoint on Pennsylvania Ave, killed by officers. Trump was inside.",
-    "url": "https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house"
+    "text": "Iran-US peace framework talks intensify: high-level Iranian delegation now in Qatar; WTI oil drops 5% on deal hopes",
+    "url": "https://www.cnn.com/2026/05/25/world/live-news/iran-war-us-peace-deal"
   },
   "stories": [
     {
-      "tag": "iran war - day 86",
+      "tag": "iran war - day 87",
       "tagType": "fire",
-      "hed": "Deal Is 'Largely Negotiated' — Subject to Finalization, Two Sides Agreeing, Iran's Supreme Leader, Congress, and Gravity Itself",
-      "dek": "Trump went from '50/50 chance of blowing them to kingdom come' on Saturday to 'time is on our side, no rush' on Sunday — a diplomatic whiplash measured in hours. Rubio, calling in from India, says there's been 'significant progress,' while GOP Sen. Tillis says the deal is 'doomed to fail' and Israel is privately furious it signals the Strait is Iran's new nuclear weapon.",
-      "url": "https://www.nbcnews.com/politics/politics-news/us-iran-officials-signal-progress-negotiations-fragile-ceasefire-war-rcna346636",
-      "source": "NBC News",
+      "hed": "Trump Says Iran Deal 'Proceeding Nicely,' Iran Says Not So Fast",
+      "dek": "The US and Iran are swapping proposals through Pakistani mediators like they're playing nuclear telephone, with sticking points including who controls the Strait of Hormuz, Iran's enriched uranium, and who blinks first. Trump is demanding Abraham Accords sign-ups as a bonus prize; Iran's foreign ministry is calling the agreement 'not imminent,' which is diplomatic for 'we haven't agreed to anything yet.'",
+      "url": "https://www.cnn.com/2026/05/25/world/live-news/iran-war-us-peace-deal",
+      "source": "CNN",
       "chips": [
         "Strait of Hormuz",
-        "Ceasefire",
-        "Nuclear talks",
-        "Rubio in India"
+        "Nuclear Program",
+        "Pakistan Mediators",
+        "Abraham Accords"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Iran's Supreme Leader Orders Enriched Uranium Stays Inside Iran, Complicating Core US Demand",
-      "dek": "Tehran's Supreme Leader is drawing a hard red line just as both sides were getting cozy over deal terms — insisting enriched uranium won't leave the country. That happens to be a central US requirement, so the 60-day nuclear negotiation window in the proposed framework is starting to look more like a 60-day countdown to something else.",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control/",
+      "hed": "Oil Slides 5% as Hormuz Deal Hopes Grow — But Brent Already Below $100",
+      "dek": "Global oil markets are betting the Strait of Hormuz might actually reopen, sending WTI crude tumbling toward $91 a barrel on Monday. European stocks surged 1.75% and Asian markets followed suit, while traders cautiously price in a deal that neither side has fully agreed to.",
+      "url": "https://tradingeconomics.com/commodity/crude-oil",
+      "source": "Trading Economics",
+      "chips": [
+        "WTI Crude",
+        "Brent Oil",
+        "Hormuz",
+        "Energy Markets"
+      ]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Gunman Killed at White House Checkpoint; Third Shooting Near Trump in a Month",
+      "dek": "21-year-old Nasire Best opened fire on a Secret Service booth at 17th and Pennsylvania Avenue Saturday evening before being fatally shot by officers; a bystander was also wounded. Court records show Best had twice previously tried to enter the White House and was ordered to stay away — someone really should have updated his contact list.",
+      "url": "https://www.cbsnews.com/live-updates/white-house-gun-shots-north-lawn/",
       "source": "CBS News",
       "chips": [
-        "Iran nuclear",
-        "Hormuz",
-        "Sanctions"
-      ]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Trump Administration Ends In-Country Green Card Renewals — Immigrants Must Return Home to Apply",
-      "dek": "In a Friday-afternoon policy grenade, the Trump administration announced that foreigners seeking green cards must leave the US and apply from their home countries, reversing a longstanding process that let people adjust status domestically. Millions of people who built lives here are now staring at a very inconvenient boarding pass.",
-      "url": "https://www.npr.org/sections/politics/",
-      "source": "NPR",
-      "chips": [
-        "Immigration",
-        "Green card",
-        "Trump policy"
-      ]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Third Shooting Near White House in a Month Raises Alarming Security Questions",
-      "dek": "A gunman opened fire at a Secret Service checkpoint at 17th St and Pennsylvania Ave on Saturday, wounding a bystander before being fatally shot — the third such incident in 30 days following the White House Correspondents' Dinner assassination attempt and a May 4 shooting near the Washington Monument. At this rate, Trump's security detail is putting in more overtime than his social media team.",
-      "url": "https://www.npr.org/2026/05/23/g-s1-124148/secret-service-shooting-white-house",
-      "source": "NPR",
-      "chips": [
         "Secret Service",
-        "White House security",
-        "Nasire Best"
+        "White House Security",
+        "Trump Safety"
+      ]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Tulsi Gabbard Out as DNI; Fourth Cabinet Woman to Exit Trump's Second Term",
+      "dek": "Director of National Intelligence Tulsi Gabbard resigned Friday, citing her husband Abraham's diagnosis with an extremely rare form of bone cancer, with her last day set for June 30. She is the fourth woman to leave Trump's cabinet this year, following Pam Bondi, Kristi Noem, and Lori Chavez-DeRemer — a pattern the White House has chosen not to comment on.",
+      "url": "https://www.foxnews.com/politics/exclusive-tulsi-gabbard-resigns-from-trump-cabinet",
+      "source": "Fox News",
+      "chips": [
+        "Trump Cabinet",
+        "DNI",
+        "Intelligence Community",
+        "Resignation"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "NYT Publisher Calls Out Media Outlets for Rolling Over — But Who Is He Really Talking To?",
-      "dek": "A.G. Sulzberger, speaking at Yale Law School, dropped a thinly veiled critique of outlets that settled Trump lawsuits, softened editorial stances, or adopted administration-friendly language to protect business interests. The speech was principled, the timing was pointed, and everyone in the room knew exactly which logos he was picturing.",
-      "url": "https://mediabiasfactcheck.com/2026/05/24/media-news-daily-top-stories-for-05-24-2026/",
-      "source": "Media Bias/Fact Check",
+      "hed": "An Iran Deal That Leaves the Nukes Unresolved May Be Almost as Divisive as the War Itself",
+      "dek": "CNN's analysis points out that Trump faces heat from hawks on the right (Lindsey Graham, Ted Cruz) for going too soft, and from Democrats for starting an unpopular war without Congressional approval in the first place. The proposed framework would reopen Hormuz and pause fighting but leave Iran's nuclear program 'largely unresolved' — which is exactly the kind of outcome that satisfies nobody and gets declared a win anyway.",
+      "url": "https://www.cnn.com/2026/05/25/politics/trump-iran-war-deal-analysis",
+      "source": "CNN Politics",
       "chips": [
-        "Press freedom",
-        "Trump media",
-        "NYT"
+        "Trump",
+        "Iran Deal",
+        "Congress",
+        "Nuclear"
       ]
     }
   ],
@@ -122,22 +125,22 @@
       "dir": "up"
     },
     "dow": {
-      "val": "50,579",
+      "val": "50,580",
       "chg": "+0.58%",
       "dir": "up"
     },
     "nasdaq": {
-      "val": "26,343",
+      "val": "26,344",
       "chg": "+0.19%",
       "dir": "up"
     },
     "wti": {
-      "val": "$96",
-      "chg": "-6.5%",
+      "val": "$91",
+      "chg": "-5.0%",
       "dir": "down"
     },
     "brent": {
-      "val": "$100",
+      "val": "$96",
       "chg": "-4.0%",
       "dir": "down"
     },
@@ -147,37 +150,37 @@
       "dir": "down"
     },
     "btc": {
-      "val": "$76,378",
-      "chg": "+1.25%",
+      "val": "$76,934",
+      "chg": "+0.38%",
       "dir": "up"
     },
-    "context": "Stocks hit eight straight winning weeks as Middle East peace optimism lifted sentiment, even as oil fell on hopes the Strait of Hormuz could reopen under a US-Iran deal.",
-    "url": "https://www.cnbc.com/2026/05/21/stock-market-today-live-updates.html",
-    "source": "CNBC"
+    "context": "US equity markets are closed for Memorial Day; Friday's last close showed stocks rising on Iran deal optimism while oil futures tumbled ~5% Monday on hopes the Strait of Hormuz may soon reopen.",
+    "url": "https://finance.yahoo.com/quote/%5EGSPC/",
+    "source": "Yahoo Finance"
   },
   "gas": {
-    "avg": "$4.56",
-    "note": "Filling your tank now costs more than a therapist copay — and unlike therapy, it provides zero peace of mind.",
-    "premium": "$5.20",
-    "wti": "$96",
-    "highState": "CA: $6.14",
-    "lowState": "MS: $4.01",
+    "avg": "$4.51",
+    "note": "Enjoy that Memorial Day road trip — your tank costs roughly $1.38 more per gallon than it did this time last year, courtesy of a war neither Congress nor your summer budget approved.",
+    "premium": "$5.15",
+    "wti": "$91",
+    "highState": "CA: $6.12",
+    "lowState": "OK: $3.98",
     "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Star Wars Returns: The Mandalorian and Grogu Opens to $102M Over Memorial Day — But Is It Enough?",
-    "dek": "The first Star Wars film in seven years blasted off with a $102M four-day Memorial Day haul, earning an A- CinemaScore with families and men over 55 — but analysts are mixed since it technically trails Solo: A Star Wars Story. Baby Yoda has 13 million toys sold and all the goodwill in the galaxy, which is doing more heavy lifting than the box office right now.",
+    "hed": "Mandalorian & Grogu Opens to $100M — Baby Yoda's Back, Critics Unmoved",
+    "dek": "The first Star Wars film in seven years pulled in $100M domestic and $163M globally over Memorial Day weekend, earning an A- CinemaScore from fans who clearly missed Baby Yoda more than critics did (62% RT vs 89% audience). It's Disney's lowest Star Wars opening in the modern era, but with a lean $165M budget and a galaxy of merchandise, the studio is choosing to call it a win.",
     "url": "https://variety.com/2026/film/box-office/mandalorian-and-grogu-box-office-opening-memorial-day-weekend-1236757827/",
     "source": "Variety"
   },
   "genZ": {
-    "type": "viral",
-    "term": "Selina Wang White House dive",
-    "definition": "ABC News correspondent Selina Wang's video of herself mid-iPhone selfie-report suddenly dropping to the ground as gunshots erupted outside the White House went viral with over 3 million views in hours. The clip captured the exact moment normal press-pool chaos became actual chaos, and the internet turned it into everything from memes to genuine terror.",
-    "usage": "When Trump announced the Iran deal was 'largely negotiated subject to finalization' it felt like the Selina Wang video — everything is fine, everything is fine, then the floor drops out.",
-    "url": "https://www.thewrap.com/media-platforms/journalism/white-house-gunshots-abc-news-video-selina-wang/",
-    "source": "The Wrap"
+    "type": "tiktok",
+    "term": "And Emily... that's all",
+    "definition": "A viral TikTok audio format resurrected by The Devil Wears Prada 2 hitting theaters May 1, where creators film two contrasting shots — one polished and correct, one chaotic and wrong — delivering a withering Miranda Priestly-style judgment. It has taken over FYPs in May 2026 as the defining vibe-contrast format of the summer, used for everything from makeup routines to roasting coworkers.",
+    "usage": "POV: Trump negotiating the Iran deal [polished shot: Rubio in a suit] vs. Trump posting 'DEAL OR MILITARY ACTION' on Truth Social at 11pm [chaotic shot] ...and Emily, that's all.",
+    "url": "https://newengen.com/insights/may-tiktok-trends/",
+    "source": "New Engen / TikTok Trends May 2026"
   },
-  "tldr": "Trump spent Memorial Day weekend simultaneously announcing an Iran peace deal is 'largely done' and saying there's 'no rush' to finish it, while a gunman was shot dead outside the White House for the third time in a month. Gas hit a four-year high at $4.56, the Dow hit an all-time high, Baby Yoda opened to $102M, and everyone online watched a reporter dive for cover — so, a perfectly normal American Sunday."
+  "tldr": "America celebrated Memorial Day with a shooting outside the White House, $4.51 gas, and Baby Yoda's underwhelming big-screen comeback — while diplomats in Qatar quietly tried to end a war that tanked all three. The Iran peace deal is close enough to crash oil prices but not close enough to actually exist yet, which pretty much sums up the whole spring."
 }
