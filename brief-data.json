@@ -1,187 +1,182 @@
 {
-  "date": "Tuesday, May 26, 2026",
+  "date": "Wednesday, May 27, 2026",
   "headlines": [
     {
-      "text": "US strikes Iranian missile sites and boats near Strait of Hormuz, calls it self-defense; IRGC says it downed a Reaper drone",
-      "tag": "💥"
+      "text": "Trump at Cabinet meeting: 'I don't care about the midterms' as Iran deal talks drag on",
+      "tag": "💣"
     },
     {
-      "text": "Iran nuclear deal stalls as Rubio says disputes over wording are holding up agreement",
-      "tag": "🤝"
+      "text": "White House calls Iranian state TV's draft peace memo a 'total fabrication'",
+      "tag": "🚫"
     },
     {
-      "text": "Russia fires 100+ drones and two ballistic missiles at Ukraine overnight; Kremlin warns of major Kyiv barrage",
-      "tag": "🚀"
+      "text": "Ken Paxton crushes John Cornyn by 28 points in Texas GOP Senate runoff, sets up November showdown",
+      "tag": "🤠"
     },
     {
-      "text": "Micron surges 18% as UBS triples price target; stock crosses $1 trillion market cap for first time",
+      "text": "Dow hits fresh record as oil tumbles on Iran deal hopes; S&P 500 and Nasdaq slip",
       "tag": "📈"
     },
     {
-      "text": "Gas prices hit four-year high at $4.56 national average for Memorial Day weekend",
+      "text": "National gas average hits $4.46 — up 54% since the Iran war began in late February",
       "tag": "⛽"
     },
     {
-      "text": "Stephen Colbert says goodbye: Late Show finale draws 6.74 million viewers with Paul McCartney as final guest",
-      "tag": "📺"
-    },
-    {
-      "text": "Euphoria Season 3 kills off Nate Jacobs in penultimate episode; finale set for May 31",
+      "text": "Euphoria Season 3 finale trailer drops — series widely expected to end on May 31",
       "tag": "🎬"
     },
     {
-      "text": "ActBlue in full meltdown: DOJ circling, most of board and all lawyers gone amid foreign donation probe",
-      "tag": "🔥"
+      "text": "Israel kills Mohammed Odeh, Hamas's newly appointed armed wing chief, in Gaza operation",
+      "tag": "🌍"
     },
     {
-      "text": "Iran internet partially restored after longest nationwide shutdown in modern history -- 88 days",
-      "tag": "📡"
-    },
-    {
-      "text": "Supreme Court voting rights ruling could cost 19 Black lawmakers their seats, Congressional Black Caucus warns",
+      "text": "Federal court blocks Alabama from using new congressional map, citing intentional racial discrimination",
       "tag": "⚖️"
+    },
+    {
+      "text": "Trump proposes government-wide NDA for all federal employees — OPM posts draft to Federal Register",
+      "tag": "📋"
+    },
+    {
+      "text": "Micron Technology extends its jaw-dropping rally; shares have tripled in 2026 on AI chip mania",
+      "tag": "💾"
     }
   ],
   "breaking": {
-    "show": true,
-    "text": "IRGC claims it shot down a US Reaper drone over Iranian airspace as peace talks continue in Doha",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/5/26/iran-war-live-israel-pounds-lebanon-iranian-officials-in-qatar-for-talks"
+    "show": false,
+    "text": "",
+    "url": ""
   },
   "stories": [
     {
-      "tag": "iran war - day 88",
+      "tag": "iran war - day 89",
       "tagType": "fire",
-      "hed": "US Strikes Iran, Iran Shoots Down Drone, Both Sides Still Technically Talking",
-      "dek": "The US military hit Iranian missile launch sites and mine-laying vessels near the Strait of Hormuz in what it called 'self-defense strikes,' while the IRGC responded by claiming it downed a US Reaper drone. Meanwhile, negotiators from Tehran are in Doha chatting with Qatari mediators about a peace deal -- because nothing says 'ceasefire' like simultaneous airstrikes and drone shootdowns.",
-      "url": "https://www.cnn.com/2026/05/25/world/live-news/iran-war-us-peace-deal",
+      "hed": "Trump Says He Won't Rush Iran Deal Because He Doesn't 'Care About the Midterms'",
+      "dek": "At a Cabinet meeting Wednesday, Trump warned Iran that 'outlasting' him won't work, while the White House called a leaked draft peace memo circulated by Iranian state TV a 'total fabrication.' Iran's top negotiator just got back from Qatar trying to unlock $24 billion in frozen assets, and the Strait of Hormuz remains partially shut — a detail everyone's wallet already knew.",
+      "url": "https://www.cnn.com/2026/05/27/world/live-news/iran-war-us-news",
       "source": "CNN",
       "chips": [
+        "ceasefire talks",
         "Strait of Hormuz",
-        "Doha talks",
-        "Rubio in India",
-        "IRGC drone claim"
+        "nuclear deal"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Russia Fires 100+ Drones at Ukraine Overnight, Warns Kyiv to Brace for Worse",
-      "dek": "Russia launched two Iskander-M ballistic missiles and 122 drones at Ukraine overnight, killing 6 and injuring over 100, while Moscow told foreign nationals to leave Kyiv ahead of threatened strikes on 'decision-making centers.' Lavrov called Rubio to suggest the US evacuate its Kyiv diplomats, which is either a courtesy or a threat depending on your mood.",
-      "url": "https://www.washingtontimes.com/news/2026/may/26/russia-maintains-strikes-ukraine-kyiv-warned-brace-possible-major/",
-      "source": "Washington Times",
+      "hed": "Israel Kills Hamas Armed Wing Chief Mohammed Odeh in Gaza Strike",
+      "dek": "The IDF confirmed the killing of Mohammed Odeh, Hamas's newly appointed military commander, in a Tuesday operation in Gaza — just weeks after his predecessor was killed in a similar strike. Israel also issued fresh evacuation orders for the Lebanese city of Nabatieh amid continued operations against Hezbollah in southern Lebanon.",
+      "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077",
+      "source": "ABC News",
       "chips": [
-        "Oreshnik missile",
-        "Kyiv warning",
-        "Ukraine drone counterstrike",
-        "Rubio concerned"
+        "Gaza",
+        "Hezbollah",
+        "Lebanon"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "ActBlue Implodes: Board Gone, Lawyers Gone, DOJ Waiting in the Wings",
-      "dek": "The Democratic Party's main small-dollar fundraising platform has lost most of its board and its entire legal team amid a DOJ investigation into alleged foreign donations and misleading statements to Congress. Five deposed ActBlue employees took the Fifth Amendment a combined 146 times, which is not the kind of fundraising enthusiasm Democrats were hoping for heading into the midterms.",
-      "url": "https://thenationalpulse.com/2026/04/02/actblue-faces-doj-investigation-for-misleading-congress-about-foreign-donation-vetting/",
-      "source": "The National Pulse",
+      "hed": "Ken Paxton Defeats John Cornyn by 28 Points in Texas Senate Primary Runoff",
+      "dek": "Trump-backed Texas Attorney General Ken Paxton routed incumbent Senator John Cornyn in Tuesday's GOP runoff, making Cornyn the second Republican senator to lose his seat in under two weeks. Paxton will now face Democrat James Talarico in November in a race that could decide Senate control.",
+      "url": "https://www.npr.org/sections/elections/",
+      "source": "NPR",
       "chips": [
-        "DOJ probe",
-        "foreign donations",
         "2026 midterms",
-        "Fifth Amendment"
+        "Texas",
+        "MAGA primary"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Supreme Court Voting Rights Ruling Could Oust 19 Black Lawmakers, CBC Says",
-      "dek": "The Supreme Court's latest blow to the Voting Rights Act could cost 19 Black lawmakers their seats over the next few years, according to the Congressional Black Caucus, which says it is fighting back. The ruling follows the court recently weakening the VRA while also ducking a related case that could limit enforcement of remaining minority voter protections.",
-      "url": "https://www.washingtonpost.com/politics/",
-      "source": "Washington Post",
+      "hed": "Trump Administration Proposes Government-Wide NDA for All Federal Workers",
+      "dek": "The Office of Personnel Management published a draft nondisclosure agreement Tuesday that would bar federal employees from sharing any nonpublic, confidential, or sensitive internal information — going beyond existing classified and unclassified categories. Legal scholars are already lining up to explain why this is either totally normal or completely unprecedented, depending on who's funding their think tank.",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-may-27-2026/",
+      "source": "Democracy Now / Havana Times",
       "chips": [
-        "Voting Rights Act",
-        "CBC pushback",
-        "redistricting",
-        "2026 midterms"
+        "federal workers",
+        "free speech",
+        "OPM"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump Torches His Own Cabinet: Bondi, Noem, and Chavez-DeRemer Out; Gabbard Next",
-      "dek": "Attorney General Pamela Bondi, DHS Secretary Kristi Noem, and Labor Secretary Lori Chavez-DeRemer have all departed, with DNI Tulsi Gabbard reportedly on her way out next month -- making Trump's second-term Cabinet resemble a revolving door at a particularly dramatic hotel. Trump is hosting his first Cabinet meeting since March at Camp David on Wednesday, presumably to meet whichever new faces have survived the week.",
-      "url": "https://www.cnn.com/2026/05/25/world/live-news/iran-war-us-peace-deal",
+      "hed": "Trump Is Personally Fine With the Iran War Going Long — His Portfolio Apparently Less So",
+      "dek": "Trump told his Cabinet he doesn't care about midterm pressure and won't be rushed into a deal, while simultaneously demanding Iran agree to Abraham Accords expansion, no Russian or Chinese uranium transfers, and full Hormuz reopening before any sanctions relief. Some observers note the goalposts have now lapped the field twice.",
+      "url": "https://www.cnn.com/2026/05/27/world/live-news/iran-war-us-news",
       "source": "CNN",
       "chips": [
-        "Bondi out",
-        "Noem fired",
-        "Gabbard leaving",
-        "Camp David Cabinet"
+        "Trump",
+        "Iran negotiations",
+        "Abraham Accords"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,516",
-      "chg": "+0.57%",
-      "dir": "up"
-    },
-    "dow": {
-      "val": "50,463",
-      "chg": "-0.23%",
+      "val": "7,502",
+      "chg": "-0.1%",
       "dir": "down"
     },
-    "nasdaq": {
-      "val": "26,607",
-      "chg": "+1.00%",
+    "dow": {
+      "val": "50,663",
+      "chg": "+0.4%",
       "dir": "up"
     },
+    "nasdaq": {
+      "val": "26,623",
+      "chg": "-0.1%",
+      "dir": "down"
+    },
     "wti": {
-      "val": "$92.94",
-      "chg": "-4.7%",
+      "val": "$89",
+      "chg": "-5.7%",
       "dir": "down"
     },
     "brent": {
-      "val": "$100.20",
-      "chg": "-3.0%",
+      "val": "$95",
+      "chg": "-4.7%",
       "dir": "down"
     },
     "gold": {
-      "val": "$4,523",
-      "chg": "-0.42%",
+      "val": "$4,476",
+      "chg": "-1.3%",
       "dir": "down"
     },
     "btc": {
-      "val": "$77,400",
-      "chg": "+0.94%",
-      "dir": "up"
+      "val": "$75,716",
+      "chg": "-1.8%",
+      "dir": "down"
     },
-    "context": "Markets surged on Iran peace deal optimism and a Micron AI blowout, while oil tanked on hopes the Strait of Hormuz might actually reopen someday.",
-    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-may-26-2026",
-    "source": "TheStreet"
+    "context": "Oil cratered on Iran deal murmurs (later denied), lifting the Dow to a record while chip stocks faded and dragged the S&P 500 and Nasdaq slightly into the red.",
+    "url": "https://www.cnbc.com/2026/05/26/stock-market-today-live-updates.html",
+    "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.56",
-    "note": "Gas hit a four-year high for Memorial Day -- your road trip to 'save money by driving' has aged poorly.",
-    "premium": "$5.20",
-    "wti": "$92.94",
-    "highState": "CA: $6.14",
-    "lowState": "MS: $4.01",
-    "url": "https://gasprices.aaa.com/memorial-day-weekend-gas-prices-reach-four-year-highs/",
+    "avg": "$4.46",
+    "note": "Gas is 54% more expensive than before the Iran war started — your commute is now technically a defense expenditure.",
+    "premium": "$5.10",
+    "wti": "$89",
+    "highState": "CA: $6.09",
+    "lowState": "OK: $3.94",
+    "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Stephen Colbert Signs Off: Late Show Finale Draws 6.74 Million Viewers with Paul McCartney, Bryan Cranston, and a Literal Wormhole",
-    "dek": "The Late Show with Stephen Colbert aired its final episode May 21 after 11 years and 1,801 episodes, with Paul McCartney as the surprise final guest and a surreal finale bit involving a wormhole consuming the Ed Sullivan Theater. The show -- canceled by CBS amid the Paramount-Skydance merger -- went out as the most-watched weeknight episode in its history, because of course it did.",
-    "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/live-blog/stephen-colbert-last-late-show-live-updates-rcna343718",
-    "source": "NBC News"
+    "hed": "Euphoria Season 3 Finale Trailer Drops — and It Might Be the Show's Last Episode Ever",
+    "dek": "HBO released the first trailer for the May 31 finale, titled 'In God We Trust,' which runs 93 minutes and is widely rumored to be the series finale. The penultimate episode already killed off Nate Jacobs (Jacob Elordi) via snakebite while buried alive, which is exactly the kind of sentence that only makes sense on this show.",
+    "url": "https://www.comicbasics.com/euphoria-season-3-finale-gets-its-first-trailer/",
+    "source": "Comic Basics"
   },
   "genZ": {
-    "type": "tiktok",
-    "term": "And Emily, thats all",
-    "definition": "A viral TikTok audio format ripped from The Devil Wears Prada 2 (in theaters May 1), where creators film two contrasting shots -- one polished and correct, one chaotic and wrong -- with Miranda Priestly's withering dismissal as the punchline. It exploded after the film's release and has become May's defining vibe-contrast trend on the FYP.",
-    "usage": "The US-Iran ceasefire: negotiators in Doha drafting a peace deal [polished]. US military simultaneously launching airstrikes on Iran [And Emily... thats all].",
-    "url": "https://newengen.com/insights/may-tiktok-trends/",
-    "source": "Newengen"
+    "type": "viral",
+    "term": "Drake's ICEMAN 'Ice' Installation Hunt",
+    "definition": "Drake's new album ICEMAN dropped this month and spawned a viral real-world scavenger hunt around his cryptic 'Ice' art installations, which started appearing in cities with no explanation. Fans are documenting finds, reselling clues, and debating whether the album disses LeBron James — all of which is generating more engagement than the music itself.",
+    "usage": "Trump denying the Iran peace memo is very 'ICEMAN drop energy' — release something huge, immediately say it's not real, watch everyone spiral.",
+    "url": "",
+    "source": ""
   },
-  "tldr": "The US and Iran are technically negotiating a peace deal while also actively shooting at each other, which summarizes the vibe of May 2026 pretty well. Meanwhile, markets hit records, gas hit four-year highs, Colbert signed off, and Nate Jacobs died in a ditch -- it was a full day."
+  "tldr": "Trump told his Cabinet he won't rush an Iran deal because he doesn't care about the midterms, while the White House called Iran's leaked draft peace memo a fabrication — leaving oil markets, negotiators, and everyone paying $4.46 a gallon deeply confused. Back home, Ken Paxton torched John Cornyn by 28 points in Texas, Euphoria is about to end forever, and the Dow hit a record because apparently some things are going fine."
 }
