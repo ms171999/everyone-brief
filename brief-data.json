@@ -1,186 +1,186 @@
 {
-  "date": "Saturday, May 30, 2026",
+  "date": "Wednesday, June 3, 2026",
   "headlines": [
     {
-      "text": "Suspected mine spotted in Strait of Hormuz as Iran ceasefire talks stall",
-      "tag": "💣"
+      "text": "Iran fires 13 missiles and 17 drones at Kuwait and Bahrain, killing one at Kuwait International Airport",
+      "tag": "💥"
     },
     {
-      "text": "Hegseth: US is 'more than capable' of resuming Iran strikes if deal falls through",
-      "tag": "⚔️"
-    },
-    {
-      "text": "Trump ends Iran Situation Room meeting without announcing 'final determination'",
-      "tag": "🕐"
-    },
-    {
-      "text": "Dow closes above 51,000 for first time ever; S&P 500 logs 9th straight winning week",
-      "tag": "📈"
-    },
-    {
-      "text": "Pam Bondi blames Todd Blanche for Epstein files mess; Dems threaten subpoena of acting AG",
-      "tag": "📁"
-    },
-    {
-      "text": "A24's 'Backrooms' eyes $80M-$90M opening, shattering studio record on day one",
-      "tag": "🟡"
-    },
-    {
-      "text": "Federal judge blocks Trump DOJ 'lawfare' fund temporarily as legal challenge proceeds",
+      "text": "Ceasefire in doubt as Pentagon, State Dept inspectors launch War Powers Act review of 96-day Iran war",
       "tag": "⚖️"
     },
     {
-      "text": "Gas prices near $4.43/gallon nationally — up 50% since US-Israel launched Iran war",
-      "tag": "⛽"
+      "text": "Six-state primaries deliver surprise: Iowa Republican voters reject Trump-endorsed gubernatorial candidate",
+      "tag": "🗳️"
     },
     {
-      "text": "India and US sign critical minerals and rare earths framework deal in New Delhi",
-      "tag": "🌍"
+      "text": "Steve Hilton leads California governor's race; Karen Bass advances to runoff against Spencer Pratt in LA mayor's race",
+      "tag": "🌴"
     },
     {
-      "text": "14-year-old Shrey Parikh wins 2026 Scripps National Spelling Bee with 32-word lightning round",
-      "tag": "🏆"
+      "text": "CBS fires Scott Pelley from 60 Minutes after he called new boss Bari Weiss a murderer of the show at a staff meeting",
+      "tag": "📺"
+    },
+    {
+      "text": "Stocks fall as oil surges past $95 a barrel on fresh Iran-Gulf strikes rattling markets",
+      "tag": "📉"
+    },
+    {
+      "text": "Trump picks Bill Pulte as acting Director of National Intelligence, replacing career intelligence officials",
+      "tag": "🕵️"
+    },
+    {
+      "text": "Ukraine drones strike oil terminal in St. Petersburg, setting it ablaze during Putin economic forum",
+      "tag": "🔥"
+    },
+    {
+      "text": "Supreme Court allows Alabama GOP-friendly congressional map to stand, cuts majority-Black district ahead of midterms",
+      "tag": "🏛️"
+    },
+    {
+      "text": "SpaceX IPO roadshow kicks off; Morningstar pegs valuation at $780B, half of Elon Musk's ask",
+      "tag": "🚀"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Suspected floating mine reported in Strait of Hormuz by Omani authorities — shipping alerts issued",
-    "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077"
+    "text": "BREAKING: Iran fires 13 ballistic missiles and 17 drones at Kuwait and Bahrain; 1 killed at Kuwait airport, US retaliates with strikes on Qeshm Island",
+    "url": "https://www.cnn.com/2026/06/02/world/live-news/iran-trump-israel-lebanon-war-intl-hnk"
   },
   "stories": [
     {
-      "tag": "iran war - day 92",
+      "tag": "iran war - day 96",
       "tagType": "fire",
-      "hed": "Mine Scare in Strait of Hormuz as Trump Exits Situation Room Without a Deal",
-      "dek": "Oman spotted a suspected floating mine in the world's most important oil chokepoint, which is a great way to remind everyone why this war keeps costing $4.43 a gallon. Trump held a 'final determination' meeting on the Iran ceasefire extension, then walked out without determining anything final.",
-      "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-peace-deal-work-progress-rubio/?id=133278077",
-      "source": "ABC News",
+      "hed": "Iran Bombs Kuwait Airport, US Bombs Iran Back, Everyone Insists the Ceasefire Is Fine",
+      "dek": "Iran launched 13 ballistic missiles and 17 drones at Kuwait and Bahrain before dawn, killing one person at Kuwait International Airport and injuring 60-plus — the highest casualty count in an Iranian strike since the war began. The US promptly fired back at a ground control station on Qeshm Island, and the Pentagon inspector general announced it must now legally review the war because it has exceeded 60 days, which is awkward since the administration said it reset the clock in April.",
+      "url": "https://www.cnn.com/2026/06/02/world/live-news/iran-trump-israel-lebanon-war-intl-hnk",
+      "source": "CNN",
       "chips": [
-        "Strait of Hormuz",
-        "ceasefire talks",
-        "Hegseth Singapore"
+        "Kuwait Airport struck",
+        "War Powers Act review",
+        "Qeshm Island retaliation",
+        "Ceasefire strained"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Russian Drone Strikes NATO Member Romania; EU Drafts New Sanctions Package",
-      "dek": "A Russian drone struck an apartment block in Romania — a full NATO member state — escalating pressure on the alliance as the EU scrambles to finalize a new round of sanctions against Moscow.",
-      "url": "https://www.cnbc.com/politics/",
-      "source": "CNBC",
-      "chips": [
-        "Russia",
-        "NATO",
-        "Romania",
-        "EU sanctions"
-      ]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Bondi Fingers Blanche in Epstein Files Fiasco; Democrats Eye Subpoena of Acting AG",
-      "dek": "Former AG Pam Bondi told House Oversight she 'delegated' the Epstein files disaster entirely to acting AG Todd Blanche, who also happens to be Trump's former personal attorney. Democrats say that's convenient and are now lining up a subpoena, assuming Republicans let them.",
-      "url": "https://www.cnn.com/2026/05/29/politics/pam-bondi-epstein-files-house-interview",
-      "source": "CNN",
-      "chips": [
-        "Epstein files",
-        "Pam Bondi",
-        "Todd Blanche",
-        "House Oversight"
-      ]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Federal Judge Declines to Block Trump Mail-In Voting Executive Order",
-      "dek": "A federal judge in Washington, D.C., refused to temporarily block Trump's executive order restricting mail-in voting, keeping the order in effect as further legal challenges work their way through the courts.",
-      "url": "https://www.npr.org/sections/politics/",
+      "hed": "Ukraine Drones Set St. Petersburg Oil Terminal Ablaze Mid-Putin Economic Forum",
+      "dek": "Ukrainian drones struck and ignited an oil terminal in St. Petersburg on Wednesday while Russia was simultaneously hosting its annual economic showcase in the same city — a spectacular piece of timing that Zelenskyy confirmed. The Strait of Hormuz remains paralyzed and global crude stockpiles just logged their sixth consecutive weekly drop of 8 million barrels.",
+      "url": "https://www.npr.org/sections/news/",
       "source": "NPR",
       "chips": [
-        "voting rights",
-        "mail-in ballot",
-        "Trump EO",
-        "federal courts"
+        "Ukraine strike",
+        "Russia energy",
+        "oil markets"
+      ]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Iowa Voters Reject Trump Endorsement, Handing First Primary Loss to MAGA Machine in 2026 Midterms",
+      "dek": "Republican businessman Zach Lahn beat Trump-endorsed Rep. Randy Feenstra in Iowa's gubernatorial primary by less than a percentage point, marking the first time a Trump-backed candidate has lost a governor, House, or Senate primary in this midterm cycle. Six states voted Tuesday and California's governor race between Steve Hilton and Xavier Becerra remains too close to call.",
+      "url": "https://www.nbcnews.com/politics/2026-election/live-blog/trump-primary-elections-midterm-ca-nj-sd-iowa-iran-war-live-updates-rcna348166",
+      "source": "NBC News",
+      "chips": [
+        "Iowa primary",
+        "Trump endorsement loss",
+        "California governor race",
+        "midterms 2026"
+      ]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Scott Pelley Fired from 60 Minutes After Calling New Boss Bari Weiss a Show-Murderer at Staff Meeting",
+      "dek": "Veteran CBS correspondent Scott Pelley publicly lit into new executive producer Nick Bilton and editor-in-chief Bari Weiss at a Monday all-hands meeting, accusing Weiss of murdering the 57-year-old newsmagazine while staff applauded. Bilton fired him the next day in a termination letter citing 'remarkable incivility and contempt,' making Pelley the latest in a string of veteran 60 Minutes talent to exit since Paramount Skydance took over.",
+      "url": "https://www.nbcnews.com/business/media/cbs-news-fires-60-minutes-correspondent-scott-pelley-rcna348176",
+      "source": "NBC News",
+      "chips": [
+        "60 Minutes",
+        "CBS News",
+        "Bari Weiss",
+        "media turmoil"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Dell Surges 33% in One Day While Your Gas Costs More Than Your Lunch",
-      "dek": "Dell Technologies had its best single trading day ever — up nearly 33% on AI server demand — the same week the national gas average hit $4.43. The stock market is having a historic bull run fueled by AI optimism while the average American is doing math at the pump. Two economies, one country, zero irony.",
-      "url": "https://www.cnbc.com/2026/05/28/stock-market-today-live-updates.html",
-      "source": "CNBC",
+      "hed": "Trump Says He Started the Iran War Himself and Also Wants to Meet the New Supreme Leader for Lunch, Probably",
+      "dek": "When asked if Netanyahu tricked him into Operation Epic Fury, Trump said 'I'm the one that started it' — which is either refreshing candor or the most aggressive own-goal in diplomatic history. He then mused that he'd 'like to meet' Iran's new Supreme Leader Mojtaba Khamenei, declined to rule out the Hormuz blockade lasting through Labor Day, and said the economy is doing 'very well, other than this,' gesturing vaguely at the ongoing war.",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855",
+      "source": "ABC News",
       "chips": [
-        "Dell",
-        "AI boom",
-        "gas prices",
-        "inequality"
+        "Trump Iran",
+        "Operation Epic Fury",
+        "Hormuz blockade",
+        "ceasefire talks"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,580",
-      "chg": "+0.22%",
-      "dir": "up"
-    },
-    "dow": {
-      "val": "51,032",
-      "chg": "+0.72%",
-      "dir": "up"
-    },
-    "nasdaq": {
-      "val": "26,972",
-      "chg": "+0.26%",
-      "dir": "up"
-    },
-    "wti": {
-      "val": "$88",
-      "chg": "-2%",
+      "val": "7,557",
+      "chg": "-0.7%",
       "dir": "down"
     },
+    "dow": {
+      "val": "50,868",
+      "chg": "-0.9%",
+      "dir": "down"
+    },
+    "nasdaq": {
+      "val": "26,803",
+      "chg": "-1.1%",
+      "dir": "down"
+    },
+    "wti": {
+      "val": "$95",
+      "chg": "+3%",
+      "dir": "up"
+    },
     "brent": {
-      "val": "$91",
+      "val": "$98",
+      "chg": "+2.6%",
+      "dir": "up"
+    },
+    "gold": {
+      "val": "$4,464",
+      "chg": "-1.1%",
+      "dir": "down"
+    },
+    "btc": {
+      "val": "$66,737",
       "chg": "-1.7%",
       "dir": "down"
     },
-    "gold": {
-      "val": "$4,569",
-      "chg": "+0.81%",
-      "dir": "up"
-    },
-    "btc": {
-      "val": "$73,048",
-      "chg": "+0.22%",
-      "dir": "up"
-    },
-    "context": "All three indexes closed at record highs Friday on Iran ceasefire optimism and a Dell-led AI tech surge, capping the S&P 500's ninth consecutive winning week.",
-    "url": "https://www.cnbc.com/2026/05/28/stock-market-today-live-updates.html",
-    "source": "CNBC"
+    "context": "Stocks slid and oil jumped above $95 as Iran-Gulf strikes reignited fears that the fragile ceasefire is unraveling and the Strait of Hormuz blockade could drag into summer.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-june-3-dow-sp-500-nasdaq-fall-oil-rises-224803128.html",
+    "source": "Yahoo Finance"
   },
   "gas": {
-    "avg": "$4.43",
-    "note": "Up 50% since the Iran war started — your car is now a financial commitment.",
-    "premium": "$5.10",
-    "wti": "$88",
-    "highState": "CA: $6.15",
-    "lowState": "OK: $3.94",
-    "url": "https://gasprices.aaa.com",
+    "avg": "$4.26",
+    "note": "Paying $4.26 a gallon to sit in traffic is the real weapon of mass destruction.",
+    "premium": "$4.85",
+    "wti": "$95",
+    "highState": "CA: $6.01",
+    "lowState": "OK: $3.98",
+    "url": "https://gasprices.aaa.com/?state=US",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "A24's 'Backrooms' Opens to Potential $80M-$90M Weekend, Crushing Studio Record",
-    "dek": "Twenty-year-old YouTube director Kane Parsons just turned a $10M internet creepypasta horror film into A24's biggest opening ever, with Friday estimates hitting $38M alone. 'Backrooms' is outpacing 'The Mandalorian and Grogu' in its second weekend, which is deeply humbling for a galaxy far, far away.",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/backrooms-sets-a24-record-90-million-opening-1236609070/",
-    "source": "The Hollywood Reporter"
+    "hed": "House of the Dragon Season 3 Arrives June 21, The Bear's Final Season and Love Island USA Also Premiering This Month",
+    "dek": "June is stacked: HBO's penultimate Targaryen civil war season drops June 21, The Bear bows out for good, and Love Island USA returns with Ariana Madix hosting a new batch of singles in Fiji. Toy Story 5 hits theaters June 19, and Olivia Rodrigo drops a new album June 12, meaning your FYP will be completely uninhabitable by mid-month.",
+    "url": "https://parade.com/tv/tv-premieres-june-2026",
+    "source": "Parade"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "Fake World Cup Squad trend",
-    "definition": "TikTok creators are building absurd fantasy squads for the upcoming FIFA 2026 World Cup by drafting not just footballers but politicians, memes, inanimate objects, and random pop culture figures onto national teams. It went viral this week as the tournament approaches and everyone has opinions about who belongs on Bosnia's roster.",
-    "usage": "Iran nuclear negotiators are playing 4-4-2 with Hegseth in goal, Trump on Truth Social as the striker, and a suspected floating mine as the sweeper.",
-    "url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
-    "source": "Epidemic Sound"
+    "term": "Charli XCX Rock Music glitch edit",
+    "definition": "Charli XCX dropped 'Rock Music' on May 7 and the internet latched onto a deliberate vocal glitch mid-track as the mechanic for a viral video format where creators freeze-frame or stutter their footage to match the malfunction. It has become the dominant editing format flooding TikTok FYPs heading into June, spawning thousands of brand and creator executions.",
+    "usage": "POV: the Iran ceasefire doing the Charli XCX glitch edit every 48 hours.",
+    "url": "",
+    "source": ""
   },
-  "tldr": "Trump left his Iran ceasefire 'final determination' meeting without determining anything final, a suspected mine popped up in the Strait of Hormuz, and markets hit record highs anyway because the stock market has decided vibes are more important than mines. Meanwhile, a 20-year-old YouTuber's $10M horror film about fluorescent hallways is on track to out-gross Star Wars this weekend, which about sums up 2026."
+  "tldr": "Iran bombed Kuwait's airport and US fired back at Qeshm Island on Day 96 of a war the Pentagon now legally has to investigate, while stocks fell and oil topped $95. Back home, Iowa voters handed Trump his first primary endorsement loss of the midterm cycle and Scott Pelley got fired from 60 Minutes for saying out loud what everyone was thinking."
 }
