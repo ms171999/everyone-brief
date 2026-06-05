@@ -1,186 +1,182 @@
 {
-  "date": "Wednesday, June 3, 2026",
+  "date": "Friday, June 5, 2026",
   "headlines": [
     {
-      "text": "Iran fires 13 missiles and 17 drones at Kuwait and Bahrain, killing one at Kuwait International Airport",
-      "tag": "💥"
-    },
-    {
-      "text": "Ceasefire in doubt as Pentagon, State Dept inspectors launch War Powers Act review of 96-day Iran war",
-      "tag": "⚖️"
-    },
-    {
-      "text": "Six-state primaries deliver surprise: Iowa Republican voters reject Trump-endorsed gubernatorial candidate",
-      "tag": "🗳️"
-    },
-    {
-      "text": "Steve Hilton leads California governor's race; Karen Bass advances to runoff against Spencer Pratt in LA mayor's race",
-      "tag": "🌴"
-    },
-    {
-      "text": "CBS fires Scott Pelley from 60 Minutes after he called new boss Bari Weiss a murderer of the show at a staff meeting",
-      "tag": "📺"
-    },
-    {
-      "text": "Stocks fall as oil surges past $95 a barrel on fresh Iran-Gulf strikes rattling markets",
-      "tag": "📉"
-    },
-    {
-      "text": "Trump picks Bill Pulte as acting Director of National Intelligence, replacing career intelligence officials",
-      "tag": "🕵️"
-    },
-    {
-      "text": "Ukraine drones strike oil terminal in St. Petersburg, setting it ablaze during Putin economic forum",
+      "text": "Iran War Day 98: Hezbollah rejects US-brokered ceasefire as Israel strikes continue across Lebanon",
       "tag": "🔥"
     },
     {
-      "text": "Supreme Court allows Alabama GOP-friendly congressional map to stand, cuts majority-Black district ahead of midterms",
-      "tag": "🏛️"
+      "text": "Blowout May jobs report adds 172,000 jobs — double expectations — sending stocks lower in 'good news is bad news' selloff",
+      "tag": "📉"
     },
     {
-      "text": "SpaceX IPO roadshow kicks off; Morningstar pegs valuation at $780B, half of Elon Musk's ask",
-      "tag": "🚀"
+      "text": "Trump says he'd meet Iran's new supreme leader 'if it was to make a deal' as peace talks remain murky",
+      "tag": "🕊️"
+    },
+    {
+      "text": "Lebanese president accuses Iran of 'using Lebanon as a bargaining chip' in US negotiations",
+      "tag": "🇱🇧"
+    },
+    {
+      "text": "Nasdaq sinks nearly 3% as chip stocks crater — Broadcom, Micron, AMD, Arm Holdings all deep in the red",
+      "tag": "💻"
+    },
+    {
+      "text": "California governor primary still too close to call; Steve Hilton, Xavier Becerra, and Tom Steyer among leaders",
+      "tag": "🗳️"
+    },
+    {
+      "text": "Gas prices hit $4.24 national average, up 40% since the US-Israel Iran war began in February",
+      "tag": "⛽"
+    },
+    {
+      "text": "Michael Jackson: The Verdict lands on Netflix, reigniting debate over the 2005 trial amid Michael biopic mania",
+      "tag": "🎬"
+    },
+    {
+      "text": "Bitcoin falls toward $61,000 — worst week since February — as Michael Saylor's Strategy sells BTC for first time since 2022",
+      "tag": "₿"
+    },
+    {
+      "text": "Stanley Cup Final: Golden Knights lose Game 2 in overtime to Carolina Hurricanes",
+      "tag": "🏒"
     }
   ],
   "breaking": {
-    "show": true,
-    "text": "BREAKING: Iran fires 13 ballistic missiles and 17 drones at Kuwait and Bahrain; 1 killed at Kuwait airport, US retaliates with strikes on Qeshm Island",
-    "url": "https://www.cnn.com/2026/06/02/world/live-news/iran-trump-israel-lebanon-war-intl-hnk"
+    "show": false,
+    "text": "",
+    "url": ""
   },
   "stories": [
     {
-      "tag": "iran war - day 96",
+      "tag": "iran war - day 98",
       "tagType": "fire",
-      "hed": "Iran Bombs Kuwait Airport, US Bombs Iran Back, Everyone Insists the Ceasefire Is Fine",
-      "dek": "Iran launched 13 ballistic missiles and 17 drones at Kuwait and Bahrain before dawn, killing one person at Kuwait International Airport and injuring 60-plus — the highest casualty count in an Iranian strike since the war began. The US promptly fired back at a ground control station on Qeshm Island, and the Pentagon inspector general announced it must now legally review the war because it has exceeded 60 days, which is awkward since the administration said it reset the clock in April.",
-      "url": "https://www.cnn.com/2026/06/02/world/live-news/iran-trump-israel-lebanon-war-intl-hnk",
-      "source": "CNN",
+      "hed": "Hezbollah Rejects Ceasefire, Lebanon President Blasts Iran as 'Bargaining Chip'",
+      "dek": "Israel keeps bombing Lebanon despite a freshly signed ceasefire — because Hezbollah, who does the actual fighting, was not invited to sign it. Meanwhile Lebanon's own president publicly accused Iran of using his country as a poker chip in nuclear negotiations, which is both accurate and extremely awkward to say out loud.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes",
+      "source": "Al Jazeera",
       "chips": [
-        "Kuwait Airport struck",
-        "War Powers Act review",
-        "Qeshm Island retaliation",
-        "Ceasefire strained"
+        "Hezbollah",
+        "Lebanon ceasefire",
+        "Iran talks"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Ukraine Drones Set St. Petersburg Oil Terminal Ablaze Mid-Putin Economic Forum",
-      "dek": "Ukrainian drones struck and ignited an oil terminal in St. Petersburg on Wednesday while Russia was simultaneously hosting its annual economic showcase in the same city — a spectacular piece of timing that Zelenskyy confirmed. The Strait of Hormuz remains paralyzed and global crude stockpiles just logged their sixth consecutive weekly drop of 8 million barrels.",
-      "url": "https://www.npr.org/sections/news/",
-      "source": "NPR",
+      "hed": "Trump Says He'd Meet Iran's Supreme Leader — Iran Says There's Been No 'Significant Progress'",
+      "dek": "Trump floated a sit-down with Mojtaba Khamenei 'if it was to make a deal,' and said killing US troops would be a 'good reason' to restart the war. Iran's foreign minister responded that talks have yielded nothing meaningful, which is the diplomatic equivalent of leaving someone on read.",
+      "url": "https://www.cnn.com/2026/06/04/world/live-news/iran-trump-war-news",
+      "source": "CNN",
       "chips": [
-        "Ukraine strike",
-        "Russia energy",
-        "oil markets"
+        "US-Iran talks",
+        "Strait of Hormuz",
+        "Mojtaba Khamenei"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Iowa Voters Reject Trump Endorsement, Handing First Primary Loss to MAGA Machine in 2026 Midterms",
-      "dek": "Republican businessman Zach Lahn beat Trump-endorsed Rep. Randy Feenstra in Iowa's gubernatorial primary by less than a percentage point, marking the first time a Trump-backed candidate has lost a governor, House, or Senate primary in this midterm cycle. Six states voted Tuesday and California's governor race between Steve Hilton and Xavier Becerra remains too close to call.",
-      "url": "https://www.nbcnews.com/politics/2026-election/live-blog/trump-primary-elections-midterm-ca-nj-sd-iowa-iran-war-live-updates-rcna348166",
-      "source": "NBC News",
+      "hed": "Jobs Report Crushes It at 172,000 — So Naturally Stocks Crashed",
+      "dek": "May payrolls nearly doubled Wall Street's 85,000 estimate, unemployment held at 4.3%, and the Dow immediately dropped 465 points. The 10-year Treasury yield spiked to 4.54% on fears the Fed may now hike instead of cut, proving that in 2026, good economic news is just bad news wearing a different hat.",
+      "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+      "source": "Charles Schwab",
       "chips": [
-        "Iowa primary",
-        "Trump endorsement loss",
-        "California governor race",
-        "midterms 2026"
+        "Jobs report",
+        "Fed policy",
+        "rate hike fears"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Scott Pelley Fired from 60 Minutes After Calling New Boss Bari Weiss a Show-Murderer at Staff Meeting",
-      "dek": "Veteran CBS correspondent Scott Pelley publicly lit into new executive producer Nick Bilton and editor-in-chief Bari Weiss at a Monday all-hands meeting, accusing Weiss of murdering the 57-year-old newsmagazine while staff applauded. Bilton fired him the next day in a termination letter citing 'remarkable incivility and contempt,' making Pelley the latest in a string of veteran 60 Minutes talent to exit since Paramount Skydance took over.",
-      "url": "https://www.nbcnews.com/business/media/cbs-news-fires-60-minutes-correspondent-scott-pelley-rcna348176",
+      "hed": "California Primary Chaos: Governor's Race Still Uncalled, Todd Blanche AG Nomination Causes GOP Meltdown",
+      "dek": "With Gavin Newsom term-limited out, California's wild open primary for governor remains uncalled as Steve Hilton, Xavier Becerra, and Tom Steyer all jostle for the top two spots. Back in DC, Trump is reportedly nominating unpopular Todd Blanche as attorney general in defiance of congressional Republicans who very much do not want that.",
+      "url": "https://www.nbcnews.com/politics/2026-primary-elections/california-governor-results",
       "source": "NBC News",
       "chips": [
-        "60 Minutes",
-        "CBS News",
-        "Bari Weiss",
-        "media turmoil"
+        "CA governor primary",
+        "Todd Blanche",
+        "2026 midterms"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump Says He Started the Iran War Himself and Also Wants to Meet the New Supreme Leader for Lunch, Probably",
-      "dek": "When asked if Netanyahu tricked him into Operation Epic Fury, Trump said 'I'm the one that started it' — which is either refreshing candor or the most aggressive own-goal in diplomatic history. He then mused that he'd 'like to meet' Iran's new Supreme Leader Mojtaba Khamenei, declined to rule out the Hormuz blockade lasting through Labor Day, and said the economy is doing 'very well, other than this,' gesturing vaguely at the ongoing war.",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855",
-      "source": "ABC News",
+      "hed": "Former Defense Sec. Panetta Says Iran War Is 'Turning Into Trump's Vietnam' — And He's Not Being Subtle About It",
+      "dek": "Leon Panetta went on CNN and compared the open-ended, escalation-prone Iran conflict to Vietnam, a comparison Trump's base will dismiss and everyone else will quietly file away. At Day 98 with no exit strategy visible, a ceasefire that isn't ceasing fire, and $4.24 gas, the metaphor is doing a lot of heavy lifting.",
+      "url": "https://www.cnn.com/2026/06/04/world/live-news/iran-trump-war-news",
+      "source": "CNN",
       "chips": [
-        "Trump Iran",
-        "Operation Epic Fury",
-        "Hormuz blockade",
-        "ceasefire talks"
+        "Panetta",
+        "Vietnam comparison",
+        "war fatigue"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,557",
-      "chg": "-0.7%",
+      "val": "7,494",
+      "chg": "-1.2%",
       "dir": "down"
     },
     "dow": {
-      "val": "50,868",
-      "chg": "-0.9%",
+      "val": "51,391",
+      "chg": "-0.3%",
       "dir": "down"
     },
     "nasdaq": {
-      "val": "26,803",
-      "chg": "-1.1%",
+      "val": "26,246",
+      "chg": "-2.2%",
       "dir": "down"
     },
     "wti": {
-      "val": "$95",
-      "chg": "+3%",
-      "dir": "up"
+      "val": "$93",
+      "chg": "-3.1%",
+      "dir": "down"
     },
     "brent": {
-      "val": "$98",
-      "chg": "+2.6%",
-      "dir": "up"
-    },
-    "gold": {
-      "val": "$4,464",
+      "val": "$94",
       "chg": "-1.1%",
       "dir": "down"
     },
-    "btc": {
-      "val": "$66,737",
-      "chg": "-1.7%",
+    "gold": {
+      "val": "$4,450",
+      "chg": "-2.9%",
       "dir": "down"
     },
-    "context": "Stocks slid and oil jumped above $95 as Iran-Gulf strikes reignited fears that the fragile ceasefire is unraveling and the Strait of Hormuz blockade could drag into summer.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-june-3-dow-sp-500-nasdaq-fall-oil-rises-224803128.html",
-    "source": "Yahoo Finance"
+    "btc": {
+      "val": "$60,686",
+      "chg": "-4.9%",
+      "dir": "down"
+    },
+    "context": "A blowout May jobs report doubling forecasts sent yields surging and triggered a 'good news is bad news' selloff, with chip stocks piling on after Broadcom's weak AI guidance cratered semis.",
+    "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html",
+    "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.26",
-    "note": "Paying $4.26 a gallon to sit in traffic is the real weapon of mass destruction.",
+    "avg": "$4.24",
+    "note": "At $4.24 a gallon, your summer road trip budget is now also your Iran war reparations contribution.",
     "premium": "$4.85",
-    "wti": "$95",
-    "highState": "CA: $6.01",
-    "lowState": "OK: $3.98",
-    "url": "https://gasprices.aaa.com/?state=US",
+    "wti": "$93",
+    "highState": "CA: $5.95",
+    "lowState": "TX: $3.72",
+    "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "House of the Dragon Season 3 Arrives June 21, The Bear's Final Season and Love Island USA Also Premiering This Month",
-    "dek": "June is stacked: HBO's penultimate Targaryen civil war season drops June 21, The Bear bows out for good, and Love Island USA returns with Ariana Madix hosting a new batch of singles in Fiji. Toy Story 5 hits theaters June 19, and Olivia Rodrigo drops a new album June 12, meaning your FYP will be completely uninhabitable by mid-month.",
-    "url": "https://parade.com/tv/tv-premieres-june-2026",
-    "source": "Parade"
+    "hed": "Netflix's 'Michael Jackson: The Verdict' Drops Mid-Michael Biopic Mania — Reigniting Every Debate at Once",
+    "dek": "The three-part Netflix docuseries on MJ's 2005 trial premiered June 3, arriving perfectly timed after the blockbuster Michael biopic hit $715 million worldwide. Critics say it won't settle anything — but it will make looking away from the allegations much harder.",
+    "url": "https://www.netflix.com/title/81929201",
+    "source": "Netflix"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "Charli XCX Rock Music glitch edit",
-    "definition": "Charli XCX dropped 'Rock Music' on May 7 and the internet latched onto a deliberate vocal glitch mid-track as the mechanic for a viral video format where creators freeze-frame or stutter their footage to match the malfunction. It has become the dominant editing format flooding TikTok FYPs heading into June, spawning thousands of brand and creator executions.",
-    "usage": "POV: the Iran ceasefire doing the Charli XCX glitch edit every 48 hours.",
+    "term": "Saxophone Gets Louder",
+    "definition": "A viral TikTok format where someone describes a situation spiraling from fine to catastrophic, then an 80s-style saxophone suddenly blasts at full volume as the video zooms in or freezes on the chaos. It captures the exact moment life goes from 'this is fine' to 'oh no' and has taken over the FYP this week.",
+    "usage": "Markets open, jobs report drops, 172,000 new jobs added — [saxophone gets louder] — Nasdaq down 3%, Fed might hike, everyone's portfolio is on fire.",
     "url": "",
     "source": ""
   },
-  "tldr": "Iran bombed Kuwait's airport and US fired back at Qeshm Island on Day 96 of a war the Pentagon now legally has to investigate, while stocks fell and oil topped $95. Back home, Iowa voters handed Trump his first primary endorsement loss of the midterm cycle and Scott Pelley got fired from 60 Minutes for saying out loud what everyone was thinking."
+  "tldr": "A surprise blowout jobs report sent stocks tumbling Friday as 'good news is bad news' logic ruled Wall Street, while the Iran war's 98th day saw Hezbollah reject a ceasefire and Lebanon's own president publicly call out Iran for using his country as a bargaining chip. Gas is $4.24, Bitcoin is bleeding, and the only person having a good week is whoever greenlit the Michael Jackson Netflix doc."
 }
