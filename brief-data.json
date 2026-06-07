@@ -1,182 +1,186 @@
 {
-  "date": "Saturday, June 6, 2026",
+  "date": "Sunday, June 7, 2026",
   "headlines": [
     {
-      "text": "US strikes Iranian radar sites on Qeshm Island after shooting down 4 drones near Strait of Hormuz",
+      "text": "US-Iran ceasefire frays further as CENTCOM shoots down more drones over Strait of Hormuz",
       "tag": "💥"
     },
     {
-      "text": "Iran fires 7 ballistic missiles at Kuwait and Bahrain; sirens blare across Gulf states",
-      "tag": "🚨"
+      "text": "Knicks lead NBA Finals 2-0 over Spurs; Game 3 Monday at MSG with Trump in attendance",
+      "tag": "🏀"
     },
     {
-      "text": "Nasdaq crashes 4.18% in worst single-day drop since April 2025 as chip stocks implode",
+      "text": "Nasdaq suffers worst day since April 2025, drops 4.2% on chip rout and hot jobs report",
       "tag": "📉"
     },
     {
-      "text": "Senate passes $70 billion immigration enforcement bill 52-47 after 19-hour overnight vote-a-rama",
+      "text": "Pope Leo XIV celebrates Corpus Christi Mass in Madrid on first papal visit to Spain in 15 years",
+      "tag": "✝️"
+    },
+    {
+      "text": "Senate passes Trump immigration enforcement funding bill after weeks of bitter delays",
       "tag": "🗳️"
     },
     {
-      "text": "Iran pauses peace talks with US, threatens to fully block Strait of Hormuz and Strait of Mandeb",
-      "tag": "⚓"
+      "text": "At least 12 wounded in shooting near Toledo, Ohio street festival",
+      "tag": "🚨"
     },
     {
-      "text": "Xavier Becerra clinches top spot on California governor ballot; Steve Hilton likely runoff opponent",
-      "tag": "🏛️"
+      "text": "US to redirect Iranian frozen assets to help Gulf allies rebuild from war damage",
+      "tag": "💰"
     },
     {
-      "text": "May jobs report crushes expectations with 172,000 new jobs, sending Treasury yields above 5%",
-      "tag": "💼"
+      "text": "Peru holds presidential election: tight race between Keiko Fujimori and Roberto Sanchez",
+      "tag": "🗳️"
     },
     {
-      "text": "Madonna performs surprise Pride Month concert at Times Square, previewing new album Confessions II",
-      "tag": "🎤"
+      "text": "Bernie Sanders introduces American AI Sovereign Wealth Fund Act targeting OpenAI and Big Tech",
+      "tag": "🤖"
     },
     {
-      "text": "Lincoln Memorial Reflecting Pool refills after Trump had it painted American flag blue at cost of millions",
-      "tag": "🇺🇸"
-    },
-    {
-      "text": "US denies visas to 15 members of Iran's World Cup delegation days before FIFA tournament opens June 11",
+      "text": "US men's soccer team beats Germany in World Cup tune-up ahead of FIFA 2026 kickoff June 11",
       "tag": "⚽"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "BREAKING: Iran fires 7 ballistic missiles at Kuwait and Bahrain; US intercepts 6, Gulf states on high alert",
-    "url": "https://www.cnn.com/2026/06/05/world/live-news/iran-trump-lebanon-israel-war-news"
+    "text": "CENTCOM: US forces shoot down Iranian drones threatening Strait of Hormuz; Iran calls it a ceasefire violation",
+    "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855"
   },
   "stories": [
     {
       "tag": "iran war - day 99",
       "tagType": "fire",
-      "hed": "US Strikes Iranian Radar Sites After Drones Target Strait of Hormuz",
-      "dek": "Iran launched 4 attack drones at the Strait of Hormuz and then, apparently deciding that wasn't enough, fired 7 ballistic missiles at Kuwait and Bahrain for good measure. CENTCOM responded by blowing up radar sites on Qeshm Island, which is roughly the geopolitical equivalent of swatting someone's glasses off after they throw a punch.",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855",
-      "source": "ABC News",
+      "hed": "Drones, Missiles, and a Ceasefire That Exists Mostly on Paper",
+      "dek": "The US shot down more Iranian drones threatening the Strait of Hormuz, Iran fired seven ballistic missiles at Kuwait and Bahrain, and both sides are accusing the other of violating a ceasefire they both claim to support. Meanwhile Trump says a deal could come 'this weekend' -- a sentiment Iran's foreign minister found hilarious.",
+      "url": "https://www.cbsnews.com/live-updates/iran-us-war-israel-hezbollah-fighting-ceasefire-efforts/",
+      "source": "CBS News",
       "chips": [
-        "CENTCOM strikes Qeshm Island",
-        "Iran missiles hit Kuwait, Bahrain",
-        "Strait of Hormuz tensions"
+        "Strait of Hormuz",
+        "CENTCOM",
+        "ceasefire talks",
+        "Gulf allies"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Iran Suspends US Peace Talks, Threatens Full Hormuz Blockade as Lebanon Fighting Intensifies",
-      "dek": "Iran has paused negotiations with the US and threatened to completely block the Strait of Hormuz and close the Strait of Mandeb, citing Israeli strikes in Lebanon as the dealbreaker. Meanwhile, Israeli airstrikes killed at least 21 people in southern Lebanon on Friday, including Lebanese army officers, as Hezbollah rejected yet another US-brokered ceasefire.",
-      "url": "https://www.cbsnews.com/live-updates/iran-us-war-israel-hezbollah-fighting-ceasefire-efforts/",
-      "source": "CBS News",
-      "chips": [
-        "Hormuz blockade threat",
-        "Lebanon ceasefire collapses",
-        "Hezbollah rejects deal"
-      ]
-    },
-    {
-      "tag": "domestic",
-      "tagType": "us",
-      "hed": "Senate Passes $70 Billion ICE and Border Patrol Funding Bill After 19-Hour Marathon Session",
-      "dek": "After pulling an all-nighter that even college students would respect, Senate Republicans passed a $70 billion immigration enforcement package 52-47, funding ICE and Border Patrol through 2029. Sen. Lisa Murkowski was the lone Republican defector, and the bill now heads to a House that had already left for the weekend.",
-      "url": "https://www.npr.org/2026/06/05/nx-s1-5846807/senate-weaponization-fund-reconciliation-vote-immigration-enforcement",
+      "hed": "Pope Leo XIV Draws Massive Crowds in Madrid for First Papal Visit to Spain in 15 Years",
+      "dek": "Pope Leo XIV presided over a Corpus Christi Mass at Plaza de Cibeles with tens of thousands cheering. It is the first papal visit to Spain in 15 years, and the second day of a seven-day apostolic tour of the country.",
+      "url": "https://www.npr.org/sections/world/",
       "source": "NPR",
       "chips": [
-        "$70B ICE funding",
-        "52-47 vote",
-        "Goes to House next week"
+        "Pope Leo XIV",
+        "Spain",
+        "Vatican"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Becerra Tops California Governor Primary; Hilton Likely November Rival",
-      "dek": "Former HHS Secretary Xavier Becerra locked up the top spot on California's November ballot, with Trump-endorsed Fox News alum Steve Hilton expected to be his GOP opponent. With millions of ballots still uncounted, the race to replace Gavin Newsom is officially on — and California is California, so nothing is simple.",
-      "url": "https://www.nbcnews.com/politics/2026-primary-elections/california-governor-results",
+      "hed": "Senate Passes Trump Immigration Enforcement Funding Bill After Rocky Weeks",
+      "dek": "The Senate passed legislation funding Trump's immigration enforcement agencies after fierce backlash over an unrelated $1.776 billion settlement fund nearly derailed it. The bill now heads to Trump's desk, guaranteeing uninterrupted money for mass deportation operations.",
+      "url": "https://www.npr.org/sections/national/",
+      "source": "NPR",
+      "chips": [
+        "immigration",
+        "Senate",
+        "Trump",
+        "deportation"
+      ]
+    },
+    {
+      "tag": "domestic",
+      "tagType": "us",
+      "hed": "Defense Intelligence Agency Raises Counterintelligence Threat Level Over Israeli Espionage Concerns",
+      "dek": "The DIA quietly raised its counterintelligence threat level in recent weeks amid growing concerns that Israeli espionage against the US had become more aggressive than usual, sources tell NBC News. Awkward timing given the two countries are literally fighting a war together.",
+      "url": "https://www.nbcnews.com/politics",
       "source": "NBC News",
       "chips": [
-        "Becerra advances",
-        "Hilton leads GOP",
-        "Newsom term-limited out"
+        "DIA",
+        "Israel",
+        "espionage",
+        "national security"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump Painted the Lincoln Memorial Pool Flag Blue and It Cost Millions. Visitors Call It 'Subtle.'",
-      "dek": "The Lincoln Memorial Reflecting Pool is refilling after a weeks-long project to repaint it 'American flag blue' at a cost that reportedly ran into the millions. Visitors on-site, clearly managing expectations, described the change as 'subtle' — which is doing a lot of work as a word right now.",
-      "url": "https://www.npr.org/sections/national/",
-      "source": "NPR",
+      "hed": "US Blocked Visas for 15 Iranian World Cup Staff -- Iran's Soccer Team Might Show Up Literally Unmanaged",
+      "dek": "The US refused visas to 15 members of Iran's World Cup delegation, meaning the Iranian national team could arrive at the FIFA 2026 tournament -- being hosted on US soil -- without its full support staff. Iran is taking it to FIFA, which should make for a very normal and not at all complicated tournament.",
+      "url": "https://www.cbsnews.com/live-updates/iran-us-war-israel-hezbollah-fighting-ceasefire-efforts/",
+      "source": "CBS News",
       "chips": [
-        "Trump aesthetics agenda",
-        "Millions spent",
-        "Visitors unimpressed"
+        "FIFA 2026",
+        "Iran soccer",
+        "World Cup",
+        "visa ban"
       ]
     }
   ],
   "markets": {
     "sp500": {
       "val": "7,383",
-      "chg": "-2.64%",
+      "chg": "-2.6%",
       "dir": "down"
     },
     "dow": {
       "val": "50,866",
-      "chg": "-1.35%",
+      "chg": "-1.4%",
       "dir": "down"
     },
     "nasdaq": {
       "val": "25,709",
-      "chg": "-4.18%",
+      "chg": "-4.2%",
       "dir": "down"
     },
     "wti": {
-      "val": "$90",
-      "chg": "-3.0%",
+      "val": "$91",
+      "chg": "-3.1%",
       "dir": "down"
     },
     "brent": {
       "val": "$93",
-      "chg": "-2.5%",
+      "chg": "-2.0%",
       "dir": "down"
     },
     "gold": {
-      "val": "$4,366",
-      "chg": "-3.8%",
+      "val": "$4,327",
+      "chg": "-3.0%",
       "dir": "down"
     },
     "btc": {
-      "val": "$59,654",
-      "chg": "-6.1%",
+      "val": "$60,800",
+      "chg": "-1.7%",
       "dir": "down"
     },
-    "context": "A brutal May jobs report that doubled forecasts (172,000 jobs vs. 85,000 expected) spooked markets by raising Fed rate-hike odds, while a historic chip-stock selloff — led by Broadcom, Micron, AMD, and Nvidia — wiped roughly $1 trillion from markets in the Nasdaq's worst day since April 2025.",
+    "context": "Markets tanked Friday after a blowout May jobs report (172k vs 80k expected) sent Treasury yields surging, crushed chip stocks, and reminded investors that the Fed may actually have to hike rates.",
     "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html",
     "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.22",
-    "note": "Filling up your tank now costs roughly what a restaurant entree did in 2019, and the Strait of Hormuz is still closed, so enjoy.",
-    "premium": "$5.10",
-    "wti": "$90",
-    "highState": "CA: $5.94",
-    "lowState": "OK: $3.85",
+    "avg": "$4.17",
+    "note": "Gas is $4.17/gal nationally -- which is roughly what a movie ticket cost in 2005, except now it just takes you to work and back and you feel nothing.",
+    "premium": "$4.89",
+    "wti": "$91",
+    "highState": "CA: $5.90",
+    "lowState": "OK: $3.94",
     "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Madonna Throws Surprise Times Square Concert for Pride Month, Previews 'Confessions II'",
-    "dek": "The Queen of Pop materialized in a sheer pink veil at a secret venue embedded in a Times Square skyscraper on June 4, partnering with Grindr to kick off Pride Month and debut new music from her upcoming album Confessions II, due July 3. She performed 'Hung Up,' a Sabrina Carpenter collab called 'Bring Your Love,' and debuted 'Love Sensation' — all while wearing a Dolce & Gabbana corset and silver boots, because she's 67 and she's Madonna.",
-    "url": "https://www.tmz.com/2026/06/04/surprise-madonna-concert-in-new-york-city/",
-    "source": "TMZ"
+    "hed": "Knicks vs. Spurs NBA Finals Has NYC at Peak Hysteria -- MSG Game 3 Tickets Hitting $9,000",
+    "dek": "The New York Knicks lead the 2026 NBA Finals 2-0 over the San Antonio Spurs in a rematch of the 1999 Finals, and the city has completely lost its mind. Worst seats at Monday's Game 3 at Madison Square Garden were going for nearly $9,000 on the secondary market -- which is either insane or completely reasonable depending on whether you've waited 53 years for a title.",
+    "url": "https://www.npr.org/2026/06/06/nx-s1-5848552/knicks-spurs-nba-finals",
+    "source": "NPR"
   },
   "genZ": {
-    "type": "viral",
-    "term": "Saxophone Gets Louder",
-    "definition": "A TikTok meme format where someone describes a situation slowly going wrong — awkward, chaotic, or emotionally devastating — and then a blasting saxophone suddenly kicks in at full volume with a dramatic zoom or freeze-frame. It's peak escalation humor and has taken over social media in June 2026 because it is somehow universally applicable to everything from personal disasters to geopolitical meltdowns.",
-    "usage": "Markets open fine Thursday, Dow at record highs... Broadcom misses AI outlook... *SAXOPHONE GETS LOUDER* ...Nasdaq down 4%, chip stocks in freefall, VIX up 34%.",
-    "url": "",
-    "source": ""
+    "type": "tiktok",
+    "term": "Saxboy Billy 'The Puerto Rico Song'",
+    "definition": "Saxboy Billy's viral track 'The Puerto Rico Song' is the inescapable summer earworm dominating TikTok FYPs in June 2026, powering everything from beach POVs to World Cup hype clips. It blew up in the lead-up to FIFA 2026 and nobody can explain exactly why but everyone has heard it at least 40 times this week.",
+    "usage": "POV: you're at the gas pump paying $4.17 a gallon while 'The Puerto Rico Song' plays from the car next to you and somehow it makes it worse and better simultaneously.",
+    "url": "https://newengen.com/insights/june-tiktok-trends/",
+    "source": "NewEngen"
   },
-  "tldr": "The US-Iran war hit Day 99 with missiles flying across the Gulf, chip stocks had their worst day in over a year, and somehow Madonna in a corset at Times Square was the most competently executed operation of the week. Everything is expensive, nothing is resolved, and the FIFA World Cup starts in five days."
+  "tldr": "The US-Iran ceasefire is holding in name only as drones keep flying and missiles keep landing, while back home the Knicks are two wins from ending a 53-year championship drought and nobody can afford the gas to drive to the watch party."
 }
