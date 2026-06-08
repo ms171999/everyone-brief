@@ -1,186 +1,182 @@
 {
-  "date": "Sunday, June 7, 2026",
+  "date": "Monday, June 8, 2026",
   "headlines": [
     {
-      "text": "US-Iran ceasefire frays further as CENTCOM shoots down more drones over Strait of Hormuz",
+      "text": "Israel and Iran trade missile fire on war's 100th day, threatening fragile ceasefire",
       "tag": "💥"
     },
     {
-      "text": "Knicks lead NBA Finals 2-0 over Spurs; Game 3 Monday at MSG with Trump in attendance",
-      "tag": "🏀"
+      "text": "Apple WWDC kicks off: Tim Cook's final keynote unveils Gemini-powered Siri and iOS 27",
+      "tag": "🍎"
     },
     {
-      "text": "Nasdaq suffers worst day since April 2025, drops 4.2% on chip rout and hot jobs report",
-      "tag": "📉"
+      "text": "7.8 magnitude earthquake strikes Mindanao, Philippines; at least 35 dead, tsunami warnings issued",
+      "tag": "🌊"
     },
     {
-      "text": "Pope Leo XIV celebrates Corpus Christi Mass in Madrid on first papal visit to Spain in 15 years",
+      "text": "Trump demands Israel and Iran 'immediately stop shooting' as peace talks hang by a thread",
+      "tag": "🕊️"
+    },
+    {
+      "text": "National gas average at $4.17/gallon as Iran war keeps oil markets on edge",
+      "tag": "⛽"
+    },
+    {
+      "text": "Stocks rebound Monday: Nasdaq jumps ~1.4% as chip stocks recover and Middle East tensions ease slightly",
+      "tag": "📈"
+    },
+    {
+      "text": "2026 Tony Awards hosted by Pink at Radio City Music Hall; Aubrey Plaza and Christopher Abbott debut as couple",
+      "tag": "🎭"
+    },
+    {
+      "text": "Deb Haaland wins historic Democratic primary in New Mexico Senate race",
+      "tag": "🗳️"
+    },
+    {
+      "text": "Pope Leo XIV addresses Spanish parliament, calls for 'moral renewal' in public life",
       "tag": "✝️"
     },
     {
-      "text": "Senate passes Trump immigration enforcement funding bill after weeks of bitter delays",
-      "tag": "🗳️"
-    },
-    {
-      "text": "At least 12 wounded in shooting near Toledo, Ohio street festival",
-      "tag": "🚨"
-    },
-    {
-      "text": "US to redirect Iranian frozen assets to help Gulf allies rebuild from war damage",
-      "tag": "💰"
-    },
-    {
-      "text": "Peru holds presidential election: tight race between Keiko Fujimori and Roberto Sanchez",
-      "tag": "🗳️"
-    },
-    {
-      "text": "Bernie Sanders introduces American AI Sovereign Wealth Fund Act targeting OpenAI and Big Tech",
-      "tag": "🤖"
-    },
-    {
-      "text": "US men's soccer team beats Germany in World Cup tune-up ahead of FIFA 2026 kickoff June 11",
-      "tag": "⚽"
+      "text": "Bitcoin rebounds above $63,500 after dipping below $60K over the weekend",
+      "tag": "₿"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "CENTCOM: US forces shoot down Iranian drones threatening Strait of Hormuz; Iran calls it a ceasefire violation",
-    "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-irgc-claims-airbase-attack-after/?id=133475855"
+    "text": "BREAKING: Israel and Iran exchange missile strikes on war's 100th day — both sides now pausing fire after Trump intervenes",
+    "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates"
   },
   "stories": [
     {
-      "tag": "iran war - day 99",
+      "tag": "iran war - day 100",
       "tagType": "fire",
-      "hed": "Drones, Missiles, and a Ceasefire That Exists Mostly on Paper",
-      "dek": "The US shot down more Iranian drones threatening the Strait of Hormuz, Iran fired seven ballistic missiles at Kuwait and Bahrain, and both sides are accusing the other of violating a ceasefire they both claim to support. Meanwhile Trump says a deal could come 'this weekend' -- a sentiment Iran's foreign minister found hilarious.",
-      "url": "https://www.cbsnews.com/live-updates/iran-us-war-israel-hezbollah-fighting-ceasefire-efforts/",
-      "source": "CBS News",
+      "hed": "Israel and Iran Trade Strikes in Worst Escalation Since April Ceasefire",
+      "dek": "On the war's 100th day, Israel bombed Iranian petrochemical facilities and air defenses while Iran launched ~30 ballistic missiles at Israeli military bases. Both sides have now paused fire — after Trump posted on Truth Social demanding they stop, which apparently still works.",
+      "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
+      "source": "NPR",
       "chips": [
-        "Strait of Hormuz",
-        "CENTCOM",
-        "ceasefire talks",
-        "Gulf allies"
+        "Israel strikes Iran",
+        "Houthis rejoin",
+        "ceasefire in doubt"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Pope Leo XIV Draws Massive Crowds in Madrid for First Papal Visit to Spain in 15 Years",
-      "dek": "Pope Leo XIV presided over a Corpus Christi Mass at Plaza de Cibeles with tens of thousands cheering. It is the first papal visit to Spain in 15 years, and the second day of a seven-day apostolic tour of the country.",
-      "url": "https://www.npr.org/sections/world/",
-      "source": "NPR",
+      "hed": "7.8 Earthquake Devastates Southern Philippines, Killing at Least 35",
+      "dek": "A powerful offshore quake struck Mindanao on the first day of school, collapsing buildings in General Santos City and triggering tsunami warnings across the region. Over 130 aftershocks have followed — because apparently the earth had more to say.",
+      "url": "https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/",
+      "source": "GMA News",
       "chips": [
-        "Pope Leo XIV",
-        "Spain",
-        "Vatican"
+        "Philippines",
+        "tsunami warning",
+        "35 dead"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Senate Passes Trump Immigration Enforcement Funding Bill After Rocky Weeks",
-      "dek": "The Senate passed legislation funding Trump's immigration enforcement agencies after fierce backlash over an unrelated $1.776 billion settlement fund nearly derailed it. The bill now heads to Trump's desk, guaranteeing uninterrupted money for mass deportation operations.",
-      "url": "https://www.npr.org/sections/national/",
-      "source": "NPR",
+      "hed": "Apple WWDC 2026: Tim Cook's Final Keynote Unveils Gemini-Powered Siri and iOS 27",
+      "dek": "In what is Tim Cook's 15th and final WWDC as CEO, Apple announced a total rebuild of Siri using Google's Gemini AI and previewed six new OS platforms. Siri can now hold real conversations — only 15 years after it promised it could.",
+      "url": "https://www.cnbc.com/2026/06/08/apple-wwdc-2026-live-updates.html",
+      "source": "CNBC",
       "chips": [
-        "immigration",
-        "Senate",
-        "Trump",
-        "deportation"
+        "iOS 27",
+        "Gemini Siri",
+        "Tim Cook farewell"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Defense Intelligence Agency Raises Counterintelligence Threat Level Over Israeli Espionage Concerns",
-      "dek": "The DIA quietly raised its counterintelligence threat level in recent weeks amid growing concerns that Israeli espionage against the US had become more aggressive than usual, sources tell NBC News. Awkward timing given the two countries are literally fighting a war together.",
-      "url": "https://www.nbcnews.com/politics",
-      "source": "NBC News",
+      "hed": "Deb Haaland Wins Historic New Mexico Senate Primary",
+      "dek": "Former Interior Secretary Deb Haaland secured a landmark Democratic primary win in New Mexico, a race carrying enormous significance for Native communities across the country. History was made — quietly, while everyone else watched the missiles.",
+      "url": "https://nativenewsonline.net/currents/monday-morning-june-8-2026-articles-you-may-have-missed-this-past-weekend/",
+      "source": "Native News Online",
       "chips": [
-        "DIA",
-        "Israel",
-        "espionage",
-        "national security"
+        "Haaland",
+        "New Mexico",
+        "midterms"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "US Blocked Visas for 15 Iranian World Cup Staff -- Iran's Soccer Team Might Show Up Literally Unmanaged",
-      "dek": "The US refused visas to 15 members of Iran's World Cup delegation, meaning the Iranian national team could arrive at the FIFA 2026 tournament -- being hosted on US soil -- without its full support staff. Iran is taking it to FIFA, which should make for a very normal and not at all complicated tournament.",
-      "url": "https://www.cbsnews.com/live-updates/iran-us-war-israel-hezbollah-fighting-ceasefire-efforts/",
-      "source": "CBS News",
+      "hed": "Kennedy Center Drops 'Trump' Branding as Bill Maher's Twain Award Guest List Drops",
+      "dek": "The Kennedy Center quietly removed Trump-era branding as the Twain Prize for American Humor prepares its guest list under Bill Maher. Nothing says 'comedy' quite like a Washington institution quietly redacting itself.",
+      "url": "https://www.usnews.com/",
+      "source": "U.S. News & World Report",
       "chips": [
-        "FIFA 2026",
-        "Iran soccer",
-        "World Cup",
-        "visa ban"
+        "Kennedy Center",
+        "Bill Maher",
+        "culture war"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,383",
-      "chg": "-2.6%",
-      "dir": "down"
+      "val": "7,452",
+      "chg": "+0.9%",
+      "dir": "up"
     },
     "dow": {
-      "val": "50,866",
-      "chg": "-1.4%",
-      "dir": "down"
+      "val": "51,161",
+      "chg": "+0.6%",
+      "dir": "up"
     },
     "nasdaq": {
-      "val": "25,709",
-      "chg": "-4.2%",
-      "dir": "down"
+      "val": "26,079",
+      "chg": "+1.4%",
+      "dir": "up"
     },
     "wti": {
       "val": "$91",
-      "chg": "-3.1%",
-      "dir": "down"
+      "chg": "+1.1%",
+      "dir": "up"
     },
     "brent": {
-      "val": "$93",
-      "chg": "-2.0%",
-      "dir": "down"
+      "val": "$94",
+      "chg": "+1.4%",
+      "dir": "up"
     },
     "gold": {
-      "val": "$4,327",
-      "chg": "-3.0%",
+      "val": "$4,329",
+      "chg": "-1.8%",
       "dir": "down"
     },
     "btc": {
-      "val": "$60,800",
-      "chg": "-1.7%",
-      "dir": "down"
+      "val": "$63,564",
+      "chg": "+3.0%",
+      "dir": "up"
     },
-    "context": "Markets tanked Friday after a blowout May jobs report (172k vs 80k expected) sent Treasury yields surging, crushed chip stocks, and reminded investors that the Fed may actually have to hike rates.",
-    "url": "https://www.cnbc.com/2026/06/04/stock-market-today-live-updates.html",
-    "source": "CNBC"
+    "context": "Stocks bounced back Monday as Iran paused its strikes on Israel and chip stocks clawed back last week's brutal selloff, while oil held elevated gains and gold slipped as the war-premium cooled slightly.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-june-8-dow-sp-500-nasdaq-jump-085310403.html",
+    "source": "Yahoo Finance"
   },
   "gas": {
     "avg": "$4.17",
-    "note": "Gas is $4.17/gal nationally -- which is roughly what a movie ticket cost in 2005, except now it just takes you to work and back and you feel nothing.",
-    "premium": "$4.89",
+    "note": "At $4.17/gal, Americans are paying $1.21 more than before the Iran war started — the Strait of Hormuz is closed but your wallet is wide open.",
+    "premium": "$4.75",
     "wti": "$91",
-    "highState": "CA: $5.90",
-    "lowState": "OK: $3.94",
+    "highState": "CA: $5.97",
+    "lowState": "TX: $3.72",
     "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Knicks vs. Spurs NBA Finals Has NYC at Peak Hysteria -- MSG Game 3 Tickets Hitting $9,000",
-    "dek": "The New York Knicks lead the 2026 NBA Finals 2-0 over the San Antonio Spurs in a rematch of the 1999 Finals, and the city has completely lost its mind. Worst seats at Monday's Game 3 at Madison Square Garden were going for nearly $9,000 on the secondary market -- which is either insane or completely reasonable depending on whether you've waited 53 years for a title.",
-    "url": "https://www.npr.org/2026/06/06/nx-s1-5848552/knicks-spurs-nba-finals",
-    "source": "NPR"
+    "hed": "2026 Tony Awards: Pink Hosts Broadway's Biggest Night, Aubrey Plaza Makes Her Red Carpet Couple Debut",
+    "dek": "Pink took the Radio City Music Hall stage as first-time Tony host on June 7, while Aubrey Plaza and Christopher Abbott made their official debut as a couple — baby on the way and all. Broadway came through harder than any ceasefire this week.",
+    "url": "https://www.eonline.com/news",
+    "source": "E! News"
   },
   "genZ": {
-    "type": "tiktok",
-    "term": "Saxboy Billy 'The Puerto Rico Song'",
-    "definition": "Saxboy Billy's viral track 'The Puerto Rico Song' is the inescapable summer earworm dominating TikTok FYPs in June 2026, powering everything from beach POVs to World Cup hype clips. It blew up in the lead-up to FIFA 2026 and nobody can explain exactly why but everyone has heard it at least 40 times this week.",
-    "usage": "POV: you're at the gas pump paying $4.17 a gallon while 'The Puerto Rico Song' plays from the car next to you and somehow it makes it worse and better simultaneously.",
-    "url": "https://newengen.com/insights/june-tiktok-trends/",
-    "source": "NewEngen"
+    "type": "meme",
+    "term": "The Saxophones Are Getting Louder",
+    "definition": "A TikTok meme rooted in the dramatic saxophone score from the 1991 film Boyz n the Hood, used to signal that a bad or unavoidable outcome is creeping closer. The format layers the swelling sax audio over any situation that looks fine on the surface but is clearly spiraling — your gut knows before your brain does.",
+    "usage": "Israel and Iran signing a ceasefire in April... and the saxophones getting louder every single week since.",
+    "url": "https://www.yahoo.com/entertainment/music/articles/does-saxophones-getting-louder-mean-182127445.html",
+    "source": "Yahoo Entertainment"
   },
-  "tldr": "The US-Iran ceasefire is holding in name only as drones keep flying and missiles keep landing, while back home the Knicks are two wins from ending a 53-year championship drought and nobody can afford the gas to drive to the watch party."
+  "tldr": "On the 100th day of the Iran-Israel war, both sides exchanged missile strikes before pausing fire under pressure from Trump, while Apple held its most watched WWDC ever as Tim Cook said goodbye and introduced a Gemini-powered Siri that might actually work this time. Meanwhile, a devastating earthquake hit the Philippines, stocks rebounded, and gas remains $1.21 more expensive than it was before anyone knew what Operation Epic Fury was."
 }
