@@ -1,118 +1,119 @@
 {
-  "date": "Saturday, June 13, 2026",
+  "date": "Sunday, June 14, 2026",
   "headlines": [
     {
-      "text": "Pakistan PM says US and Iran have agreed on final text of peace deal; signing location being negotiated",
+      "text": "Trump says US-Iran peace deal set to be signed today, Strait of Hormuz to reopen",
       "tag": "🕊️"
     },
     {
-      "text": "SpaceX closes first day of trading up 19% at $160.95, completing the largest IPO in history at $1.77T valuation",
+      "text": "SpaceX IPO closes at $161, becomes largest public offering in history, makes Musk first trillionaire",
       "tag": "🚀"
     },
     {
-      "text": "FIFA World Cup 2026 Day 3: Brazil vs. Morocco and Haiti vs. Scotland kick off today across US venues",
-      "tag": "⚽"
+      "text": "UFC Freedom 250 kicks off tonight on White House South Lawn — Topuria vs. Gaethje for lightweight title",
+      "tag": "🥊"
     },
     {
-      "text": "Olivia Rodrigo's third album 'You Seem Pretty Sad for a Girl So in Love' drops Friday, sets 2026 Spotify streaming record",
-      "tag": "🎵"
+      "text": "Trump's name removed from Kennedy Center facade overnight after court-ordered deadline",
+      "tag": "🏛️"
     },
     {
-      "text": "Spielberg's 'Disclosure Day' opens in theaters with 90% on Rotten Tomatoes, his best-reviewed film in years",
-      "tag": "🎬"
-    },
-    {
-      "text": "Judge extends block on Trump administration's billion-dollar 'anti-weaponization' fund, citing lack of trust",
-      "tag": "⚖️"
-    },
-    {
-      "text": "DOJ clears Paramount-Warner Bros. Discovery merger, finding no threat to US competition",
-      "tag": "📺"
-    },
-    {
-      "text": "Princess of Wales joins Royal Family at Peter Phillips' wedding ceremony",
-      "tag": "👑"
-    },
-    {
-      "text": "US drones shoot down Iranian drones targeting ships in Strait of Hormuz for second consecutive night",
+      "text": "Israel strikes Beirut amid fragile US-Iran ceasefire negotiations; Netanyahu convenes security cabinet",
       "tag": "💥"
     },
     {
-      "text": "Elon Musk becomes world's first trillionaire on paper as SpaceX IPO vaults his net worth past $1 trillion",
-      "tag": "💰"
+      "text": "FIFA World Cup 2026: Germany, Netherlands, Ivory Coast all in action today across the US",
+      "tag": "⚽"
+    },
+    {
+      "text": "Olivia Rodrigo's third album 'you seem pretty sad for a girl so in love' drops Friday, breaks Spotify records",
+      "tag": "🎵"
+    },
+    {
+      "text": "Trump claims US strike killed Tren de Aragua leader in Venezuela",
+      "tag": "🎯"
+    },
+    {
+      "text": "Oil falls below $85 on hopes of US-Iran deal reopening Strait of Hormuz",
+      "tag": "🛢️"
+    },
+    {
+      "text": "Today is Flag Day and Trump's 80th birthday — White House confirms it is not a coincidence that UFC is tonight",
+      "tag": "🎂"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Pakistan PM confirms US-Iran peace deal text is finalized; both sides now negotiating where to sign it",
-    "url": "https://www.britannica.com/event/2026-Iran-war"
+    "text": "Trump says US-Iran MOU signing expected today; Qatari negotiators flew to Tehran this morning to finalize deal",
+    "url": "https://www.nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-both-sides-say-rcna349916"
   },
   "stories": [
     {
-      "tag": "iran war - day 106",
+      "tag": "iran war - day 107",
       "tagType": "fire",
-      "hed": "US and Iran Agree on Peace Deal Text; Signing Location the Only Thing Left to Fight About",
-      "dek": "After 106 days of missiles, drones, and warships playing bumper cars in the Strait of Hormuz, Pakistan's Prime Minister announced the US and Iran have agreed on the final wording of a peace deal. The sticking point now is apparently where to sign it, which is diplomacy's version of arguing over the restaurant.",
-      "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243",
+      "hed": "US and Iran inch toward MOU signing as Qatari negotiators land in Tehran",
+      "dek": "Trump said the deal is 'scheduled to get signed' today and the Strait of Hormuz will open 'immediately' after — Iran said hold on, we have notes. Israel, apparently not invited to the peace party, struck Beirut anyway, which Trump called 'should not have happened,' a rare moment of presidential understatement.",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243",
       "source": "ABC News",
       "chips": [
-        "peace deal",
+        "US-Iran MOU",
         "Strait of Hormuz",
-        "Pakistan mediates"
+        "Israel-Lebanon",
+        "Ceasefire"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "FIFA World Cup 2026 Day 3: Brazil, Morocco, Haiti, Scotland All Take the Pitch Today",
-      "dek": "The World Cup's record 48-team tournament rolls into its third day with four matches spread across US venues. Brazil faces Morocco in New Jersey while Haiti makes its World Cup debut against Scotland in Foxborough.",
-      "url": "https://www.olympics.com/en/news/world-cup-2026-every-match-result-saturday-13-june",
+      "hed": "FIFA World Cup 2026 Day 4: Germany, Netherlands hit the pitch as US hosts the world",
+      "dek": "Germany faces Curacao in Houston, the Netherlands take on Japan in Dallas, and the Ivory Coast open their Group E campaign — all while World Cup security concerns dominate Fox News Sunday chatter. At least someone's scoring goals.",
+      "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-every-match-result-sunday-14-june-live-scores",
       "source": "Olympics.com",
       "chips": [
-        "Brazil vs Morocco",
-        "Haiti vs Scotland",
-        "World Cup 2026"
+        "World Cup 2026",
+        "Germany vs Curacao",
+        "Netherlands vs Japan"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Federal Judge Extends Block on Trump's 'Anti-Weaponization' Fund, Says She Doesn't Trust the Administration",
-      "dek": "A federal judge extended her order blocking Trump's billion-dollar anti-weaponization fund, stating plainly that she does not trust the administration to comply. It's rare for a judicial opinion to include what amounts to a Yelp review of an entire branch of government.",
-      "url": "https://www.upi.com/Top_News/2026/06/13/UPI-Almanac-for-Saturday-June-13-2026/7471781321839/",
-      "source": "UPI",
+      "hed": "Trump's name removed from Kennedy Center building overnight after federal court order",
+      "dek": "Workers dismantled the letters in the dark hours of Saturday morning, six months after they went up, as crowds gathered to watch and cheer. A federal judge had ordered the restoration of the Kennedy Center's original name by June 12; the administration appealed, lost, and now the scaffolding is gone along with the branding.",
+      "url": "https://time.com/article/2026/06/09/trump-name-removed-kennedy-center-building/",
+      "source": "TIME",
       "chips": [
-        "Trump",
-        "courts",
-        "anti-weaponization fund"
+        "Kennedy Center",
+        "Federal Courts",
+        "Trump Branding"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "DOJ Approves Paramount-Warner Bros. Discovery Merger, Creating Yet Another Media Mega-Blob",
-      "dek": "The Department of Justice signed off on the merger between Paramount Skydance and Warner Bros. Discovery, concluding it poses no threat to competition. Consumers who enjoy having dozens of streaming passwords are encouraged to grieve privately.",
-      "url": "https://www.upi.com/Top_News/2026/06/13/UPI-Almanac-for-Saturday-June-13-2026/7471781321839/",
-      "source": "UPI",
+      "hed": "UFC holds first-ever White House fight night as Trump turns 80 on Flag Day",
+      "dek": "UFC Freedom 250 takes place tonight on the South Lawn, commemorating the US Semiquincentennial — coincidentally also the president's 80th birthday, which UFC promoters insist is a coincidence. Ilia Topuria defends his lightweight title against Justin Gaethje in front of 4,000 ticketed guests and 85,000 more at the Ellipse watching for free.",
+      "url": "https://www.ufc.com/event/ufc-freedom-250",
+      "source": "UFC",
       "chips": [
-        "Paramount",
-        "Warner Bros",
-        "media merger",
-        "DOJ"
+        "UFC Freedom 250",
+        "Topuria vs Gaethje",
+        "White House",
+        "Flag Day"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Elon Musk Is Now Technically the World's First Trillionaire — On Paper, Anyway",
-      "dek": "SpaceX's historic IPO closing at $160.95 per share pushed Elon Musk's net worth past $1 trillion for the first time in history, making him the world's first trillionaire on paper. Whether he actually feels richer than yesterday while posting at 3am about imaginary enemies is a matter for philosophers.",
-      "url": "https://finance.yahoo.com/markets/live/spacex-ipo-live-updates-elon-musks-spacex-set-to-make-record-debut-as-dow-sp-500-nasdaq-rise-230015961.html",
-      "source": "Yahoo Finance",
+      "hed": "SpaceX IPO made Musk a trillionaire — and the company has lost $41 billion since it was founded",
+      "dek": "SpaceX raised $75 billion in the largest IPO ever on Friday, closed up 19% at $161, and minted Elon Musk as the world's first trillionaire — a man whose company's own prospectus admits it has accumulated a total loss of $41.3 billion since 2002. Investors call it 'aspiration.' Accountants call it a tab.",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+      "source": "CNBC",
       "chips": [
-        "Musk",
         "SpaceX IPO",
         "SPCX",
-        "trillionaire"
+        "Elon Musk",
+        "Nasdaq"
       ]
     }
   ],
@@ -128,57 +129,57 @@
       "dir": "up"
     },
     "nasdaq": {
-      "val": "25,888",
+      "val": "25,889",
       "chg": "+0.3%",
       "dir": "up"
     },
     "wti": {
-      "val": "$84.88",
+      "val": "$85",
       "chg": "-3.2%",
       "dir": "down"
     },
     "brent": {
-      "val": "$87.33",
-      "chg": "-3.4%",
+      "val": "$89",
+      "chg": "-2.8%",
       "dir": "down"
     },
     "gold": {
-      "val": "$4,238",
+      "val": "$4,239",
       "chg": "+3.0%",
       "dir": "up"
     },
     "btc": {
-      "val": "$64,159",
-      "chg": "+1.0%",
+      "val": "$63,955",
+      "chg": "+0.02%",
       "dir": "up"
     },
-    "context": "Markets rose Friday as SpaceX's record-breaking IPO debut and optimism over a US-Iran peace deal lifted sentiment, while oil prices fell sharply on ceasefire hopes.",
-    "url": "https://finance.yahoo.com/quote/%5EDJI/history/",
-    "source": "Yahoo Finance"
+    "context": "Markets rose Friday on SpaceX's historic $75B IPO debut and optimism over a potential US-Iran peace deal that sent oil prices to an eight-week low.",
+    "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+    "source": "CNBC"
   },
   "gas": {
-    "avg": "$4.17",
-    "note": "Gas is down from last week's $4.28 — apparently the threat of peace is already hitting Big Oil where it hurts.",
-    "premium": "$4.79",
-    "wti": "$84.88",
-    "highState": "CA: $5.84",
-    "lowState": "OK: $3.38",
-    "url": "https://gasprices.aaa.com",
-    "source": "AAA / Finder"
+    "avg": "$4.07",
+    "note": "Down from a Memorial Day peak of $4.56 — still $1.11 more than this time last year, because nothing says summer road trip like a second mortgage.",
+    "premium": "$5.04",
+    "wti": "$85",
+    "highState": "CA: $5.81",
+    "lowState": "IN: $3.39",
+    "url": "https://gasprices.aaa.com/?state=US",
+    "source": "AAA"
   },
   "popCulture": {
-    "hed": "Olivia Rodrigo Drops Album 'You Seem Pretty Sad for a Girl So in Love,' Breaks 2026 Spotify Record on Day One",
-    "dek": "Rodrigo's third album arrived Friday featuring a Robert Smith of The Cure collaboration and a full emotional autopsy of a doomed romance. It became the most-streamed album by a female artist in a single day on Spotify in 2026, proving that heartbreak is still extremely good for business.",
-    "url": "https://variety.com/2026/music/news/olivia-rodrigo-new-album-title-june-release-date-1236705555/",
-    "source": "Variety"
+    "hed": "Olivia Rodrigo's third album 'you seem pretty sad for a girl so in love' dropped Friday and broke Spotify's 2026 single-day streaming record for a female artist",
+    "dek": "Released June 12 via Geffen Records, the 13-track album is already being called her most emotionally complex work yet — which is saying something for a woman who turned a driving permit into a No. 1 hit. Her 86-date Unraveled World Tour kicks off in September.",
+    "url": "https://www.musictimes.com/articles/112133/20260609/olivia-rodrigos-new-album-arrives-friday-why-its-most-anticipated-pop-release-2026.htm",
+    "source": "Music Times"
   },
   "genZ": {
-    "type": "tiktok",
-    "term": "Charli XCX Rock Music Glitch Format",
-    "definition": "Charli XCX's May drop 'Rock Music' spawned a TikTok format built entirely around a deliberate vocal glitch mid-track — creators use the malfunction as the comedic or emotional pivot point of their videos. It has been flooding FYPs all of June as the format gets remixed into everything from breakup confessions to World Cup reactions.",
-    "usage": "POV: you're Iran and you've agreed to a peace deal text but now you have to pick a country to sign it in [glitch sound] Switzerland??? [freeze frame chaos]",
-    "url": "https://newengen.com/insights/june-tiktok-trends/",
-    "source": "New Engen"
+    "type": "meme",
+    "term": "Saxophones Are Getting Louder",
+    "definition": "A viral TikTok and social media meme format where someone narrates a situation slowly going wrong, and a blaring saxophone sax solo suddenly kicks in at full volume as chaos unfolds — borrowed from the Boyz n the Hood score. It has completely taken over feeds in June 2026 as the go-to format for escalating dread.",
+    "usage": "Trump: 'The Iran deal will be signed today.' Iran: 'We did not agree to that.' Israel: *strikes Beirut* [SAXOPHONE GETS LOUDER]",
+    "url": "",
+    "source": ""
   },
-  "tldr": "The US and Iran agreed on peace deal language Saturday, sending oil prices down and stocks up on the same day SpaceX completed the largest IPO in history and Olivia Rodrigo broke Spotify records — a genuinely absurd amount of news for one weekend. The FIFA World Cup is also happening, because apparently the universe decided June 2026 needed to go completely unhinged."
+  "tldr": "Trump declared an Iran peace deal would be signed today, but Israeli strikes on Beirut and mixed signals from Tehran kept diplomats sweating; meanwhile SpaceX went public in the largest IPO in history, made Musk a trillionaire, and the UFC is literally fighting on the White House lawn tonight. Happy Flag Day."
 }
