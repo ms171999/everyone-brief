@@ -1,185 +1,183 @@
 {
-  "date": "Sunday, June 14, 2026",
+  "date": "Monday, June 15, 2026",
   "headlines": [
     {
-      "text": "Trump says US-Iran peace deal set to be signed today, Strait of Hormuz to reopen",
+      "text": "US and Iran announce deal to end war, reopen Strait of Hormuz; signing set for Friday in Switzerland",
       "tag": "🕊️"
     },
     {
-      "text": "SpaceX IPO closes at $161, becomes largest public offering in history, makes Musk first trillionaire",
-      "tag": "🚀"
+      "text": "Markets soar on Iran peace deal: S&P 500 +1.49%, Nasdaq surges 2.38%, oil tumbles $4+ a barrel",
+      "tag": "📈"
     },
     {
-      "text": "UFC Freedom 250 kicks off tonight on White House South Lawn — Topuria vs. Gaethje for lightweight title",
+      "text": "Fox Corp. announces $22 billion acquisition of Roku, combining Tubi and Fox News with 100M+ streaming households",
+      "tag": "📺"
+    },
+    {
+      "text": "Trump turns 80: UFC Freedom 250 cage fights held on White House South Lawn to celebrate the president's birthday",
       "tag": "🥊"
     },
     {
-      "text": "Trump's name removed from Kennedy Center facade overnight after court-ordered deadline",
-      "tag": "🏛️"
+      "text": "Newsom accuses Trump of directing DOJ to investigate him and his wife, calls it politically motivated",
+      "tag": "⚖️"
     },
     {
-      "text": "Israel strikes Beirut amid fragile US-Iran ceasefire negotiations; Netanyahu convenes security cabinet",
-      "tag": "💥"
+      "text": "SpaceX IPO closes today after SPCX debuted at $150 and surged nearly 20% on Friday to close at $161",
+      "tag": "🚀"
     },
     {
-      "text": "FIFA World Cup 2026: Germany, Netherlands, Ivory Coast all in action today across the US",
-      "tag": "⚽"
+      "text": "Trump name removed from Kennedy Center facade in overnight operation after court ruling",
+      "tag": "🎭"
     },
     {
-      "text": "Olivia Rodrigo's third album 'you seem pretty sad for a girl so in love' drops Friday, breaks Spotify records",
+      "text": "G7 summit opens in France as Geneva police fire tear gas at anti-Tesla protesters outside UN ahead of talks",
+      "tag": "🌍"
+    },
+    {
+      "text": "DOJ clears Paramount-Skydance acquisition of Warner Bros. Discovery in $110 billion media mega-merger",
+      "tag": "🎬"
+    },
+    {
+      "text": "Olivia Rodrigo drops new album 'you seem pretty sad for a girl so in love' as FIFA World Cup floods TikTok FYPs",
       "tag": "🎵"
-    },
-    {
-      "text": "Trump claims US strike killed Tren de Aragua leader in Venezuela",
-      "tag": "🎯"
-    },
-    {
-      "text": "Oil falls below $85 on hopes of US-Iran deal reopening Strait of Hormuz",
-      "tag": "🛢️"
-    },
-    {
-      "text": "Today is Flag Day and Trump's 80th birthday — White House confirms it is not a coincidence that UFC is tonight",
-      "tag": "🎂"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Trump says US-Iran MOU signing expected today; Qatari negotiators flew to Tehran this morning to finalize deal",
-    "url": "https://www.nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-both-sides-say-rcna349916"
+    "text": "BREAKING: US and Iran reach deal to end war and reopen Strait of Hormuz. Signing ceremony set for Friday in Switzerland.",
+    "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-deal-end-war-reopen-hormuz-markets-israel-rcna350076"
   },
   "stories": [
     {
-      "tag": "iran war - day 107",
+      "tag": "iran war - day 108",
       "tagType": "fire",
-      "hed": "US and Iran inch toward MOU signing as Qatari negotiators land in Tehran",
-      "dek": "Trump said the deal is 'scheduled to get signed' today and the Strait of Hormuz will open 'immediately' after — Iran said hold on, we have notes. Israel, apparently not invited to the peace party, struck Beirut anyway, which Trump called 'should not have happened,' a rare moment of presidential understatement.",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-iran-trade-strikes-trump/?id=133674243",
-      "source": "ABC News",
+      "hed": "US and Iran Declare Deal 'Complete' as Hormuz Prepares to Reopen",
+      "dek": "Trump posted 'Ships of the World, start your engines' on Truth Social, which is either historic diplomacy or the world's most consequential boat tweet. Iran's foreign minister said the deal is real but also that he doesn't trust anyone — so basically a normal Monday.",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
+      "source": "NPR",
       "chips": [
-        "US-Iran MOU",
-        "Strait of Hormuz",
-        "Israel-Lebanon",
-        "Ceasefire"
+        "Hormuz Deal",
+        "Ceasefire",
+        "Pakistan Mediator",
+        "Signing Friday"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "FIFA World Cup 2026 Day 4: Germany, Netherlands hit the pitch as US hosts the world",
-      "dek": "Germany faces Curacao in Houston, the Netherlands take on Japan in Dallas, and the Ivory Coast open their Group E campaign — all while World Cup security concerns dominate Fox News Sunday chatter. At least someone's scoring goals.",
-      "url": "https://www.olympics.com/en/news/fifa-world-cup-2026-every-match-result-sunday-14-june-live-scores",
-      "source": "Olympics.com",
+      "hed": "G7 Summit Opens in France With Iran Peace Deal Dominating Agenda",
+      "dek": "World leaders gathered in Evian as Geneva protesters torched a Tesla and smashed windows at a UN agency — a reminder that even peace news comes with property damage. Trump flew from White House UFC fights directly to the summit, an itinerary no protocol manual has ever anticipated.",
+      "url": "https://www.justsecurity.org/142788/early-edition-june-15-2026/",
+      "source": "Just Security",
       "chips": [
-        "World Cup 2026",
-        "Germany vs Curacao",
-        "Netherlands vs Japan"
+        "G7 France",
+        "Geneva Protests"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Trump's name removed from Kennedy Center building overnight after federal court order",
-      "dek": "Workers dismantled the letters in the dark hours of Saturday morning, six months after they went up, as crowds gathered to watch and cheer. A federal judge had ordered the restoration of the Kennedy Center's original name by June 12; the administration appealed, lost, and now the scaffolding is gone along with the branding.",
-      "url": "https://time.com/article/2026/06/09/trump-name-removed-kennedy-center-building/",
-      "source": "TIME",
+      "hed": "Newsom Says Trump Ordered DOJ to Investigate Him and His Wife",
+      "dek": "California Gov. Gavin Newsom went public Monday alleging the Trump DOJ is digging through years of his records without finding a crime, which he attributed to his rumored 2028 presidential ambitions. Federal agents have reportedly knocked on the doors of his family, friends and former employees — a grand jury fishing expedition that Newsom says smells purely political.",
+      "url": "https://www.cnn.com/2026/06/15/politics/gavin-newsom-trump-justice-department-investigation",
+      "source": "CNN",
       "chips": [
-        "Kennedy Center",
-        "Federal Courts",
-        "Trump Branding"
+        "DOJ Probe",
+        "2028 Race",
+        "Political Targeting"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "UFC holds first-ever White House fight night as Trump turns 80 on Flag Day",
-      "dek": "UFC Freedom 250 takes place tonight on the South Lawn, commemorating the US Semiquincentennial — coincidentally also the president's 80th birthday, which UFC promoters insist is a coincidence. Ilia Topuria defends his lightweight title against Justin Gaethje in front of 4,000 ticketed guests and 85,000 more at the Ellipse watching for free.",
-      "url": "https://www.ufc.com/event/ufc-freedom-250",
-      "source": "UFC",
+      "hed": "Fox Buys Roku for $22 Billion in Landmark Streaming Deal",
+      "dek": "Fox Corp. announced it will acquire Roku for $160 per share, combining Fox News, Tubi, NFL and MLB rights with Roku's 100 million-plus streaming households — making it the third-largest US TV player by viewership. Fox stock dropped 15% on the news because Wall Street apparently wasn't ready to pay $22 billion to watch people find the Netflix button.",
+      "url": "https://variety.com/2026/tv/news/fox-acquiring-roku-1236781308/",
+      "source": "Variety",
       "chips": [
-        "UFC Freedom 250",
-        "Topuria vs Gaethje",
-        "White House",
-        "Flag Day"
+        "Fox",
+        "Roku",
+        "Streaming Wars",
+        "Media M&A"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "SpaceX IPO made Musk a trillionaire — and the company has lost $41 billion since it was founded",
-      "dek": "SpaceX raised $75 billion in the largest IPO ever on Friday, closed up 19% at $161, and minted Elon Musk as the world's first trillionaire — a man whose company's own prospectus admits it has accumulated a total loss of $41.3 billion since 2002. Investors call it 'aspiration.' Accountants call it a tab.",
-      "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
-      "source": "CNBC",
+      "hed": "Trump Rang In 80 With Cage Fights on the White House Lawn. Historians Are Having a Moment.",
+      "dek": "UFC Freedom 250 featured 14 fighters punching each other inside a wire-mesh octagon steps from the Rose Garden, with the Blue Angels flying overhead and Zac Brown singing the anthem. A Cornell classics professor compared it to Imperial Roman gladiatorial games — Trump's camp called that a compliment.",
+      "url": "https://www.pbs.org/newshour/politics/trump-celebrates-80th-birthday-with-ufc-fights-while-issues-loom-over-his-presidency",
+      "source": "PBS NewsHour",
       "chips": [
-        "SpaceX IPO",
-        "SPCX",
-        "Elon Musk",
-        "Nasdaq"
+        "UFC Freedom 250",
+        "Trump 80th",
+        "White House Chaos"
       ]
     }
   ],
   "markets": {
     "sp500": {
       "val": "7,431",
-      "chg": "+0.5%",
+      "chg": "+1.49%",
       "dir": "up"
     },
     "dow": {
-      "val": "51,202",
-      "chg": "+0.7%",
+      "val": "51,815",
+      "chg": "+1.20%",
       "dir": "up"
     },
     "nasdaq": {
-      "val": "25,889",
-      "chg": "+0.3%",
+      "val": "26,505",
+      "chg": "+2.38%",
       "dir": "up"
     },
     "wti": {
-      "val": "$85",
-      "chg": "-3.2%",
+      "val": "$82",
+      "chg": "-4.8%",
       "dir": "down"
     },
     "brent": {
-      "val": "$89",
-      "chg": "-2.8%",
+      "val": "$84",
+      "chg": "-4.5%",
       "dir": "down"
     },
     "gold": {
-      "val": "$4,239",
-      "chg": "+3.0%",
-      "dir": "up"
+      "val": "$4,200",
+      "chg": "-0.5%",
+      "dir": "down"
     },
     "btc": {
-      "val": "$63,955",
-      "chg": "+0.02%",
+      "val": "$66,521",
+      "chg": "+2.1%",
       "dir": "up"
     },
-    "context": "Markets rose Friday on SpaceX's historic $75B IPO debut and optimism over a potential US-Iran peace deal that sent oil prices to an eight-week low.",
-    "url": "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
-    "source": "CNBC"
+    "context": "Wall Street surged across the board after Trump declared the US-Iran peace deal 'complete,' sending oil prices down more than $4 a barrel and stocks to their best single-day gains in months.",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026",
+    "source": "TheStreet"
   },
   "gas": {
     "avg": "$4.07",
-    "note": "Down from a Memorial Day peak of $4.56 — still $1.11 more than this time last year, because nothing says summer road trip like a second mortgage.",
-    "premium": "$5.04",
-    "wti": "$85",
-    "highState": "CA: $5.81",
-    "lowState": "IN: $3.39",
-    "url": "https://gasprices.aaa.com/?state=US",
+    "note": "Gas is down for the third straight week, but your wallet still hasn't forgiven you for May.",
+    "premium": "$4.65",
+    "wti": "$82",
+    "highState": "HI: $5.56",
+    "lowState": "OK: ~$3.40",
+    "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Olivia Rodrigo's third album 'you seem pretty sad for a girl so in love' dropped Friday and broke Spotify's 2026 single-day streaming record for a female artist",
-    "dek": "Released June 12 via Geffen Records, the 13-track album is already being called her most emotionally complex work yet — which is saying something for a woman who turned a driving permit into a No. 1 hit. Her 86-date Unraveled World Tour kicks off in September.",
-    "url": "https://www.musictimes.com/articles/112133/20260609/olivia-rodrigos-new-album-arrives-friday-why-its-most-anticipated-pop-release-2026.htm",
-    "source": "Music Times"
+    "hed": "Fox Buys Roku for $22B and Trump Hosts UFC on the White House Lawn: America's Week in Surreal",
+    "dek": "Lachlan Murdoch called Fox's Roku acquisition a 'defining moment' while simultaneously Fox News hosts covered Trump staging cage fights on national historic grounds. It is unclear which story will age worse.",
+    "url": "https://www.hollywoodreporter.com/business/business-news/fox-acquires-roku-streaming-tech-deal-lachlan-murdoch-1236621853/",
+    "source": "The Hollywood Reporter"
   },
   "genZ": {
-    "type": "meme",
-    "term": "Saxophones Are Getting Louder",
-    "definition": "A viral TikTok and social media meme format where someone narrates a situation slowly going wrong, and a blaring saxophone sax solo suddenly kicks in at full volume as chaos unfolds — borrowed from the Boyz n the Hood score. It has completely taken over feeds in June 2026 as the go-to format for escalating dread.",
-    "usage": "Trump: 'The Iran deal will be signed today.' Iran: 'We did not agree to that.' Israel: *strikes Beirut* [SAXOPHONE GETS LOUDER]",
-    "url": "",
-    "source": ""
+    "type": "tiktok",
+    "term": "Charli XCX Stuck Frame Glitch Edit",
+    "definition": "Sparked by Charli XCX's 'Rock Music' drop in May, creators film a clip and sync to the deliberate vocal glitch mid-song, then freeze the highlight moment using Instagram's stuck-frame animation — the result is a chaotic slow-motion meltdown that basically writes itself. The format has dominated June FYPs as the summer's go-to 'things going sideways' meme vehicle.",
+    "usage": "Iran's foreign minister discovering Israel struck Beirut the morning of the peace deal signing: *saxophone blasts, freeze frame, glitch edit activates*",
+    "url": "https://newengen.com/insights/june-tiktok-trends/",
+    "source": "New Engen"
   },
-  "tldr": "Trump declared an Iran peace deal would be signed today, but Israeli strikes on Beirut and mixed signals from Tehran kept diplomats sweating; meanwhile SpaceX went public in the largest IPO in history, made Musk a trillionaire, and the UFC is literally fighting on the White House lawn tonight. Happy Flag Day."
+  "tldr": "The US and Iran reached a deal to end their 108-day war and reopen the Strait of Hormuz, sending stocks surging and oil tumbling on what may be the most consequential Monday since the conflict began. Meanwhile Trump turned 80 with cage fights on the White House lawn, Fox bought Roku for $22 billion, and Gavin Newsom accused the DOJ of hunting for a crime it hasn't found — just a regular American Monday."
 }
