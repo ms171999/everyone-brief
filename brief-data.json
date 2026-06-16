@@ -1,183 +1,186 @@
 {
-  "date": "Monday, June 15, 2026",
+  "date": "Tuesday, June 16, 2026",
   "headlines": [
     {
-      "text": "US and Iran announce deal to end war, reopen Strait of Hormuz; signing set for Friday in Switzerland",
+      "text": "Trump and Vance virtually sign US-Iran memorandum of understanding; Strait of Hormuz to partially reopen",
       "tag": "🕊️"
     },
     {
-      "text": "Markets soar on Iran peace deal: S&P 500 +1.49%, Nasdaq surges 2.38%, oil tumbles $4+ a barrel",
-      "tag": "📈"
+      "text": "Netanyahu says Israel won't abide by US-Iran ceasefire deal, vows to stay in Lebanon security zones",
+      "tag": "⚔️"
     },
     {
-      "text": "Fox Corp. announces $22 billion acquisition of Roku, combining Tubi and Fox News with 100M+ streaming households",
-      "tag": "📺"
-    },
-    {
-      "text": "Trump turns 80: UFC Freedom 250 cage fights held on White House South Lawn to celebrate the president's birthday",
-      "tag": "🥊"
-    },
-    {
-      "text": "Newsom accuses Trump of directing DOJ to investigate him and his wife, calls it politically motivated",
-      "tag": "⚖️"
-    },
-    {
-      "text": "SpaceX IPO closes today after SPCX debuted at $150 and surged nearly 20% on Friday to close at $161",
+      "text": "SpaceX acquires AI coding startup Cursor for $60 billion just four days after blockbuster Nasdaq IPO",
       "tag": "🚀"
     },
     {
-      "text": "Trump name removed from Kennedy Center facade in overnight operation after court ruling",
-      "tag": "🎭"
+      "text": "Oil prices plunge to 3-month lows as Iran peace deal raises hopes of restored supply through Hormuz",
+      "tag": "📉"
     },
     {
-      "text": "G7 summit opens in France as Geneva police fire tear gas at anti-Tesla protesters outside UN ahead of talks",
+      "text": "G7 leaders open summit in France with Ukraine, Middle East, and Iran deal dominating the agenda",
       "tag": "🌍"
     },
     {
-      "text": "DOJ clears Paramount-Skydance acquisition of Warner Bros. Discovery in $110 billion media mega-merger",
-      "tag": "🎬"
+      "text": "World Cup Day 6: France vs Senegal, Argentina vs Algeria headline four matches across the US today",
+      "tag": "⚽"
     },
     {
-      "text": "Olivia Rodrigo drops new album 'you seem pretty sad for a girl so in love' as FIFA World Cup floods TikTok FYPs",
-      "tag": "🎵"
+      "text": "German World Cup fan 'Freddy' goes viral for documenting American culture one Waffle House visit at a time",
+      "tag": "🧇"
+    },
+    {
+      "text": "Senate debates Iran deal terms; Schumer, Thune spar over transparency as full MOU text still unreleased",
+      "tag": "🏛️"
+    },
+    {
+      "text": "AAA: National gas average holds near $4.07 per gallon as oil prices fall on Iran peace optimism",
+      "tag": "⛽"
+    },
+    {
+      "text": "Scary Movie 6 craters 71% in its second weekend despite franchise-record $55M opening two weeks ago",
+      "tag": "🎬"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "BREAKING: US and Iran reach deal to end war and reopen Strait of Hormuz. Signing ceremony set for Friday in Switzerland.",
-    "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-deal-end-war-reopen-hormuz-markets-israel-rcna350076"
+    "text": "BREAKING: Trump signs US-Iran memorandum of understanding; Strait of Hormuz to partially reopen as 60-day nuclear talks begin",
+    "url": "https://www.cnn.com/2026/06/15/world/live-news/iran-war-g7-summit"
   },
   "stories": [
     {
       "tag": "iran war - day 108",
       "tagType": "fire",
-      "hed": "US and Iran Declare Deal 'Complete' as Hormuz Prepares to Reopen",
-      "dek": "Trump posted 'Ships of the World, start your engines' on Truth Social, which is either historic diplomacy or the world's most consequential boat tweet. Iran's foreign minister said the deal is real but also that he doesn't trust anyone — so basically a normal Monday.",
-      "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
-      "source": "NPR",
+      "hed": "US and Iran Sign Peace MOU; Netanyahu Goes Rogue Anyway",
+      "dek": "Trump and Vance virtually signed a memorandum of understanding with Iran to end the US blockade, reopen the Strait of Hormuz, and kick off 60 days of nuclear negotiations. Netanyahu, not invited to the negotiations and apparently fine with it, immediately pledged Israel would not be bound by the deal and that its 'struggle is not over.'",
+      "url": "https://www.cnn.com/2026/06/15/world/live-news/iran-war-g7-summit",
+      "source": "CNN",
       "chips": [
-        "Hormuz Deal",
-        "Ceasefire",
-        "Pakistan Mediator",
-        "Signing Friday"
+        "MOU signed",
+        "Hormuz reopening",
+        "Netanyahu defiant",
+        "Geneva signing Friday"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "G7 Summit Opens in France With Iran Peace Deal Dominating Agenda",
-      "dek": "World leaders gathered in Evian as Geneva protesters torched a Tesla and smashed windows at a UN agency — a reminder that even peace news comes with property damage. Trump flew from White House UFC fights directly to the summit, an itinerary no protocol manual has ever anticipated.",
-      "url": "https://www.justsecurity.org/142788/early-edition-june-15-2026/",
-      "source": "Just Security",
+      "hed": "G7 Summit Opens in France as World Cup, Iran Deal, and Ukraine All Compete for Airtime",
+      "dek": "G7 leaders convened in Evian-les-Bains, France, with Ukrainian President Zelenskyy joining the talks and Egyptian President el-Sissi urging Israel to abandon plans to seize 70% of Gaza. With a peace deal in hand and a World Cup underway, world leaders are trying to hold many plates at once.",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-tuesday-june-16-2026/",
+      "source": "Havana Times / Democracy Now",
       "chips": [
         "G7 France",
-        "Geneva Protests"
+        "Ukraine",
+        "Gaza",
+        "el-Sissi"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Newsom Says Trump Ordered DOJ to Investigate Him and His Wife",
-      "dek": "California Gov. Gavin Newsom went public Monday alleging the Trump DOJ is digging through years of his records without finding a crime, which he attributed to his rumored 2028 presidential ambitions. Federal agents have reportedly knocked on the doors of his family, friends and former employees — a grand jury fishing expedition that Newsom says smells purely political.",
-      "url": "https://www.cnn.com/2026/06/15/politics/gavin-newsom-trump-justice-department-investigation",
-      "source": "CNN",
+      "hed": "SpaceX Buys AI Coding Startup Cursor for $60B Just Days After IPO",
+      "dek": "Four trading days after its record-shattering Nasdaq debut, SpaceX signed a definitive agreement to acquire Anysphere, the maker of AI coding tool Cursor, for $60 billion in stock. The deal is SpaceX's first major M&A move as a public company and signals Elon Musk's intent to catch up with Anthropic and OpenAI in the AI tools market.",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "source": "TechCrunch",
       "chips": [
-        "DOJ Probe",
-        "2028 Race",
-        "Political Targeting"
+        "SpaceX",
+        "Cursor",
+        "AI coding",
+        "$60B deal"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Fox Buys Roku for $22 Billion in Landmark Streaming Deal",
-      "dek": "Fox Corp. announced it will acquire Roku for $160 per share, combining Fox News, Tubi, NFL and MLB rights with Roku's 100 million-plus streaming households — making it the third-largest US TV player by viewership. Fox stock dropped 15% on the news because Wall Street apparently wasn't ready to pay $22 billion to watch people find the Netflix button.",
-      "url": "https://variety.com/2026/tv/news/fox-acquiring-roku-1236781308/",
-      "source": "Variety",
+      "hed": "Senate Demands to See the Iran Deal, Which Nobody Has Seen",
+      "dek": "With Vance promising the full text of the US-Iran MOU will be released 'this week,' senators from both parties are pressing the White House for details. Minority Leader Schumer took to the floor to address Iran, the Anti-Weaponization Fund, childcare, and elections — a sentence that summarizes 2026 perfectly.",
+      "url": "https://www.dailypress.senate.gov/tuesday-june-16-2026/",
+      "source": "US Senate Daily Press",
       "chips": [
-        "Fox",
-        "Roku",
-        "Streaming Wars",
-        "Media M&A"
+        "Schumer",
+        "Thune",
+        "Iran MOU",
+        "appropriations"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump Rang In 80 With Cage Fights on the White House Lawn. Historians Are Having a Moment.",
-      "dek": "UFC Freedom 250 featured 14 fighters punching each other inside a wire-mesh octagon steps from the Rose Garden, with the Blue Angels flying overhead and Zac Brown singing the anthem. A Cornell classics professor compared it to Imperial Roman gladiatorial games — Trump's camp called that a compliment.",
-      "url": "https://www.pbs.org/newshour/politics/trump-celebrates-80th-birthday-with-ufc-fights-while-issues-loom-over-his-presidency",
-      "source": "PBS NewsHour",
+      "hed": "Iran 'Won' the War It Didn't Start, Per CSIS; Netanyahu Got the Bill",
+      "dek": "Analysts at CSIS say both the US and Iran will claim victory but both have lost in important ways, with the framework deal kicking harder issues down the road. Former Israeli PM Ehud Barak put it more bluntly, saying Iran emerged stronger and Israel emerged weaker — and that is Netanyahu's 'strategic responsibility.'",
+      "url": "https://www.csis.org/programs/latest-analysis-war-iran",
+      "source": "CSIS",
       "chips": [
-        "UFC Freedom 250",
-        "Trump 80th",
-        "White House Chaos"
+        "CSIS analysis",
+        "Barak quote",
+        "deal criticism"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,431",
-      "chg": "+1.49%",
+      "val": "7,554",
+      "chg": "+1.7%",
       "dir": "up"
     },
     "dow": {
-      "val": "51,815",
-      "chg": "+1.20%",
+      "val": "51,671",
+      "chg": "+0.9%",
       "dir": "up"
     },
     "nasdaq": {
-      "val": "26,505",
-      "chg": "+2.38%",
+      "val": "26,684",
+      "chg": "+3.1%",
       "dir": "up"
     },
     "wti": {
-      "val": "$82",
-      "chg": "-4.8%",
+      "val": "$76",
+      "chg": "-6.1%",
       "dir": "down"
     },
     "brent": {
-      "val": "$84",
-      "chg": "-4.5%",
+      "val": "$79",
+      "chg": "-5.2%",
       "dir": "down"
     },
     "gold": {
-      "val": "$4,200",
-      "chg": "-0.5%",
-      "dir": "down"
-    },
-    "btc": {
-      "val": "$66,521",
-      "chg": "+2.1%",
+      "val": "$4,351",
+      "chg": "+0.1%",
       "dir": "up"
     },
-    "context": "Wall Street surged across the board after Trump declared the US-Iran peace deal 'complete,' sending oil prices down more than $4 a barrel and stocks to their best single-day gains in months.",
-    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-15-2026",
+    "btc": {
+      "val": "$66,449",
+      "chg": "+1.1%",
+      "dir": "up"
+    },
+    "context": "Monday's Wall Street surge on US-Iran peace news carried into Tuesday with tech stocks pulling back slightly while oil cratered to a 3-month low on expectations the Strait of Hormuz will reopen.",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026",
     "source": "TheStreet"
   },
   "gas": {
     "avg": "$4.07",
-    "note": "Gas is down for the third straight week, but your wallet still hasn't forgiven you for May.",
-    "premium": "$4.65",
-    "wti": "$82",
+    "note": "Gas is down from its May war-panic peak of $4.55, which is a relief, though it's still $1.26 more per gallon than it was before the war started — so your road trip math is still wrong.",
+    "premium": "$4.71",
+    "wti": "$76",
     "highState": "HI: $5.56",
-    "lowState": "OK: ~$3.40",
-    "url": "https://gasprices.aaa.com",
+    "lowState": "DE: $3.79",
+    "url": "https://gasprices.aaa.com/state-gas-price-averages/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Fox Buys Roku for $22B and Trump Hosts UFC on the White House Lawn: America's Week in Surreal",
-    "dek": "Lachlan Murdoch called Fox's Roku acquisition a 'defining moment' while simultaneously Fox News hosts covered Trump staging cage fights on national historic grounds. It is unclear which story will age worse.",
-    "url": "https://www.hollywoodreporter.com/business/business-news/fox-acquires-roku-streaming-tech-deal-lachlan-murdoch-1236621853/",
-    "source": "The Hollywood Reporter"
+    "hed": "Scary Movie 6 Implodes at Box Office With 71% Second-Weekend Drop Despite Franchise-Record Opening",
+    "dek": "The Wayans Brothers parody sequel opened to a franchise-record $55 million two weekends ago, then fell off a cliff with a staggering 71.3% drop in week two — one of the worst sophomore plunges in Hollywood history. Audiences apparently showed up on day one for nostalgia and told no one else to bother.",
+    "url": "https://screenrant.com/scary-movie-6-box-office-week-2-domestic-drop/",
+    "source": "Screen Rant"
   },
   "genZ": {
-    "type": "tiktok",
-    "term": "Charli XCX Stuck Frame Glitch Edit",
-    "definition": "Sparked by Charli XCX's 'Rock Music' drop in May, creators film a clip and sync to the deliberate vocal glitch mid-song, then freeze the highlight moment using Instagram's stuck-frame animation — the result is a chaotic slow-motion meltdown that basically writes itself. The format has dominated June FYPs as the summer's go-to 'things going sideways' meme vehicle.",
-    "usage": "Iran's foreign minister discovering Israel struck Beirut the morning of the peace deal signing: *saxophone blasts, freeze frame, glitch edit activates*",
-    "url": "https://newengen.com/insights/june-tiktok-trends/",
-    "source": "New Engen"
+    "type": "viral",
+    "term": "Freddy from Germany",
+    "definition": "A German World Cup fan named Freddy has become the tournament's breakout star by documenting every stop of his American road trip on social media — rating Waffle House as 'the holy land,' losing his mind at Buc-ee's, and attracting hundreds of thousands of followers who are watching him discover the US one chain restaurant at a time. He is the content nobody knew they needed.",
+    "usage": "Finding out the Iran peace deal text is still secret and your senator hasn't read it either: pure Freddy-discovering-Buc-ee's energy.",
+    "url": "https://www.thenationalnews.com/arts-culture/2026/06/12/the-seven-funniest-viral-moments-from-the-world-cup-so-far/",
+    "source": "The National"
   },
-  "tldr": "The US and Iran reached a deal to end their 108-day war and reopen the Strait of Hormuz, sending stocks surging and oil tumbling on what may be the most consequential Monday since the conflict began. Meanwhile Trump turned 80 with cage fights on the White House lawn, Fox bought Roku for $22 billion, and Gavin Newsom accused the DOJ of hunting for a crime it hasn't found — just a regular American Monday."
+  "tldr": "The US and Iran signed a memorandum of understanding to end the war, reopen the Strait of Hormuz, and start nuclear talks, sending oil prices cratering and stocks soaring — though Netanyahu immediately announced Israel wasn't invited to and would not be bound by the deal. In other news, SpaceX bought a $60 billion AI startup four days after going public, because apparently that's just how Tuesdays work now."
 }
