@@ -1,186 +1,184 @@
 {
-  "date": "Tuesday, June 16, 2026",
+  "date": "Thursday, June 18, 2026",
   "headlines": [
     {
-      "text": "Trump and Vance virtually sign US-Iran memorandum of understanding; Strait of Hormuz to partially reopen",
+      "text": "Trump Signs US-Iran Peace MOU at Versailles, Threatening to Bomb Again If Iran Misbehaves",
       "tag": "🕊️"
     },
     {
-      "text": "Netanyahu says Israel won't abide by US-Iran ceasefire deal, vows to stay in Lebanon security zones",
-      "tag": "⚔️"
+      "text": "Stocks Rebound as Iran Deal Lifts Sentiment; Fed Rate Hike Fear Caps Gains",
+      "tag": "📈"
     },
     {
-      "text": "SpaceX acquires AI coding startup Cursor for $60 billion just four days after blockbuster Nasdaq IPO",
-      "tag": "🚀"
+      "text": "Oil Tumbles Below $74 as Strait of Hormuz Set to Reopen",
+      "tag": "🛢️"
     },
     {
-      "text": "Oil prices plunge to 3-month lows as Iran peace deal raises hopes of restored supply through Hormuz",
-      "tag": "📉"
-    },
-    {
-      "text": "G7 leaders open summit in France with Ukraine, Middle East, and Iran deal dominating the agenda",
-      "tag": "🌍"
-    },
-    {
-      "text": "World Cup Day 6: France vs Senegal, Argentina vs Algeria headline four matches across the US today",
-      "tag": "⚽"
-    },
-    {
-      "text": "German World Cup fan 'Freddy' goes viral for documenting American culture one Waffle House visit at a time",
-      "tag": "🧇"
-    },
-    {
-      "text": "Senate debates Iran deal terms; Schumer, Thune spar over transparency as full MOU text still unreleased",
-      "tag": "🏛️"
-    },
-    {
-      "text": "AAA: National gas average holds near $4.07 per gallon as oil prices fall on Iran peace optimism",
+      "text": "Gas at $3.99/Gallon Nationally — Still Up Over $1 Since War Began",
       "tag": "⛽"
     },
     {
-      "text": "Scary Movie 6 craters 71% in its second weekend despite franchise-record $55M opening two weeks ago",
+      "text": "JD Vance Holds White House Briefing, Insists US Has 'Great Leverage' Over Iran",
+      "tag": "🎙️"
+    },
+    {
+      "text": "Bill Pulte Named Acting US Spy Chief After Trump Calls Off Jay Clayton Hearing",
+      "tag": "🕵️"
+    },
+    {
+      "text": "Pentagon Names 8 Service Members Killed in B-52 Crash at Edwards AFB",
+      "tag": "✈️"
+    },
+    {
+      "text": "World Cup 2026: England Beat Croatia, Messi Nets Hat Trick for Argentina",
+      "tag": "⚽"
+    },
+    {
+      "text": "Nolan's 'The Odyssey' IMAX Tickets Crash AMC App — Scalpers List Seats for $1,000",
       "tag": "🎬"
+    },
+    {
+      "text": "Obama Presidential Center Opens in Chicago with Star-Studded Ceremony",
+      "tag": "🏛️"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "BREAKING: Trump signs US-Iran memorandum of understanding; Strait of Hormuz to partially reopen as 60-day nuclear talks begin",
-    "url": "https://www.cnn.com/2026/06/15/world/live-news/iran-war-g7-summit"
+    "text": "Trump and Iran's Pezeshkian officially sign US-Iran Memorandum of Understanding at Versailles — 60-day countdown to final deal begins today",
+    "url": "https://www.cnn.com/2026/06/18/world/live-news/iran-war-trump-israel-lebanon"
   },
   "stories": [
     {
-      "tag": "iran war - day 108",
+      "tag": "iran war - day 111",
       "tagType": "fire",
-      "hed": "US and Iran Sign Peace MOU; Netanyahu Goes Rogue Anyway",
-      "dek": "Trump and Vance virtually signed a memorandum of understanding with Iran to end the US blockade, reopen the Strait of Hormuz, and kick off 60 days of nuclear negotiations. Netanyahu, not invited to the negotiations and apparently fine with it, immediately pledged Israel would not be bound by the deal and that its 'struggle is not over.'",
-      "url": "https://www.cnn.com/2026/06/15/world/live-news/iran-war-g7-summit",
+      "hed": "Trump Signs Iran MOU at Versailles, Vows Bombs Return If Tehran Misbehaves",
+      "dek": "Trump signed the 14-point US-Iran peace memo at the Palace of Versailles — the same room Woodrow Wilson signed the Treaty of Versailles, which historians say ended one war and started another. Critics on both sides are calling it a disaster; Trump is calling it genius. Sixty days of 'phase two' negotiations now begin, with nuclear enrichment, sanctions, and the Strait of Hormuz all still very much on the table.",
+      "url": "https://www.cnn.com/2026/06/18/world/live-news/iran-war-trump-israel-lebanon",
       "source": "CNN",
       "chips": [
         "MOU signed",
-        "Hormuz reopening",
-        "Netanyahu defiant",
-        "Geneva signing Friday"
+        "Strait of Hormuz",
+        "60-day talks",
+        "Schumer furious",
+        "Versailles irony"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "G7 Summit Opens in France as World Cup, Iran Deal, and Ukraine All Compete for Airtime",
-      "dek": "G7 leaders convened in Evian-les-Bains, France, with Ukrainian President Zelenskyy joining the talks and Egyptian President el-Sissi urging Israel to abandon plans to seize 70% of Gaza. With a peace deal in hand and a World Cup underway, world leaders are trying to hold many plates at once.",
-      "url": "https://havanatimes.org/news/international-news-briefs-for-tuesday-june-16-2026/",
-      "source": "Havana Times / Democracy Now",
+      "hed": "Israel Keeps Striking Lebanon Despite Ceasefire Deal, Frustrating Trump and Vance",
+      "dek": "Even as the US-Iran MOU took effect, Israel struck Lebanon, killing one person and wounding three. Vance said Israel's strikes have repeatedly derailed US-Iran breakthrough moments, and Trump gets 'frustrated' when a ceasefire nears and 'a major explosion goes off in a civilian population center in Beirut.'",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236",
+      "source": "ABC News",
       "chips": [
-        "G7 France",
-        "Ukraine",
-        "Gaza",
-        "el-Sissi"
+        "Lebanon strikes",
+        "Vance briefing",
+        "Israel-US friction"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "SpaceX Buys AI Coding Startup Cursor for $60B Just Days After IPO",
-      "dek": "Four trading days after its record-shattering Nasdaq debut, SpaceX signed a definitive agreement to acquire Anysphere, the maker of AI coding tool Cursor, for $60 billion in stock. The deal is SpaceX's first major M&A move as a public company and signals Elon Musk's intent to catch up with Anthropic and OpenAI in the AI tools market.",
-      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-      "source": "TechCrunch",
+      "hed": "Bill Pulte Tapped as Acting US Spy Chief After Trump Scraps Jay Clayton Hearing",
+      "dek": "Trump's HUD director turned social media retribution machine will now have access to intelligence from all 18 US spy agencies. Republicans and Democrats alike opposed him, which in Washington apparently means he was the perfect pick.",
+      "url": "https://www.democracynow.org/2026/6/18/headlines",
+      "source": "Democracy Now",
       "chips": [
-        "SpaceX",
-        "Cursor",
-        "AI coding",
-        "$60B deal"
+        "intel agencies",
+        "Pulte",
+        "Senate opposition"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Senate Demands to See the Iran Deal, Which Nobody Has Seen",
-      "dek": "With Vance promising the full text of the US-Iran MOU will be released 'this week,' senators from both parties are pressing the White House for details. Minority Leader Schumer took to the floor to address Iran, the Anti-Weaponization Fund, childcare, and elections — a sentence that summarizes 2026 perfectly.",
-      "url": "https://www.dailypress.senate.gov/tuesday-june-16-2026/",
-      "source": "US Senate Daily Press",
+      "hed": "Pentagon Names 8 Killed in B-52 Bomber Crash at Edwards AFB",
+      "dek": "The Pentagon released the names of eight US service members who died when a B-52 crashed shortly after takeoff from Edwards Air Force Base in California on Monday. The Air Force is testing ways to keep its aging fleet of strategic bombers flying through at least 2050.",
+      "url": "https://www.democracynow.org/2026/6/18/headlines",
+      "source": "Democracy Now",
       "chips": [
-        "Schumer",
-        "Thune",
-        "Iran MOU",
-        "appropriations"
+        "B-52 crash",
+        "Edwards AFB",
+        "military casualties"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Iran 'Won' the War It Didn't Start, Per CSIS; Netanyahu Got the Bill",
-      "dek": "Analysts at CSIS say both the US and Iran will claim victory but both have lost in important ways, with the framework deal kicking harder issues down the road. Former Israeli PM Ehud Barak put it more bluntly, saying Iran emerged stronger and Israel emerged weaker — and that is Netanyahu's 'strategic responsibility.'",
-      "url": "https://www.csis.org/programs/latest-analysis-war-iran",
-      "source": "CSIS",
+      "hed": "Trump Ended His Own War and Is Mad That Nobody Is Thanking Him Nicely Enough",
+      "dek": "At 4:42 a.m., fresh off his 3:30 a.m. landing at Joint Base Andrews, Trump posted that critics of his Iran deal are 'either jealous, bad people, or stupid' — a sentence that describes approximately every press conference he has ever held. Sen. Bill Cassidy called the war 'the worst foreign policy blunder in decades.' Trump called the stock market being up proof he was right. Both things can be true.",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236",
+      "source": "ABC News",
       "chips": [
-        "CSIS analysis",
-        "Barak quote",
-        "deal criticism"
+        "Trump 4am post",
+        "Cassidy critic",
+        "war of words"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,554",
-      "chg": "+1.7%",
+      "val": "7,495",
+      "chg": "+1.15%",
       "dir": "up"
     },
     "dow": {
-      "val": "51,671",
-      "chg": "+0.9%",
+      "val": "51,663",
+      "chg": "+0.80%",
       "dir": "up"
     },
     "nasdaq": {
-      "val": "26,684",
-      "chg": "+3.1%",
+      "val": "26,387",
+      "chg": "+1.50%",
       "dir": "up"
     },
     "wti": {
-      "val": "$76",
-      "chg": "-6.1%",
+      "val": "$74",
+      "chg": "-3.94%",
       "dir": "down"
     },
     "brent": {
-      "val": "$79",
-      "chg": "-5.2%",
+      "val": "$78",
+      "chg": "-2.60%",
       "dir": "down"
     },
     "gold": {
-      "val": "$4,351",
-      "chg": "+0.1%",
-      "dir": "up"
+      "val": "$4,277",
+      "chg": "-2.37%",
+      "dir": "down"
     },
     "btc": {
-      "val": "$66,449",
-      "chg": "+1.1%",
-      "dir": "up"
+      "val": "$64,228",
+      "chg": "-2.25%",
+      "dir": "down"
     },
-    "context": "Monday's Wall Street surge on US-Iran peace news carried into Tuesday with tech stocks pulling back slightly while oil cratered to a 3-month low on expectations the Strait of Hormuz will reopen.",
-    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-16-2026",
-    "source": "TheStreet"
+    "context": "Stocks bounced on the Iran peace deal while oil cratered and gold slipped as Fed rate-hike fears offset safe-haven demand — the market wanted peace, not another FOMC surprise.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-climb-with-focus-on-iran-deal-fed-hike-path-230530576.html",
+    "source": "Yahoo Finance"
   },
   "gas": {
-    "avg": "$4.07",
-    "note": "Gas is down from its May war-panic peak of $4.55, which is a relief, though it's still $1.26 more per gallon than it was before the war started — so your road trip math is still wrong.",
-    "premium": "$4.71",
-    "wti": "$76",
-    "highState": "HI: $5.56",
-    "lowState": "DE: $3.79",
-    "url": "https://gasprices.aaa.com/state-gas-price-averages/",
+    "avg": "$3.99",
+    "note": "Pump prices are falling for the third straight week — great news unless you remember they were $2.96 before the war you just watched end on TV.",
+    "premium": "$4.60",
+    "wti": "$74",
+    "highState": "CA: $5.68",
+    "lowState": "IN: $3.36",
+    "url": "https://gasprices.aaa.com",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Scary Movie 6 Implodes at Box Office With 71% Second-Weekend Drop Despite Franchise-Record Opening",
-    "dek": "The Wayans Brothers parody sequel opened to a franchise-record $55 million two weekends ago, then fell off a cliff with a staggering 71.3% drop in week two — one of the worst sophomore plunges in Hollywood history. Audiences apparently showed up on day one for nostalgia and told no one else to bother.",
-    "url": "https://screenrant.com/scary-movie-6-box-office-week-2-domestic-drop/",
-    "source": "Screen Rant"
+    "hed": "Christopher Nolan's 'The Odyssey' Crashes AMC App — IMAX Tickets Flip for $1,000 on Resale",
+    "dek": "Tickets for Nolan's $250M Homer adaptation starring Matt Damon, Zendaya, and Tom Holland went on sale this week, immediately overwhelming AMC, Fandango, and Regal with hour-long virtual queues. The film, shot entirely on IMAX cameras and opening July 17, is already being called the movie event of the decade — one X user asked why Odyssey tickets are harder to get than Coachella.",
+    "url": "https://variety.com/2026/film/news/the-odyssey-amc-app-ticket-demand-christopher-nolan-epic-1236766869/",
+    "source": "Variety"
   },
   "genZ": {
-    "type": "viral",
-    "term": "Freddy from Germany",
-    "definition": "A German World Cup fan named Freddy has become the tournament's breakout star by documenting every stop of his American road trip on social media — rating Waffle House as 'the holy land,' losing his mind at Buc-ee's, and attracting hundreds of thousands of followers who are watching him discover the US one chain restaurant at a time. He is the content nobody knew they needed.",
-    "usage": "Finding out the Iran peace deal text is still secret and your senator hasn't read it either: pure Freddy-discovering-Buc-ee's energy.",
-    "url": "https://www.thenationalnews.com/arts-culture/2026/06/12/the-seven-funniest-viral-moments-from-the-world-cup-so-far/",
-    "source": "The National"
+    "type": "tiktok",
+    "term": "Saxophone Gets Louder",
+    "definition": "The 'Saxophone Gets Louder' meme is June 2026's dominant TikTok format: a creator sets up a normal situation, then the moment everything goes catastrophically wrong, a blaring sax solo erupts at full volume while the video zooms in or freezes. It's the digital equivalent of a dramatic 80s movie breakdown and has taken over every corner of the FYP this month.",
+    "usage": "Trump landing at Joint Base Andrews at 3:30 a.m. to immediately post 'jealous, bad people, or stupid' — *saxophone gets louder*.",
+    "url": "https://napoleoncat.com/blog/trending-memes/",
+    "source": "NapoleonCat"
   },
-  "tldr": "The US and Iran signed a memorandum of understanding to end the war, reopen the Strait of Hormuz, and start nuclear talks, sending oil prices cratering and stocks soaring — though Netanyahu immediately announced Israel wasn't invited to and would not be bound by the deal. In other news, SpaceX bought a $60 billion AI startup four days after going public, because apparently that's just how Tuesdays work now."
+  "tldr": "Trump signed a 14-point Iran peace memo at Versailles at midnight and was back on US soil posting unhinged tweets by 4:42 a.m. — markets celebrated with stocks up and oil crashing, while the rest of us quietly wondered if a deal negotiated between a G7 dinner and a red-eye flight will hold for 60 days."
 }
