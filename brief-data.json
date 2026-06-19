@@ -1,184 +1,183 @@
 {
-  "date": "Thursday, June 18, 2026",
+  "date": "Friday, June 19, 2026",
   "headlines": [
     {
-      "text": "Trump Signs US-Iran Peace MOU at Versailles, Threatening to Bomb Again If Iran Misbehaves",
+      "text": "US-Iran peace talks collapse in Switzerland as Lebanon fighting intensifies, deal's future uncertain",
       "tag": "🕊️"
     },
     {
-      "text": "Stocks Rebound as Iran Deal Lifts Sentiment; Fed Rate Hike Fear Caps Gains",
+      "text": "Obama Presidential Center opens to the public in Chicago on Juneteenth, more than a decade in the making",
+      "tag": "🏛️"
+    },
+    {
+      "text": "Grammy-nominated producer Tay Keith found dead at 29 in Nashville apartment, no foul play suspected",
+      "tag": "🎵"
+    },
+    {
+      "text": "Trump awards Medal of Honor to three veterans at White House ceremony",
+      "tag": "🎖️"
+    },
+    {
+      "text": "Markets closed for Juneteenth; last session saw S&P 500 up 1%, Nasdaq up 1.9% on Iran deal optimism",
       "tag": "📈"
     },
     {
-      "text": "Oil Tumbles Below $74 as Strait of Hormuz Set to Reopen",
-      "tag": "🛢️"
-    },
-    {
-      "text": "Gas at $3.99/Gallon Nationally — Still Up Over $1 Since War Began",
+      "text": "AAA national gas average dips below $4 per gallon as Strait of Hormuz shipping normalizes",
       "tag": "⛽"
     },
     {
-      "text": "JD Vance Holds White House Briefing, Insists US Has 'Great Leverage' Over Iran",
-      "tag": "🎙️"
-    },
-    {
-      "text": "Bill Pulte Named Acting US Spy Chief After Trump Calls Off Jay Clayton Hearing",
-      "tag": "🕵️"
-    },
-    {
-      "text": "Pentagon Names 8 Service Members Killed in B-52 Crash at Edwards AFB",
-      "tag": "✈️"
-    },
-    {
-      "text": "World Cup 2026: England Beat Croatia, Messi Nets Hat Trick for Argentina",
+      "text": "Canada defeats Qatar 6-0 in first-ever World Cup match victory",
       "tag": "⚽"
     },
     {
-      "text": "Nolan's 'The Odyssey' IMAX Tickets Crash AMC App — Scalpers List Seats for $1,000",
-      "tag": "🎬"
+      "text": "Olivia Rodrigo releases third album 'you seem pretty sad for a girl so in love' to critical buzz",
+      "tag": "🎶"
     },
     {
-      "text": "Obama Presidential Center Opens in Chicago with Star-Studded Ceremony",
-      "tag": "🏛️"
+      "text": "Trump administration ramps up effort to revoke citizenship from more than 250 naturalized Americans",
+      "tag": "🇺🇸"
+    },
+    {
+      "text": "Bipartisan anti-censorship bill gains traction in Senate, with Democrats surprisingly on board",
+      "tag": "⚖️"
     }
   ],
   "breaking": {
     "show": true,
-    "text": "Trump and Iran's Pezeshkian officially sign US-Iran Memorandum of Understanding at Versailles — 60-day countdown to final deal begins today",
-    "url": "https://www.cnn.com/2026/06/18/world/live-news/iran-war-trump-israel-lebanon"
+    "text": "US-Iran peace implementation talks cancelled Friday; Switzerland confirms postponement as Lebanon clashes escalate",
+    "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236"
   },
   "stories": [
     {
-      "tag": "iran war - day 111",
+      "tag": "iran war - day 112",
       "tagType": "fire",
-      "hed": "Trump Signs Iran MOU at Versailles, Vows Bombs Return If Tehran Misbehaves",
-      "dek": "Trump signed the 14-point US-Iran peace memo at the Palace of Versailles — the same room Woodrow Wilson signed the Treaty of Versailles, which historians say ended one war and started another. Critics on both sides are calling it a disaster; Trump is calling it genius. Sixty days of 'phase two' negotiations now begin, with nuclear enrichment, sanctions, and the Strait of Hormuz all still very much on the table.",
-      "url": "https://www.cnn.com/2026/06/18/world/live-news/iran-war-trump-israel-lebanon",
-      "source": "CNN",
+      "hed": "Switzerland Says Iran Talks Postponed; Trump Says Iran Is 'FINISHED'",
+      "dek": "The US and Iran signed a shiny MOU on June 17, but scheduled implementation talks in Switzerland were cancelled Friday because Israel and Hezbollah apparently didn't get the memo. JD Vance is no longer flying to Geneva, which saves taxpayers a first-class ticket but solves nothing. The Strait of Hormuz is reopening anyway, which is great news for anyone who drives a car or, you know, owns the global economy.",
+      "url": "https://abcnews.go.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236",
+      "source": "ABC News",
       "chips": [
-        "MOU signed",
-        "Strait of Hormuz",
-        "60-day talks",
-        "Schumer furious",
-        "Versailles irony"
+        "MOU signed June 17",
+        "60-day finalization window",
+        "Lebanon fighting complicates deal",
+        "Hormuz reopening"
       ]
     },
     {
       "tag": "international",
       "tagType": "geo",
-      "hed": "Israel Keeps Striking Lebanon Despite Ceasefire Deal, Frustrating Trump and Vance",
-      "dek": "Even as the US-Iran MOU took effect, Israel struck Lebanon, killing one person and wounding three. Vance said Israel's strikes have repeatedly derailed US-Iran breakthrough moments, and Trump gets 'frustrated' when a ceasefire nears and 'a major explosion goes off in a civilian population center in Beirut.'",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236",
-      "source": "ABC News",
+      "hed": "Canada Stuns Qatar 6-0 in Historic First World Cup Win on Home Soil",
+      "dek": "Canada, a nation better known for apologizing and hockey, dismantled Qatar in their first-ever World Cup victory. The 6-0 scoreline was so lopsided that even polite Canadian fans briefly forgot to say sorry.",
+      "url": "https://globalnews.ca/video/11912983/global-news-morning-headlines-friday-june-19-2026/",
+      "source": "Global News",
       "chips": [
-        "Lebanon strikes",
-        "Vance briefing",
-        "Israel-US friction"
+        "FIFA World Cup 2026",
+        "North America host"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Bill Pulte Tapped as Acting US Spy Chief After Trump Scraps Jay Clayton Hearing",
-      "dek": "Trump's HUD director turned social media retribution machine will now have access to intelligence from all 18 US spy agencies. Republicans and Democrats alike opposed him, which in Washington apparently means he was the perfect pick.",
-      "url": "https://www.democracynow.org/2026/6/18/headlines",
-      "source": "Democracy Now",
+      "hed": "Obama Presidential Center Opens to the Public on Juneteenth in Chicago",
+      "dek": "After more than a decade of planning, litigation, and neighborhood debates, the Obama Presidential Center in Jackson Park finally opened its doors on June 19. The 19-acre campus includes a museum, a library, an Oval Office replica, and — critically — a fruit and vegetable garden named after Eleanor Roosevelt, because legacy is complicated.",
+      "url": "https://www.nbcnews.com/politics/politics-news/live-blog/obama-presidential-center-museum-opening-ceremony-live-updates-rcna350649",
+      "source": "NBC News",
       "chips": [
-        "intel agencies",
-        "Pulte",
-        "Senate opposition"
+        "Chicago",
+        "Juneteenth opening",
+        "Jackson Park"
       ]
     },
     {
       "tag": "domestic",
       "tagType": "us",
-      "hed": "Pentagon Names 8 Killed in B-52 Bomber Crash at Edwards AFB",
-      "dek": "The Pentagon released the names of eight US service members who died when a B-52 crashed shortly after takeoff from Edwards Air Force Base in California on Monday. The Air Force is testing ways to keep its aging fleet of strategic bombers flying through at least 2050.",
-      "url": "https://www.democracynow.org/2026/6/18/headlines",
-      "source": "Democracy Now",
+      "hed": "Trump Admin Plans to Revoke Citizenship of 250+ Naturalized Americans by October",
+      "dek": "The Justice Department confirmed it expects to pursue citizenship revocation for more than 250 foreign-born naturalized Americans by fall. Legal scholars are calling it historically unprecedented; the administration is calling it Tuesday.",
+      "url": "https://edition.cnn.com/politics",
+      "source": "CNN",
       "chips": [
-        "B-52 crash",
-        "Edwards AFB",
-        "military casualties"
+        "DOJ",
+        "immigration",
+        "naturalized citizens"
       ]
     },
     {
       "tag": "spicy take",
       "tagType": "spicy",
-      "hed": "Trump Ended His Own War and Is Mad That Nobody Is Thanking Him Nicely Enough",
-      "dek": "At 4:42 a.m., fresh off his 3:30 a.m. landing at Joint Base Andrews, Trump posted that critics of his Iran deal are 'either jealous, bad people, or stupid' — a sentence that describes approximately every press conference he has ever held. Sen. Bill Cassidy called the war 'the worst foreign policy blunder in decades.' Trump called the stock market being up proof he was right. Both things can be true.",
-      "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236",
-      "source": "ABC News",
+      "hed": "Rural America Is Souring on Trump as Farm Bankruptcies Rise and Trade Stays Murky",
+      "dek": "A new poll shows rural approval of President Trump hitting a new low amid rising bankruptcies and tariff uncertainty — the very voters who put him back in office are now accusing the GOP of making farming harder. Turns out 'great deal' means different things depending on whether you're selling real estate or soybeans.",
+      "url": "https://www.washingtonpost.com/politics/",
+      "source": "Washington Post",
       "chips": [
-        "Trump 4am post",
-        "Cassidy critic",
-        "war of words"
+        "farm bankruptcies",
+        "trade policy",
+        "rural voters",
+        "2026 midterms"
       ]
     }
   ],
   "markets": {
     "sp500": {
-      "val": "7,495",
-      "chg": "+1.15%",
+      "val": "26,517",
+      "chg": "+1.08%",
       "dir": "up"
     },
     "dow": {
-      "val": "51,663",
-      "chg": "+0.80%",
+      "val": "51,564",
+      "chg": "+0.14%",
       "dir": "up"
     },
     "nasdaq": {
-      "val": "26,387",
-      "chg": "+1.50%",
+      "val": "7,500",
+      "chg": "+1.91%",
       "dir": "up"
     },
     "wti": {
-      "val": "$74",
-      "chg": "-3.94%",
-      "dir": "down"
+      "val": "$77",
+      "chg": "+0.7%",
+      "dir": "up"
     },
     "brent": {
-      "val": "$78",
-      "chg": "-2.60%",
-      "dir": "down"
+      "val": "$79",
+      "chg": "+0.5%",
+      "dir": "up"
     },
     "gold": {
-      "val": "$4,277",
-      "chg": "-2.37%",
+      "val": "$4,300",
+      "chg": "-0.5%",
       "dir": "down"
     },
     "btc": {
-      "val": "$64,228",
-      "chg": "-2.25%",
+      "val": "$62,883",
+      "chg": "-2.4%",
       "dir": "down"
     },
-    "context": "Stocks bounced on the Iran peace deal while oil cratered and gold slipped as Fed rate-hike fears offset safe-haven demand — the market wanted peace, not another FOMC surprise.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-climb-with-focus-on-iran-deal-fed-hike-path-230530576.html",
-    "source": "Yahoo Finance"
+    "context": "Markets closed for Juneteenth; Thursday's session rallied on Iran deal optimism and tech strength, while crypto and gold slid after the Fed signaled potential rate hikes later in 2026.",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-june-18-2026",
+    "source": "TheStreet"
   },
   "gas": {
-    "avg": "$3.99",
-    "note": "Pump prices are falling for the third straight week — great news unless you remember they were $2.96 before the war you just watched end on TV.",
-    "premium": "$4.60",
-    "wti": "$74",
-    "highState": "CA: $5.68",
+    "avg": "$3.97",
+    "note": "Gas dipped below $4 nationally — Iran apparently made peace just in time for your summer road trip budget.",
+    "premium": "$4.55",
+    "wti": "$77",
+    "highState": "CA: $5.71",
     "lowState": "IN: $3.36",
-    "url": "https://gasprices.aaa.com",
+    "url": "https://gasprices.aaa.com/state-gas-price-averages/",
     "source": "AAA"
   },
   "popCulture": {
-    "hed": "Christopher Nolan's 'The Odyssey' Crashes AMC App — IMAX Tickets Flip for $1,000 on Resale",
-    "dek": "Tickets for Nolan's $250M Homer adaptation starring Matt Damon, Zendaya, and Tom Holland went on sale this week, immediately overwhelming AMC, Fandango, and Regal with hour-long virtual queues. The film, shot entirely on IMAX cameras and opening July 17, is already being called the movie event of the decade — one X user asked why Odyssey tickets are harder to get than Coachella.",
-    "url": "https://variety.com/2026/film/news/the-odyssey-amc-app-ticket-demand-christopher-nolan-epic-1236766869/",
-    "source": "Variety"
+    "hed": "Grammy-Winning Producer Tay Keith Found Dead at 29 in Nashville; Music World Mourns",
+    "dek": "Tay Keith, the Memphis-born beatmaker behind Travis Scott's 'Sicko Mode,' Drake's 'Nonstop,' and four Billboard Hot 100 number-ones, was found unresponsive in his Nashville apartment during a police welfare check. No foul play is suspected, but the loss of one of hip-hop's most prolific architects at 29 has left the industry — and the internet — at a rare, genuine loss for words.",
+    "url": "https://www.billboard.com/music/rb-hip-hop/tay-keith-dead-producer-1236276499/",
+    "source": "Billboard"
   },
   "genZ": {
     "type": "tiktok",
-    "term": "Saxophone Gets Louder",
-    "definition": "The 'Saxophone Gets Louder' meme is June 2026's dominant TikTok format: a creator sets up a normal situation, then the moment everything goes catastrophically wrong, a blaring sax solo erupts at full volume while the video zooms in or freezes. It's the digital equivalent of a dramatic 80s movie breakdown and has taken over every corner of the FYP this month.",
-    "usage": "Trump landing at Joint Base Andrews at 3:30 a.m. to immediately post 'jealous, bad people, or stupid' — *saxophone gets louder*.",
-    "url": "https://napoleoncat.com/blog/trending-memes/",
-    "source": "NapoleonCat"
+    "term": "Six Seven (Seis Sete) challenge",
+    "definition": "A Brazilian funk track featuring rhythmic finger-counting choreography that exploded on TikTok in June 2026, with J-Hope from BTS amplifying it to 75M+ views. The dance is simple enough that your dad could do it, which is exactly why it spread to every corner of the internet within days.",
+    "usage": "Trump signing the Iran MOU and then watching the talks collapse 48 hours later is very much a 'Six Seven challenge' energy — starts confident, counts wrong, ends in chaos.",
+    "url": "https://lightreel.ai/blogs/whats-trending-on-tiktok",
+    "source": "Lightreel"
   },
-  "tldr": "Trump signed a 14-point Iran peace memo at Versailles at midnight and was back on US soil posting unhinged tweets by 4:42 a.m. — markets celebrated with stocks up and oil crashing, while the rest of us quietly wondered if a deal negotiated between a G7 dinner and a red-eye flight will hold for 60 days."
+  "tldr": "The US-Iran war's peace deal hit a wall on Day 112 as Switzerland cancelled implementation talks and Lebanon kept fighting, while oil prices kept falling anyway because the Strait of Hormuz is reopening. Back home, the country celebrated Juneteenth with the Obama Presidential Center's grand opening — and mourned the sudden death of producer Tay Keith at 29."
 }
